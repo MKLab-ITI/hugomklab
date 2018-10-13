@@ -1,0 +1,76 @@
+{{ define "header" -}}
+  {{ partial "header.html" . }}
+{{- end }}
+
+
+{{ define "content" -}}
+<div class="row-flex">
+  <div class="column-a">
+
+    <p class="lab">The Lab has extensive experience and expertise in semantic multimedia analysis, indexing and retrieval, social media and big data analytics, knowledge structures, reasoning and personalization for multimedia applications, eHealth and environmental applications</p>    
+
+    <div class="posts">
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "=" "article") }}
+      {{ range $paginator.Pages }}
+        <div class="post">
+          <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }}<sup><i class="fas fa-pen-square fa-xs"></i></sup>{{ end }}</h2>
+          <span class="post-date">
+            {{- .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") -}}
+          </span>
+          
+          {{ if index (.Params.Images) 0 }}
+          <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="blog-thumbnail" />
+          {{ end }}
+        
+          <div class="bl{{ if index (.Params.Images) 0 }} blog-pl{{end}}">
+            {{ .Summary }}
+          
+            {{ if .Truncated }}
+            <div class="read-more-link">
+                <a href="{{ .RelPermalink }}">Read More…</a>
+            </div>
+            {{ end }}
+          </div>
+
+        </div>
+      
+      {{ end }}
+      </div>
+      <hr />
+      {{ template "_internal/pagination.html" . }}
+  </div>
+  <div class="column-b">
+    <h3>BDV associate member</h3>
+    <p><a href="https://www.bdva.eu"><img alt="" src="/images/bdv_logo_associatemember_small.png" /></a></p>
+
+    <div class="sideblock">
+      <h3>Improve My City Mobile</h3>
+      <p><a href="https://www.improve-my-city.com"><img alt="imc logo" src="/images/imc256x69.png" /></a></p>
+      <p>Improve My City Mobile, allows citizens to report local problems and suggest solutions for improving their neighbourhood. <a href="https://www.improve-my-city.com">Learn more...</a></p>
+    </div>
+
+    <div class="sideblock">
+      <h3>Motorola collaborations</h3>
+      <p><a href="https://mklab.iti.gr/content/motorola-funded-projects"><img alt="Motorola Logo" src="/images/motorola.jpg" /></a></p>
+      <p>The Multimedia Group has been collaborating with Motorola in several Motorola funded R&amp;D projects.</p>
+    </div>  
+
+    <div class="sideblock">
+      <h3>GPU-LIBSVM</h3>
+      <p><a href="https://www.nvidia.com/object/gpu-applications.html?dMinG"><img alt="" src="/images/Nvidia_logo.svg.png" /></a></p>    
+      <p>NVIDIA links Multimedia Group for the <a href="https://mklab.iti.gr/project/GPU-LIBSVM">GPU-LIBSVM implementation</a></p>
+    </div>
+
+    <div class="sideblock">
+      <h3>HR Excellence in Research</h3>
+      <p><a href="https://ec.europa.eu/euraxess/index.cfm/rights/strategy4Researcher"><img alt="HR Excellence in Research" src="/images/HR_excellence_logo.jpg" /></a></p>
+    </div>
+    
+  </div>
+</div>
+{{- end }}
+
+{{ define "footer" -}}
+{{- end }}
+
+

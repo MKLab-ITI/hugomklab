@@ -1,0 +1,112 @@
+{{ $resultsCount := len .Data.Pages }}
+{{ $tools := .Site.Taxonomies.tags.tool }}
+{{ $ontologies := .Site.Taxonomies.tags.ontology }}
+{{ $datasets := .Site.Taxonomies.tags.data }}
+{{ $demos := .Site.Taxonomies.tags.demo }}
+
+
+<h1 class="title">{{ .Title }}</h1>
+
+<!--
+    <h2>{{ $resultsCount }}</h2>
+{{ range $name, $items := .Site.Taxonomies.tags }}
+<li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}">{{ $name }} &nbsp;<span>({{ len $items }})</span></a></li>
+{{ end }}
+-->
+  
+<input id="tab1" type="radio" name="tabs" checked>
+<label for="tab1">Tools {{ if ($tools) }}<span class="label label-75">{{ len $tools }}</span>{{end}}</label>
+
+<input id="tab2" type="radio" name="tabs">
+<label for="tab2">Ontologies {{ if ($ontologies) }}<span class="label label-75">{{ len $ontologies }}</span>{{end}}</label>
+
+<input id="tab3" type="radio" name="tabs">
+<label for="tab3">Datasets {{ if ($datasets) }}<span class="label label-75">{{ len $datasets }}</span>{{end}}</label>
+
+<input id="tab4" type="radio" name="tabs">
+<label for="tab4">Demos {{ if ($demos) }}<span class="label label-75">{{ len $demos }}</span>{{end}}</label>
+
+
+<section id="content1">
+    <ol>
+    {{ range $tools }}
+        <li>
+        <p class="result-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ if(.Params.Excerpt) }}<p class="small">{{ .Params.Excerpt }}</p>{{end}}
+        </li>
+    {{ end }}
+    </ol>
+</section>
+
+<section id="content2">
+    <ol>
+    {{ range $ontologies }}
+        <li>
+        <p class="result-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ if(.Params.Excerpt) }}<p class="small">{{ .Params.Excerpt }}</p>{{end}}
+        </li>
+    {{ end }}
+    </ol>
+</section>
+
+<section id="content3">
+    <ol>
+    {{ range $datasets }}
+        <li>
+        <p class="result-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ if(.Params.Excerpt) }}<p class="small">{{ .Params.Excerpt }}</p>{{end}}
+        </li>
+    {{ end }}
+    </ol>
+</section>
+
+<section id="content4">
+    
+    <ol>
+    {{ range $demos }}
+        <li>
+        <p class="result-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ if(.Params.Excerpt) }}<p class="small">{{ .Params.Excerpt }}</p>{{end}}
+        </li>
+    {{ end }}
+    </ol>
+    
+    <hr />
+    <p><strong>External links</strong></p>
+
+    <ul>
+        <li>
+            <p class="result-title"><a href="https://github.com/MKLab-ITI/mmdemo-dockerized">Social Tracker</a></p>
+            <p class="small">Collect social media items from multiple sources in real time</p>
+        </li>
+        <li>
+            <p class="result-title"><a href="http://augreal.mklab.iti.gr/dinos/">Live+Gov</a></p>
+            <p class="small">Augmented Reality for smartphones</p>
+        </li>
+        <li>
+            <p class="result-title"><a href="http://mklab.iti.gr/ivus">IVUS-ANGIO</a></p>
+            <p class="small">Tool for automatic detection of lumen and media-adventitia boundaries</p>
+        </li>
+        <li>
+            <p class="result-title"><a href="http://sourceforge.net/projects/via-tool/">Open Source Video Image Annotation tool</a></p>
+            <p class="small">Video Image Annotation tool. Old, not supported versions: M-OntoMat 2.0 and M-OntoMat. Video in Greek.</p>
+        </li>
+        <li>
+            <p class="result-title"><a href="http://mklab.iti.gr/verge/">VERGE</a></p>
+            <p class="small">A video search engine</p>
+        </li>
+        <li>
+            <p class="result-title"><a href="http://mklab-services.iti.gr/multiforecast">MultiForecast</a></p>
+            <p class="small">Gives you weather forecasts from multiple environmental resources</p>
+        </li>
+        <li>
+            <p class="result-title"><a href="http://mklab-services.iti.gr/reach">REACH</a></p>
+            <p class="small">A Hybrid Ontology and Content-Based Search Engine for Cultural Content (in Greek). Υβριδική Μηχανή Αναζήτησης Πολυμεσικού Περιεχομένου Πολιτισμού Βασισμένη σε Οντολογίες και Ανάλυση</p>
+        </li>
+            
+    </ul>
+
+
+
+
+</section>

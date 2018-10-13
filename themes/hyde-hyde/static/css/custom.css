@@ -1,0 +1,385 @@
+html,
+body
+{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    scroll-behavior: smooth;
+}
+
+.img-circle
+{
+    border-radius: 50%;
+}
+
+.headshot
+{
+    width: 115px;
+    height: 115px;
+}
+
+.brand
+{
+    font-size: 2.6em;
+
+    margin-bottom: 0;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.meta
+{
+    font-size: .8rem;
+    font-weight: 300;
+}
+
+pre
+{
+    padding: 1px;
+
+    tab-size: 2;
+}
+
+
+.hljs {
+    white-space: pre;
+    
+    overflow-x: auto; /* no line wrapping */
+}
+
+pre code, li code, td code, code
+{
+    border-radius: 4px;
+    white-space: pre-wrap;
+    padding:1px 4px;
+	background: #eee;
+	/* color: #444; */
+	border: 1px solid #d9d9d9;
+}
+
+code {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 90%;
+}
+.copyright, 
+.poweredby
+{
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.center
+{
+    display: block;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+/* Changing from font-awesome 4 to 5, the class pull-right was removed */
+.pull-right {
+    float: right;
+}
+
+.lab {
+    margin: 1.5rem 0 3rem 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: italic;
+    color:#320033;
+}
+.highlight {
+    color:#320033;
+}
+
+li.active {
+    font-weight: bold;
+}
+
+.pagination {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+}
+.pagination li {
+    margin: 0 4px;
+}
+
+.label {
+    background-color: cornflowerblue;
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 30%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: super;
+    border-radius: .25rem;
+}
+.label-75 {
+    font-size: 75%;
+    color: white;
+}
+.post-date {
+    font-weight: bold;
+    color:#320033;
+}
+
+/* Double columns */
+.row-flex {
+    display: flex;
+    flex-wrap: no-wrap;
+}
+.column-a {
+    scroll-behavior: smooth;
+    flex: 70%;
+    padding-right: 2em;
+}
+.column-b {
+    flex: 30%;
+    padding: 0 2em;
+}
+.column-b {
+    font-size: 0.85em;
+}
+.column-b h3 {
+    font-size: 1rem;
+}
+body.publications .column-a {
+    flex: 80%;
+}
+body.publications .column-b {
+    flex: 20%;
+    padding: 0;
+}
+body.publications .wrapper {
+    border-top: 1px solid #ddd;
+}
+.column-b ul{
+    padding: 0 1em 0 0;
+    margin-left: 0;
+    list-style-type: none;    
+}
+body.home .container,
+body.research .container,
+body.projects .container,
+
+body.publications .container
+{
+    max-width: 100%;
+}
+
+@media (max-width: 64em) {
+    .row-flex {
+        flex-wrap: wrap;
+    }
+    .column-a,
+    .column-b {
+        flex: 100%;
+    }    
+}
+
+.sideblock {
+    margin-top: 4em;
+}
+/* -------------- */
+
+
+
+/* ---- tabs ---- */
+
+section {
+  display: none;
+  padding: 20px 0 0;
+  /* border-top: 1px solid #ddd; */
+}
+body.results section {
+    border-top: 1px solid #ddd;
+}
+
+input {
+  display: none;
+}
+
+label {
+  display: inline-block;
+  margin: 0 0 -1px;
+  padding: 15px 10px;
+  font-weight: 400;
+  text-align: center;
+  color: #bbb;
+  border: 1px solid transparent;
+}
+
+label:hover {
+  color: #888;
+  cursor: pointer;
+}
+
+input:checked + label {
+  color: #555;
+  border: 1px solid #ddd;
+  border-top: 2px solid #590059;
+  border-bottom: 1px solid #fff;
+}
+
+#tab1:checked ~ #publications-row #publications-col #content1,
+#tab2:checked ~ #publications-row #publications-col #content2,
+#tab3:checked ~ #publications-row #publications-col #content3,
+#tab4:checked ~ #publications-row #publications-col #content4,
+#tab5:checked ~ #publications-row #publications-col #content5 {
+  display: block;
+}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4 {
+  display: block;
+}
+
+@media screen and (max-width: 650px) {
+  label {
+    display: block;
+  }
+}
+
+/* -------------- */
+
+img.blog-thumbnail {
+    float: left;
+    width: 140px; 
+    margin: 6px 1em 0 0;
+}
+blog-pl {
+    padding-left: 170px;
+}
+
+h1.title,
+body.page .post > h1
+{
+    border-bottom: 3px solid #660166;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+h2.post-title:target {
+    border-bottom: 1px solid #994099;
+    font-weight: 700;
+}
+
+/* TOC */
+#TableOfContents ul {
+    padding: 0 1em 0 0;
+    margin-left: 0;
+    list-style-type: none;
+}
+
+#TableOfContents ul li {
+    color: #000;
+    display: block;
+    margin-bottom: .8em;
+    line-height: 1.375;
+}
+.b {
+    font-weight: bold;
+}
+
+.sticky {
+    visibility: hidden;
+    display: none;
+}
+@media (min-width: 64em) {
+    .sticky {
+        position: fixed;
+        top: 100px;
+        visibility: visible;
+        display: block;
+    }
+}
+
+/* projects */
+
+.project-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.project-box {
+	width: 23%;
+	margin: 1%;
+    border: 1px solid rgb(216, 212, 212);
+    padding: 1em 1em 0 1em;
+}
+
+
+@media (min-width: 64em) and (max-width: 80em) {
+    .project-box {
+        width: 32%;
+    }
+    .project-box:nth-of-type(3n) {
+        margin-right: 0;	
+    }
+
+    .project-box:nth-of-type(3n+1) {
+        margin-left: 0;	
+    }      
+}
+
+@media (max-width: 64em) {
+    .project-box {
+        flex: 100%;
+    }
+}
+@media (min-width: 80em) {
+    .project-box:nth-of-type(4n) {
+        margin-right: 0;	
+    }
+
+    .project-box:nth-of-type(4n+1) {
+        margin-left: 0;	
+    }
+}
+.small {
+    font-size: 0.9em;
+}
+img.logo {
+    display: block;
+    max-height: 100px;
+}
+img.logo-lg {
+    display: block;
+    max-height: 200px;
+}
+img.logo-list {
+    max-height: 50;
+    max-width: 100px;
+}
+.project-title,
+.result-title {
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+.project-title a,
+.result-title a {
+    color: #303030;
+}
+
+.label.completed {
+    background-color: darkred;
+}
+.label.national {
+    background-color: #320033;
+}
+.acronym {
+    font-size: 0.85em;
+}

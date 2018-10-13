@@ -1,0 +1,50 @@
+<h1>{{ .Title }}</h1>
+
+<div class="row-flex">
+    <div class="column-a">
+
+        {{ if ne .Params.showpagemeta false }}
+        <div class="col-sm-12 col-md-12">
+            <span class="text-left post-date meta">
+                <!-- tags -->
+                {{ with .Params.tags }} {{ $total := len . }} {{ if gt $total 0 }}
+                <br/> {{ $subtotal := sub $total 1 }}
+                <i class="fas fa-tags"></i>
+                {{ range $i, $tag := sort . }}
+                <a class="meta" href="{{ " /tags/ " | relURL }}{{ $tag | urlize }}">{{ $tag | lower }}</a>{{ if lt $i $subtotal }} {{ end }} {{ end }} {{ end }} {{ end }}
+                <br/>
+                <i class="fas fa-clock"></i> {{ .ReadingTime }} min read
+            </span>
+        </div>
+        {{ end }}        
+        {{ .Content }}
+
+    </div>
+    <div class="column-b">
+
+        {{ if index (.Params.Images) 0 }}
+            <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="logo-lg" />
+        {{ end }}
+
+        {{ if and (.Params.Website_name) (.Params.Website_link) }}
+        <h3>Website</h3>
+        <p><a href="{{ .Params.Website_link }}">{{ .Params.Website_name }}</a></p>
+        {{ end }}
+
+        {{ if .Params.Program }}
+        <h3>Program</h3>
+        <p>{{ .Params.Program }}</p>
+        {{ end }}
+
+        {{ if .Params.Contact }}
+        <h3>Contact</h3>
+        <ul>
+            {{ range .Params.Contact }}
+                <li>{{ . }}</li>
+            {{ end }}
+            </ul>   
+        {{ end }}
+        
+
+    </div>
+</div>

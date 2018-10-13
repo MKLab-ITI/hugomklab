@@ -1,0 +1,52 @@
+baseURL: https://mklab.iti.gr/
+disablePathToLower: true
+languageCode: en-gb
+title: MKLab
+theme: "hyde-hyde"
+googleAnalytics: UA-395829-7
+params:
+  description: "Multimedia Knowledge and Social Media Analytics Laboratory"
+  author: "MKLab"
+  authorimage: "/img/cube.svg"
+  highlightjs: false
+  social:
+    github: "MKLab-ITI"
+    facebook: "Multimedia-Knowledge-and-Social-Media-Analytics-Laboratory-633315540063066"
+    email: "ikom@iti.gr"
+menu:
+  main:
+    - name: "Home"
+      weight: 100
+      identifier: "home"
+      url: "/"
+
+    - name: "Research"
+      weight: 200
+      identifier: "research"
+      url: "/research/"
+
+    - name: "Publications"
+      weight: 300
+      identifier: "publications"
+      url: "/publications/"
+
+    - name: "Projects"
+      weight: 400
+      identifier: "projects"
+      url: "/projects/"
+
+    - name: "Results"
+      weight: 500
+      identifier: "results"
+      url: "/results/"
+
+#    - name: "People"
+#      weight: 600
+#      identifier: "people"
+#      url: "/people/"
+
+#    - name: "Articles"
+#      weight: 650
+#      identifier: "article"
+#      url: "/article/"
+

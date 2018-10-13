@@ -1,0 +1,186 @@
+{{ $publicationsCount := len .Data.Pages }}
+{{ $patents := .Site.Taxonomies.tags.patents }}
+{{ $pbw := .Site.Taxonomies.tags.proceedings_books_white_papers }}
+{{ $journals := .Site.Taxonomies.tags.journal_publications }}
+{{ $books := .Site.Taxonomies.tags.book_chapters }}
+{{ $conferences := .Site.Taxonomies.tags.conference_publications }}
+
+
+<h1 class="title">{{ .Title }}</h1>
+
+<!--
+    <h2>{{ $publicationsCount }}</h2>
+{{ range $name, $items := .Site.Taxonomies.tags }}
+<li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}">{{ $name }} &nbsp;<span>({{ len $items }})</span></a></li>
+{{ end }}
+-->
+
+
+  
+  <input id="tab1" type="radio" name="tabs" checked>
+  <label for="tab1">Patents <span class="label label-75">{{ len $patents }}</span></label>
+    
+  <input id="tab2" type="radio" name="tabs">
+  <label for="tab2">Proceedings-Books-White papers <span class="label label-75">{{ len $pbw }}</span></label>
+    
+  <input id="tab3" type="radio" name="tabs">
+  <label for="tab3">Journal publications <span class="label label-75">{{ len $journals }}</span></label>
+    
+  <input id="tab4" type="radio" name="tabs">
+  <label for="tab4">Book Chapters <span class="label label-75">{{ len $books }}</span></label>
+
+  <input id="tab5" type="radio" name="tabs">
+  <label for="tab5">Conference publications <span class="label label-75">{{ len $conferences }}</span></label>    
+
+    <div id="publications-row" class="row-flex wrapper">
+        <div id="publications-col" class="column-a">
+
+            <section id="content1">
+                <ol class="posts">
+                    {{ range $patents }}
+                    <li>{{ .Content }}</li>
+                    {{ end }}
+                </ol>
+            </section>
+            
+            <section id="content2">
+                <ol class="posts">
+                    {{ range $pbw }}
+                    <li>{{ .Content }}</li>
+                    {{- end }}
+                </ol>
+            </section>
+            
+            <section id="content3">
+                <ol class="posts">
+                    {{ range $journals }}
+                    <li>{{ .Content }}</li>
+                    {{ end }}
+                </ol>
+            </section>
+            
+            <section id="content4">
+                <ol class="posts">
+                    {{ range $books }}
+                    <li>{{ .Content }}</li>
+                    {{ end }}
+                </ol>
+            </section>
+            
+            <section id="content5">
+                <ol class="posts">
+                    {{ range $conferences}}
+                    <li>{{ .Content }}</li>
+                    {{- end }}
+                </ol>
+            </section>
+
+        </div>
+        <div class="column-b">
+            <h2 class="highlight">Copyright Notice</h2>
+            <p class="highlight">The downloadable publications on this web site are presented to ensure timely dissemination of scholarly and technical
+                work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying
+                this information are expected to adhere to the terms and constraints invoked by each author's copyright. These works
+                may not be reposted without the explicit permission of the copyright holder.
+            </p>
+        
+            <div class="sideblock">
+                <p>
+                    <a href="http://www.springer.com/us/book/9783319238340" target="_blank">
+                        <img src="/images/bookcovers/9783319238340.jpg" />
+                    </a>
+                    <strong>User Community Discovery</strong>
+                    <br /> Paliouras, Georgios; Papadopoulos, Symeon; Vogiatzis, Dimitrios; Kompatsiaris, Yiannis (Eds.)
+                    <br />
+                    <a href="http://www.springer.com/us/book/9783319238340" target="_blank">Springer</a>, 2015</p>
+                </p>
+            </div>
+            <div class="sideblock">
+                <p>
+                    <a href="https://www.crcpress.com/product/isbn/9781439855607" target="_blank">
+                        <img src="/images/bookcovers/tvcontentanalysis.jpg" />
+                    </a>
+                    <strong>TV Content Analysis</strong>
+                    <br /> Kompatsiaris, Yiannis; Bernard, Merialdo; Lian, Shiquo (Eds.)
+                    <br />
+                    <a href="https://www.crcpress.com/product/isbn/9781439855607" target="_blank">CRC Press</a>, March, 2012
+                    <br />
+                    <a href="https://www.amazon.com/Content-Analysis-Applications-Communication-Intelligence/dp/1439855609/ref=sr_1_1?ie=UTF8&amp;qid=1329383556&amp;sr=8-1">Book in Amazon's Site</a>
+                </p>
+            </div>
+            <div class="sideblock">
+                <p>
+                    <a href="https://www.springer.com/978-3-642-10542-5" target="_blank">
+                        <img src="/images/bookcovers/sem09.jpg" />
+                    </a>
+                    <strong>Semantic Multimedia</strong>
+                    <br /> Chua, T.-S.; Kompatsiaris, Y.; Mérialdo, B.; Haas, W.; Thallinger, G.; Bailer, W. (Eds.)
+                    <br /> 4th International Conference on Semantic and Digital Media Technologies, SAMT 2009 Graz, Austria, December 2-4,
+                    2009 Proceedings.
+                    <br />
+                    <a href="https://www.springer.com/978-3-642-10542-5" target="_blank">
+                        <b>Springer</b>
+                    </a> 2009, XIII, 197 p., Softcover ISBN: 978-3-642-10542-5</p>
+            </div>
+            <div class="sideblock">
+                <p>
+                    <a href="https://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-84800-075-9" target="_blank">
+                        <img src="/images/bookcovers/booksmo.jpg" />
+                    </a>
+                    <strong>Semantic Multimedia and Ontologies</strong>
+                    <br /> Theory and Applications
+                    <br /> Kompatsiaris, Yiannis; Hobson, Paola (Eds.)
+                    <br />
+                    <a href="https://www.springer.com/east/home/computer/information+systems?SGWID=5-152-22-173762913-0" target="_blank">Springer</a>, March 2008
+                    <br />
+                    <a href="https://www.amazon.com/Semantic-Multimedia-Ontologies-Theory-Applications/dp/1848000758/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1202389858&amp;sr=1-1">Book in Amazon's Site</a>
+                </p>
+            </div>
+            <div class="sideblock">
+                <p>
+                    <a href="https://www.springeronline.com/978-3-540-77033-6" target="_blank">
+                        <img border="0" src="/images/bookcovers/semantic_multimedia.jpg" />
+                    </a>
+                    <strong>Semantic Multimedia</strong>
+                    <br /> B. Falcidieno, M. Spagnuolo, Y. Avrithis, I. Kompatsiaris, P. Buitelaar. (Eds.)
+                    <br />
+                    <a href="http://www.springeronline.com/978-3-540-77033-6" target="_blank">Springer</a>
+                    <br /> XII, 306 p., Softcover ISBN: 978-3-540-77033-6
+                    <br /> Second International Conference on Semantic and Digital Media Technologies, SAMT 2007, Genoa, Italy, December
+                    5-7, 2007, Proceedings.</p>
+            </div>
+            <div class="sideblock">
+                <p>
+                    <a href="https://www.springeronline.com/3-540-49335-2" target="_blank">
+                        <img border="0" src="/images/bookcovers/semantic_multimedia4396.jpg" />
+                    </a>
+                    <strong>Semantic Multimedia</strong>
+                    <br /> Y. Avrithis, Y. Kompatsiaris, S. Staab, N. O'Connor (Eds.)
+                    <br />
+                    <a href="http://www.springeronline.com/3-540-49335-2" target="_blank">Springer</a> December 2006
+                    <br />
+                    <a href="http://www.amazon.com/Semantic-Multimedia-International-Technologies-2006Proceedings/dp/3540493352/sr=1-1/qid=1171307686/ref=sr_1_1/102-9270395-4492132?ie=UTF8&amp;s=books"
+                        target="_blank">Book in Amazon's Site</a>
+                    <br /> First International Conference on Semantic and Digital Media Technologies, SAMT 2006, Athens, Greece, December
+                    6-8, 2006, Proceedings.</p>
+            </div>
+            <div class="sideblock">
+                <p>
+                    <a href="https://www.springer.com/east/home?SGWID=5-40109-22-32445291-0" target="_blank">
+                        <img border="0" src="/images/bookcovers/image_video_retrieval.jpg" />
+                    </a>
+                    <strong>Image and Video Retrieval</strong>
+                    <br /> P. Enser, Y. Kompatsiaris, N. E. O'Connor, A. F. Smeaton, A. W.M. Smeulders (Eds.)
+                    <br />
+                    <a href="https://www.springer.com/east/home?SGWID=5-40109-22-32445291-0" target="_blank">Springer</a>, July 2004
+                    <br />
+                    <a href="https://www.amazon.com/Image-Video-Retrieval-International-Proceedings/dp/3540225390/sr=1-2/qid=1171307686/ref=sr_1_2/102-9270395-4492132?ie=UTF8&amp;s=books"
+                        target="_blank">Book in Amazon's Site</a>
+                    <br /> Third International Conference, CIVR 2004, Dublin, Ireland, July 21-23, 2004, Proceedings.</p>
+            </div>
+        
+        </div>
+    </div>
+
+
+
