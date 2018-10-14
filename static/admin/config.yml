@@ -14,7 +14,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
       - {label: "Types", name: "types", widget: "hidden", default: "article"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Created at", name: "date", widget: "datetime"}
       - {label: "Featured image", name: "images", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "publication" # Used in routes, e.g., /admin/collections/blog
@@ -37,4 +37,4 @@ collections:
           - { label: "Proceedings, books, white papers", value: "proceedings_books_white_papers" }
           - { label: "Patents", value: "patents" }
       - {label: "Publication Date", name: "publication_date", widget: "date", format: "DD/MM/YYYY", hint: "Ordering is based on this field"}
-      - {label: "Body", name: "body", widget: "markdown", "hint": "You should avoid extreme formatting"}
+      - {label: "Body", name: "body", widget: "markdown", "hint": "You should avoid extreme formatting in publication body text"}
