@@ -18,11 +18,13 @@
             {{- .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") -}}
           </span>
           
-          {{ if index (.Params.Images) 0 }}
-          <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="blog-thumbnail" />
+          {{ if (isset .Params "images") }}
+            {{ if index (.Params.Images) 0 }}
+            <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="blog-thumbnail" />
+            {{ end }}
           {{ end }}
         
-          <div class="bl{{ if index (.Params.Images) 0 }} blog-pl{{end}}">
+          <div class="bl{{ if and ( (isset .Params "images") (index (.Params.Images) 0) )}} blog-pl{{end}}">
             {{ .Summary }}
           
             {{ if .Truncated }}
