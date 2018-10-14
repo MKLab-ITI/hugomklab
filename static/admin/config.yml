@@ -15,7 +15,7 @@ collections:
       - {label: "Types", name: "types", widget: "hidden", default: "article"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Created at", name: "date", widget: "datetime"}
-      - {label: "Featured image", name: "images", widget: "image"}
+      - {label: "Featured image", name: "images", widget: "image", "required": false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "publication" # Used in routes, e.g., /admin/collections/blog
     label: "Publication" # Used in the UI
