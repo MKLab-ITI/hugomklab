@@ -1,7 +1,7 @@
 backend:
   name: github #git-gateway
   repo: MKLab-ITI/hugomklab
-  base_url: https://mklab.iti.gr/hugodeploy/oauth/callback 
+  base_url: https://mklab.iti.gr/hugodeploy/oauth/
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "images/uploads" # The src attribute for uploaded media will begin with /images/uploads  
 collections:
