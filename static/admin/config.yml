@@ -38,5 +38,5 @@ collections:
           - { label: "Book chapter", value: "book_chapters" }
           - { label: "Proceedings, books, white papers", value: "proceedings_books_white_papers" }
           - { label: "Patents", value: "patents" }
-      - {label: "Publication Date", name: "publication_date", widget: "date", format: "DD/MM/YYYY", hint: "Ordering is based on this field"}
+      - {label: "Publication Date", name: "publication_date", widget: "date", format: "YYYY-MM-DD", hint: "Ordering is based on this field"}
       - {label: "Body", name: "body", widget: "markdown", "hint": "You should avoid extreme formatting in publication body text"}
