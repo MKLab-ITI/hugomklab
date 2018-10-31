@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2010-01-01T00:00:00'
 layout: publication
 title: IVUS Image Processing and Semantic Analysis for Cardiovascular Diseases Risk

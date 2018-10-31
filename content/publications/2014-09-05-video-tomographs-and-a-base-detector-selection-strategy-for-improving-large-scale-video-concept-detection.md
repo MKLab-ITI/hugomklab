@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2014-07-01'
 layout: publication
 title: Video tomographs and a base detector selection strategy for improving large-scale

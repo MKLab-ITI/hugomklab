@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-07-30T00:00:00'
 layout: publication
 title: 'C. Papadaniil, V. Kosmidou, A. Tsolaki, M. Tsolaki, I. Kompatsiaris, L. Hadjileontiadis,

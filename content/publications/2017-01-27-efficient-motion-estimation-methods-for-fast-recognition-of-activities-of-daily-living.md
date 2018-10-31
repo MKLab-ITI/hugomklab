@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-01-24'
 layout: publication
 title: Efficient motion estimation methods for fast recognition of activities of daily

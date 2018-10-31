@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-03-30'
 layout: publication
 title: 'Age Effect in Human Brain Responses to Emotion Arousing Images: The EEG 3D-Vector

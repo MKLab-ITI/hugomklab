@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-10-27'
 layout: publication
 title: MuVer’17 - First International Workshop on Multimedia Verification

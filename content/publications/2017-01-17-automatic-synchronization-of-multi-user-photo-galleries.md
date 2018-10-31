@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-01-17'
 layout: publication
 title: Automatic synchronization of multi-user photo galleries

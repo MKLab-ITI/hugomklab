@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2007-09-02T00:00
 layout: publication
 title: A.Satsiou, L.Tassiulas, “A Trust-Based Exchange Framework for Multiple Services

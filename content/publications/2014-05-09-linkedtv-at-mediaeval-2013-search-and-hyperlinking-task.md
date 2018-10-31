@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-10-01T00:00:00'
 layout: publication
 title: LinkedTV at MediaEval 2013 Search and Hyperlinking Task

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-05-09T00:00:00'
 layout: publication
 title: Multimedia retrieval based on non-linear graph-based fusion and partial least

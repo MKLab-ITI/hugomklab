@@ -5,9 +5,7 @@ excerpt: <p>S. Nikolopoulos, S. Zafeiriou, I. Patras and I. Kompatsiaris, <a hre
   Pages 2212-2228, author&#39;s accepted manuscript <a href="/files/Nikolopoulos_SignalProcessing_2012_proofs.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2012-08-16T00:00:00'
 layout: publication
 title: High-order pLSA for indexing tagged images

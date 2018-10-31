@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-08-25'
 layout: publication
 title: 'PScore: a framework for enhancing privacy awareness in online social networks'

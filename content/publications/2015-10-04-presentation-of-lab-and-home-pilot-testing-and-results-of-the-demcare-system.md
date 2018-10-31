@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-05-01'
 layout: publication
 title: "Presentation of lab and home pilot testing and results of the \LDem@Care system"

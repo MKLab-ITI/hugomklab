@@ -5,9 +5,7 @@ excerpt: <p>P. Sidiropoulos, V. Mezaris, I. Kompatsiaris, H. Meinedo, I. Trancos
   pp. 665-668. <a href="/files/mm09_preprint.pdf"><img align="top" alt="" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-10-01T00:00:00'
 layout: publication
 title: Multi-Modal Scene Segmentation Using Scene Transition Graphs

@@ -5,9 +5,7 @@ excerpt: <p>N. V. Boulgouris, I. Kompatsiaris, V. Mezaris, and M. G. Strintzis, 
   <a href="/files/pdf/wiamis2001.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2001-05-01T00:00:00'
 layout: publication
 title: Content-based Watermarking for Indexing Using Robust  Segmentation

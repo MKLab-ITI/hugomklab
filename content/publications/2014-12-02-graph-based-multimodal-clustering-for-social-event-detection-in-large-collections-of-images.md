@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-01-07'
 layout: publication
 title: Graph-Based Multimodal Clustering for Social Event Detection in Large Collections

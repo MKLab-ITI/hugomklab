@@ -6,9 +6,7 @@ excerpt: '<p>S. Papadopoulos, Y. Kompatsiaris, A. Vakali, P. Spyridonos. &ldquo;
   align="top" alt="" border="0" src="/files/pdf/pdf.png" style="cursor: default; "
   /></a></p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-06-17T00:00:00'
 layout: publication
 title: Community Detection in Social Media

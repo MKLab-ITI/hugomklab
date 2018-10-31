@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2018-05-01T00:00:00'
 layout: publication
 title: 'hackAIR: Towards raising Awareness about Air Quality in Europe by developing

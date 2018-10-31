@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-03-31T00:00:00'
 layout: publication
 title: Social Data and Multimedia Analytics for News and Events Applications

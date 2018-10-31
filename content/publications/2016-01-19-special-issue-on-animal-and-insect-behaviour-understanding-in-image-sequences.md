@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-01-30'
 layout: publication
 title: Special issue on animal and insect behaviour understanding in image sequences

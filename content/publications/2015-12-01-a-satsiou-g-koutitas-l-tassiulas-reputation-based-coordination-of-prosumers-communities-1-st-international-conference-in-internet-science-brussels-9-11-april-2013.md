@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2013-11-09T00:00
 layout: publication
 title: A. Satsiou, G. Koutitas, L. Tassiulas, “Reputation based Coordination of Prosumers

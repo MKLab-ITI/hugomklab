@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2014-07-01T00:00:00'
 layout: publication
 title: A Comprehensive Study over VLAD and Product Quantization in Large-scale Image

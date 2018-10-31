@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2018-05-23T00:00:00'
 layout: publication
 title: 'SemaDrift: a Hybrid Method and Visual Tools to Measure Semantic Drift in Ontologies'

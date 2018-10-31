@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-01-01T00:00:00'
 layout: publication
 title: 'Brain source localization of MMN, P300 and N400: Aging and gender differences'

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-07-01T00:00:00'
 layout: publication
 title: Fast object re-detection and localization in video for spatio-temporal fragment

@@ -5,9 +5,7 @@ excerpt: <p>S. Nikolopoulos, S. Papadopoulos and Y. Kompatsiaris. &quot;Reality 
   Piraeus, Greece, July 10 &ndash; 12, 2013.&nbsp;<a href="/files/Nikolopoulos_IISA2013.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-07-12T00:00:00'
 layout: publication
 title: Reality mining in urban space

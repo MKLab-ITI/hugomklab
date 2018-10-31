@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-06-03'
 layout: publication
 title: Generic to Specific Recognition Models for Membership Analysis in Group Videos

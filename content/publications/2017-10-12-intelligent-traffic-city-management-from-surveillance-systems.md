@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-08-05'
 layout: publication
 title: Intelligent traffic city management from surveillance systems

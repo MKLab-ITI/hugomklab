@@ -4,9 +4,7 @@ excerpt: <p>V. Mezaris, I. Kompatsiaris, and M. G. Strintzis, &quot;Still Image 
   Workshop on Digital Communications (IWDC 2002), pp. 273-279. <a href="/files/pdf/iwdc2002_segmentation.pdf"><img
   align="top" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2002-01-01T00:00:00'
 layout: publication
 title: Still Image  Segmentation Tools for Content-based Multimedia Applications

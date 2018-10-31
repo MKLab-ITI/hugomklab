@@ -4,9 +4,7 @@ excerpt: "<p>B. Falcidieno, M. Spagnuolo, Y. Avrithis, I. Kompatsiaris, P. Buite
   Digital Media Technologies, SAMT 2007, Genoa, Italy, December 5-7, 2007, Proceedings,
   LNCS 4816, Springer.</p>"
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: '2007-12-05T00:00:00'
 layout: publication
 title: Semantic Multimedia

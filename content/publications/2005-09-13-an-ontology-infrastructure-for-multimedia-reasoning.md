@@ -6,9 +6,7 @@ excerpt: '<p>N. Simou, C. Saathoff, S. Dasiopoulou, E. Spyrou, N. Voisine, V. Tz
   Italy, September 2005. <a href="/files/pdf/ewvlbv05MMReasoning.pdf"><img align="top"
   alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2005-01-01T00:00:00'
 layout: publication
 title: An Ontology  Infrastructure for Multimedia Reasoning

@@ -5,9 +5,7 @@ excerpt: '<p>S. Nikolopoulos, E. Giannakidou, I. Kompatsiaris, I. Patras, and A.
   Media Modeling and Computing</a>, Steven Hoi, Jiebo Luo, Susanne Boll, Dong Xu,
   Rong Jin, Irwin King (Eds.), 1st Edition, VIII, 276 p, Springer 2011, ISBN: 978-0-85729-435-7</p>'
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2011-01-01T00:00:00'
 layout: publication
 title: Combining multi-modal features for social media analysis

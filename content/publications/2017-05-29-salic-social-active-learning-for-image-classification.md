@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-05-29'
 layout: publication
 title: 'SALIC: Social Active Learning for Image Classification'

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-01-04'
 layout: publication
 title: Ordering of Visual Descriptors in a Classifier Cascade Towards Improved Video

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2005-07-11T00:00
 layout: publication
 title: A.Satsiou, M.Doumpos, C.Zopounidis, “Genetic Algorithms for the Optimization

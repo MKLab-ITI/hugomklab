@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: 2017/11/22
 layout: publication
 title: Internet Science 4th International Conference, INSCI 2017, Thessaloniki, Greece,

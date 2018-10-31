@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2010-05-23T00:00
 layout: publication
 title: A.Satsiou, L.Tassiulas, “Reputation-based Internet Sharing in Wireless Neighborhood

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-08'
 layout: publication
 title: User Empowerment for Enhanced Online Presence Management – Use Cases and Tools

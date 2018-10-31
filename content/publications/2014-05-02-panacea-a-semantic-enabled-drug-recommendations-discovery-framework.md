@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2014-04-31T00:00:00'
 layout: publication
 title: Panacea, a Semantic-enabled Drug Recommendations Discovery Framework

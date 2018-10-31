@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-11-10'
 layout: publication
 title: Linear Maximum Margin Classifier for Learning from Uncertain Data

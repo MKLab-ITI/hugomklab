@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-07-01'
 layout: publication
 title: he Personal and Societal Impact of the Dementia Ambient Care (Dem@Care) Multi-sensor

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-03-14'
 layout: publication
 title: A Hybrid Approach for Biomedical Relation Extraction Using Finite State Automata

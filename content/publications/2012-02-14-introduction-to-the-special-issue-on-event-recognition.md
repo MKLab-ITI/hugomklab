@@ -4,9 +4,7 @@ excerpt: <p>Alexander Artikis, Yiannis Kompatsiaris, Thomas Winkler and Phivos M
   to the Special Issue on Event Recognition</a>&quot;, Applied Artificial Intelligence
   Journal, Volume 26, Issue 1-2, 2012.</p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2012-02-14T00:00:00'
 layout: publication
 title: Introduction to the Special Issue on Event Recognition

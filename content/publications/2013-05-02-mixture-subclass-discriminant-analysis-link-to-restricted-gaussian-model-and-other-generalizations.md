@@ -5,9 +5,7 @@ excerpt: '<p>N. Gkalelis, V. Mezaris, I. Kompatsiaris, T. Stathaki, &quot;Mixtur
   January 2013. <a href="http://www.iti.gr/~bmezaris/publications/tnnls13_preprint.pdf"><img
   alt="" src="/files/pdf/pdf.png" style="width: 18px; height: 18px;" /></a></p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2013-01-01T00:00:00'
 layout: publication
 title: Mixture subclass discriminant analysis link to restricted Gaussian model and

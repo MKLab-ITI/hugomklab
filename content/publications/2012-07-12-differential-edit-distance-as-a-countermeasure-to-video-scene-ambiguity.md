@@ -4,9 +4,7 @@ excerpt: "<p>P. Sidiropoulos, V. Mezaris, I. Kompatsiaris, &quot;Differential Ed
   on Machine Learning for Signal Processing (MLSP 2012), Santander, Spain, September
   2012.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-09-23T00:00:00'
 layout: publication
 title: Differential Edit Distance as a countermeasure to video scene ambiguity

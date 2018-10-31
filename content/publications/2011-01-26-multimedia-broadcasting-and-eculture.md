@@ -6,9 +6,7 @@ excerpt: '<p>L. Nixon, S. Dasiopoulou, J.P. Evain, E. Hyvonen, I. Kompatsiaris,
   Fensel, J. Hendler (Eds.), Springer, ISBN: 978-3-540-92913-0, due February
   14, 2011.</p>'
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2011-02-14T00:00:00'
 layout: publication
 title: Multimedia, Broadcasting and eCulture

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-08-01'
 layout: publication
 title: Geotagging Text Content With Language Models and Feature Mining

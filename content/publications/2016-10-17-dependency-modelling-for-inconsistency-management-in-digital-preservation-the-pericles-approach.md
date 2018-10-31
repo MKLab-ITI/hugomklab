@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2018-01-01T00:00:00'
 layout: publication
 title: Dependency modelling for inconsistency management in Digital Preservation –

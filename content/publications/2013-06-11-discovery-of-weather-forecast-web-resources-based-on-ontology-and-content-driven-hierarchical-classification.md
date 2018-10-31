@@ -5,9 +5,7 @@ excerpt: "<p>A. Moumtzidou, S. Vrochidis, I. Kompatsiaris, &quot;Discovery of We
   Networks (EANN 2013), Halkidiki, Greece, 13-16 September, 2013. Communications in
   Computer and Information Science, Springer Berlin Heidelberg, Vol. 383, pp. 223-232.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-09-13T00:00:00'
 layout: publication
 title: Discovery of Weather Forecast Web Resources based on Ontology and Content-driven

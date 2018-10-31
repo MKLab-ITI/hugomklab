@@ -5,9 +5,7 @@ excerpt: <p>V. Mezaris and M. G. Strintzis, &quot;Object segmentation and ontolo
   vol. 3115, pp. 573-581.<a href="/files/pdf/civr04.pdf"><img align="top" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2004-07-01T00:00:00'
 layout: publication
 title: Object segmentation and ontologies  for MPEG-2 video indexing and retrieval

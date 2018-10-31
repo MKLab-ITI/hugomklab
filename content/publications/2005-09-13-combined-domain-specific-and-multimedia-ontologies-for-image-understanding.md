@@ -6,9 +6,7 @@ excerpt: <p>K. Petridis, F. Precioso, T. Athanasiadis, Y. Avrithis and I. Kompat
   Sep. 2005.<a href="/files/pdf/ki05.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2005-09-01T00:00:00'
 layout: publication
 title: Combined Domain Specific and Multimedia Ontologies for  Image Understanding

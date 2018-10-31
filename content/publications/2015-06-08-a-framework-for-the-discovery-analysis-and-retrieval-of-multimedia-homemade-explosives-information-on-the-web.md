@@ -7,9 +7,7 @@ excerpt: Theodora Tsikrika, George Kalpakis, Stefanos Vrochidis, Ioannis Kompats
   Conference on Availability, Reliability and Security, Toulouse, France, 2015. (accepted
   for publication)
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-08-24T00:00:00'
 layout: publication
 title: A Framework for the Discovery, Analysis, and Retrieval of Multimedia Homemade

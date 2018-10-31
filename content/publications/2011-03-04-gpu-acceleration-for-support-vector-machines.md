@@ -6,9 +6,7 @@ excerpt: <p>A. Athanasopoulos, A. Dimou, V. Mezaris, I. Kompatsiaris, &quot;GPU 
   /></a> <a href="http://www.youtube.com/watch?v=Fl99tQQd55U" target="_blank">watch
   a related video</a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2011-04-15T00:00:00'
 layout: publication
 title: GPU Acceleration for Support Vector Machines

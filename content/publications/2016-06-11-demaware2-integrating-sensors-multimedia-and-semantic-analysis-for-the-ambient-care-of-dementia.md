@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-06-11T00:00:00'
 layout: publication
 title: 'DemaWare2: Integrating Sensors, Multimedia and Semantic Analysis for the Ambient

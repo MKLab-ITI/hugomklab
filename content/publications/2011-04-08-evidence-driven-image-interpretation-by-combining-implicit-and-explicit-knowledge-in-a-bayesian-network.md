@@ -6,9 +6,7 @@ excerpt: '<p>S. Nikolopoulos, G. Th. Papadopoulos, I. Kompatsiaris and I. Patras
   10.1109/TSMCB.2011.2147781 </a>. <a href="/files/Nikolopoulos_TSMCB_2011_personal-copy.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-04-08T00:00:00'
 layout: publication
 title: Evidence driven image interpretation by combining implicit and explicit knowledge

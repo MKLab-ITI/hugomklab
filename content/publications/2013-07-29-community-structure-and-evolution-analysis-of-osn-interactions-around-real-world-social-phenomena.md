@@ -3,9 +3,7 @@ excerpt: "<p>K. Konstantinidis, S. Papadopoulos, Y. Kompatsiaris, &quot;Communit
   Structure and Evolution Analysis of OSN interactions around Real-world Social Phenomena&quot;,&nbsp;In
   Proceedings of PCI 2013, September 19-21, Thessaloniki, Greece (to appear)</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-09-19T00:00:00'
 layout: publication
 title: Community Structure and Evolution Analysis of OSN interactions around Real-world

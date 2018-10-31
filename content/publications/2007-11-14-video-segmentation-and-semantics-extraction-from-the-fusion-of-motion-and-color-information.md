@@ -7,9 +7,7 @@ excerpt: '<p><span style="color: black;"><span style="color: black;">A. Briassou
   href="/files/icip2007.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-09-01T00:00:00'
 layout: publication
 title: Video Segmentation and Semantics Extraction from the Fusion of Motion and Color

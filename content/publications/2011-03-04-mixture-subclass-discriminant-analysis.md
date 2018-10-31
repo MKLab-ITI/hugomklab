@@ -4,9 +4,7 @@ excerpt: <p>N. Gkalelis, V. Mezaris, I. Kompatsiaris, &quot;Mixture subclass dis
   2011. <a href="/files/spl11_preprint.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-03-01T00:00:00'
 layout: publication
 title: Mixture subclass discriminant analysis

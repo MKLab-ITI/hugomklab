@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2016-11-29T00:00:00'
 layout: publication
 title: Smart Sampling and Optimal Dimensionality Reduction of Big Data Using Compressed

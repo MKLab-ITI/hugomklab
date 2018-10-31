@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-10-23T00:00:00'
 layout: publication
 title: Incremental estimation of visual vocabulary size for image retrieval

@@ -5,9 +5,7 @@ excerpt: <p>J. Codina, E. Pianta, S. Vrochidis and S. Papadopoulos<em>,</em> &qu
   href="/files/semsearch08.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-06-02T00:00:00'
 layout: publication
 title: Integration of Semantic, Metadata and Image search engines with a text search

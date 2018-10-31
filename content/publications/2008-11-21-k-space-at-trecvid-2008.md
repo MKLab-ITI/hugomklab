@@ -7,9 +7,7 @@ excerpt: <p>P. Wilkins, D. Byrne, G. J.F.Jones, H. Lee, G. Keenan, K. McGuinness
   href="/files/trecvid08_kspace.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-11-01T00:00:00'
 layout: publication
 title: K-Space at TRECVid 2008

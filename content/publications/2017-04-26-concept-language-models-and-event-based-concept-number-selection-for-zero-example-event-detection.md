@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-06-06'
 layout: publication
 title: Concept Language Models and Event-based Concept Number Selection for Zero-example

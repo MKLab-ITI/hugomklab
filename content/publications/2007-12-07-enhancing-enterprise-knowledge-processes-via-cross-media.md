@@ -7,9 +7,7 @@ excerpt: <p>Iria, J., Uren, V., Lavelli, A., Blohm, S., Dadzie, A., Franz, T., K
   NY, 175-176, 2007.<a href="/files/pdf/p175-iria.pdf"><img height="18" src="/files/pdf/pdf.png"
   width="18" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-10-28T00:00:00'
 layout: publication
 title: Enhancing enterprise knowledge processes via cross-media

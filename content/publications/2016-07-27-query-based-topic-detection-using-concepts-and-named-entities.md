@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-08-30T00:00:00'
 layout: publication
 title: Query-based Topic Detection Using Concepts and Named Entities

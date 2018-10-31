@@ -5,9 +5,7 @@ excerpt: '<p>S. Vrochidis, A. Moumtzidou, P. King, A. Dimou, V. Mezaris and I. K
   142-147, Grenoble, France, 23-25 June 2010.<a href="/files/cbmi2010_D3.pdf" target="_blank"
   title="pdf file"><img align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2010-06-23T00:00:00'
 layout: publication
 title: 'VERGE: A Video Interactive Retrieval Engine'

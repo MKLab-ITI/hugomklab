@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-08-26'
 layout: publication
 title: Phase-Amplitude Cross-Frequency Coupling in EEG-derived Cortical Time Series

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-11-03'
 layout: publication
 title: Automatic fine-grained hyperlinking of videos within a closed collection using

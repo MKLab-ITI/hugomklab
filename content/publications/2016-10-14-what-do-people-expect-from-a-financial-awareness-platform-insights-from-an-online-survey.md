@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-10-11'
 layout: publication
 title: What do people expect from a financial awareness platform? Insights from an

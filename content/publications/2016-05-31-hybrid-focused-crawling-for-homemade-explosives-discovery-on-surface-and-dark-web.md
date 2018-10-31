@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-08-31T00:00:00'
 layout: publication
 title: Hybrid Focused Crawling for Homemade Explosives Discovery on Surface and Dark

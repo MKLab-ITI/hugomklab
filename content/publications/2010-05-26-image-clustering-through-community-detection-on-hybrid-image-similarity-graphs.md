@@ -6,9 +6,7 @@ excerpt: '<p>S. Papadopoulos, C. Zigkolis, G. Tolias, Y. Kalantidis, P. Mylonas,
   align="top" alt="" border="0" src="/files/pdf/pdf.png" style="cursor: default;"
   /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2010-09-26T00:00:00'
 layout: publication
 title: Image Clustering through Community Detection on Hybrid Image Similarity Graphs

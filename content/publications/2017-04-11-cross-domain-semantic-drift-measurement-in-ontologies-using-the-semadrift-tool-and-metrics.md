@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-05-28T00:00:00'
 layout: publication
 title: Cross-domain Semantic Drift Measurement in Ontologies Using the SemaDrift Tool

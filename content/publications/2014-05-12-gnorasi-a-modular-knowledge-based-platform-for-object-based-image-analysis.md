@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-05-21T00:00:00'
 layout: publication
 title: 'Gnorasi: A Modular Knowledge-based Platform for Object-based Image Analysis'

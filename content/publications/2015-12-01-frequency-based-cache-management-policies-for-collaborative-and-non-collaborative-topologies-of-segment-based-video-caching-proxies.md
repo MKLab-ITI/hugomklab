@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: 2006-10-04T00:00
 layout: publication
 title: Frequency-based cache management policies for collaborative and non-collaborative

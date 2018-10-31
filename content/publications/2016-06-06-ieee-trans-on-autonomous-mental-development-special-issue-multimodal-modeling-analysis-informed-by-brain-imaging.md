@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-01-01T00:00:00'
 layout: publication
 title: 'IEEE Trans on Autonomous Mental Development, special issue: Multimodal Modeling

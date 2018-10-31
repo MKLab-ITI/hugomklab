@@ -5,9 +5,7 @@ excerpt: <p>S. Dasiopoulou, J. Heinecke, C. Saathooff and M.G. Strintzis, &quot;
   on Semantic Computing, Sept 17-19, Irvine, California, pp. 413-420, 2007. <a href="/files/paper_icsc.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-09-17T00:00:00'
 layout: publication
 title: Multimedia Reasoning with Natural Language Support

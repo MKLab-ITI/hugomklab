@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-03-31'
 layout: publication
 title: Local Features and a Two-Layer Stacking Architecture for Semantic Concept Detection

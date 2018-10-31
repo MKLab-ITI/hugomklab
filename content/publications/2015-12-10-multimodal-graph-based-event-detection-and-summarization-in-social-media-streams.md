@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2015-10-11T00:00
 layout: publication
 title: Multimodal Graph-based Event Detection and Summarization in Social Media Streams

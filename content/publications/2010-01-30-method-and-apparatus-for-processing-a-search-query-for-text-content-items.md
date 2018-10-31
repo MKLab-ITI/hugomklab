@@ -5,9 +5,7 @@ excerpt: '<p>B. Bratu, S. Waddington, Y. Kompatsiaris, F. Menemenis, E. Nidelkou
   number: EP2073131 (A1), EPO, Publication date: 24/06/2009 <a href="/mklab_people/papadop/pubs/EP2073131A1.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- patents
-images: []
+tags: patents
 publication_date: '2009-06-24T00:00:00'
 layout: publication
 title: Method and apparatus for processing a search query for text content items

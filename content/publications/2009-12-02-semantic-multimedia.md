@@ -4,9 +4,7 @@ excerpt: "<p>T.-S. Chua, Y. Kompatsiaris, B. Mérialdo, W. Haas, G. Thallinger, 
   Semantic and Digital Media Technologies, SAMT 2009 Graz, Austria, December 2-4,
   2009, Proceedings, LNCS 5887, Springer.</p>"
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: '2009-12-02T00:00:00'
 layout: publication
 title: Semantic Multimedia

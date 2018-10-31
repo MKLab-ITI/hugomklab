@@ -5,9 +5,7 @@ excerpt: "<p>G. Hummel, M. Russ, P. Stütz, J. Soldatos, L. Rossi, T. Knape, Á.
   in Future Security - Security Research Conference, Bonn, Germany, September 4 &ndash;
   6, 2012.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-05-25T00:00:00'
 layout: publication
 title: Intelligent Multi Sensor Fusion System for Advanced Situation Awareness in

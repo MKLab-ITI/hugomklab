@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-05-23'
 layout: publication
 title: 'Event-based Media Processing and Analysis: A Survey of the Literature'

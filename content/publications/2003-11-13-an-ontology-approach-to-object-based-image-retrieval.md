@@ -5,9 +5,7 @@ excerpt: <p>V. Mezaris, I. Kompatsiaris, and M. G. Strintzis, &quot;An Ontology 
   <a href="/files/pdf/icip03.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2003-09-01T00:00:00'
 layout: publication
 title: An Ontology  Approach to Object-Based Image Retrieval

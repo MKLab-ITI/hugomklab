@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-07-15'
 layout: publication
 title: A Novel and Intelligent Home Monitoring System for Care Support of Elders with

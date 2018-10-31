@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-10-02'
 layout: publication
 title: 'Discriminative Codewaves: a symbolic dynamics approach to SSVEP recognition

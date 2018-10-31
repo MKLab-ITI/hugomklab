@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2006-10-01T00:00
 layout: publication
 title: Efficient Caching of Video Content to an Architecture of Proxies according

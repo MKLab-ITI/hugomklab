@@ -5,9 +5,7 @@ excerpt: <p>S. Papadopoulos, C. Zigkolis, S. Kapiris, Y. Kompatsiaris, A. Vakali
   Multimedia Retrieval, 2011, ACM, New York, Article 65, 2 pages. <a href="/mklab_people/papadop/lib/exe/fetch.php?media=conf:2011:papadopoulos_icmr2011_demo_poster.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a> (best demo award)</p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2011-05-02T00:00:00'
 layout: publication
 title: City exploration by use of spatio-temporal analysis and clustering of user

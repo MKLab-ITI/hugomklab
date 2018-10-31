@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: 2017-08-16Τ00:00:00
 layout: publication
 title: 'ARC-OCT: Automatic detection of lumen bordeR in intravasCular OCT images'

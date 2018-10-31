@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-01-01T00:00:00'
 layout: publication
 title: Comparative evaluation of state-of-the-art algorithms for SSVEP-based BCIs

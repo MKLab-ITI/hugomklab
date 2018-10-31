@@ -4,9 +4,7 @@ excerpt: '<p>A. Scherp, R. Jain, M. Kankanhalli, V. Mezaris, &quot;Modeling, Det
   October 2010, pp. 1739-1740. <a href="http://www.iti.gr/~bmezaris/publications/mm10.pdf"><img
   alt="" src="/files/pdf/pdf.png" style="width: 18px; height: 18px;" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2010-10-01T00:00:00'
 layout: publication
 title: Modeling, Detecting, and Processing Events in Multimedia

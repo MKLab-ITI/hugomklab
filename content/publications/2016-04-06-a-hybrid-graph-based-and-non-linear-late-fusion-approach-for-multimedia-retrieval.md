@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-06-15T00:00:00'
 layout: publication
 title: A hybrid graph-based and non-linear late fusion approach for multimedia retrieval

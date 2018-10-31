@@ -5,9 +5,7 @@ excerpt: "<p>K.P. Toutouzas, M. Riga, A. Giannopoulos, Y.S. Chatzizisis, A. Anto
   validation study&quot;, European Society of Cardiology Congress 2012 (ESC 2012),
   Munich, Germany, August 2012.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-08-28T00:00:00'
 layout: publication
 title: 'Geometrically-correct 3D OCT: proof of concept, methodology and First-in-Man

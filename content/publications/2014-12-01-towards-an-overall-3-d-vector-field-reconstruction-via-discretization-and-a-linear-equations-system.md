@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-11-10'
 layout: publication
 title: Towards an Overall 3-D Vector Field Reconstruction via Discretization and a

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-10'
 layout: publication
 title: Supporting Cognitive Skills of People Suffering from Dementia through a Sensor-based

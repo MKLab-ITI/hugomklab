@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2016-10-26T00:00:00'
 layout: publication
 title: 'Dem@Home: Ambient Intelligence for Clinical Support of People Living with

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-01-01T00:00:00'
 layout: publication
 title: 'Brain source localization of MMN and P300 ERPs in mild cognitive impairment

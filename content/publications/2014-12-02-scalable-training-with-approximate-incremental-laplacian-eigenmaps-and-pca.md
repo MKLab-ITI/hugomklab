@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-10-25'
 layout: publication
 title: Scalable training with approximate incremental Laplacian Eigenmaps and PCA

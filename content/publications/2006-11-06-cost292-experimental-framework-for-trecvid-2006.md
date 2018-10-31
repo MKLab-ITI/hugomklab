@@ -6,9 +6,7 @@ excerpt: '<!--[endif]--><p>J. Calic, P. Kramer, U. Naci, S. Vrochidis, S. Aksoy,
   2006&quot;, 4th TRECVID Workshop, Gaithersburg, USA, November 2006.<a href="/files/cost292_trecvid2006.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-11-01T00:00:00'
 layout: publication
 title: COST292 experimental framework for TRECVID 2006

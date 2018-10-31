@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2018'
 layout: publication
 title: The sensor to decision chain in crisis management

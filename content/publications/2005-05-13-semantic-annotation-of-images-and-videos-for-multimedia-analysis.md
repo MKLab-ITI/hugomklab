@@ -5,9 +5,7 @@ excerpt: '<p>S. Bloehdorn, K. Petridis, C. Saathoff, N. Simou, V. Tzouvaras, Y. 
   Web Conference, ESWC 2005, Heraklion, Greece, May 2005. <a href="/files/pdf/eswc05.pdf"><img
   align="top" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2005-05-01T00:00:00'
 layout: publication
 title: Semantic Annotation of Images and Videos for Multimedia Analysis

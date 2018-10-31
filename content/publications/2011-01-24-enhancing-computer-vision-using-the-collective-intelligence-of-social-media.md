@@ -6,9 +6,7 @@ excerpt: '<p>Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Patras and Ioanni
   Athena Vakali, Lakhmi C Jain (Eds.), book series: <em>Studies in Computational Intelligence</em>,
   vol. 331, Springer 2011, ISBN: 978-3-642-17550-3.</p>'
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2011-01-01T00:00:00'
 layout: publication
 title: Enhancing Computer Vision Using the Collective Intelligence of Social Media

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-10-15'
 layout: publication
 title: 'AKSDA-MSVM: a GPU-accelerated multiclass learning framework for multimedia'

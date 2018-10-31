@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-06-10'
 layout: publication
 title: A Disclosure Scoring Framework for Personal Data

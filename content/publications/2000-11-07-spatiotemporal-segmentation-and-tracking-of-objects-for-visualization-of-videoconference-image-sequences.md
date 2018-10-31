@@ -5,9 +5,7 @@ excerpt: <p>I. Kompatsiaris and M.G. Strintzis, &quot;Spatiotemporal Segmentatio
   2000.<a href="/files/pdf/CSVT2000.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2000-12-01T00:00:00'
 layout: publication
 title: Spatiotemporal Segmentation and Tracking of Objects for Visualization of Videoconference

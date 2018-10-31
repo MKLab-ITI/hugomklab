@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-11-19T00:00:00'
 layout: publication
 title: 'SemaDrift: A Protégé Plugin for Measuring Semantic Drift in Ontologies'

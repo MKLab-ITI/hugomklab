@@ -4,9 +4,7 @@ excerpt: <p>S. Papadopoulos, C. Zigkolis, Y. Kompatsiaris, A. Vakali, "CERTH @ M
   Croce in Fossabanda, Pisa, Italy, September 1-2, 2011 <a href="/mklab_people/papadop/lib/exe/fetch.php?media=conf:2011:papadopoulos_sed_certh_me11wn.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2011-09-02T00:00:00'
 layout: publication
 title: CERTH @ MediaEval 2011 SED Task

@@ -6,9 +6,7 @@ excerpt: <p>N. Voisine, S. Dasiopoulou, F. Precioso, V. Mezaris, I. Kompatsiaris
   2005. <a href="/files/pdf/icip05-voisine.pdf"><img align="top" alt="" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2005-09-01T00:00:00'
 layout: publication
 title: A Genetic Algorithm-based Approach to  Knowledge-assisted Video Analysis

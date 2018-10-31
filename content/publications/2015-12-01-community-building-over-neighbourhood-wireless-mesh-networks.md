@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: 2008-05-01T00:00
 layout: publication
 title: Community Building over Neighbourhood Wireless Mesh Networks

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-26'
 layout: publication
 title: GPU accelerated generalised subclass discriminant analysis for event and concept

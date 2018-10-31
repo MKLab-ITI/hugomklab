@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-07-31'
 layout: publication
 title: Mining Discriminative Descriptors for Goal-Based Activity Detection

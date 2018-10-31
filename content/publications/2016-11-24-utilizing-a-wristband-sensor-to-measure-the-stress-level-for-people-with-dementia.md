@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-11-24T00:00:00'
 layout: publication
 title: Utilizing a Wristband Sensor to Measure the Stress Level for People with Dementia,

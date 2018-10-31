@@ -7,9 +7,7 @@ excerpt: 'S. Vrochidis, I. Kompatsiaris, G. Casamayor, I. Arapakis, R. Busch, V.
   Conference on Multimedia and Expo (ICME 2015), Turin, Italy, June 29 - July 3, 2015.
   (accepted for publication)'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-06-30T00:00:00'
 layout: publication
 title: 'MULTISENSOR: DEVELOPMENT OF MULTIMEDIA CONTENT INTEGRATION  TECHNOLOGIES FOR

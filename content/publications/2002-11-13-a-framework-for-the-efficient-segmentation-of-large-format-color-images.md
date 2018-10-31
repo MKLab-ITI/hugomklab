@@ -5,9 +5,7 @@ excerpt: <p>V. Mezaris, I. Kompatsiaris, and M. G. Strintzis, &quot;A Framework 
   I, pp. 761-764. <a href="/files/pdf/icip02.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2002-09-01T00:00:00'
 layout: publication
 title: A Framework for  the Efficient Segmentation of Large-format Color Images

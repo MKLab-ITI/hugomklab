@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-09-10T00:00:00'
 layout: publication
 title: SpatioTemporalActivityCells in BMVC2015

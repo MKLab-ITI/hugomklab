@@ -5,9 +5,7 @@ excerpt: <p>S. Papadopoulos, A. Scherp, N. Ireson, I. Tsampoulatidis, Y. Kompats
   Proceedings of the 2nd ACM international workshop on Events in multimedia (EiMM
   &#39;10), pp. 41-46, New York, NY, USA, ACM, 2010</p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2010-10-25T00:00:00'
 layout: publication
 title: Using Event Representation and Semantic Enrichment for Managing and Reviewing

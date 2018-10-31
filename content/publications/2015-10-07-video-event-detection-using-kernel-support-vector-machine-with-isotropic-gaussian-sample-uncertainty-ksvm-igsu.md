@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-01-04'
 layout: publication
 title: Video Event Detection using Kernel Support Vector Machine with Isotropic Gaussian

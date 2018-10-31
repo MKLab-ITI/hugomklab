@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2004-11-01T00:00:00'
 layout: publication
 title: 'Combining Textual and Visual Information Processing for Interactive Video

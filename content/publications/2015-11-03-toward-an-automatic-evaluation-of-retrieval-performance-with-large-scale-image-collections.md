@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-30T00:00:00'
 layout: publication
 title: Toward an automatic evaluation of retrieval performance with large scale image

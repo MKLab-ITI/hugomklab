@@ -7,9 +7,7 @@ excerpt: <p>G. Th. Papadopoulos, V. Mezaris, S. Dasiopoulou and I. Kompatsiaris,
   6-8 December, 2006.<a href="/files/pdf/samt06.pdf"><img align="top" alt="" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-12-06T00:00:00'
 layout: publication
 title: Semantic image analysis using a learning approach and  spatial context

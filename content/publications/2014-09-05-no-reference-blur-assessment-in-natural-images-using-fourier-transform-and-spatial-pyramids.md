@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-10-27'
 layout: publication
 title: No-Reference blur assessment in natural images using Fourier transform and

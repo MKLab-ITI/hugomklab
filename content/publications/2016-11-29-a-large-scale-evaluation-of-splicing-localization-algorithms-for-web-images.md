@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-10-10T00:00:00'
 layout: publication
 title: A Large-Scale Evaluation of Splicing Localization Algorithms for Web Images

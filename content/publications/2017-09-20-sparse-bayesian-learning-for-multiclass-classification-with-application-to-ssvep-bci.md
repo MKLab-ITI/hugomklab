@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-09-20'
 layout: publication
 title: Sparse Bayesian Learning for Multiclass Classification with application to

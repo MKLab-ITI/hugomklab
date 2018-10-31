@@ -3,9 +3,7 @@ excerpt: <p>A. Moumtzidou, S. Vrochidis, I. Kompatsiaris, "Discovery, Analysis a
   Retrieval of Multimodal Environmental Information",Third Edition. IGI Global, 2015.
   4528-4542.</p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2015-01-01T00:00:00'
 layout: publication
 title: Discovery, Analysis and Retrieval of Multimodal Environmental Information

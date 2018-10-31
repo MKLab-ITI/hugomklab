@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-02-10T00:00:00'
 layout: publication
 title: Semantic Event Fusion of Different Visual Modality Concepts for Activity Recognition

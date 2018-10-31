@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-10-23'
 layout: publication
 title: 'The InVID Plug-in: Web Video Verification on the Browser'

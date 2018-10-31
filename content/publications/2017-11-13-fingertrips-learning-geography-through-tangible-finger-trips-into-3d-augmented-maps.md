@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017'
 layout: publication
 title: 'FingerTrips: learning geography through tangible finger trips into 3D augmented

@@ -3,9 +3,7 @@ excerpt: "<p>N. Gkalelis, V. Mezaris, M. Dimopoulos, I. Kompatsiaris, &quot;Vide
   Event Understanding&quot;, Encyclopedia of Information Science and Technology, IGI
   Global, 2013, to appear.</p>"
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2014-01-01'
 layout: publication
 title: Video Event Understanding

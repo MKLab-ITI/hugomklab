@@ -6,9 +6,7 @@ excerpt: <p>V. Mezaris, S. Gidaros, G. Th. Papadopoulos, W. Kasper, J. Steffen, 
   Advances in Signal Processing, vol. 2010, 2010. <a href="/files/jasp10.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2010-01-01T00:00:00'
 layout: publication
 title: A system for the semantic multi-modal analysis of news audio-visual content

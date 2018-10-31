@@ -6,9 +6,7 @@ excerpt: <p>Spiros Nikolopoulos, George Papadopoulos, Ioannis Kompatsiaris and I
   target="_blank" title="pdf file"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-07-23T00:00:00'
 layout: publication
 title: An evidence-driven probabilistic inference framework for semantic image understanding

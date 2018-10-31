@@ -6,9 +6,7 @@ excerpt: <p>N. O&#39;Connor, S. Sav, T. Adamek, V. Mezaris, I. Kompatsiaris, T. 
   22-24, 2003, pp. 381-388. <a href="/files/pdf/cbmi03_2.pdf"><img align="top" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2003-09-22T00:00:00'
 layout: publication
 title: Region and object  segmentation algorithms in the Qimera segmentation platform

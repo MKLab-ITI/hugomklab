@@ -5,9 +5,7 @@ excerpt: '<p>Pierre Andrews, Kerstin Bischoff, Sven Buschbeck, Francesco De Nata
   WWW 2012, European Project Track, Lyon-France, April 2012. <a href="/files/Nikolopoulos_WWW_2012.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-04-01T00:00:00'
 layout: publication
 title: 'GLOCAL: Event-based Retrieval of Networked Media'

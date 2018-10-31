@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-05-25'
 layout: publication
 title: Sparse Bayesian Learning for Subject Independent Classification with Application

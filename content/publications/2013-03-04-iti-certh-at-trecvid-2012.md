@@ -6,9 +6,7 @@ excerpt: <p>A Moumtzidou, N. Gkalelis, P. Sidiropoulos, M. Dimopoulos, S. Nikolo
   target="_blank"><img _mce_src="/files/pdf/pdf.png" align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-11-26T00:00:00'
 layout: publication
 title: ITI CERTH at TRECVID 2012

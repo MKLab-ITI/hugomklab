@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-12-08T00:00:00'
 layout: publication
 title: 'Personalized Modeling of Disease Evolution in CLL: Does Statistical Significance

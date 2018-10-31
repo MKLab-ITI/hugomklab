@@ -5,9 +5,7 @@ excerpt: <p>S. Vrochidis, P. King, L. Makris, A. Moumtzidou, S. Nikolopoulos, A.
   Showcase event, Santorini, Greece, July 2009.<a href="/files/iti_v3.0_cr.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-07-01T00:00:00'
 layout: publication
 title: MKLab Interactive Video Retrieval System

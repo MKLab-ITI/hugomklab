@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2018-03-27T00:00:00'
 layout: publication
 title: Testing a Flood Mask Correction Method Of Optical Satellite Imagery Over Irrigated

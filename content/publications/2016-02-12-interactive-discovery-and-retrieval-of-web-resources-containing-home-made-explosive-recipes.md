@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-07-17T00:00:00'
 layout: publication
 title: Interactive Discovery and Retrieval of Web Resources Containing Home Made Explosive

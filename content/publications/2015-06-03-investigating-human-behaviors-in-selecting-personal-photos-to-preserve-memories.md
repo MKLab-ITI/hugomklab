@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-07-01'
 layout: publication
 title: Investigating Human Behaviors in Selecting Personal Photos to Preserve Memories

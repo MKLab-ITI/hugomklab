@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-09-13T00:00:00'
 layout: publication
 title: User-Driven Ontology Population from Linked Data Sources

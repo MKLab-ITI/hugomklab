@@ -5,9 +5,7 @@ excerpt: <p>G. Th. Papadopoulos, Ph. Mylonas, V. Mezaris, Y. Avrithis and I. Kom
   17-36, July-September 2006. <a href="/files/pdf/IJSWIS06.pdf"><img align="top" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2006-07-01T00:00:00'
 layout: publication
 title: Knowledge-Assisted Image Analysis Based on Context and Spatial Optimization

@@ -4,9 +4,7 @@ excerpt: "<p>I. Kompatsiaris, &quot;A methodology for developing visual (image a
   Industrial Property Organization (OBI), Int. Cl. G06F 17/30, G06T 7/00 (valid until
   9-12-2023).</p>"
 types: publication
-tags:
-- patents
-images: []
+tags: patents
 publication_date: '2000-07-01T00:00:00'
 layout: publication
 title: A methodology for developing visual (image and video) content-based indexing,

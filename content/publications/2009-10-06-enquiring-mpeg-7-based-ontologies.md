@@ -4,9 +4,7 @@ excerpt: <p>S. Dasiopoulou, V. Tzouvaras, I. Kompatsiaris and M.G. Strintzis, <a
   331-370, 2010. <a href="/files/Enquiring%20MPEG-7%20Based%20Multimedia%20Ontologies.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2010-01-01T00:00:00'
 layout: publication
 title: Enquiring MPEG-7 based Ontologies

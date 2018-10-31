@@ -5,9 +5,7 @@ excerpt: '<p>P. Sidiropoulos, V. Mezaris, I. Kompatsiaris, J. Kittler, &quot;Dif
   2012. <a href="/files/csvt12_preprint.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-11-16T00:00:00'
 layout: publication
 title: 'Differential Edit Distance: A metric for scene segmentation evaluation'

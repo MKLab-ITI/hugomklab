@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-09-29T00:00:00'
 layout: publication
 title: Extraction of environmental data from on-line environmental information sources

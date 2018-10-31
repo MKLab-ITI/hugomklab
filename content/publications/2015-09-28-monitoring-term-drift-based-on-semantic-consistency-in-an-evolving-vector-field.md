@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-07-12T00:00:00'
 layout: publication
 title: Monitoring Term Drift Based on Semantic Consistency in an Evolving Vector Field

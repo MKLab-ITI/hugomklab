@@ -6,9 +6,7 @@ excerpt: <p>G. Akrivas, G. Th. Papadopoulos, M. Douze, J. Heinecke, N. O&rsquo;C
   2007. <a href="/files/SAMT07-2.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-12-01T00:00:00'
 layout: publication
 title: Knowledge-based Semantic Annotation and Retrieval of Multimedia Content

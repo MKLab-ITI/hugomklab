@@ -5,9 +5,7 @@ excerpt: "<p>Maria Papadogiorgaki, Vasileios Papastathis, Evangelia Nidelkou, Yi
   Workshop on Semantic Media Adaptation and Personalization (SMAP07), December 17-18,
   2007, London, United Kingdom.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-12-17T00:00:00'
 layout: publication
 title: Distributed User Modeling for Personalized News Delivery in Mobile Devices

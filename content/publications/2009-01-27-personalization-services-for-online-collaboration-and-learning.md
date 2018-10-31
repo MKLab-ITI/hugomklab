@@ -4,9 +4,7 @@ excerpt: "<p>C. Evangelou, M. Tsagarakis, N. Karousos, G. Gkotsis D. Nousia, &qu
   in Web-Based Technologies for Augmented Learning, Information Science Reference,
   N. Karacapilidis (Editor), ISBN 978-1-60566-238-1, 2009.</p>"
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2009-01-01T00:00:00'
 layout: publication
 title: Personalization Services for Online Collaboration and Learning

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-20'
 layout: publication
 title: hase-Amplitude coupling upon auditory stimuli and task relevant differentiations

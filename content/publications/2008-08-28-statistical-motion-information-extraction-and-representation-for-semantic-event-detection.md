@@ -6,9 +6,7 @@ excerpt: <p>G. Th. Papadopoulos, A. Briassouli, V. Mezaris, I. Kompatsiaris and 
   Republic, December 2008. <a href="/files/SMAP08.pdf"><img align="top" alt="" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-12-21T00:00:00'
 layout: publication
 title: Statistical Motion Information Extraction and Representation for Semantic Event

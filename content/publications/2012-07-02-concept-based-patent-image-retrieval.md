@@ -3,9 +3,7 @@ excerpt: <p>S. Vrochidis, A. Moumtzidou, and I. Kompatsiaris, &quot;<a href="htt
   target="_blank">Concept-based Patent Image Retrieval</a>&quot;, World Patent Information
   Journal, Volume 34, Issue 4, pp. 292-303, December 2012.</p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2012-09-01T00:00:00'
 layout: publication
 title: Concept-based Patent Image Retrieval

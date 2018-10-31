@@ -7,9 +7,7 @@ excerpt: '<p>D. Stein, E. Apostolidis, V. Mezaris, N. de Abreu Pereira, J. Mulle
   align="top" src="/files/pdf/pdf.png" style="border-width: 0px; border-style: solid;
   width: 18px; height: 18px;" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-07-01T00:00:00'
 layout: publication
 title: Semi-Automatic Video Analysis for Linking Television to the Web

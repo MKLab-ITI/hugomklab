@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-11-01T00:00:00'
 layout: publication
 title: The COST292 experimental framework for TRECVID 2007

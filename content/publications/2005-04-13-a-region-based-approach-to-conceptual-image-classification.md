@@ -5,9 +5,7 @@ excerpt: <p>S. Papadopoulos, V. Mezaris, I. Kompatsiaris, and M. G. Strintzis, &
   <a href="/files/vie05.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2005-04-01T00:00:00'
 layout: publication
 title: A Region-based Approach to Conceptual Image Classification

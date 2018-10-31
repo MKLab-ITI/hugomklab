@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-02-26T00:00:00'
 layout: publication
 title: Activities of Daily Living Recognition Using Optimal Trajectories from Motion

@@ -5,9 +5,7 @@ excerpt: <p>Elisavet Chatzilari, Georgios Liaros, Spiros Nikolopoulos and Yianni
   USA, July 19-25, 2013.&nbsp;<a href="/files/Chatzilari_MLDM2013_PersonalCopy.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-07-22T00:00:00'
 layout: publication
 title: A comparative study on mobile visual recognition

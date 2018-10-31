@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015'
 layout: publication
 title: 'MetaQ: A Knowledge-Driven Framework for Context-Aware Activity Recognition

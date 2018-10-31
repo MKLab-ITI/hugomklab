@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-01-01'
 layout: publication
 title: A Study on the Use of a Binary Local Descriptor and Color Extensions of Local

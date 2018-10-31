@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-06-15'
 layout: publication
 title: Classifying Salsa dance steps from skeletal poses

@@ -6,9 +6,7 @@ excerpt: George Kalpakis, Theodora Tsikrika, Foteini Markatopoulou, Nikiforos Pi
   to be held in conjunction with the 10th International Conference on Availability,
   Reliability and Security, Toulouse, France, 2015.(accepted for publication)
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-08-24T00:00:00'
 layout: publication
 title: Concept Detection on Multimedia Web Resources about Home Made Explosives

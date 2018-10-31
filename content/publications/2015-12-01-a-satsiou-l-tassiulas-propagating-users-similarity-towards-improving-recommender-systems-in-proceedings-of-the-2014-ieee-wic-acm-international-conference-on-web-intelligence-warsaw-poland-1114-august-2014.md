@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2014-08-11T00:00
 layout: publication
 title: A. Satsiou, L.Tassiulas, “Propagating Users' Similarity towards improving Recommender

@@ -4,9 +4,7 @@ excerpt: '<p>C. Spampinato, V. Mezaris, J. van Ossenbruggen, &quot;Multimedia An
   2012. <a href="http://www.iti.gr/~bmezaris/publications/mm12_preprint.pdf"><img
   alt="" src="/files/pdf/pdf.png" style="width: 18px; height: 18px;" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-11-01T00:00:00'
 layout: publication
 title: Multimedia Analysis for Ecological Data

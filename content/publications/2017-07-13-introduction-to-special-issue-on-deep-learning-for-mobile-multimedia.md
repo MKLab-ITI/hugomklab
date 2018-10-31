@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-06-01'
 layout: publication
 title: Introduction to Special Issue on Deep Learning for Mobile Multimedia

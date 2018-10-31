@@ -7,9 +7,7 @@ excerpt: "<p>S. Diplaris, A. Flores, B. Sigurbjornsson, N. Tintarev, M. Escriche
   title=\"pdf \r\nfile\"><img align=\"top\" alt=\"\" border=\"0\" src=\"/files/pdf/pdf.png\"
   /></a></p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2010-06-13T00:00:01'
 layout: publication
 title: Collective Intelligence in Mobile Consumer Social Applications

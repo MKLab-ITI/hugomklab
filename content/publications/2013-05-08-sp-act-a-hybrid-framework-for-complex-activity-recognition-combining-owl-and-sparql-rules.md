@@ -4,9 +4,7 @@ excerpt: "<p>G. Meditskos, S. Dasiopoulou, V. Efstathiou, I. Kompatsiaris, &quot
   10th IEEE Workshop on Context Modeling and Reasoning (CoMoRea), San Diego, California,
   March 18-22, 2013.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-03-18T00:00:00'
 layout: publication
 title: 'SP-ACT: A Hybrid Framework for Complex Activity Recognition Combining OWL

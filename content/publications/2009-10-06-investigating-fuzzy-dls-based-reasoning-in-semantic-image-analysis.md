@@ -4,9 +4,7 @@ excerpt: <p>S. Dasiopoulou, I. Kompatsiaris and M.G. Strintzis, <a href="http://
   Appl. 49(1), pp. 167-194, 2010. <a href="/files/InvestigatingFuzzyDLs.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2010-01-01T00:00:00'
 layout: publication
 title: Investigating Fuzzy DLs-Based Reasoning in Semantic Image Analysis

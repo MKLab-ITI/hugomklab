@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2018-04-25'
 layout: publication
 title: 'Open Innovation in the Big Data Era with the MOVING Platform: An Integrated

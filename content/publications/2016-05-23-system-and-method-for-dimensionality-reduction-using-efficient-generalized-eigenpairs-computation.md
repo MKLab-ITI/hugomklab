@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- patents
-images: []
+tags: patents
 publication_date: '2016-03-31'
 layout: publication
 title: System and method for dimensionality reduction using efficient generalized

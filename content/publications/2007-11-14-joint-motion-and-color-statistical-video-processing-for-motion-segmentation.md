@@ -6,9 +6,7 @@ excerpt: '<p><span style="color: black;"><span style="color: black;">A. Briassou
   href="/files/ICME07.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-07-01T00:00:00'
 layout: publication
 title: Joint Motion and Color Statistical Video Processing for Motion Segmentation

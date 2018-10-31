@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: '2012-01-01T00:00:00'
 layout: publication
 title: Search Computing

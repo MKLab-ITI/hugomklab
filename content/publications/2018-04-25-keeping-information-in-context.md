@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2018-04-25'
 layout: publication
 title: Keeping Information in Context

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: " 2014"
 layout: publication
 title: Comprehensive Health Monitoring and Personalized Feedback Using Multimedia

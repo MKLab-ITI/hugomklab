@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-09T00:00:00'
 layout: publication
 title: An Ontology Design Pattern for Digital Video

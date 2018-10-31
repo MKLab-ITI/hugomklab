@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-08-26'
 layout: publication
 title: Gender Effect in Human Brain Responses to Bottom-up and Top-down Attention

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-12-26'
 layout: publication
 title: A web-based tool for fast instance-level labeling of videos and the creation

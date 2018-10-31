@@ -7,9 +7,7 @@ excerpt: <div class="unapi">&nbsp;</div><p>Vassilios Solachidis, Phivos Mylonas,
   Joint Conference with the British Classification Society (BCS) and the Dutch/Flemish
   Classification Society (VOC)</p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-07-16T00:00:00'
 layout: publication
 title: Generating Collective Intelligence

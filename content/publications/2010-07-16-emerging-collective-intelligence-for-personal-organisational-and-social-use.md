@@ -6,9 +6,7 @@ excerpt: <p><span>S. Diplaris, A. Sonnenbichler, T. Kaczanowski, P. Mylonas, A. 
   edited by Dr. Nik Bessis and Dr. Fatos Xhafa, </span>Studies in Computational Intelligence,
   2011, Volume 352/2011, pp. 527-573, Springer.</p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2011-06-29T00:00:01'
 layout: publication
 title: Emerging, Collective Intelligence for Personal, Organisational and Social Use

@@ -6,9 +6,7 @@ excerpt: '<p>V. Koutsonikola, A. Vakali, E. Giannakidou I. Kompatsiaris, <a href
   5-7, Poznan, Poland <a href="/files/wise2009_draft.pdf" target="_blank"><img align="top"
   alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-10-05T00:00:00'
 layout: publication
 title: 'Clustering of Social Tagging System Users: A Topic and Time Based Approach'

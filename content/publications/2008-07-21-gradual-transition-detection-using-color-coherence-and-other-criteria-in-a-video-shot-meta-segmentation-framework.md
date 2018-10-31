@@ -5,9 +5,7 @@ excerpt: <p>E. Tsamoura, V. Mezaris, I. Kompatsiaris, &quot;Gradual transition d
   Retrieval (ICIP-MIR 2008), San Diego, CA, USA, October 2008, pp. 45-48. <a href="/files/icip08b.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-10-01T00:00:00'
 layout: publication
 title: Gradual transition detection using color coherence and other criteria in a

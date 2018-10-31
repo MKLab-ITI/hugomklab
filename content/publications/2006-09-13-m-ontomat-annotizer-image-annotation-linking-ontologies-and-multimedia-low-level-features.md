@@ -7,9 +7,7 @@ excerpt: '<p>K. Petridis, D. Anastasopoulos, C. Saathoff, N. Timmermann, I. Komp
   <a href="/files/pdf/kes06.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-10-01T00:00:00'
 layout: publication
 title: 'M-OntoMat-Annotizer: Image Annotation.  Linking Ontologies and Multimedia

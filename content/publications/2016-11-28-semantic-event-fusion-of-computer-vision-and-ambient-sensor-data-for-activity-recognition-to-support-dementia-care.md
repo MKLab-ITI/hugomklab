@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-11-28T00:00:00'
 layout: publication
 title: Semantic Event Fusion of Computer Vision and Ambient Sensor Data for Activity

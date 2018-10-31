@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-06-06'
 layout: publication
 title: 'Expo: An Expectation–oriented System for Selecting Important Photos from Personal

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-09-15'
 layout: publication
 title: Verifying information with multimedia content on twitter

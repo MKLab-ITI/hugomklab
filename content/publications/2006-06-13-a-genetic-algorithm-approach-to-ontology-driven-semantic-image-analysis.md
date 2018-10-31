@@ -7,9 +7,7 @@ excerpt: '<p>P.Panagi, S. Dasiopoulou, G.Th. Papadopoulos, I. Kompatsiaris, M.G.
   Bangalore, India, 2006. <a href="/files/vie06Panagi.pdf"><img align="top" alt=""
   border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-01-01T00:00:00'
 layout: publication
 title: A Genetic Algorithm Approach to Ontology-Driven Semantic  Image Analysis

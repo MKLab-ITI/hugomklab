@@ -5,9 +5,7 @@ excerpt: <p>M. Papadogiorgaki, V. Mezaris, Y. Chatzizisis, G. D. Giannoglou, I. 
   pp. 4034-4040, October 2008.<a href="/files/pdf/IST4034.pdf" target="_blank"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2008-10-01T00:00:00'
 layout: publication
 title: Visual Medical Information Analysis

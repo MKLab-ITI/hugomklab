@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-10-27'
 layout: publication
 title: 'MultiEdTech 2017: 1st International Workshop on Multimedia-based Educational

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-10-12'
 layout: publication
 title: A Reputation-based Incentive Mechanism for a Crowdsourcing Platform for Financial

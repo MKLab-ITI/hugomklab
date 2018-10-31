@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-09-10'
 layout: publication
 title: Compact and Distinctive Visual Vocabularies for Efficient Multimedia Data Indexing

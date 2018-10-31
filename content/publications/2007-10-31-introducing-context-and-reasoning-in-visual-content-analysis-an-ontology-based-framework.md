@@ -7,9 +7,7 @@ excerpt: '<p>S. Dasiopoulou, C. Saathoff, Ph. Mylonas, Y. Avrithis, Y. Kompatsia
   <a href="/files/pdf/IntroducingContextReasoning.pdf"><img align="top" alt="" border="0"
   src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2007-09-01T00:00:00'
 layout: publication
 title: 'Introducing Context and Reasoning in Visual Content Analysis: An Ontology-based

@@ -4,9 +4,7 @@ excerpt: '<p>Yiannis Kompatsiaris, Stephane Marchand-Maillet, Roelof van Zwol an
   to the Special issue on Image and Video Retrieval: Theory and Applications</a>&quot;,
   Multimedia Tools and Applications, vol. 55, no. 1, pp. 1-6, October 2011.</p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-10-01T00:00:00'
 layout: publication
 title: 'Introduction to the Special issue on Image and Video Retrieval: Theory and

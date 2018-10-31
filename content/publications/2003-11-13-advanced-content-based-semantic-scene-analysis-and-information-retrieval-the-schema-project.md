@@ -6,9 +6,7 @@ excerpt: '<p>E. Izquierdo, J. R. Casas, R. Leonardi, P. Migliorati, Noel E. O&#3
   UK. <a href="/files/pdf/wiamis03_schema.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2003-04-01T00:00:00'
 layout: publication
 title: 'Advanced Content-Based  Semantic Scene Analysis and Information Retrieval:

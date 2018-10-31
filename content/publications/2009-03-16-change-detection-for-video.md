@@ -4,9 +4,7 @@ excerpt: <p>A. Briassouli, I. Kompatsiaris, &quot;Change Detection for Video&quo
   Troyes, France. <a href="/files/video_change.pdf"><img align="top" alt="" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-06-15T00:00:00'
 layout: publication
 title: Change Detection for Video

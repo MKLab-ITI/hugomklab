@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-07-05T00:00:00'
 layout: publication
 title: Leveraging Social Media For Training Object Detectors

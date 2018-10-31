@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-02-01'
 layout: publication
 title: Fusion of meteorological and air quality data extracted from the web for personalized

@@ -5,9 +5,7 @@ excerpt: <p>V. Mezaris, I. Kompatsiaris, and M. G. Strintzis, &quot;Still image 
   2-3, 2003, Prague, Czech Republic, pp. 9-14. <a href="/files/pdf/cost276_5.pdf"><img
   align="top" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2003-10-02T00:00:00'
 layout: publication
 title: Still image  objective segmentation evaluation using ground truth

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-08-08T00:00:00'
 layout: publication
 title: Multi-sensing Monitoring and Knowledge-driven Analysis for Dementia Assessment

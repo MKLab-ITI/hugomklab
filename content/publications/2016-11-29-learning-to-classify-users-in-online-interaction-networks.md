@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-06-16'
 layout: publication
 title: Learning to Classify Users in Online Interaction Networks

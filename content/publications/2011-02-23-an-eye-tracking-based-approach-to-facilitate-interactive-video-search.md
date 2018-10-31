@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2011-04-17T00:00:00'
 layout: publication
 title: An Eye-tracking-based Approach to Facilitate Interactive Video Search

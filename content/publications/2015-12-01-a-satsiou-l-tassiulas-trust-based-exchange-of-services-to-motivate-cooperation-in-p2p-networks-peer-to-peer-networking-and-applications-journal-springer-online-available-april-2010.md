@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: 2010-04-01T00:00
 layout: publication
 title: A.Satsiou, L.Tassiulas, “Trust-Based Exchange of Services to Motivate Cooperation

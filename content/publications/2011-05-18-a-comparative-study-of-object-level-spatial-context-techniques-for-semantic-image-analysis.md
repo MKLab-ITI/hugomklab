@@ -6,9 +6,7 @@ excerpt: <p>G.Th. Papadopoulos, C. Saathoff, H.J. Escalante, V. Mezaris, I. Komp
   1288-1307, September 2011. <a href="/files/cviu11_preprint.pdf"><img align="top"
   alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-05-18T00:00:00'
 layout: publication
 title: A Comparative Study of Object-level Spatial Context Techniques for Semantic

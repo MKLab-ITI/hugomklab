@@ -6,9 +6,7 @@ excerpt: '<p>Sotiris Diplaris, Symeon Papadopoulos, Ioannis Kompatsiaris, Nicola
   companion on World Wide Web</em> (WWW &#39;12 Companion). ACM, New York, NY, USA,
   1241-1246.</p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-04-16T00:00:00'
 layout: publication
 title: '"Making Sense of it All": An Attempt to Aid Journalists in Analysing and Filtering

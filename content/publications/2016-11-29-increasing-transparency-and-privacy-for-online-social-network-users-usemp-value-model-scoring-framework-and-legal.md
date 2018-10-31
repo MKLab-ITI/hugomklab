@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-07'
 layout: publication
 title: Increasing transparency & privacy for Online Social Network users – USEMP value

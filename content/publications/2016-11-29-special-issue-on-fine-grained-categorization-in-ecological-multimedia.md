@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-10-01'
 layout: publication
 title: Special issue on fine-grained categorization in ecological multimedia

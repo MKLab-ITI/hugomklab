@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: '2018-04-25'
 layout: publication
 title: 'Personal Multimedia Preservation: Remembering or Forgetting Images and Video'

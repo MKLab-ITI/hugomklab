@@ -4,9 +4,7 @@ excerpt: <p>S. Dasiopoulou, V. Tzouvaras, I. Kompatsiaris and M.G. Strintzis, <a
   on Metadata and Semantics Research, 11-12 Oct., Corfu, Greece, 2007. <a href="/files/pdf/CapturingMPEG-7.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2007-10-11T00:00:00'
 layout: publication
 title: Capturing MPEG-7 Semantics

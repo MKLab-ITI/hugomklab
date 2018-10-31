@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-06-01T00:00:00'
 layout: publication
 title: Detection of Terrorism-related Twitter Communities using Centrality Scores

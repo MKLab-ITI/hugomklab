@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-07-01'
 layout: publication
 title: Functional Assessment of Patients with Dementia and Mild Cognitive Impairment

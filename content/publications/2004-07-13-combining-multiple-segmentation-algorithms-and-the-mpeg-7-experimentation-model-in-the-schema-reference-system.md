@@ -6,9 +6,7 @@ excerpt: <p>V. Mezaris, H. Doulaverakis, R. Medina Beltran de Otalora, S. Herrma
   UK, pp. 253-258. <a href="/files/pdf/iv04.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2004-07-01T00:00:00'
 layout: publication
 title: Combining multiple  segmentation algorithms and the MPEG-7 eXperimentation

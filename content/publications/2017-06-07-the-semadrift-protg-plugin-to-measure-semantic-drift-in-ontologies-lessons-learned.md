@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2017'
 layout: publication
 title: 'The SemaDrift Protégé Plugin to Measure Semantic Drift in Ontologies: Lessons

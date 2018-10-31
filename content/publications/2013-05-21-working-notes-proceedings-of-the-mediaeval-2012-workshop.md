@@ -4,9 +4,7 @@ excerpt: <p>M. Larson, S. Schmiedeke, P. Kelm, A. Rae, V. Mezaris, T. Piatrik, M
   Notes Proceedings of the MediaEval 2012 Workshop</a>&quot;, CEUR vol. 927, Pisa,
   Italy, October 2012.</p>
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: '2012-10-01T00:00:00'
 layout: publication
 title: Working Notes Proceedings of the MediaEval 2012 Workshop

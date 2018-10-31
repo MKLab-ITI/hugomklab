@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-11-29T00:00:00'
 layout: publication
 title: 'MGraph: multimodal event summarization in social media using topic models

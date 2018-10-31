@@ -7,9 +7,7 @@ excerpt: <p>Francesco Bellotti, Stefanos Vrochidis, Eirini Parissi, Pascal Lhoas
   2008.<a href="/files/33-202-1-PB.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2008-09-01T00:00:00'
 layout: publication
 title: A T-learning Courses Development and Presentation Framework

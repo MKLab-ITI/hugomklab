@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2018-11-27T00:00:00'
 layout: publication
 title: Social Media Observations for Flood Event Monitoring in Italy over a One-Year Period

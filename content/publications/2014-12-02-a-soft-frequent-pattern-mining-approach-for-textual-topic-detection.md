@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-05-20'
 layout: publication
 title: A soft frequent pattern mining approach for textual topic detection

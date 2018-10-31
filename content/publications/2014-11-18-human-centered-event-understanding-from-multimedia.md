@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-11-01'
 layout: publication
 title: Human-centered Event Understanding from Multimedia

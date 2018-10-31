@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-06-22T00:00:00'
 layout: publication
 title: Hybrid Focused Crawling on the Surface and the Dark Web

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-09-11T00:00:00'
 layout: publication
 title: A Monitoring Tool for Terrorism-related Key-players and Key-communities in

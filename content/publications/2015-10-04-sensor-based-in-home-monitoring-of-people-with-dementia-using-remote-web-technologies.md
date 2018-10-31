@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-01'
 layout: publication
 title: Sensor-based In-home Monitoring of People with Dementia Using Remote Web Technologies

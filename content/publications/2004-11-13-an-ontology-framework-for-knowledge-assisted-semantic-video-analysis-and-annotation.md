@@ -7,9 +7,7 @@ excerpt: <p>S. Dasiopoulou, V. K. Papastathis, V. Mezaris, I. Kompatsiaris, and 
   Web Conference (ISWC 2004), November 2004, Hiroshima, Japan. <a href="/files/pdf/semannot04.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2004-11-01T00:00:00'
 layout: publication
 title: An Ontology Framework For Knowledge-Assisted Semantic  Video Analysis and Annotation

@@ -5,9 +5,7 @@ excerpt: '<p>C. Doulaverakis, G. Nikolaidis, A. Kleontas and I. Kompatsiaris, &q
   Conference on Biomedical Ontology (ICBO 2012), July 21, 2012, Graz, Austria.<a href="/files/ICBO-2012-VDOSME-GalenOWL.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-07-10T00:00:00'
 layout: publication
 title: 'GalenOWL: Ontology based drug recommendations discovery'

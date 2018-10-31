@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-09-01'
 layout: publication
 title: The use of ICT for the assessment of people with dementia and mild cognitive

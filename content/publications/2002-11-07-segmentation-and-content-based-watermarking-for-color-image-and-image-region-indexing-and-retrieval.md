@@ -6,9 +6,7 @@ excerpt: <p>N. V. Boulgouris, I. Kompatsiaris, V. Mezaris, D. Simitopoulos, and 
   vol. 2002, no. 4, pp. 418-431, April 2002.<a href="/files/pdf/JASP_2002.pdf"><img
   align="top" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2002-04-01T00:00:00'
 layout: publication
 title: Segmentation and Content-based Watermarking for Color Image and Image Region

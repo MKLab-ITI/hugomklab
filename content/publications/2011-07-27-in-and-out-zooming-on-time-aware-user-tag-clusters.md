@@ -5,9 +5,7 @@ excerpt: '<p>E. Giannakidou, V. Koutsonikola, A. Vakali and I. Kompatsiaris, &qu
   in Journal of Intelligent Information Systems, Vol 38, Issue 3(2012) pages 685-708,
   <a href="http://www.springerlink.com/content/l63238503340t5v3/">DOI: 10.1007/s10844-011-0173-4</a></p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-07-27T00:00:00'
 layout: publication
 title: In & out zooming on time-aware user/tag clusters

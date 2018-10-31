@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2004-05-09T00:00
 layout: publication
 title: A.Satsiou, M.Paterakis, “Impact of Frequency-Based Cache Management Policies

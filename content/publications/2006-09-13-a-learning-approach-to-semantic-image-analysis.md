@@ -6,9 +6,7 @@ excerpt: '<p>G. Th. Papadopoulos, P. Panagi, S. Dasiopoulou, V. Mezaris and I. K
   Sardinia, Italy, September 2006. <a href="/files/MobiMedia06.pdf"><img align="top"
   alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-09-01T00:00:00'
 layout: publication
 title: A Learning Approach to Semantic Image Analysis

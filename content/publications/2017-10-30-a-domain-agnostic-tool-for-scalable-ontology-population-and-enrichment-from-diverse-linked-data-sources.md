@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017'
 layout: publication
 title: A Domain-Agnostic Tool for Scalable Ontology Population and Enrichment from

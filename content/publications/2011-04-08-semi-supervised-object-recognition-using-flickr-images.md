@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2011-06-15T00:00:00'
 layout: publication
 title: Semi-Supervised object recognition using flickr images

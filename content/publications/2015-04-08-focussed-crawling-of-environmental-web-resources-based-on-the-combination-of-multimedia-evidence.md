@@ -5,9 +5,7 @@ excerpt: "<p class=\"p1\"><span class=\"s1\">T. Tsikrika, A. Moumtzidou, S. Vroc
   Combination of Multimedia Evidence</a>, Multimedia Tools and Applications, May 2015,
   pp 1-25, doi: 10.1007/s11042-015-2624-3</span></p>\r\n"
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-05-31T00:00:00'
 layout: publication
 title: Focussed Crawling of Environmental Web Resources Based on the Combination of

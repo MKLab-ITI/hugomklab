@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-10-01'
 layout: publication
 title: CERTH at MediaEval 2014 Synchronization of Multi-User Event Media Task

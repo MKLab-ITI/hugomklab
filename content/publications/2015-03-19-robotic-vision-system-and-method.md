@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- patents
-images: []
+tags: patents
 publication_date: '2011-12-30T00:00:00'
 layout: publication
 title: Robotic vision system and method

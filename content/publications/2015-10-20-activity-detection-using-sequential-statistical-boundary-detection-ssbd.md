@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: 2015-XX-XXT00:00:00
 layout: publication
 title: Activity detection using Sequential Statistical Boundary Detection (SSBD)

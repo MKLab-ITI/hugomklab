@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-12-01T00:00:00'
 layout: publication
 title: Studying the Cohesion Evolution of Genes Related to Chronic Lymphocytic Leukemia

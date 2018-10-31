@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-06-07'
 layout: publication
 title: 'DigiArt: Building New 3D Cultural Heritage Worlds'

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-03-07'
 layout: publication
 title: 'Deep Learning Advances in Computer Vision with 3D Data: A Survey'

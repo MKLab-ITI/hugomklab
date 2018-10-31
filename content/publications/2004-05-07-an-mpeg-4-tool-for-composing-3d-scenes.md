@@ -4,9 +4,7 @@ excerpt: <p>P. Daras, I. Kompatsiaris, T. Raptis and M. G. Strintzis, &quot;An M
   2004.<a href="/files/pdf/01289042_multimedia.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2004-04-01T00:00:00'
 layout: publication
 title: An MPEG-4 Tool for Composing 3D Scenes

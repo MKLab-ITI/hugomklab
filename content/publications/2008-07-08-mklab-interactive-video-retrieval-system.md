@@ -5,9 +5,7 @@ excerpt: '<p>S. Vrochidis, P. King, L. Makris, A. Moumtzidou, V. Mezaris and I. 
   ISBN: 978-1-60558-070-8, 7-9 July 2008. <a href="/files/civr032d-vrochidis.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-07-07T00:00:00'
 layout: publication
 title: MKLab Interactive Video Retrieval System

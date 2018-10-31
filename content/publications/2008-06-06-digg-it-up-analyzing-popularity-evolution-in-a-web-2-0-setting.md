@@ -4,9 +4,7 @@ excerpt: "<p>S. Papadopoulos, A. Vakali, and I. Kompatsiaris, &quot;Digg it Up! 
   Mining Social Data (MSoDa 2008) at the 18th European Conference on Artificial Intelligence
   (ECAI 2008), Patras, Greece, July 2008.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-07-01T00:00:00'
 layout: publication
 title: Digg it Up! Analyzing Popularity Evolution in a Web 2.0 Setting

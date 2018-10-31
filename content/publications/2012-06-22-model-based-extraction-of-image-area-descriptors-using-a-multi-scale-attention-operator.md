@@ -4,9 +4,7 @@ excerpt: R. Palenichka, M. Petrou, Y. Kompatsiaris, A. Lakhssassi, &quot;Model-b
   21st International Conference on Pattern Recognition (ICPR 2012), November 11-15,
   2012, Tsukuba , Japan.
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-11-11T00:00:00'
 layout: publication
 title: Model-based extraction of image area descriptors using a multi-scale attention

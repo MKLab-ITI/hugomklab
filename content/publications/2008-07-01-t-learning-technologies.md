@@ -5,9 +5,7 @@ excerpt: <p>S. Vrochidis, F. Bellotti, G. Bo, Linda Napoletano and I. Kompatsiar
   3765-3771, October 2008.<a href="/files/pdf/IST3765.pdf" target="_blank"><img align="top"
   alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2008-10-01T00:00:00'
 layout: publication
 title: T-learning Technologies

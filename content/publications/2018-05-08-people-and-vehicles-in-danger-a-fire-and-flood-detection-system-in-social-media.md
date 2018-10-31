@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2018-06-10T00:00:00'
 layout: publication
 title: People and vehicles in danger - A fire and flood detection system in social

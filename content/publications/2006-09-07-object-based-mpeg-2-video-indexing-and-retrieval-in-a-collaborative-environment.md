@@ -5,9 +5,7 @@ excerpt: <p>V. Mezaris, I. Kompatsiaris and M. G. Strintzis, &quot;Object-based 
   href="/files/pdf/mtap06.pdf"><img align="top" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2006-09-01T00:00:00'
 layout: publication
 title: Object-based MPEG-2 video indexing and retrieval in a collaborative environment

@@ -6,9 +6,7 @@ excerpt: <p>M. Papadogiorgaki, V. Mezaris, Y.S. Chatzizisis, I. Kompatsiaris, G.
   Hungary, pp. 461-464. <a href="/files/iwssip06.pdf"><img align="top" alt="" border="0"
   src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-09-01T00:00:00'
 layout: publication
 title: A Fully Automated Texture-based  Approach for the Segmentation of Sequential

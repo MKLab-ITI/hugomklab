@@ -4,9 +4,7 @@ excerpt: "<p>A. Scherp, V. Mezaris, &quot;Survey on Modeling and Indexing Events
   2014. <a href=\"http://link.springer.com/article/10.1007/s11042-013-1427-7\">DOI:
   10.1007/s11042-013-1427-7</a></p>\r\n\r\n "
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2014-05-01T00:00:00'
 layout: publication
 title: Survey on Modeling and Indexing Events in Multimedia

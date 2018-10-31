@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-07-27'
 layout: publication
 title: 'Efficacy and safety of Crocus sativus L in patients with Mild Cognitive Impairment:

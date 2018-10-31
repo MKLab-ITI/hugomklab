@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-11-03'
 layout: publication
 title: 'A multimodal dataset for authoring and editing multimedia content: The MAMEM

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2017/11/23
 layout: publication
 title: 'The STEP Project: Societal and Political Engagement of Young People in Environmental

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-09-02'
 layout: publication
 title: 'Applying SPARQL-based inference and ontologies for modelling and execution

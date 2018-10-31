@@ -5,9 +5,7 @@ excerpt: '<p>I. Kompatsiaris, Y. Avrithis, P. Hobson, T. May, J. Tromp, &quot;Ac
   Royal Statistical Society, London, 25-26 Nov. 2004. <a href="/files/pdf/ewimt_p41.pdf"><img
   align="top" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2004-11-25T00:00:00'
 layout: publication
 title: 'Achieving Integration of Knowledge and Content Technologies: The  AceMedia

@@ -4,9 +4,7 @@ excerpt: '<p>Y. Kompatsiaris, S. Nikolopoulos (Eds.): &quot;<a href="http://dx.d
   Search Cluster White Paper, European Commission, ISBN 978-92-79-18514-4, doi:10.2759/52084,
   September 2011</p>'
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: '2011-09-16T00:00:00'
 layout: publication
 title: 'Search Computing: Business Areas, Research and Socio-Economic Challenges'

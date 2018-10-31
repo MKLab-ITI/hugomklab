@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-06-30'
 layout: publication
 title: 'KRISTINA: A Knowledge-Based Virtual Conversation Agent'

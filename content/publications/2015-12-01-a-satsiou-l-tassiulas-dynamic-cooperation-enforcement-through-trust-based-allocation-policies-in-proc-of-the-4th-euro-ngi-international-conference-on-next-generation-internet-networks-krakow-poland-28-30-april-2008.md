@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2008-04-28T00:00
 layout: publication
 title: A.Satsiou, L.Tassiulas, “Dynamic Cooperation Enforcement through Trust-based

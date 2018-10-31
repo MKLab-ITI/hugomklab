@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2016-10-01T00:00:00'
 layout: publication
 title: OSINT and the Dark Web

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2013-11-31
 layout: publication
 title: ITI-CERTH participation to TRECVID 2013

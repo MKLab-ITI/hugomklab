@@ -5,9 +5,7 @@ excerpt: "<p>A. Ozolina, A. Kapenieks, B. Zuga, M. Jirgensons, F. Bellotti, S. V
   College, &quot;ICTE in Regional Development&quot;, 2007, Valmiera, Latvia, pp 87-95,
   ISBN 9984-633-10-1.</p>"
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2007-01-01T00:00:00'
 layout: publication
 title: Designing Attractive T-Learning Courses Applications for Interactive Digital

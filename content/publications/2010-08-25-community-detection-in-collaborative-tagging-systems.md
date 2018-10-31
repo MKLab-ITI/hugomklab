@@ -3,9 +3,7 @@ excerpt: "<p>S. Papadopoulos, A. Vakali, Y. Kompatsiaris. &quot;Community Detect
   in Collaborative Tagging Systems&quot;. In Book Community-built Database: Research
   and Development, edited by Dr. Eric Pardede, Springer, May 2011</p>"
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2011-05-01T00:00:00'
 layout: publication
 title: Community Detection in Collaborative Tagging Systems

@@ -5,9 +5,7 @@ excerpt: '<p>S. Waddington, B. Bratu, I. Kompatsiaris, E. Nidelkou, M. Papadogio
   Publication date: 22/10/2008 <a href="/files/contentRecommendationSystem.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a>&nbsp;&nbsp;</p>'
 types: publication
-tags:
-- patents
-images: []
+tags: patents
 publication_date: '2008-10-22T00:00:00'
 layout: publication
 title: A content recommendation system

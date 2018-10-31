@@ -4,9 +4,7 @@ excerpt: <p>D. Hilbring, A. Moumtzidou, J. Mossgraber and S. Vrochidis. &quot;<a
   Data Sources</a>&quot;, The Global Conference for Open Source Geospatial Software,
   Nottingham, UK, September 17-21, 2013.</p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-09-17T00:00:00'
 layout: publication
 title: Semantically Enriching an Open Source SOS Implementation for Accessing Heterogeneous

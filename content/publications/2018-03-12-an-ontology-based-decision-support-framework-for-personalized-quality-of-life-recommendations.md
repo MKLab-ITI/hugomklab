@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2018-05-22T00:00:00'
 layout: publication
 title: An Ontology-based Decision Support Framework for Personalized Quality of Life

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-10-17'
 layout: publication
 title: SocialSensor at MediaEval Placing Task 2014

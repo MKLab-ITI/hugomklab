@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-06-1'
 layout: publication
 title: 'A Sensor-Based Framework to Support Clinicians in Dementia Assessment: The

@@ -5,9 +5,7 @@ excerpt: <p>G. Th. Papadopoulos, V. Mezaris, I. Kompatsiaris and M. G. Strintzis
   on Image Processing (ICIP 2010), Hong Kong, China, September 2010. <a href="/files/icip10_2.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2010-09-26T00:00:00'
 layout: publication
 title: Probabilistic Combination of Spatial Context with Visual and Co-occurrence

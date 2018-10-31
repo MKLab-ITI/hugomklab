@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-10-31'
 layout: publication
 title: 'About Events, Objects, and their Relationships: Human-centered Event Understanding

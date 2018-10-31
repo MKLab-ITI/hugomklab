@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-09-20'
 layout: publication
 title: 'Intelligent User Interfaces to Support Diagnosis and Assessment of People

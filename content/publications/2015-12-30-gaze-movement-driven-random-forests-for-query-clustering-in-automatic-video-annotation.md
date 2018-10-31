@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-01-01'
 layout: publication
 title: Gaze Movement-driven Random Forests for Query Clustering in Automatic Video

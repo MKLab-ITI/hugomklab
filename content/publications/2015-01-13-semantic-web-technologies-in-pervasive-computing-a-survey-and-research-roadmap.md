@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015'
 layout: publication
 title: 'Semantic Web technologies in pervasive Computing: A survey and research roadmap'

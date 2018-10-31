@@ -4,9 +4,7 @@ excerpt: "<p>S. Valette, I. Kompatsiaris and M. G. Strintzis, &quot;A polygonal 
   Workshop towards Semantic Virtual Environments SVE 2005, Villars, CH, March 16-18,
   2005, pp. 68-76.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2005-03-16T00:00:00'
 layout: publication
 title: A polygonal mesh  partitioning algorithm based on protrusion conquest for perceptual

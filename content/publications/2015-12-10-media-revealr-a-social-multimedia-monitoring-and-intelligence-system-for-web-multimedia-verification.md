@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: 2015-10-11T00:00
 layout: publication
 title: 'Media REVEALr: A Social Multimedia Monitoring and Intelligence System for

@@ -3,9 +3,7 @@ excerpt: "<p>Ioannis Arapakis, Ioannis Konstas, Joemon M. Jose, Ioannis Kompatsi
   &quot;Modeling Facial Expressions and Peripheral Physiological Signals to Predict
   Topical Relevance&quot;, ACM SIGIR 2009,Boston, Massachusetts.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-07-19T00:00:00'
 layout: publication
 title: Modeling Facial Expressions and Peripheral Physiological Signals to Predict

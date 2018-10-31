@@ -6,9 +6,7 @@ excerpt: <p>A. Briassouli, V. Mezaris, I. Kompatsiaris, &quot;Color aided motion
   2007 <a href="/files/IMA.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2007-01-01T00:00:00'
 layout: publication
 title: Color aided motion-segmentation and object tracking for video sequences semantic

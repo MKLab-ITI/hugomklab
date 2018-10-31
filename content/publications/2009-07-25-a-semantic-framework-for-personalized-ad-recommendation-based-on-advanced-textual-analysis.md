@@ -5,9 +5,7 @@ excerpt: <p>D. Tsatsou, F. Menemenis, I. Kompatsiaris and P. C. Davis. &quot;A S
   October 2009.&nbsp;<a href="/mklab_people/~dorothea/files/sp236-tsatsou.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-10-01T00:00:00'
 layout: publication
 title: A Semantic Framework for Personalized Ad Recommendation based on Advanced Textual

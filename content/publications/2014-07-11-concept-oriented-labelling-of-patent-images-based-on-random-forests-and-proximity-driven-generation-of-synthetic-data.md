@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-08-23'
 layout: publication
 title: Concept-oriented labelling of patent images based on Random Forests and proximity-driven

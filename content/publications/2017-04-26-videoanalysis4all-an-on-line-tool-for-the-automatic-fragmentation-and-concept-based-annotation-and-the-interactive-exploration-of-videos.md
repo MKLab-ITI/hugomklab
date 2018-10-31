@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-06-06'
 layout: publication
 title: 'VideoAnalysis4ALL: An on-line tool for the automatic fragmentation and concept-based

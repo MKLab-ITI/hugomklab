@@ -4,9 +4,7 @@ excerpt: '<p>Kompatsiaris, Yiannis; Hobson, Paola (Eds.): &quot;Semantic Multime
   March 2008, <a href="http://www.amazon.com/Semantic-Multimedia-Ontologies-Theory-Applications/dp/1848000758/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1202389858&amp;sr=1-1">Book
   in Amazon&#39;s Site</a></p>'
 types: publication
-tags:
-- proceedings_books_white_papers
-images: []
+tags: proceedings_books_white_papers
 publication_date: '2008-03-01T00:00:00'
 layout: publication
 title: 'Semantic Multimedia and Ontologies: Theory and Applications'

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-05-18T00:00:00'
 layout: publication
 title: 'Dem@Lab: Ambient Assisted Living Framework for the Assessment of Dementia

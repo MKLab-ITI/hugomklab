@@ -4,9 +4,7 @@ excerpt: "<p>V. Mezaris, N. Thomos, N. V. Boulgouris, I. Kompatsiaris, &quot;Kno
   Semantic Media Adaptation and Personalization, M. Wallace, M. Angelides, P. Mylonas
   (Editors), Studies in Computational Intelligence series, Springer-Verlag, 2007.</p>"
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2007-01-01T00:00:00'
 layout: publication
 title: Knowledge-Assisted Analysis of Video for Content-Adaptive Coding and Transmission

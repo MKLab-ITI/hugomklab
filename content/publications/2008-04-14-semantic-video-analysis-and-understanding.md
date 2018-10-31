@@ -5,9 +5,7 @@ excerpt: <p>V. Mezaris, G. Th. Papadopoulos, A. Briassouli, I. Kompatsiaris, M. 
   IGI Global, vol. VII, pp. 3419-3425, October 2008<a href="/files/pdf/IST3419.pdf"
   target="_blank"><img align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2008-10-01T00:00:00'
 layout: publication
 title: Semantic Video Analysis and Understanding

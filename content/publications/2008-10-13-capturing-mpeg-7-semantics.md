@@ -5,9 +5,7 @@ excerpt: <p>S. Dasiopoulou, V. Tzouvaras, I. Kompatsiaris and M.G. Strintzis, <a
   <a href="/files/pdf/CapturingMPEG-7.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2008-10-01T00:00:00'
 layout: publication
 title: Capturing MPEG-7 Semantics

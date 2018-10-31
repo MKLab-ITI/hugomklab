@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-11-01'
 layout: publication
 title: Special issue on multimedia in ecology

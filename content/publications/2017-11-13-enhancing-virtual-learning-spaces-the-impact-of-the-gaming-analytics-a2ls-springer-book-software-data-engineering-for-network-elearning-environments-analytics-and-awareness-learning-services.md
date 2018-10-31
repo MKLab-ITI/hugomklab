@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2017-11-13'
 layout: publication
 title: 'Enhancing Virtual Learning Spaces: the impact of the Gaming Analytics, A2LS

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-02-25T00:00:00'
 layout: publication
 title: Swarm Intelligence for Detecting Interesting Events in Crowded Environments

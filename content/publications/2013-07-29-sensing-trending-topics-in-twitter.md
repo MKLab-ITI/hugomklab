@@ -3,9 +3,7 @@ excerpt: "<p>L. Aiello, G. Petkos, C. Martin, D. Corney, S. Papadopoulos, R. Skr
   A. Goker, I. Kompatsiaris, A. Jaimes, &quot;Sensing trending topics in Twitter&quot;,
   IEEE Transactions on Multimedia 15(6), pp. 1268-1282, October 2013</p>"
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2013-06-06T00:00:00'
 layout: publication
 title: Sensing trending topics in Twitter

@@ -7,9 +7,7 @@ excerpt: <p>L. Wanner, H. Bosch, N. Bouayad-Agha, U. Brügel, G. Casamayor, T. E
   6-8, 2010.<a href="/files/enviro_info.pdf" target="_blank" title="pdf file"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2010-10-06T00:00:00'
 layout: publication
 title: Service-Based Infrastructure for User-Oriented Environmental Information Delivery

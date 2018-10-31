@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2016-07-26T00:00:00'
 layout: publication
 title: 'Association of global and local low endothelial shear stress with high-risk

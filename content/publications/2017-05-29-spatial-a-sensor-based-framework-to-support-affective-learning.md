@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-05-29'
 layout: publication
 title: 'SpAtiAL: A Sensor based Framework to Support Affective Learning'

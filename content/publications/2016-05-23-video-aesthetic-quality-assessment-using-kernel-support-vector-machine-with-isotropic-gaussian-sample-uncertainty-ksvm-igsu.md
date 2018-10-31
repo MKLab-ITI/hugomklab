@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-09-28'
 layout: publication
 title: Video Aesthetic Quality Assessment using Kernel Support Vector Machine with

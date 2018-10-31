@@ -5,9 +5,7 @@ excerpt: <p>S. Dasiopoulou, E. Giannakidou, G. Litos, P. Malasioti, Y. Kompatsia
   6050/BOEMIE EU Project, G. Paliouras, C.D. Spyropoulos, G. Tsatsaronis (Eds.), Springer
   Verlang, 2011. <a href="/files/AnnotationToolsOVerview.pdf">PDF</a></p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2011-01-01T00:00:00'
 layout: publication
 title: A Survey of Semantic Image and Video Annotation Tools

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-06-25T00:00:00'
 layout: publication
 title: The DemaWare Service-Oriented AAL Platform for the Dem@Care System

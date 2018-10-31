@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-11-15T00:00:00'
 layout: publication
 title: Learning to detect concepts with Approximate Laplacian Eigenmaps in large-scale

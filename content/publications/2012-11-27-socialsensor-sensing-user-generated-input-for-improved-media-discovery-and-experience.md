@@ -6,9 +6,7 @@ excerpt: '<p>Sotiris Diplaris, Symeon Papadopoulos, Ioannis Kompatsiaris, Ayse G
   In <em>Proceedings of the 21st international conference companion on World Wide
   Web</em> (WWW &#39;12 Companion). ACM, New York, NY, USA, 243-246.</p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-04-16T00:00:00'
 layout: publication
 title: 'SocialSensor: Sensing User Generated Input for Improved Media Discovery and

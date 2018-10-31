@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015-05-07T00:00:00'
 layout: publication
 title: Multimedia Tools and Applications

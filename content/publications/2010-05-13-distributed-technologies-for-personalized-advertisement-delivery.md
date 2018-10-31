@@ -4,9 +4,7 @@ excerpt: "<p>D. Tsatsou, S. Papadopoulos, I. Kompatsiaris, P.C. Davis, &quot;Dis
   Advertising: Techniques and Technologies, Xian-Sheng Hua, Tao Mei, Alan Hanjalic
   (editors), IGI Global, 2011&nbsp;</p>"
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2011-01-01T00:00:00'
 layout: publication
 title: Distributed Technologies for Personalized Advertisement Delivery

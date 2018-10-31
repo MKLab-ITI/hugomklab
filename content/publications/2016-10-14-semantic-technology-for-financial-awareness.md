@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-10-13'
 layout: publication
 title: Semantic Technology for Financial Awareness

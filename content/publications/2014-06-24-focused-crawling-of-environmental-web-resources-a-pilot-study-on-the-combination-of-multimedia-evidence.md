@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-04-01'
 layout: publication
 title: 'Focused Crawling of Environmental Web Resources: A Pilot Study on the Combination

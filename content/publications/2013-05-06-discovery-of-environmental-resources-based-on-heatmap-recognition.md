@@ -4,9 +4,7 @@ excerpt: "<p>A. Moumtzidou, S. Vrochidis, E. Chatzilari and I. Kompatsiaris. &qu
   IEEE International Conference on Image Processing (ICIP 2013), Melbourne, Australia,
   September 15-18, 2013.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-09-15T00:00:00'
 layout: publication
 title: Discovery of Environmental Resources based on Heatmap Recognition

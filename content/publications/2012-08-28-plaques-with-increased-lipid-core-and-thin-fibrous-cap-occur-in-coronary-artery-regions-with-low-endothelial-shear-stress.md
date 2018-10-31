@@ -6,9 +6,7 @@ excerpt: "<p>A. Giannopoulos, K. Toutouzas, M. Riga, Y.S. Chatzizisis, A. Antoni
   study in human&quot;, European Society of Cardiology Congress 2012 (ESC 2012), Munich,
   Germany, August 2012.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2012-08-28T00:00:00'
 layout: publication
 title: Plaques with increased lipid core and thin fibrous cap occur in coronary artery

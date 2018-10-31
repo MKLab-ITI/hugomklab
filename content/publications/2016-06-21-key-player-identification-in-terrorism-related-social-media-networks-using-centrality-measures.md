@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-08-17T00:00:00'
 layout: publication
 title: Key player identification in terrorism-related social media networks using

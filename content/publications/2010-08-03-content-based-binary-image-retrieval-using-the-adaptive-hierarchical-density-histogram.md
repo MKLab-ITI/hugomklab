@@ -4,9 +4,7 @@ excerpt: <p>P. Sidiropoulos, S. Vrochidis, I. Kompatsiaris, &quot;<a href="http:
   Density Histogram</a>&quot;, Pattern Recognition Journal, Elsevier, Volume 44, Issue
   4, pp 739-750, April 2011.</p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2011-04-01T00:00:00'
 layout: publication
 title: Content-Based Binary Image Retrieval using the Adaptive Hierarchical Density

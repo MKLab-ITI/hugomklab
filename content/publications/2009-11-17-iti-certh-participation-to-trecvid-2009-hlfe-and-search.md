@@ -5,9 +5,7 @@ excerpt: <p>A. Moumtzidou, A. Dimou, P. King, S. Vrochidis, A. Angeletou, V. Mez
   MD, USA.<a href="/files/iti-certh.pdf"><img align="top" alt="" border="0" src="/files/pdf/pdf.png"
   /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2009-11-01T00:00:00'
 layout: publication
 title: ITI-CERTH participation to TRECVID 2009 HLFE and Search

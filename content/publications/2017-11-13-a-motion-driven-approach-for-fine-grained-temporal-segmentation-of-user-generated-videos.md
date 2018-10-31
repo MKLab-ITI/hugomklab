@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2018-02-08'
 layout: publication
 title: A motion-driven approach for fine-grained temporal segmentation of user-generated

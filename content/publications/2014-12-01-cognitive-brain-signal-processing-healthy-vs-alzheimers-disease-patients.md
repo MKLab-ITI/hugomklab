@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-06-25'
 layout: publication
 title: 'Cognitive Brain signal Processing: Healthy vs Alzheimer’s disease patients'

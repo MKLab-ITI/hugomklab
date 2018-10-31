@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2014-12-15'
 layout: publication
 title: 'Getting the environmental information across: From the web to the user'

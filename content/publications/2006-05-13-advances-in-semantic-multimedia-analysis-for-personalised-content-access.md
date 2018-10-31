@@ -5,9 +5,7 @@ excerpt: <p>P. Hobson, Y. Kompatsiaris, &quot;Advances in semantic multimedia an
   and Systems (ISCAS 2006), Kos Island, Greece, 21 - 24 May 2006.<a href="/files/pdf/special-sesson-overview_paper_v12.pdf"><img
   align="top" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-05-21T00:00:00'
 layout: publication
 title: Advances in semantic multimedia  analysis for personalised content access

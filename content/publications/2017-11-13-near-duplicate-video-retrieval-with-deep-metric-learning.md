@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-10-22'
 layout: publication
 title: Near-Duplicate Video Retrieval with Deep Metric Learning

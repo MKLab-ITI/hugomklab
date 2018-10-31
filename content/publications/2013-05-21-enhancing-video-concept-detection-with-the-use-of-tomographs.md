@@ -3,9 +3,7 @@ excerpt: "<p>P. Sidiropoulos, V. Mezaris, I. Kompatsiaris, &quot;Enhancing video
   detection with the use of tomographs&quot;, Proc. IEEE International Conference
   on Image Processing (ICIP 2013), Melbourne, Australia, September 2013.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-09-15T00:00:00'
 layout: publication
 title: Enhancing video concept detection with the use of tomographs

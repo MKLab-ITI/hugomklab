@@ -5,9 +5,7 @@ excerpt: '<p>S. Waddington, B. Bratu, I. Kompatsiaris, E. Nidelkou, M. Papadogio
   number:&nbsp;WO2008073594&nbsp;(B1), WIPO,&nbsp;Publication date: 19/6/2008 <a href="/files/WO2008073594A1.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- patents
-images: []
+tags: patents
 publication_date: '2008-06-19T00:00:00'
 layout: publication
 title: A Content Recommendation System and a Method of Operation Therefor

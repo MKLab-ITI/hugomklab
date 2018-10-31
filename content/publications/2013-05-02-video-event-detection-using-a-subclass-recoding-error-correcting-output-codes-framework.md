@@ -4,9 +4,7 @@ excerpt: "<p>N. Gkalelis, V. Mezaris, M. Dimopoulos, I. Kompatsiaris, T. Stathak
   framework&quot;, Proc. IEEE Int. Conf. on Multimedia and Expo (ICME 2013), San Jose,
   CA, USA, July 2013.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-07-01T00:00:00'
 layout: publication
 title: Video event detection using a subclass recoding error-correcting output codes

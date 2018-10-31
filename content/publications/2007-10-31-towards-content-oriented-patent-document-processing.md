@@ -6,9 +6,7 @@ excerpt: '<p><span>L. Wanner, R. Baeza-Yates, S. Brugmann, J. Codina, B. Diallo,
   30(1): 21-33, March 2008. </span><a href="/mklab_people/papadop/pubs/TowardsContentOrientedPatentRetrieval.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2008-03-01T00:00:00'
 layout: publication
 title: Towards content-oriented patent document processing

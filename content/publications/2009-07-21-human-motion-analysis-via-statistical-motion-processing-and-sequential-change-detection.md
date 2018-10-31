@@ -5,9 +5,7 @@ excerpt: '<p>A. Briassouli, V. Tsiminaki, I.Kompatsiaris, &quot;Human Motion Ana
   doi: 10.1155/2009/652050.<a href="/files/human-motion.pdf"><img align="top" alt=""
   border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2009-01-01T00:00:00'
 layout: publication
 title: Human Motion Analysis via Statistical Motion Processing and Sequential Change

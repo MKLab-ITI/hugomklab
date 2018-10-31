@@ -5,9 +5,7 @@ excerpt: <p>G. Th. Papadopoulos, V. Mezaris, I. Kompatsiaris and M. G. Strintzis
   (CIVR 2008)</em>, Niagara Falls, Canada, July 2008. <a href="/files/CIVR08.pdf"><img
   align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-07-01T00:00:00'
 layout: publication
 title: Accumulated Motion Energy Fields Estimation and Representation for Semantic

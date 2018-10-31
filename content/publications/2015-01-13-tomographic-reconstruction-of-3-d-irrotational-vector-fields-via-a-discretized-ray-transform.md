@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2015'
 layout: publication
 title: Tomographic Reconstruction of 3-D Irrotational Vector Fields via a Discretized

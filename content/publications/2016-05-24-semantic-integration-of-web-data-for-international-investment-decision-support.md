@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-09-12T00:00:00'
 layout: publication
 title: Semantic integration of web data for international investment decision support

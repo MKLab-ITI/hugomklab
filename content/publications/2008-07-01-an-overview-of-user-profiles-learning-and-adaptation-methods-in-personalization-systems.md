@@ -5,9 +5,7 @@ excerpt: <p>E. Nidelkou, V. Papastathis, M. Papadogiorgaki, I. Kompatsiaris, S. 
   IGI Global, vol. VIII, pp. 3934-3939, October 2008.<a href="/files/pdf/IST3934.pdf"
   target="_blank"><img align="top" alt="" border="0" src="/files/pdf/pdf.png" /></a></p>
 types: publication
-tags:
-- book_chapters
-images: []
+tags: book_chapters
 publication_date: '2008-10-01T00:00:00'
 layout: publication
 title: An Overview of User Profiles Learning and Adaptation Methods in Personalization

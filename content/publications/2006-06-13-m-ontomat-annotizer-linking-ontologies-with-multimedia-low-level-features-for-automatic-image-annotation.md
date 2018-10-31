@@ -5,9 +5,7 @@ excerpt: '<p>C. Saathoff, K. Petridis, D. Anastasopoulos, N. Timmermann, I. Komp
   Semantic Web Conference, ESWC 2006, Budva, Montenegro, June 2006.<a href="/files/pdf/eswc06.pdf"><img
   align="top" border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2006-06-01T00:00:00'
 layout: publication
 title: 'M-OntoMat-Annotizer: Linking Ontologies  with Multimedia Low-Level Features

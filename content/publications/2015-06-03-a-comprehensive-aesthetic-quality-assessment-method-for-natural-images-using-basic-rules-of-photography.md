@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-09-27'
 layout: publication
 title: A comprehensive aesthetic quality assessment method for natural images using

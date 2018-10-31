@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-09-28'
 layout: publication
 title: Online Multi-Task Learning for Semantic Concept Detection in Video

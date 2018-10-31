@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2008-08-04T00:00:00'
 layout: publication
 title: 'SEMSOC: SEMantic, SOcial and Content-based Clustering in Multimedia Collaborative

@@ -6,9 +6,7 @@ excerpt: <p>Maria Papadogiorgaki, Vasileios Papastathis, Evangelia Nidelkou, Sim
   Multimedia Broadcasting, Special Issue on Personalization of Mobile Multimedia Broadcasting,
   vol. 2008, Article ID 863613, 21 pages, 2008. doi:10.1155/2008/863613.</p>
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2008-01-01T00:00:00'
 layout: publication
 title: Two-level Automatic Adaptation of a Distributed User Profile for Personalized

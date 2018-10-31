@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-04-01'
 layout: publication
 title: The extraction and fusion of meteorological and air quality information for

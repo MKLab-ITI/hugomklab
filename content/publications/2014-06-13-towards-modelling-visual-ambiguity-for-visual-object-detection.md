@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-09-19T00:00:00'
 layout: publication
 title: Towards modelling visual ambiguity for visual object detection

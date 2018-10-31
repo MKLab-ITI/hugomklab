@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-02-01T00:00:00'
 layout: publication
 title: 1st International Workshop on Search and Mining Terrorist Online Content &

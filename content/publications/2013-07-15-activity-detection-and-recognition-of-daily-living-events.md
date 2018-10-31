@@ -5,9 +5,7 @@ excerpt: '<p>K. Avgerinakis, A. Briassouli, I. Kompatsiaris, "Activity detection
   Barcelona, Spain, Oct 2013.<a href="/files/ADL_det_rec.pdf"><img align="top" alt=""
   border="0" src="/files/pdf/pdf.png" /></a></p>'
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-10-21T00:00:00'
 layout: publication
 title: Activity detection and recognition of daily living events

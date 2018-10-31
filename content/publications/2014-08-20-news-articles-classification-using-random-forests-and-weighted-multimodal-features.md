@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2014-11-12'
 layout: publication
 title: News articles classification using Random Forests and weighted multimodal features

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2016-12-05T00:00:00'
 layout: publication
 title: Ontology-Driven Context Interpretation and Conflict Resolution in Dialogue-Based

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2015-06-24'
 layout: publication
 title: Event-Related Brain Activation In Alzheimer’s Disease

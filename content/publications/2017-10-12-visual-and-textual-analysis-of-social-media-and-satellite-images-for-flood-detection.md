@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2017-09-13'
 layout: publication
 title: Visual and textual analysis of social media and satellite images for flood

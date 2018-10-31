@@ -5,9 +5,7 @@ excerpt: "<p>A. Moumtzidou, S. Vrochidis, and I. Kompatsiaris, &quot;Concept ext
   7-9 October, 2013. Multidisciplinary Information Retrieval, Springer Berlin Heidelberg,
   Vol. 8201, pp. 83-86.</p>"
 types: publication
-tags:
-- conference_publications
-images: []
+tags: conference_publications
 publication_date: '2013-10-07T00:00:00'
 layout: publication
 title: Concept extraction from patent images based on recursive hybrid classification

@@ -1,8 +1,6 @@
 ---
 types: publication
-tags:
-- journal_publications
-images: []
+tags: journal_publications
 publication_date: '2017-09-01T00:00:00'
 layout: publication
 title: 'iKnow: Ontology-Driven Situational Awareness for the Recognition of Activities
