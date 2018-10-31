@@ -1,9 +1,7 @@
 ---
-layout: article
+layout: publication
 types: publication
-title: >-
-  A Deep Generic to Specific Recognition Model for Group Membership Analysis
-  using Non-verbal Cues
+title: A Deep Generic to Specific Recognition Model for Group Membership Analysis using Non-verbal Cues
 date: 2018-10-15T10:23:41.869Z
 tags: journal_publications
 publication_date: 15/10/2018
