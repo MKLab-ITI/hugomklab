@@ -19,6 +19,8 @@ Dr. Ioannis (Yiannis) Kompatsiaris is a Senior Researcher (Researcher A’) with
 
 His research interests include semantic multimedia analysis, indexing and retrieval, social media and big data analysis, knowledge structures, reasoning and personalization for multimedia applications, eHealth and environmental applications. He received his Ph.D. degree in 3-D model based image sequence coding from the Aristotle University of Thessaloniki in 2001. He is the co-author of 83 papers in refereed journals, 38 book chapters, 8 patents and more than 280 papers in international conferences. He is co-editor of the books “Semantic Multimedia and Ontologies: Theory and Applications” and "TV Content Analysis: Techniques and Applications", the guest editor of eight special issues, including "Social Media as Sensors" in IEEE Transactions on Multimedia and he has served as a program committee member and regular reviewer for a number of international journals and conferences. He has been the co-organizer of various conferences and workshops, such as the ACM CIVR 2009, WIAMIS 2007 and SSMS 2012 and he is a program co-chair for ACM MM 2016.
 
+You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompatsiaris_CV_EN.pdf) and [current list of citations](https://mklab.iti.gr/files/ikom/Kompatsiaris_CV_CITATIONS.pdf)
+
 He is a Senior Member of IEEE and member of ACM.
 
 ### Key publications
