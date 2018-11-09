@@ -15,9 +15,13 @@ date: '2014-05-27T16:51:49+03:00'
 ---
 <img src="https://mklab.iti.gr/files/people/kompats_corrected_final.jpg" style="width:120px;float:left;margin: 10px 10px 10px 0;">
 
-Dr. Ioannis (Yiannis) Kompatsiaris is a Senior Researcher (Researcher A’) with the Information Technologies Institute in Greece, leading the Multimedia, Knowledge and Social Media Analytics Lab.
+Dr. Ioannis (Yiannis) Kompatsiaris is a Researcher Director at CERTH-ITI, the Head of Multimedia Knowledge and Social Media Analytics Laboratory and Deputy Director of the Institute. 
 
-His research interests include semantic multimedia analysis, indexing and retrieval, social media and big data analysis, knowledge structures, reasoning and personalization for multimedia applications, eHealth and environmental applications. He received his Ph.D. degree in 3-D model based image sequence coding from the Aristotle University of Thessaloniki in 2001. He is the co-author of 83 papers in refereed journals, 38 book chapters, 8 patents and more than 280 papers in international conferences. He is co-editor of the books “Semantic Multimedia and Ontologies: Theory and Applications” and "TV Content Analysis: Techniques and Applications", the guest editor of eight special issues, including "Social Media as Sensors" in IEEE Transactions on Multimedia and he has served as a program committee member and regular reviewer for a number of international journals and conferences. He has been the co-organizer of various conferences and workshops, such as the ACM CIVR 2009, WIAMIS 2007 and SSMS 2012 and he is a program co-chair for ACM MM 2016.
+His research interests include multimedia, big data and social media analytics, semantics, human computer interfaces (AR and BCI), eHealth, security and culture applications. He is the co-author of 129 papers in refereed journals, 46 book chapters, 8 patents and more than 420 papers in international conferences. Since 2001, Dr. Kompatsiaris has participated in 59 National and European research programs including direct collaboration with industry, in 15 of which he has been the Project Coordinator and in 41 the Principal Investigator.  
+
+He is co-editor of the books “Semantic Multimedia and Ontologies: Theory and Applications” and "TV Content Analysis: Techniques and Applications", the guest editor of eight special issues, including "Social Media as Sensors" in IEEE Transactions on Multimedia and he has served as a program committee member and regular reviewer for a number of international journals and conferences. He has been the co-organizer of various conferences and workshops, such as the MMM 2019, ΙΕΕΕ IVMSP 2018, ACM CIVR 2009, WIAMIS 2007 and SSMS 2012 and he was a program co-chair for ACM MM 2016.
+
+He is a Senior Member of IEEE and member of ACM.
 
 You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompatsiaris_CV_EN.pdf) and [current list of citations](https://mklab.iti.gr/files/ikom/Kompatsiaris_CV_CITATIONS.pdf)
 
