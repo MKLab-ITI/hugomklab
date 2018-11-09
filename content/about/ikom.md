@@ -25,8 +25,6 @@ He is a Senior Member of IEEE and member of ACM.
 
 You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompatsiaris_CV_EN.pdf) and [current list of citations](https://mklab.iti.gr/files/ikom/Kompatsiaris_CV_CITATIONS.pdf)
 
-He is a Senior Member of IEEE and member of ACM.
-
 ### Key publications
 
 A. Tsakalidis, S. Papadopoulos, A. Cristea, Y. Kompatsiaris. "Predicting Elections for Multiple Countries Using Twitter and Polls", IEEE Intelligent Systems.
