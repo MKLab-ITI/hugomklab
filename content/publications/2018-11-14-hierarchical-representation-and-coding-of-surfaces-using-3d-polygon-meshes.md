@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Hierarchical Representation and Coding of Surfaces using 3D Polygon Meshes
-date: 2018-11-14T11:34:03.921Z
+date: 2018-11-13T11:38:00.000Z
 tags: journal_publications
 publication_date: '2001-08-01'
 ---
