@@ -14,6 +14,8 @@ acronym: Personalized virtual agent with dialogue capabilities via verbal and no
 layout: projects
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
 contact: 
+- Meditskos Georgios
+- Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---
 According to the World Health Organization (WHO), there are currently more than 1 billion people worldwide (about one in seven) who have some form of disability. It is estimated that over 150 million adults worldwide face serious movement issues and are not functionally independent.
