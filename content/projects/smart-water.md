@@ -12,6 +12,8 @@ acronym: Smart infrastructure for remote metering of water consumption and manag
 layout: projects
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
 contact: 
+- Antzoulatos Gerasimos
+- Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---
 The Smart-Water project is a research collaboration between the Thessaloniki Water Supply and Sewerage Company (EYATH), Apifon Telecommunications, and the Information Technologies Institute
