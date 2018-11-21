@@ -14,6 +14,8 @@ acronym: Smart Interconnected Infrastructures for Security and Protection
 layout: projects
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
 contact: 
+- Meditskos Georgios
+- Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---
 The goal of DESMOS project is to combine technology and human resources to provide a protection and security environment for citizens, emphasizing on tourists, by creating the appropriate infrastructure to address a set of 'urgent' situations. Given that the use of mobile and portable devices is now widespread, the project intends to use existing technology and customization for the benefit of citizens. Emergencies that may arise may be of a medical nature (allergies, medical conditions), dangerous incidents (e.g. thefts, vandalism) or situations encountered in crowded places (e.g. child disappearance).
