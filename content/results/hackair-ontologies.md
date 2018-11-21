@@ -5,7 +5,7 @@ tags:
 - ontology
 images: []
 aliases:
-	- /project/hackair-ontologies
+- '/project/hackair-ontologies'
 layout: results
 title: hackAIR Ontologies
 date: '2017-12-07T16:12:34+02:00'
