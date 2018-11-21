@@ -15,6 +15,8 @@ layout: projects
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
 contact: 
 - Diplaris Sotirios
+- Vrochidis Stefanos
+- Kompatsiaris Yiannis (Ioannis)
 ---
 One of the most powerful advantages that Greece has as a travel destination is the unique way in which it combines its natural environment and cultural heritage. On one hand, lakes, rivers, caves, gorges, mountains, forests, national parks and parks, ecosystems, beaches, archaeological sites, monuments, historical sites, museums, synthesize a rich and diverse network of sites and points of interest. Many cultural events (e.g. festivals, exhibitions, concerts, performances and other artistic events, sport events, etc.) should be added to these attractions, which, on a consistent basis and throughout the year take place almost in every corner of the country. This impressive ensemble can fuel and enrich the content of large or small tourist routes and tours throughout the Greek territory and, by extension, enhance the domestic touristic product.
 To support, promote and highlight sites and events of environmental, cultural and touristic interest, various digital applications (either on-line or mobile) have been on the rise. 
