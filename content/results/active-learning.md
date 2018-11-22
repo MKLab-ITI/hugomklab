@@ -46,7 +46,7 @@ date: '2016-08-31T15:51:45+03:00'
 <div>E. Chatzilari, S. Nikolopoulos, Y. Kompatsiaris and J. Kittler, "SALIC: Social Active Learning for Image Classification," in&nbsp;<em>IEEE Transactions on Multimedia</em>, vol. 18, no. 8, pp. 1488-1503, Aug. 2016.<br>
 	doi: 10.1109/TMM.2016.2565440</div>
 <div>&nbsp;</div>
-<div>URL: http://dx.doi.org/10.1109/TMM.2016.2565440</div>
+<div>URL: https://doi.org/10.1109/TMM.2016.2565440</div>
 <div>&nbsp;</div>
 <p><strong>License</strong></p>
 <div>Copyright 2016 Elisavet Chatzilari</div>

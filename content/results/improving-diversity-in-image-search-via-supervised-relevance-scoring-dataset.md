@@ -21,7 +21,7 @@ date: '2017-01-20T16:41:26+02:00'
 <p>The data can be used to reproduce the experimental results presented in the paper as well as to try new methodologies based on the provided image features and relevance scores.</p>
 <p><strong>Citation</strong></p>
 <p>If you use the dataset in your research, please cite the following paper:</p>
-<p>Eleftherios Spyromitros-Xioufis, Symeon Papadopoulos, Alexandru Lucian Ginsca, Adrian Popescu, Yiannis Kompatsiaris, and Ioannis Vlahavas. 2015.&nbsp;<a href="http://dl.acm.org/citation.cfm?id=2749334">Improving Diversity in Image Search via Supervised Relevance Scoring</a>. In Proceedings of the 5th ACM on International Conference on Multimedia Retrieval (ICMR '15). ACM, New York, NY, USA, 323-330. DOI: http://dx.doi.org/10.1145/2671188.2749334</p>
+<p>Eleftherios Spyromitros-Xioufis, Symeon Papadopoulos, Alexandru Lucian Ginsca, Adrian Popescu, Yiannis Kompatsiaris, and Ioannis Vlahavas. 2015.&nbsp;<a href="http://dl.acm.org/citation.cfm?id=2749334">Improving Diversity in Image Search via Supervised Relevance Scoring</a>. In Proceedings of the 5th ACM on International Conference on Multimedia Retrieval (ICMR '15). ACM, New York, NY, USA, 323-330. DOI: https://doi.org/10.1145/2671188.2749334</p>
 <p><strong>Contact</strong></p>
 <p>In case you have any questions about the dataset you can contact:</p>
 <ul>
