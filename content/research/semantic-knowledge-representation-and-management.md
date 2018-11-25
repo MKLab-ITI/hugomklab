@@ -67,7 +67,7 @@ A "preservation by design" approach involves modelling, capturing and maintainin
 
 1. Mitzias, P., Riga, M., Waddington, S., Kontopoulos, E., Meditskos, G., Laurenson, P., & Kompatsiaris, I. (2015). An Ontology Design Pattern for Digital Video. In Proc. of the 6th Workshop on Ontology and Semantic Web Patterns (WOP 2015) co-located with the 14th Int. Semantic Web Conf.(ISWC 2015) (Vol. 1461).
 
-1. G. Meditskos, S. Dasiopoulou, I. Kompatsiaris, "MetaQ: A Knowledge-Driven Framework for Context-Aware Activity Recognition Combining SPARQL and OWL 2 Activity Patterns", Pervasive and Mobile Computing, 2015, http://dx.doi.org/10.1016/j.pmcj.2015.01.007
+1. G. Meditskos, S. Dasiopoulou, I. Kompatsiaris, "MetaQ: A Knowledge-Driven Framework for Context-Aware Activity Recognition Combining SPARQL and OWL 2 Activity Patterns", Pervasive and Mobile Computing, 2015, https://doi.org/10.1016/j.pmcj.2015.01.007
 
 1. Kontopoulos, E., Riga, M., Mitzias, P., Andreadis, S., Stavropoulos, T. G., Lagos, N, Vion-Dury, J., Meditskos, G., Falcão, P., Laurenson, P. & Kompatsiaris, I. (2016). Ontology-based Representation of Context of Use in Digital Preservation. Proc 1st Workshop on Humanities in the Semantic Web (WHiSe) at the Extended Semantic Web Conference (ESWC2016).
 

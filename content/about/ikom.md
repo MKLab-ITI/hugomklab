@@ -29,7 +29,7 @@ You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompat
 
 A. Tsakalidis, S. Papadopoulos, A. Cristea, Y. Kompatsiaris. "Predicting Elections for Multiple Countries Using Twitter and Polls", IEEE Intelligent Systems.
 
-G. Meditskos, S. Dasiopoulou, I. Kompatsiaris, "<a href="http://dx.doi.org/10.1016/j.pmcj.2015.01.007">MetaQ: A Knowledge-Driven Framework for Context-Aware Activity Recognition Combining SPARQL and OWL 2 Activity Patterns</a>", Pervasive and Mobile Computing, 2015,http://dx.doi.org/10.1016/j.pmcj.2015.01.007
+G. Meditskos, S. Dasiopoulou, I. Kompatsiaris, "<a href="https://doi.org/10.1016/j.pmcj.2015.01.007">MetaQ: A Knowledge-Driven Framework for Context-Aware Activity Recognition Combining SPARQL and OWL 2 Activity Patterns</a>", Pervasive and Mobile Computing, 2015,https://doi.org/10.1016/j.pmcj.2015.01.007
 
 V. Kaltsa, A. Briassouli, I. Kompatsiaris, L. Hadjileontiadis, M. G. Strintzis, "Swarm Intelligence for Detecting Interesting Events in Crowded Environments", IEEE Trans. on Image Processing, vol 24, issue 7, pp 2153-2166, July 2015. DOI: 10.1109/TIP.2015.2409559
 
@@ -41,6 +41,6 @@ S. Papadopoulos, Y. Kompatsiaris, "<a href="http://ieeexplore.ieee.org/xpl/artic
 
 E. Spyromitros-Xioufis, S. Papadopoulos, Y. Kompatsiaris, G. Tsoumakas, I. Vlahavas, "<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6847226&tag=1">A Comprehensive Study over VLAD and Product Quantization in Large-scale Image Retrieval</a>", IEEE Transactions on Multimedia 16(6), pp. 1713-1728, October 2014.
 
-A. Moumtzidou, V. Epitropou, S. Vrochidis, K. Karatzas, S. Voth, A. Bassoukos, J. Moßgraber, A. Karppinen, J. Kukkonen and I. Kompatsiaris, &quot;A Model for Environmental Data Extraction from Multimedia and its Evaluation against various Chemical Weather Forecasting Datasets&quot;, Journal of Ecological Informatics, pp. 69-82, 2014, special issue, ISSN 1574-9541, http://dx.doi.org/10.1016/j.ecoinf.2013.08.003.
+A. Moumtzidou, V. Epitropou, S. Vrochidis, K. Karatzas, S. Voth, A. Bassoukos, J. Moßgraber, A. Karppinen, J. Kukkonen and I. Kompatsiaris, &quot;A Model for Environmental Data Extraction from Multimedia and its Evaluation against various Chemical Weather Forecasting Datasets&quot;, Journal of Ecological Informatics, pp. 69-82, 2014, special issue, ISSN 1574-9541, https://doi.org/10.1016/j.ecoinf.2013.08.003.
 
-Y. S. Chatzizisis, V. G. Koutkias, K. Toutouzas, A. Giannopoulos, I. Chouvarda, M. Riga, A. P. Antoniadis, G. Cheimariotis, C. Doulaverakis, I. Tsampoulatidis, K. Bouki, I. Kompatsiaris, C. Stefanadis, N. Maglaveras, G. D. Giannoglou, &quot;Clinical Validation of an Algorithm for Rapid and Accurate Automated Segmentation of Intracoronary Optical Coherence Tomography &quot;, International Journal of Cardiology, Volume 172, Issue 3, 1 April 2014, Pages 568-580. <a href="http://dx.doi.org/10.1016/j.ijcard.2014.01.071">DOI: 10.1016/j.ijcard.2014.01.071</a>
+Y. S. Chatzizisis, V. G. Koutkias, K. Toutouzas, A. Giannopoulos, I. Chouvarda, M. Riga, A. P. Antoniadis, G. Cheimariotis, C. Doulaverakis, I. Tsampoulatidis, K. Bouki, I. Kompatsiaris, C. Stefanadis, N. Maglaveras, G. D. Giannoglou, &quot;Clinical Validation of an Algorithm for Rapid and Accurate Automated Segmentation of Intracoronary Optical Coherence Tomography &quot;, International Journal of Cardiology, Volume 172, Issue 3, 1 April 2014, Pages 568-580. <a href="https://doi.org/10.1016/j.ijcard.2014.01.071">DOI: 10.1016/j.ijcard.2014.01.071</a>

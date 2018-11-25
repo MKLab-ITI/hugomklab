@@ -53,7 +53,7 @@ In this context MKLab exhibits research in the following directions of informati
 
 1. L. Johansson, V. Epitropou, K. Karatzas, A. Karppinen, L. Wanner, S. Vrochidis, A. Bassoukos, J. Kukkonen, I. Kompatsiaris, "Fusion of meteorological and air quality data extracted from the web for personalized environmental information services", Environmental Modeling and Software Journal, 2015, Volume 64, February 2015, pp. 143–155, doi: 10.1016/j.envsoft.2014.11.021
 
-1. G. Meditskos, S. Dasiopoulou, S. Vrochidis, L. Wanner, I. Kompatsiaris, "Question Answering over Pattern-Based User Models", In Proceedings of the 12th International Conference on Semantic Systems (SEMANTiCS 2016), pp. 153-160. ACM, New York, NY, USA, 2016 DOI: http://dx.doi.org/10.1145/2993318.2993331
+1. G. Meditskos, S. Dasiopoulou, S. Vrochidis, L. Wanner, I. Kompatsiaris, "Question Answering over Pattern-Based User Models", In Proceedings of the 12th International Conference on Semantic Systems (SEMANTiCS 2016), pp. 153-160. ACM, New York, NY, USA, 2016 DOI: https://doi.org/10.1145/2993318.2993331
 
 1. C. Iliou, G. Kalpakis, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "Hybrid Focused Crawling for Homemade Explosives Discovery on Surface and Dark Web", 11th International Conference on Availability, Reliability and Security (ARES 2016), Salzburg, Austria, Aug 2016 (accepted for publication) 
  
