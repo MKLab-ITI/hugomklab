@@ -4,7 +4,7 @@ types: publication
 title: >-
   Interactive video search tools: a detailed analysis of the video browser
   showdown 2015
-date: 2018-11-30T11:38:46.213Z
+date: 2017-02-01T11:38:46.213Z
 tags: journal_publications
 publication_date: '2017-02-01'
 ---
