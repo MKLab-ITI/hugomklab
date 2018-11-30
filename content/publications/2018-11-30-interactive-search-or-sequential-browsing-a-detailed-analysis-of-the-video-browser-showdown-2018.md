@@ -4,7 +4,7 @@ types: publication
 title: >-
   Interactive Search or Sequential Browsing? A Detailed Analysis of the Video
   Browser Showdown 2018
-date: 2018-11-30T11:40:53.660Z
+date: 2018-12-01T11:40:53.660Z
 tags: journal_publications
 publication_date: '2018-12-01'
 ---
