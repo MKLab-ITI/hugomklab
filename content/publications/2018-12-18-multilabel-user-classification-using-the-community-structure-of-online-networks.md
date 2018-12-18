@@ -4,7 +4,7 @@ types: publication
 title: >-
   Multilabel user classification using the community structure of online
   networks
-date: 2018-12-18T13:28:23.806Z
+date: 2017-12-18T13:28:00.000Z
 tags: journal_publications
 publication_date: '2017-12-18'
 ---
