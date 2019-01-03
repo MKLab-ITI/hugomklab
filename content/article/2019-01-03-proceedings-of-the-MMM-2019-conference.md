@@ -2,7 +2,7 @@
 types: article
 tags:
 - 
-images: [book_lncs_2018.jpg]
+images: [book_LNCS_2018.jpg]
 layout: article
 title: The proceedings of the MMM 2019 conference
 date: '2019-01-03T02:01:37+02:00'
