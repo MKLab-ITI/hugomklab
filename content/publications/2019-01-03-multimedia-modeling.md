@@ -1,7 +1,7 @@
 ---
 layout: publication
 types: publication
-title: MultiMedia Modeling
+title: MultiMedia Modeling (Part II)
 date: 2019-01-03T12:55:57.495Z
 tags: proceedings_books_white_papers
 publication_date: '2019-01-03'
