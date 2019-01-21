@@ -5,7 +5,7 @@ tags:
 - european
 - software technologies
 images:
-- project_logos/sodalite.jpg
+- project_logos/sodalite.png
 website_name: #
 website_link: Coming Soon
 acronym: SOftware Defined AppLication Infrastructures managemenT and Engineering
