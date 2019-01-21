@@ -29,7 +29,7 @@ For each relevance assessment at passage level we provide: <br/>
 </p>
 <p><b>Provided files</b></p>
 <p>
-The needed files for using the created dataset can be downloaded from here(). After unpacking the compressed file ("dataset.zip") a single directory will be generated containing the following files:
+The needed files for using the created dataset can be downloaded from here. After unpacking the compressed file ("dataset.zip") a single directory will be generated containing the following files:
 <br/>
 1.	A JSON file describing the topics.<br/>
 2.	A JSON file describing the documents. <br/>
