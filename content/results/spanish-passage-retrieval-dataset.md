@@ -13,7 +13,7 @@ date: '2019-01-321T10:51:45+03:00'
 </p>The test collection contains 10,037 health-related Web documents in Spanish, 37 topics representing complex information needs formulated in a total of 167 natural language questions, and manual relevance assessments of text passages, pooled from multiple systems.</p>
 <p><b>Details of the Test Collection</b></p>
 <p>
-For each document of the dataset we provide:
+For each document of the dataset we provide:<br/>
 1.	A document number serving as its identifier (id)
 2.	Its URL
 3.	The resulting HTML content from the scraping procedure
