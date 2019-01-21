@@ -40,13 +40,14 @@ The needed files for using the created dataset can be downloaded from here(). Af
 <p>TBD</p>
 <p><b>Publication</b></p>
 <p>If you use this dataset, please cite the following scientific work:<br/>
-  &nbsp;
 [1] E. Kamateri, T. Tsikrika, S. Symeonidis, S. Vrochidis, W. Minker and Y. Kompatsiaris, “A test collection for passage retrieval evaluation from health-related resources in Spanish”, 41st European Conference on Information Retrieval (ECIR 2019), 14-18 April 2019, Cologne, Germany
 </p>
 <p><b>Contact</b></p>
 <p>For any queries, please contact:<br/>
-&nbsp;
-ekamater@iti.gr (Eleni Kamateri), theodora.tsikrika@iti.gr (Theodora Tsikrika), spyridons@iti.gr (Spyridon Symeonidis), stefanos@iti.gr (Stefanos Vrochidis)
+ekamater@iti.gr (Eleni Kamateri)<br/>
+theodora.tsikrika@iti.gr (Theodora Tsikrika)<br/>
+spyridons@iti.gr (Spyridon Symeonidis)<br/>
+stefanos@iti.gr (Stefanos Vrochidis)<br/>
 </p>
 <p><b>Acknowledgements</b></p>
 <p>This work is supported by the EU's H2020 KRISTINA Project (645012) and the European Regional Development Fund of EU and Greek national funds under the call RESEARCH-CREATE-INNOVATE (T1EDK-00686).</p>
