@@ -14,37 +14,37 @@ date: '2019-01-321T10:51:45+03:00'
 <p><b>Details of the Test Collection</b></p>
 <p>
 For each document of the dataset we provide:<br/>
-1.	A document number serving as its identifier (id)
-2.	Its URL
-3.	The resulting HTML content from the scraping procedure
-4.	The plain text that was finally indexed
+1.	A document number serving as its identifier (id)<br/>
+2.	Its URL<br/>
+3.	The resulting HTML content from the scraping procedure<br/>
+4.	The plain text that was finally indexed<br/>
 </p>
 <p>
-For each relevance assessment at passage level we provide: 
-1.	The topic id
-2.	The document id
-3.	The starting character index of the relevant passage
-4.	The ending character index of the relevant passage
-5.	Its relevance score
+For each relevance assessment at passage level we provide: <br/>
+1.	The topic id<br/>
+2.	The document id<br/>
+3.	The starting character index of the relevant passage<br/>
+4.	The ending character index of the relevant passage<br/>
+5.	Its relevance score<br/>
 </p>
 <p><b>Provided files</b></p>
 <p>
 The needed files for using the created dataset can be downloaded from here(). After unpacking the compressed file ("dataset.zip") a single directory will be generated containing the following files:
-&nbsp;
-1.	A JSON file describing the topics.
-2.	A JSON file describing the documents. 
-3.	A “trec_eval” format file providing the relevance assessments at the document level for pooled documents.
-4.	A JSON file describing the relevance assessments at passage level for pooled documents. 
+<br/>
+1.	A JSON file describing the topics.<br/>
+2.	A JSON file describing the documents. <br/>
+3.	A “trec_eval” format file providing the relevance assessments at the document level for pooled documents.<br/>
+4.	A JSON file describing the relevance assessments at passage level for pooled documents. <br/>
 </p>
 <p><b>Copyright</b></p>
 <p>TBD</p>
 <p><b>Publication</b></p>
-<p>If you use this dataset, please cite the following scientific work:
+<p>If you use this dataset, please cite the following scientific work:<br/>
   &nbsp;
 [1] E. Kamateri, T. Tsikrika, S. Symeonidis, S. Vrochidis, W. Minker and Y. Kompatsiaris, “A test collection for passage retrieval evaluation from health-related resources in Spanish”, 41st European Conference on Information Retrieval (ECIR 2019), 14-18 April 2019, Cologne, Germany
 </p>
 <p><b>Contact</b></p>
-<p>For any queries, please contact:
+<p>For any queries, please contact:<br/>
 &nbsp;
 ekamater@iti.gr (Eleni Kamateri), theodora.tsikrika@iti.gr (Theodora Tsikrika), spyridons@iti.gr (Spyridon Symeonidis), stefanos@iti.gr (Stefanos Vrochidis)
 </p>
