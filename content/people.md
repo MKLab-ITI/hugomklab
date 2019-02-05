@@ -68,6 +68,7 @@ showpagemeta: false
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kamateri Eleni**, ekamater@iti.gr  
+**Karatzia Anastasia**, akaratzia@iti.gr  
 **Katmada Katerina**, akatmada@iti.gr  
 **Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Koufakis Alexandros-Michail**, akoufakis@iti.gr  
@@ -81,6 +82,7 @@ showpagemeta: false
 **Michail Emmanouil**, michem@iti.gr  
 **Migkotzidis Panagiotis**, migkotzidis@iti.gr  
 **Mitzias Panagiotis**, pmitzias@iti.gr  
+**Mokkas Alexandros**, mokkas@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr  
 **Mpakratsas Marios**,mbakratsas@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
