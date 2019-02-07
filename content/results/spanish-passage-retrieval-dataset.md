@@ -43,7 +43,7 @@ For each relevance assessment at passage level we provide: <br/>
 </p>
 <p><b>Provided files</b></p>
 <p>
-The needed files for using the created dataset can be downloaded from <a href="http://mklab.iti.gr/commons/files/PRES_Dataset.rar"><strong>here</strong></a>. After unpacking the compressed file ("PRES_Dataset.rar") a single directory will be generated containing the following files:
+The needed files for using the created dataset can be downloaded from <a href="http://mklab.iti.gr/files/PRES_Dataset.rar"><strong>here</strong></a>. After unpacking the compressed file ("PRES_Dataset.rar") a single directory will be generated containing the following files:
 <br/>
 1.	A JSON file describing the topics<br/>
 2.	A JSON file describing the documents<br/>
