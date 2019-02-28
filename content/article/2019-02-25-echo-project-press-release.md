@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- /files/echo-consortium.jpg
+- field/image/echo-consortium.jpg
 layout: article
 title: ECHO Project Press Release – February 25th, 2019
 date: '2019-02-25T02:01:37+02:00'
