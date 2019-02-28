@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- /images/echo-consortium.jpg
+- /files/echo-consortium.jpg
 layout: article
 title: ECHO Project Press Release – February 25th, 2019
 date: '2019-02-25T02:01:37+02:00'
@@ -41,4 +41,4 @@ Twitter: @ECHOcybersec
 Linkedin: https://www.linkedin.com/in/echo-cybersecurity-556a6717b/
 For any information, please write to info@echonetwork.eu
 
-<img src="https://mklab.iti.gr/images/echo-banner.png" />
+<img src="https://mklab.iti.gr/files/echo-banner.png" />
