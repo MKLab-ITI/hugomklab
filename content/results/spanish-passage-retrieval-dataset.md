@@ -5,7 +5,7 @@ tags:
 - data
 images: []
 layout: results
-title: Spanish Passage Retrieval dataset (PRES)
+title: A Test Collection for Passage Retrieval Evaluation of Spanish Health-Related Resources
 date: '2019-01-321T10:51:45+03:00'
 ---
 <p><b>Description</b></p>
