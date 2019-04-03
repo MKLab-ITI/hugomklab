@@ -6,8 +6,8 @@ tags:
 - coordinator
 images:
 - project_logos/radar-logo.png
-website_name: 
-website_link: 
+website_name: radar-ad.org
+website_link: https://www.radar-ad.org/
 acronym: Remote Assessment of Disease and Relapse – Alzheimer’s Disease
 layout: projects
 title: RADAR-AD
@@ -20,7 +20,7 @@ contact:
 </p>
 <p>The project consortium consists of 17 European organizations: academic, such as King's College London, Oxford University and the Karolinska Institute, industrial, such as Lygature, The Hyve, Software AG, and the non-governmental organization Alzheimer Europe. Most notable, pharmaceutical companies, which include Janssen, Novartis, Johnson & Johnson, Takeda and Lilly, are also involved and co-finance the project, through the European Federation of Pharmaceutical Industries and Associations (EFPIA). Coordination has been undertaken by King's College London together with EFPIA Janssen and Novartis. The Information Technologies Institute (ITI) of the Center for Research and Technology Hellas (CERTH), and in particular the Multimedia Knowledge and Social Networks Laboratory (MKLab), will significantly contribute to RADAR-AD through its many years of experience in the field of e-health, diagnosis, remote monitoring, assistive solutions and smart systems and the coordination of several health-related projects (such as www.demcare.eu).</p>
 <p>
-Specifically, within RADAR-AD, CERTH-ITI will host 10 patients to stay at the “ITI-Smart Home”, a real living environment with embedded sensors and smart devices (Figure 2). Through this pilot, we will have the opportunity to investigate various behavioral patterns, difficulties occurring within the AD spectrum, multiple biological functions, daily functionality problems and various aspects of deterioration in people with AD. This particular pilot is one of the three of the project and considered as a pioneering assessment of people with AD at a realistic home-like research environment. More specifically, it is expected to play a pivotal role in the final choice of the technology and equipment package of the project.
+Specifically, within RADAR-AD, CERTH-ITI will host 10 patients to stay at the “ITI-Smart Home”, a real living environment with embedded sensors and smart devices. Through this pilot, we will have the opportunity to investigate various behavioral patterns, difficulties occurring within the AD spectrum, multiple biological functions, daily functionality problems and various aspects of deterioration in people with AD. This particular pilot is one of the three of the project and considered as a pioneering assessment of people with AD at a realistic home-like research environment. More specifically, it is expected to play a pivotal role in the final choice of the technology and equipment package of the project.
 </p>
 <br/>
 <b>Consortium</b><br/>
