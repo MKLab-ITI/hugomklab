@@ -8,8 +8,8 @@ tags:
 - coordinator
 images: 
 - project_logos/desmos-logo.png
-website_name: mklab.iti.gr/desmos-project
-website_link: http://mklab.iti.gr/desmos-project/
+website_name: desmos-project.gr 
+website_link: http://desmos-project.gr
 acronym: Smart Interconnected Infrastructures for Security and Protection
 layout: projects
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
