@@ -2,10 +2,10 @@
 types: article
 tags:
 images: 
-- field/image/01-EUHouse.jpg
+- field/image/1119376971.jpg
 layout: article
 title: New Book on "Big Data Analytics for Large-Scale Multimedia Search", April 1, 2016
-date: '2019-03-18T02:01:37+02:00'
+date: '2019-04-19T02:01:37+02:00'
 ---
 <p>MKLab researchers in cooperation with high profile academics and Wiley published a new book on <a target="_blank" href=https://www.wiley.com/en-gr/Big+Data+Analytics+for+Large+Scale+Multimedia+Search-p-9781119377009>Big Data Analytics for Large-Scale Multimedia Search</a>.</p>
 
