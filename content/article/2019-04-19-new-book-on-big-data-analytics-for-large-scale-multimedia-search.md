@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- 
+- field/image/1119376971.jpg
 layout: article
 title: New Book on "Big Data Analytics for Large-Scale Multimedia Search", April 1, 2016
 date: '2019-04-19T02:01:37+02:00'
