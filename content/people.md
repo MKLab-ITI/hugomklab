@@ -38,6 +38,7 @@ showpagemeta: false
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Meditskos Georgios**, gmeditsk@iti.gr  
+**Dr. Mpastas Nikolaos**, nimpasta@iti.gr  
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
 **Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
 **Dr. Stavropoulos Athanasios**, athstavr@iti.gr  
@@ -64,12 +65,14 @@ showpagemeta: false
 **Gatziaki Vasiliki**, vasgat@iti.gr  
 **Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
+**Gkoudakos Konstantinos**, gountakos@iti.gr  
 **Iliou Christos**, iliouchristos@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kamateri Eleni**, ekamater@iti.gr  
 **Karatzia Anastasia**, akaratzia@iti.gr  
 **Katmada Katerina**, akatmada@iti.gr  
+**Kokkalas Alexandros**, akokkalas@iti.gr  
 **Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Koufakis Alexandros-Michail**, akoufakis@iti.gr  
 **Koulalis Ilias**, iliask@iti.gr  
@@ -77,6 +80,7 @@ showpagemeta: false
 **Krestenitis Marios**, mikrestenitis@iti.gr  
 **Krasanakis Manolis**, maniospas@iti.gr  
 **Lazarou Ioulietta**, iouliettalaz@iti.gr  
+**Liatsikou Maria**, maria_liatsikou@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
 **Metsai Alexander**, alexmetsai@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
@@ -87,6 +91,7 @@ showpagemeta: false
 **Mpakratsas Marios**,mbakratsas@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
 **Nikolaidis Stathis**, stathis.nikolaidis@iti.gr  
+**Ntioudis Demos**, ntdimos@iti.gr  
 **Ntrigkogia Paraskevi**, vividrig@iti.gr  
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
@@ -97,6 +102,7 @@ showpagemeta: false
 **Riga Marina**, mriga@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
+**Stathopoulos Evaggelos**, estathop@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Xaritidis Xronis**, charitidis@iti.gr  
