@@ -9,7 +9,7 @@ website_name:
 website_link: 
 acronym: Migration-Related Risks caused by misconceptions of Opportunities and Requirement
 layout: projects
-title: RADAR-AD
+title: MIRROR
 date: '2019-06-05T10:25:33+02:00'
 program: H2020 RIA, 2019-2022
 contact: 
