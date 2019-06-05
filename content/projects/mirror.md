@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/radar-logo.png
+- project_logos/mirror.gif
 website_name: 
 website_link: 
 acronym: Migration-Related Risks caused by misconceptions of Opportunities and Requirement
