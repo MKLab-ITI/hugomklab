@@ -4,9 +4,9 @@ tags:
 - current
 - national
 images:
-- project_logos/
-website_name: 
-website_link:
+- project_logos/CoFly_Logo_1.png
+website_name: cofly.gr
+website_link: http://cofly.gr/el/%CE%B1%CF%81%CF%87%CE%B9%CE%BA%CE%AE/
 acronym: CoFly
 layout: projects
 title: CoFly
