@@ -11,7 +11,7 @@ showpagemeta: false
 
 ## Researchers
 
-**[Dr. Mezaris Vasileios](https://www.iti.gr/~bmezaris)**, Senior Researcher (Researcher A), bmezaris@iti.gr
+**[Dr. Mezaris Vasileios](https://www.iti.gr/~bmezaris)**, Senior Researcher (Researcher A), bmezaris@iti.gr  
 **Dr. Papadopoulos Symeon**, Senior Researcher (Researcher C), papadop@iti.gr  
 
 ## Senior Researchers
