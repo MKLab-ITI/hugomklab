@@ -12,11 +12,11 @@ showpagemeta: false
 ## Researchers
 
 **[Dr. Mezaris Vasileios](https://www.iti.gr/~bmezaris)**, Senior Researcher (Researcher A), bmezaris@iti.gr
+**Dr. Papadopoulos Symeon**, Senior Researcher (Researcher C), papadop@iti.gr  
 
 ## Senior Researchers
 
 **Dr. Nikolopoulos Spiros**, nikolopo@iti.gr  
-**Dr. Papadopoulos Symeon**, papadop@iti.gr  
 **Dr. Vrochidis Stefanos**, stefanos@iti.gr  
 
 ## Postdoctoral Research Fellows
