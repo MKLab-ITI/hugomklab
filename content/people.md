@@ -53,6 +53,7 @@ showpagemeta: false
 
 ## Research Associates
 
+**Adamantidou Eleni**, adamelen@iti.gr  
 **Aglamisis Ioannis**, y.aglamisis@iti.gr  
 **Andreadis Stelios**, andreadisst@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr  
@@ -63,10 +64,12 @@ showpagemeta: false
 **Chatzimichail Aggelos**, angechat@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Gatziaki Vasiliki**, vasgat@iti.gr  
+**Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Gkoudakos Konstantinos**, gountakos@iti.gr  
 **Iliou Christos**, iliouchristos@iti.gr  
+**Kagkelidou Eleftheria**, ekagkelidou@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kamateri Eleni**, ekamater@iti.gr  
@@ -99,6 +102,7 @@ showpagemeta: false
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr  
 **Pronakis Orestis**, opronakis@iti.gr  
+**Prountzos Giorgos**, gprountzos@iti.gr  
 **Riga Marina**, mriga@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
