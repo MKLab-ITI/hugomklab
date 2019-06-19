@@ -5,7 +5,7 @@ images:
 - field/image/semapro2019.png
 layout: article
 title: H2020 Project SUITCEYES at the SEMAPRO 2019 Conference
-date: '2019-06-19T15:49:37+02:00'
+date: '2019-06-19T13:49:37+02:00'
 ---
 <p>The SUITCEYES consortium is very happy to announce that a special track proposed by project partners CERTH and HB was accepted by the organizers of the <a target="_blank" href=https://www.iaria.org/conferences2019/SEMAPRO19.html>SEMAPRO 2019</a> conference, which will take place the coming September in Porto, Portugal.
 
