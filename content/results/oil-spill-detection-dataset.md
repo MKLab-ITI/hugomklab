@@ -1,5 +1,5 @@
 ---
-excerpt: 'Oil spill detection dataset is a dataset comprising of jpg images extracted from satellite Synthetic Aperture Radar (SAR) data collected from European Space Agency (ESA) databases, the Copernicus Open Access Hub.'
+excerpt: 'A dataset comprising of jpg images extracted from satellite Synthetic Aperture Radar (SAR) data collected from European Space Agency (ESA) databases, the Copernicus Open Access Hub.'
 types: results
 tags:
 - data
