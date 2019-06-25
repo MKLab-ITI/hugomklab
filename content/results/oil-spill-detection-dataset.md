@@ -1,11 +1,11 @@
 ---
-excerpt: 'This dataset was created for evaluating the performance of the developed motion-driven approach for fine-grained temporal segmentation of user-generated videos'
+excerpt: 'Oil spill detection dataset is a dataset comprising of jpg images extracted from satellite Synthetic Aperture Radar (SAR) data collected from European Space Agency (ESA) databases, the Copernicus Open Access Hub.'
 types: results
 tags:
 - data
 images: []
 layout: results
-title: OIL SPILL DETECTION DATASET
+title: Oil Spill Detection Dataset
 date: '2019-06-24T16:47:22+03:00'
 ---
 <p><strong>Description</strong></p>
@@ -15,9 +15,9 @@ date: '2019-06-24T16:47:22+03:00'
 <p>
 <strong>In order to provide you with the dataset you have to follow the following steps: </strong>
 <ol type="1">
-  <li>Read the datasets Terms of Use which oblige you, among other things, to not share this data with anyone else.</li>
+  <li>Read the datasets <a href="http://mklab.iti.gr/files/oli-spill-detection-terms.pdf" target="_blank">Terms of Use</a> which oblige you, among other things, to not share this data with anyone else.</li>
   <li>Prepare a title and a short description (abstract) of your project.</li>
-  <li>Send us an email (based on the template) using your institution’ s email. In order to grant you access to the data we need it to contain the template statements.</li>
+  <li>Send us an email (based on the <a href="http://mklab.iti.gr/files/oli-spill-detection-email-template.pdf" target="_blank">template</a>) using your institution’ s email. In order to grant you access to the data we need it to contain the template statements.</li>
 </ol>  
 </p>
 
