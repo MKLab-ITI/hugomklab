@@ -7,7 +7,7 @@ tags:
 - national
 - coordinator
 images: 
-- project_logos/yposthriZW-logo.png
+- project_logos/ipostirizo_logo.png
 website_name: ypostirizo-project.gr
 website_link: https://www.ypostirizo-project.gr/
 acronym: Integrated system to support the independent living of elderly people
