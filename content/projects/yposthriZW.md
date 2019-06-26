@@ -8,8 +8,8 @@ tags:
 - coordinator
 images: 
 - project_logos/yposthriZW-logo.png
-website_name: 
-website_link: 
+website_name: ypostirizo-project.gr
+website_link: https://www.ypostirizo-project.gr/
 acronym: Integrated system to support the independent living of elderly people
 layout: projects
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
