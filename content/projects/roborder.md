@@ -10,7 +10,7 @@ website_name: roborder.eu
 website_link: http://roborder.eu/
 acronym: Autonomous swarm of heterogenous robots for border surveillance
 layout: projects
-title: ROBORDER
+title: ROBORDER (co-ordinator)
 date: '2017-06-07T15:44:40+03:00'
 program: H2020-SEC-20-BES-2016, 2017-2020
 contact:
