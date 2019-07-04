@@ -3,6 +3,7 @@ types: project
 tags:
 - current
 - european
+- coordinator
 images:
 - project_logos/ROBORDER LOGO_01.png
 website_name: roborder.eu
