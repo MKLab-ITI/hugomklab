@@ -10,7 +10,7 @@ website_name: radar-ad.org
 website_link: https://www.radar-ad.org/
 acronym: Remote Assessment of Disease and Relapse – Alzheimer’s Disease
 layout: projects
-title: RADAR-AD
+title: RADAR-AD (co-ordinator)
 date: '2019-02-28T10:25:33+02:00'
 program: IMI2 – Call 3 - Topic 1
 contact: 
