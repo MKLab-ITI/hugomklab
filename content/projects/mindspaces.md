@@ -10,7 +10,7 @@ website_name: mindspaces.eu
 website_link: http://mindspaces.eu/
 acronym: MindSpaces
 layout: projects
-title: MindSpaces
+title: MindSpaces (co-ordinator)
 date: '2019-01-23T10:25:33+02:00'
 program: H2020 - ICT – 2018 –2020
 contact: 
