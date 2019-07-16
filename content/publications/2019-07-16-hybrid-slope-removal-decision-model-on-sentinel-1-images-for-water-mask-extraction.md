@@ -1,0 +1,11 @@
+---
+layout: publication
+types: publication
+title: >-
+  Hybrid slope removal decision model on Sentinel-1 images for water mask
+  extraction
+date: 2019-07-16T09:05:39.300Z
+tags: conference_publications
+publication_date: '2019-10-14'
+---
+M. Mpakratsas, A. Moumtzidou, I. Gialampoukidis, S. Vrochidis, I. Kompatsiaris, "Hybrid slope removal decision model on Sentinel-1 images for water mask extraction", 40th Asian Conference on Remote Sensing (ACRS 2019), 14-18 October 2019, Daejeon Convention Center (DCC), Korea (accepted for publication)
