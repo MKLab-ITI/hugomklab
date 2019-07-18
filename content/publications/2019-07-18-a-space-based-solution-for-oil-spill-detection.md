@@ -6,4 +6,4 @@ date: 2019-07-18T15:50:56.828Z
 tags: proceedings_books_white_papers
 publication_date: '2019-07-18'
 ---
-Moumtzidou, A., Orfanidis, G., Andreadis, S., Ioannidis, K., Gialampoukidis, I., Vrochidis, S., Kompatsiaris, I. (2018). A space-based solution for oil spill detection. NEREUS/ESA/EC "The Ever Growing use of Copernicus across Europe’s Regions" (p. 277).
+Moumtzidou, A., Orfanidis, G., Andreadis, S., Ioannidis, K., Gialampoukidis, I., Vrochidis, S., Kompatsiaris, I. (2018). A space-based solution for oil spill detection. NEREUS/ESA/EC "[The Ever Growing use of Copernicus across Europe’s Regions](https://www.copernicus.eu/sites/default/files/PUBLICATION_Copernicus4regions_2018.pdf)" (p. 277).
