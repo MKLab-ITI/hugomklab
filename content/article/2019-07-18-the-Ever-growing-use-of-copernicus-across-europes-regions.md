@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- field/image/semapro2019.png
+- field/image/Nereus_Copernicus.png
 layout: article
 title: The Ever Growing Use of Copernicus across Europe’s Regions
 date: '2019-07-18T13:49:37+02:00'
