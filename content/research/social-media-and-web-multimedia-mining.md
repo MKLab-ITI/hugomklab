@@ -36,6 +36,8 @@ The pervasive use of Online Social Networks (OSN) for networking, communication 
 - privacy-oriented data management frameworks that help OSN users gain awareness and control with respect to personal information disclosure and privacy risks;
 - social media-powered applications that leverage social media content for improving performance in a given task, e.g. predicting the election result.
 
+During the recent years, our lab has been particularly active in the field of media-based disinformation, developing methods and tools for the (semi-) automatic detection and characterization of misleading and tampered content in online settings (web pages, social media), including image forensics, fake tweet post classification, video verification, etc. Due to the breadth of activities on this area, we have recently launched <a href="https://mever.iti.gr/" target="_blank">a dedicated website</a> with more up-to-date and extensive information on the relevant projects and outcomes.
+
 ---
 
 ## Key publications
