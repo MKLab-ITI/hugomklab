@@ -17,7 +17,7 @@ date: '2019-06-24T16:47:22+03:00'
 <ol type="1">
   <li>Read the datasets <a href="http://mklab.iti.gr/files/oli-spill-detection-terms.pdf" target="_blank">Terms of Use</a> which oblige you, among other things, to not share this data with anyone else.</li>
   <li>Prepare a title and a short description (abstract) of your project.</li>
-  <li>Send us an email (based on the <a href="http://mklab.iti.gr/files/oli-spill-detection-email-template.pdf" target="_blank">template</a>) using your institution’ s email. In order to grant you access to the data we need it to contain the template statements.</li>
+  <li>Send us an email (based on the <a href="http://mklab.iti.gr/files/Email_Template.pdf" target="_blank">template</a>) using your institution’ s email. In order to grant you access to the data we need it to contain the template statements.</li>
 </ol>  
 </p>
 
