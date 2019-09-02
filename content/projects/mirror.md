@@ -4,9 +4,9 @@ tags:
 - current
 - european
 images:
-- project_logos/mirror.gif
-website_name: 
-website_link: 
+- project_logos/MIRROR_new.jpg
+website_name: h2020mirror.eu
+website_link: https://h2020mirror.eu/
 acronym: Migration-Related Risks caused by misconceptions of Opportunities and Requirement
 layout: projects
 title: MIRROR
