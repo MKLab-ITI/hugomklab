@@ -106,7 +106,7 @@ showpagemeta: false
 **Riga Marina**, mriga@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
-**Stathopoulos Evaggelos**, estathop@iti.gr  
+**Stathopoulos Evangelos**, estathop@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Xaritidis Xronis**, charitidis@iti.gr  
