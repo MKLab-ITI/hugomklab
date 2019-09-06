@@ -10,7 +10,7 @@ website_link: #
 acronym: The First Responder (FR) of the Future: a Next Generation Integrated Toolkit (NGIT) for Collab-orative Response, increasing protection and augmenting operational capacity
 layout: projects
 title: INGENIOUS
-date: '2019-06-07T10:26:33+02:00'
+date: '2019-09-05T10:26:35+02:00'
 program: H2020 - SU-DRS02-2018-2019-2020 
 contact: 
 - Karakostas Anastasios
