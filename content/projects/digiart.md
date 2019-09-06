@@ -10,7 +10,7 @@ excerpt: "<a href=\"http://digiart-project.eu/\">DigiArt</a>: The Internet Of Hi
   advanced abilities for viewing, or interacting with the 3D models. "
 types: project
 tags:
-- current
+- completed
 - european
 images:
 - project_logos/DigiArt_Logo.jpg
