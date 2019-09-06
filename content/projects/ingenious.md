@@ -4,14 +4,14 @@ tags:
 - current
 - european
 images:
-- project_logos/aqua3s.png
+- project_logos/ingenious.png
 website_name: coming soon
 website_link: #
-acronym: Enhancing Standardisation strategies to integrate innovative technologies for Safety and Security in existing water networks
+acronym: The First Responder (FR) of the Future, a Next Generation Integrated Toolkit (NGIT) for Collab-orative Response, increasing protection and augmenting operational capacity
 layout: projects
-title: aqua3S
-date: '2019-09-05T10:26:33+02:00'
-program: H2020 - SU-DRS03-2018-2019-2020
+title: INGENIOUS
+date: '2019-09-05T10:26:34+02:00'
+program: H2020 - SU-DRS02-2018-2019-2020 
 contact: 
 - Karakostas Anastasios
 - Vrochidis Stefanos
