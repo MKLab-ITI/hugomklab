@@ -13,7 +13,7 @@ excerpt: ' <div style="text-align: justify;"><strong><a href="http://www.invid-p
   files and video content spread via social media.</div>'
 types: project
 tags:
-- current
+- completed
 - european
 - coordinator
 images:
