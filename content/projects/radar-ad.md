@@ -3,7 +3,6 @@ types: project
 tags:
 - current
 - national
-- coordinator
 images:
 - project_logos/radar-logo.png
 website_name: radar-ad.org
@@ -15,6 +14,8 @@ date: '2019-02-28T10:25:33+02:00'
 program: IMI2 – Call 3 - Topic 1
 contact: 
 - Kompatsiaris Yiannis (Ioannis)
+- Nikolopoulos Spiros
+- Stavropoulos Thanos
 ---
 <p>The RADAR-AD project, launched in January 2019 with three years duration, is expected to bring such technologies closer to pharmaceutical practice. The aim of the RADAR-AD (Remote Assessment of Disease and Relapse in Alzheimer’s Disease) is to develop and validate technologically advanced and sensitive measurements of the daily problems of people who are at the initial stage of AD (e.g., Mild Cognitive Impairment). To achieve this, RADAR-AD will work in close collaboration with patient organizations and regulatory authorities to select and integrate the most relevant devices available in order to measure daily function in a timely manner. Overall, the assessment of the proposed technology will be carried out across Europe, involving around 220 people from all stages of the AD continuum.
 </p>
