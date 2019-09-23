@@ -25,7 +25,7 @@ date: '2019-06-24T16:47:22+03:00'
 <strong>Before you apply:</strong>
 <ol type="1">
   <li>Be as specific as possible about why you want the dataset.</li>
-  <li>In the case of undergraduate and postgraduate students, you should ask your supervisor to complete the form below, and mention you as a supervisee. We cannot collaborate with researchers who do not have a full-time academic contract. </li>
+  <li>In the case of undergraduate and postgraduate students, you should ask your supervisor to complete the form above, and mention you as a supervisee. We cannot collaborate with researchers who do not have a full-time academic contract. </li>
   <li>If you intend to ask for an alternative collaboration agreement from the default one, explain why you think this is appropriate. </li>
   <li>The datasets Terms of Use are serious. Please read them all. If you do not follow them we will require you to delete all dataset data, and may ask journals to retract any publications from the period when you did not follow them. In extreme cases we will contact university departments where collaborators work. </li>
 </ol>  
