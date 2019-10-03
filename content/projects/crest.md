@@ -3,11 +3,12 @@ types: project
 tags:
 - current
 - european
+- scientific manager
 images:
 - project_logos/crest_logo.jpg
-website_name: coming soon
-website_link: #
-acronym: 
+website_name: cordis.europa.eu
+website_link: https://cordis.europa.eu/project/rcn/223302/factsheet/en
+acronym: Fighting Crime and TerroRism with an IoT-enabled Autonomous Platform based on an Ecosystem of Advanced IntelligEnce, Operations, and InveStigation Technologies
 layout: projects
 title: CREST
 date: '2019-10-01T10:26:33+02:00'
