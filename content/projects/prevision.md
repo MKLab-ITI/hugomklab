@@ -4,10 +4,10 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/prevision_logo.png
 website_name: Coming Soon
 website_link: #
-acronym: 
+acronym: Prediction and Visual Intelligence for Security Information
 title: PREVISION
 date: '2019-10-02T10:26:33+02:00'
 program: H2020 SEC, FCT, 2019-2021
