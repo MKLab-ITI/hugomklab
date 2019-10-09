@@ -11,7 +11,7 @@ website_link: http://www.demcare.eu/
 acronym: 'Dementia Ambient Care: Multi-Sensing Monitoring for Intelligent Remote Management
   and Decision Support'
 layout: projects
-title: Dem@Care (co-ordinator)
+title: Dem@Care (Coordinator)
 date: '2011-12-21T15:20:07+02:00'
 program: FP7 ICT IP, 2011-2015
 contact: 
