@@ -1,43 +1,9 @@
 <h1 class="title">{{ .Title }}</h1>
-<ul class="posts">
-    {{ range .Data.Pages -}}
-    <li>
-        <span>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            {{ if not .Date.IsZero }}
-            <time class="pull-right post-list testest">
-                {{- .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") -}}
-            </time>    
-            {{end}}
-        </span>
-    </li>
-    {{- end }}
-</ul>
-
-<h1 class="title">{{ .Title }}</h1>
-
-<div class="project-container">
-
-        {{ range .Data.Pages }}
-        <div class="project-box">
-            <p class="project-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
-            {{ if(.Params.program) }}<p class="b small">{{ .Params.program }}</p>{{end}}
-
-            <!--
-            <a href="{{ .Permalink }}">
-            {{ if index (.Params.Images) 0 }}
-                <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="logo-list" />
-            {{ else }}
-                <img src="/files/project_logos/no-logo.png" alt="no logo" class="logo-list" />
-            {{ end }}
-            </a>
-            -->
-
-            {{ range .Params.Tags }}
-            <span class="label label-75 {{ . }}">{{ . }}</span>
-            {{ end }}
-            <p class="acronym">{{ .Params.Acronym }}</p>
-        </div>
-        {{ end }}
-
+{{ range .Data.Pages -}}
+<div class="project-box">
+    <p class="project-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    {{ if(.Params.program) }}<p class="b small">{{ .Params.program }}</p>{{end}}
+    <p class="acronym">{{ .Params.Acronym }}</p>
 </div>
+{{- end }}
+
