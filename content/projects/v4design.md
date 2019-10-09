@@ -10,7 +10,7 @@ website_name: v4design.eu
 website_link: https://v4design.eu/
 acronym: Visual and textual content re-purposing FOR(4) architecture, Design and video virtual reality games
 layout: projects
-title: V4Design (co-ordinator)
+title: V4Design (Coordinator)
 date: '2018-01-30T11:03:34+02:00'
 program: H2020, ICT, 2018-2020
 contact: 
