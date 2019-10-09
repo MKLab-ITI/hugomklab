@@ -10,7 +10,7 @@ website_name: mamem.eu
 website_link: http://www.mamem.eu/
 acronym: Multimedia Authoring and Management using your Eyes and Mind
 layout: projects
-title: MAMEM (co-ordinator)
+title: MAMEM (Coordinator)
 date: '2015-05-21T16:11:19+03:00'
 program: H2020 ICT RIA, 2015-2018
 contact: 
