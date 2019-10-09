@@ -1,8 +1,8 @@
 <h1 class="title">Projects</h1>
-{{ range .Data.Pages }}
-<div class="project-container">
 
-        
+<div class="project-container">
+               
+        {{ range .Data.Pages }}
         <div class="project-box">
             
             <p class="project-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
@@ -23,7 +23,7 @@
             {{ end }}
             <p class="acronym">{{ .Params.Acronym }}</p>
         </div>
-        
+        {{ end }}
 
 </div>
-{{ end }}
+
