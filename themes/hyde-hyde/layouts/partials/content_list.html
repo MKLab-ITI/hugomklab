@@ -13,3 +13,31 @@
     </li>
     {{- end }}
 </ul>
+
+<h1 class="title">{{ .Title }}</h1>
+
+<div class="project-container">
+
+        {{ range .Data.Pages }}
+        <div class="project-box">
+            <p class="project-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+            {{ if(.Params.program) }}<p class="b small">{{ .Params.program }}</p>{{end}}
+
+            <!--
+            <a href="{{ .Permalink }}">
+            {{ if index (.Params.Images) 0 }}
+                <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="logo-list" />
+            {{ else }}
+                <img src="/files/project_logos/no-logo.png" alt="no logo" class="logo-list" />
+            {{ end }}
+            </a>
+            -->
+
+            {{ range .Params.Tags }}
+            <span class="label label-75 {{ . }}">{{ . }}</span>
+            {{ end }}
+            <p class="acronym">{{ .Params.Acronym }}</p>
+        </div>
+        {{ end }}
+
+</div>
