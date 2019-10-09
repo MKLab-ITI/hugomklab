@@ -9,7 +9,7 @@ website_name: ist-chorus.org
 website_link: http://www.ist-chorus.org/
 acronym: Coordinated approacH to the EurOpean effoRt on aUdio-visual Search engines
 layout: projects
-title: CHORUS
+title: CHORUS (Scientific Coordinator)
 date: '2007-10-29T15:33:36+02:00'
 contact:
 - Kompatsiaris Yiannis (Ioannis)
