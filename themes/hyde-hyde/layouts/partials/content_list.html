@@ -1,12 +1,14 @@
 
 <h1 class="title">{{ .Title }}</h1>
-{{ range .Data.Pages -}}
+
 <div class="project-container">
+    {{ range .Data.Pages -}}
     <div class="project-box">
         <p class="project-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
         {{ if(.Params.program) }}<p class="b small">{{ .Params.program }}</p>{{end}}
         <p class="acronym">{{ .Params.Acronym }}</p>
     </div>
+    {{- end }}
 </div>
-{{- end }}
+
 
