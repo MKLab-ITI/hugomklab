@@ -10,7 +10,7 @@ website_name: socialsensor.eu
 website_link: http://www.socialsensor.eu/
 acronym: Real-time multimedia indexing and search in the Social Web
 layout: projects
-title: SocialSensor (co-ordinator)
+title: SocialSensor (Coordinator)
 date: '2011-10-03T12:40:02+03:00'
 program: FP7 ICT IP, 2011-2013
 contact: 
