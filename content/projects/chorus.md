@@ -3,7 +3,6 @@ types: project
 tags:
 - completed
 - european
-- coordinator_scientific
 images: []
 website_name: ist-chorus.org
 website_link: http://www.ist-chorus.org/
