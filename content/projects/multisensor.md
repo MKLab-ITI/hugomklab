@@ -11,7 +11,7 @@ website_link: http://www.multisensorproject.eu/
 acronym: Mining and Understanding of multilinguaL contenT for Intelligent Sentiment
   Enriched coNtext and Social Oriented inteRpretation
 layout: projects
-title: MULTISENSOR (co-ordinator)
+title: MULTISENSOR (Coordinator)
 date: '2013-11-01T15:45:11+02:00'
 program: FP7 ICT STREP, 2013-2016
 contact: 
