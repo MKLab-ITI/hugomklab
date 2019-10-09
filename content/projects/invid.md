@@ -23,7 +23,7 @@ website_link: http://www.invid-project.eu/
 acronym: In Video Veritas - Verification of Social Media Video Content for the News
   Industry
 layout: projects
-title: InVID (co-ordinator)
+title: InVID (Coordinator)
 date: '2016-01-19T14:23:55+02:00'
 program: H2020 ICT IA, 2016-2018
 contact: 
