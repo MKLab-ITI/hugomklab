@@ -3,13 +3,14 @@ types: project
 tags:
 - current
 - european
+- coordinator
 images:
 - project_logos/aqua3s.png
 website_name: coming soon
 website_link: #
 acronym: Enhancing Standardisation strategies to integrate innovative technologies for Safety and Security in existing water networks
 layout: projects
-title: aqua3S
+title: aqua3S (Coordinator)
 date: '2019-09-05T10:26:33+02:00'
 program: H2020 - SU-DRS03-2018-2019-2020
 contact: 
