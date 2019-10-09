@@ -9,7 +9,7 @@ website_name: evision-project.gr
 website_link: https://evision-project.gr
 acronym: e-vision
 layout: projects
-title: e-όραση (co-ordinator)
+title: e-όραση (Coordinator)
 date: '2018-10-09T12:53:24+02:00'
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
 contact: 
