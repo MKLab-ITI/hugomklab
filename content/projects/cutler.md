@@ -10,7 +10,7 @@ website_name: cutler-h2020.eu
 website_link: https://www.cutler-h2020.eu/
 acronym: 'Coastal Urban Development Through the Lenses of Resiliency '
 layout: projects
-title: CUTLER (co-ordinator)
+title: CUTLER (Coordinator)
 date: '2018-05-16T11:39:44+03:00'
 program: H2020 - CO-CREATION – 2018 –2020
 contact: 
