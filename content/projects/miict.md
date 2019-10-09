@@ -3,6 +3,7 @@ types: project
 tags:
 - current
 - european
+- technical manager
 images:
 - project_logos/mict.jpg
 website_name: miict.eu
