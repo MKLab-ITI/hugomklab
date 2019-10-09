@@ -11,7 +11,7 @@ website_link: http://beaware-project.eu/
 acronym: Enhancing decision support and management services in extreme weather climate
   events
 layout: projects
-title: beAWARE (co-ordinator)
+title: beAWARE (Coordinator)
 date: '2017-01-31T16:29:19+02:00'
 program: H2020 DRS, 2017-2020
 contact: 
