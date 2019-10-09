@@ -1,5 +1,5 @@
 ---
-title: e-ΧΝΗΛΑΤΗΣ (co-ordinator)
+title: e-ΧΝΗΛΑΤΗΣ (Coordinator)
 date: 2018-10-12T12:00:00+03:00
 types: project
 tags:
