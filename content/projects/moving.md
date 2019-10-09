@@ -22,7 +22,7 @@ website_link: http://moving-project.eu/
 acronym: Training towards a society of data-savvy information professionals to enable
   open leadership innovation
 layout: projects
-title: MOVING (co-ordinator)
+title: MOVING (Coordinator)
 date: '2016-01-19T13:59:05+02:00'
 program: H2020 RIA, 2016-2019
 contact: 
