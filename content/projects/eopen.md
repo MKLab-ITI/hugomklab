@@ -3,6 +3,7 @@ types: project
 tags:
 - current
 - european
+- technical manager
 images:
 - project_logos/eopen-logo.png
 website_name: eopen-project.eu
