@@ -10,7 +10,7 @@ website_link: http://avmediasearch.eu/
 acronym: Coordinated approacH to the EurOpean effoRt on aUdio-visual Search engines+
   is a Coordination Action
 layout: projects
-title: CHORUS+ (Scientific Co-ordination)
+title: CHORUS+ (Scientific Coordinator)
 date: '2010-01-04T11:08:04+02:00'
 contact: 
 - Kompatsiaris Yiannis (Ioannis)
