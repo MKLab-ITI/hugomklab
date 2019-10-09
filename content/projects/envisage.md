@@ -10,7 +10,7 @@ website_name: envisage-h2020.eu
 website_link: http://www.envisage-h2020.eu/
 acronym: ENhance VIrtual learning Spaces using Applied Gaming in Education
 layout: projects
-title: Envisage (co-ordinator)
+title: Envisage (Coordinator)
 date: '2016-11-30T16:56:16+02:00'
 program: H2020 ICT IA, 2016 - 2018
 contact: 
