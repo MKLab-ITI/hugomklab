@@ -3,6 +3,7 @@ types: project
 tags:
 - current
 - european
+- scientific manager
 images:
 - project_logos/connexions_logo.png
 website_name: Coming Soon
