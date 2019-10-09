@@ -1,45 +1,15 @@
-<h1 class="title">Research</h1>
-
-<div class="row-flex">
-    <div class="column-a">
-  
-      <div class="posts">
-        
-        {{ range .Data.Pages.Reverse }}
-          <div class="post post-research">
-            <h2 id="{{ .File.BaseFileName }}" class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }}<sup><i class="fas fa-pen-square fa-xs"></i></sup>{{ end }}</h2>
-            
-            {{ if index (.Params.Images) 0 }}
-            <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="blog-thumbnail" />
-            {{ end }}
-          
-            <div class="bl{{ if index (.Params.Images) 0 }} blog-pl{{end}}">
-              {{ .Summary }}
-            
-              {{ if .Truncated }}
-              <div class="read-more-link">
-                  <a href="{{ .RelPermalink }}">Read More…</a>
-              </div>
-              {{ end }}
-            </div>
-  
-          </div>
-        
-        {{ end }}
-      </div>
-    </div>
-    <div class="column-b">
-        <div class="sticky">
-            <h3>What's on this page</h3>
-            <nav id="TableOfContents">
-                <ul>
-                    {{ range .Data.Pages.Reverse -}}
-                    <li>
-                        <a href="#{{ .File.BaseFileName }}">{{ .Title }}</a>
-                    </li>
-                    {{- end }}
-                </ul>
-            </nav>
-        </div>
-    </div>
-</div>
+<h1 class="title">{{ .Title }}</h1>
+<ul class="posts">
+    {{ range .Data.Pages -}}
+    <li>
+        <span>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ if not .Date.IsZero }}
+            <time class="pull-right post-list">
+                {{- .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") -}}
+            </time>    
+            {{end}}
+        </span>
+    </li>
+    {{- end }}
+</ul>
