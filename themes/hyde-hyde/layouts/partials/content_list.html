@@ -6,6 +6,9 @@
     <div class="project-box">
         <p class="project-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
         {{ if(.Params.program) }}<p class="b small">{{ .Params.program }}</p>{{end}}
+        {{ range .Params.Tags }}
+            <span class="label label-75 {{ . }}">{{ . }}</span>
+        {{ end }}
         <p class="acronym">{{ .Params.Acronym }}</p>
     </div>
     {{- end }}
