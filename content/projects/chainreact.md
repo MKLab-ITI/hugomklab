@@ -10,7 +10,7 @@ website_name: chainreact.org
 website_link: http://chainreact.org/
 acronym: Making Supplier Networks Transparent, Understandable and Responsive
 layout: projects
-title: ChainReact (co-ordinator)
+title: ChainReact (Coordinator)
 date: '2015-12-10T12:47:16+02:00'
 program: H2020 ICT RIA, 2016-2018
 contact: 
