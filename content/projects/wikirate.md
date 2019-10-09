@@ -10,7 +10,7 @@ website_name: wikirate.eu
 website_link: http://wikirate.eu/
 acronym: Crowdsource Better Companies
 layout: projects
-title: WikiRate (co-ordinator)
+title: WikiRate (Coordinator)
 date: '2014-02-13T18:25:45+02:00'
 program: FP7 ICT Call 10
 contact: 
