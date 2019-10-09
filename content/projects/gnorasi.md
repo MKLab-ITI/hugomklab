@@ -11,7 +11,7 @@ website_link: htto://www.gnorasi.gr
 acronym: Knowledge and processing algorithms data-flow development tool for remote
   sensing data management
 layout: projects
-title: GNORASI (co-ordinator)
+title: GNORASI (Coordinator)
 date: '2010-09-09T14:51:11+03:00'
 contact: 
 - Kompatsiaris Yiannis (Ioannis)
