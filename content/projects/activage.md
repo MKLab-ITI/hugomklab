@@ -11,7 +11,7 @@ acronym: A European Multi Centric Large Scale Pilot on Smart Living Environments
 layout: projects
 title: ACTIVAGE
 date: '2017-02-28T15:43:03+02:00'
-program: H2020-IOT-2016, 2017-2020
+program: H2020-IOT-2016 2017-2020
 contact:
 - Kompatsiaris Yiannis (Ioannis)
 - Stavropoulos Thanos
