@@ -8,6 +8,7 @@ images:
 website_name: echonetwork.eu
 website_link: https://www.echonetwork.eu/
 acronym: European network of Cybersecurity centres and competence Hub for innovation and Operations
+layout: projects
 title: ECHO
 date: '2019-10-13T10:24:33+02:00'
 program: H2020-SU-ICT-2018-2022
