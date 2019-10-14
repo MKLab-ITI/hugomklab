@@ -11,7 +11,6 @@ acronym: European network of Cybersecurity centres and competence Hub for innova
 title: ECHO
 date: '2019-10-13T10:24:33+02:00'
 program: H2020-SU-ICT-2018-2022
-layout:projects
 contact: 
 - Tsikrika Theodora
 - Vrochidis Stefanos
