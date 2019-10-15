@@ -8,4 +8,4 @@ date: 2019-10-14T13:38:24.063Z
 tags: journal_publications
 publication_date: '2019-10-14'
 ---
-Ioulietta Lazarou, Spiros Nikolopoulos, Stavros I. Dimitriadis, Ioannis (Yiannis) Kompatsiaris, Martha Spilioti, Magda Tsolaki, Is Brain Connectome Research the Future Frontier for Subjective Cognitive Decline? A Systematic Review, Clinical Neurophysiology, 2019, ISSN 1388-2457, DOI: 10.1016/j.clinph.2019.07.004.
+Lazarou I, Nikolopoulos S, Dimitriadis SI, Yiannis Kompatsiaris I, Spilioti M, Tsolaki M. Is brain connectome research the future frontier for subjective cognitive decline? A systematic review. Clin Neurophysiol. 2019 Oct;130(10):1762-1780. doi: 10.1016/j.clinph.2019.07.004.
