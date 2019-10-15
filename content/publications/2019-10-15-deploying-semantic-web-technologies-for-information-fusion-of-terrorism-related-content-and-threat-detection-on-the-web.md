@@ -4,7 +4,7 @@ types: publication
 title: >-
   Deploying Semantic Web Technologies for Information Fusion of Terrorism
   related Content and Threat Detection on the Web
-date: 2019-10-15T12:39:35.011Z
+date: 2019-10-15T12:34:35.011Z
 tags: conference_publications
 publication_date: '2019-10-14'
 ---
