@@ -22,7 +22,6 @@ showpagemeta: false
 ## Postdoctoral Research Fellows
 
 **Dr. Alvanitopoulos Petros-Fotios**, palvanitopoulos@iti.gr  
-**Dr. Avgerinakis Kostas**, koafgeri@iti.gr  
 **Dr. Collyda Chrysa**, ckol@iti.gr  
 **Dr. Chantas Ioannis**, gchantas@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
@@ -34,7 +33,6 @@ showpagemeta: false
 **Dr. Iakovidou Chrysanthi**, c.iakovidou@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
 **Dr. Karakostas Anastasios**, akarakos@iti.gr  
-**Dr. Kontopoulos Efstratios**, skontopo@iti.gr  
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Meditskos Georgios**, gmeditsk@iti.gr  
@@ -54,7 +52,6 @@ showpagemeta: false
 ## Research Associates
 
 **Adamantidou Eleni**, adamelen@iti.gr  
-**Aglamisis Ioannis**, y.aglamisis@iti.gr  
 **Andreadis Stelios**, andreadisst@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr  
 **Antzoulatos Gerasimos**, gantzoulatos@iti.gr  
@@ -82,6 +79,7 @@ showpagemeta: false
 **Kouloglou Ioannis-Omiros**, kouloglou@iti.gr  
 **Krestenitis Marios**, mikrestenitis@iti.gr  
 **Krasanakis Manolis**, maniospas@iti.gr  
+**Kyrampalidou Sophia**, sofiaky@iti.gr  
 **Lazarou Ioulietta**, iouliettalaz@iti.gr  
 **Liatsikou Maria**, maria_liatsikou@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
@@ -100,8 +98,8 @@ showpagemeta: false
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
+**Pistola Dora**, tpistola@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr  
-**Pronakis Orestis**, opronakis@iti.gr  
 **Prountzos Giorgos**, gprountzos@iti.gr  
 **Riga Marina**, mriga@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
@@ -109,6 +107,7 @@ showpagemeta: false
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
+**Tsolakides Stefanos**, stefpstsol@iti.gr  
 **Xaritidis Xronis**, charitidis@iti.gr  
 
 ## PhD Candidates
@@ -119,9 +118,13 @@ showpagemeta: false
 ## Administration Assistant
 
 **Papadopoulou Maria**, marpap@iti.gr  
-**Theodoroudi Eleftheria**, eletheod@iti.gr  
+**Aliapouliou Maro**, maroalia@iti.gr  
 
 ## Past Colleagues
+Dr. Kontopoulos Efstratios, Postdoctoral Research Fellow, skontopo@iti.gr  
+Dr. Avgerinakis Kostas, Postdoctoral Research Fellow, koafgeri@iti.gr  
+Pronakis Orestis, Research Associate, opronakis@iti.gr  
+Aglamisis Ioannis, Research Associate, y.aglamisis@iti.gr  
 Kaltsa Vagia, Research Associate, vagiakal@iti.gr  
 Adam Katerina, Research Associate, katadam@iti.gr  
 Liaros Georgios, Research Associate, geoliaros@iti.gr  
