@@ -6,8 +6,8 @@ tags:
 - coordinator
 images:
 - project_logos/aqua3s.png
-website_name: coming soon
-website_link: #
+website_name: aqua3s.eu
+website_link: http://aqua3s.eu/
 acronym: Enhancing Standardisation strategies to integrate innovative technologies for Safety and Security in existing water networks
 layout: projects
 title: aqua3S (Coordinator)
