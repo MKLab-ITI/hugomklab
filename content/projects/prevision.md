@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/prevision_logo.png
+- project_logos/prevision_logo_final.png
 website_name: Coming Soon
 website_link: #
 acronym: Prediction and Visual Intelligence for Security Information
