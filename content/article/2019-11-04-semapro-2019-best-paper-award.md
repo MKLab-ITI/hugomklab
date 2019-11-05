@@ -2,9 +2,9 @@
 types: article
 tags:
 images: 
-- field/image/video_verification_book.jpg
+- field/image/semapro-2019.png
 layout: article
-title: Video Verification in the Fake News Era book just published
+title: SEMAPRO 2019 Best Paper Award
 date: '2019-09-24T10:49:37+02:00'
 ---
 <p>
