@@ -13,3 +13,6 @@ We are glad to announce that our paper with title "Knowledge-based Intelligence 
 <p>
 The paper was presented in the <b>SyMpATHY</b> special track and describes a novel virtual assistant framework that aggregates ontologies, semantic reasoning, dialogue management and policy learning techniques to support advanced task-oriented conversations extended by ”chatty” style dialogues.
 </p>
+
+</p> The work has been carried out within the context of the <a href="https://rea-project.gr/en/home-en/" target="_blank">REA project</a> that aims to combine Assistive Living technologies with intelligent interfaces and advanced dialogue systems to support patients and clinical personnel in rehabilitation centers and home environments. 
+</p>
