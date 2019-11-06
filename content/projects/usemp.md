@@ -5,8 +5,8 @@ tags:
 - european
 images:
 - project_logos/usemp-logo.png
-website_name: usemp-project.eu
-website_link: http://www.usemp-project.eu/
+website_name: usemp.eu
+website_link: http://www.usemp.eu/
 acronym: User Empowerment for Enhanced Online Management
 layout: projects
 title: USEMP
