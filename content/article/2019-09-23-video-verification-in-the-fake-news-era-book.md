@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- field/image/semapro-2019.png
+- field/image/video_verification_book.jpg
 layout: article
 title: SEMAPRO 2019 Best Paper Award
 date: '2019-11-04T08:49:37+02:00'
