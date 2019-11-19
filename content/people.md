@@ -74,10 +74,12 @@ showpagemeta: false
 **Karatzia Anastasia**, akaratzia@iti.gr  
 **Katmada Katerina**, akatmada@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
+**Konstantinou Apostolos**, konstantinou@iti.gr  
 **Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Koufakis Alexandros-Michail**, akoufakis@iti.gr  
 **Koulalis Ilias**, iliask@iti.gr  
 **Kouloglou Ioannis-Omiros**, kouloglou@iti.gr  
+**Kouslis Ilias**, kouslis@iti.gr  
 **Krestenitis Marios**, mikrestenitis@iti.gr  
 **Krasanakis Manolis**, maniospas@iti.gr  
 **Kyrampalidou Sophia**, sofiaky@iti.gr  
