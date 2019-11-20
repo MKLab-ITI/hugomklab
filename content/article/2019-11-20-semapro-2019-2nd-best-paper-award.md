@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- field/image/
+- field/image/award-mriga.jpg
 layout: article
 title: SEMAPRO 2019 2nd Best Paper Award
 date: '2019-11-20T10:49:37+02:00'
