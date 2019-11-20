@@ -85,11 +85,11 @@ showpagemeta: false
 **Kyrampalidou Sophia**, sofiaky@iti.gr  
 **Lazarou Ioulietta**, iouliettalaz@iti.gr  
 **Liatsikou Maria**, maria_liatsikou@iti.gr  
+**Mantsis Damianos-Florin**,  dmantsis@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
 **Metsai Alexander**, alexmetsai@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
 **Migkotzidis Panagiotis**, migkotzidis@iti.gr  
-**Mitzias Panagiotis**, pmitzias@iti.gr  
 **Mokkas Alexandros**, mokkas@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr  
 **Mpakratsas Marios**,mbakratsas@iti.gr  
@@ -101,6 +101,7 @@ showpagemeta: false
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
 **Palaiopanos Gerasimos**, gerasimos@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
+**Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papastergiou Asterios**, astepapa@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
@@ -113,6 +114,7 @@ showpagemeta: false
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
+**Theodosiadou Ourania**, raniatheo@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakides Stefanos**, stefpstsol@iti.gr  
 **Xaritidis Xronis**, charitidis@iti.gr  
@@ -125,9 +127,11 @@ showpagemeta: false
 ## Administration Assistant
 
 **Papadopoulou Maria**, marpap@iti.gr  
-**Aliapouliou Maro**, maroalia@iti.gr  
+**Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Mitzias Panagiotis, Research Associate, pmitzias@iti.gr  
+Theodoroudi Eleftheria, Administration Assistant, eletheod@iti.gr  
 Dr. Kontopoulos Efstratios, Postdoctoral Research Fellow, skontopo@iti.gr  
 Dr. Avgerinakis Kostas, Postdoctoral Research Fellow, koafgeri@iti.gr  
 Pronakis Orestis, Research Associate, opronakis@iti.gr  
