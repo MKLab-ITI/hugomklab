@@ -117,6 +117,7 @@ showpagemeta: false
 **Theodosiadou Ourania**, raniatheo@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakides Stefanos**, stefpstsol@iti.gr  
+**Tzionis Grigoris**, gtzionis@iti.gr  
 **Xaritidis Xronis**, charitidis@iti.gr  
 
 ## PhD Candidates
