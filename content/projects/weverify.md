@@ -10,7 +10,7 @@ website_link: https://weverify.eu/
 acronym: Wider and enhanced verification for you.
 layout: projects
 title: WeVerify
-date: '2019-12-03T10:43:03+02:00'
+date: '2019-06-07T10:31:33+02:00'
 program: H2020-ICT-2018-2020
 contact:
 - Papadopoulos Symeon
