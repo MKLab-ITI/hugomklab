@@ -110,35 +110,12 @@
 </section>
 
 <section id="content5">
-    <ul>
+    <ol>
+    {{ range $material }}
         <li>
-            <p class="result-title"><a href="https://github.com/MKLab-ITI/mmdemo-dockerized">Social Tracker</a></p>
-            <p class="small">Collect social media items from multiple sources in real time</p>
+        <p class="result-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ if(.Params.Excerpt) }}<p class="small">{{ .Params.Excerpt }}</p>{{end}}
         </li>
-        <li>
-            <p class="result-title"><a href="http://augreal.mklab.iti.gr/dinos/">Live+Gov</a></p>
-            <p class="small">Augmented Reality for smartphones</p>
-        </li>
-        <li>
-            <p class="result-title"><a href="http://mklab.iti.gr/ivus">IVUS-ANGIO</a></p>
-            <p class="small">Tool for automatic detection of lumen and media-adventitia boundaries</p>
-        </li>
-        <li>
-            <p class="result-title"><a href="http://sourceforge.net/projects/via-tool/">Open Source Video Image Annotation tool</a></p>
-            <p class="small">Video Image Annotation tool. Old, not supported versions: M-OntoMat 2.0 and M-OntoMat. Video in Greek.</p>
-        </li>
-        <li>
-            <p class="result-title"><a href="http://mklab.iti.gr/verge/">VERGE</a></p>
-            <p class="small">A video search engine</p>
-        </li>
-        <li>
-            <p class="result-title"><a href="http://mklab-services.iti.gr/multiforecast">MultiForecast</a></p>
-            <p class="small">Gives you weather forecasts from multiple environmental resources</p>
-        </li>
-        <li>
-            <p class="result-title"><a href="http://mklab-services.iti.gr/reach">REACH</a></p>
-            <p class="small">A Hybrid Ontology and Content-Based Search Engine for Cultural Content (in Greek). Υβριδική Μηχανή Αναζήτησης Πολυμεσικού Περιεχομένου Πολιτισμού Βασισμένη σε Οντολογίες και Ανάλυση</p>
-        </li>
-            
-    </ul>
+    {{ end }}
+    </ol>
 </section>
