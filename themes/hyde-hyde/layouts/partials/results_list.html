@@ -3,7 +3,7 @@
 {{ $ontologies := .Site.Taxonomies.tags.ontology }}
 {{ $datasets := .Site.Taxonomies.tags.data }}
 {{ $demos := .Site.Taxonomies.tags.demo }}
-
+{{ $material := .Site.Taxonomies.tags.material }}
 
 <h1 class="title">{{ .Title }}</h1>
 
@@ -26,6 +26,8 @@
 <input id="tab4" type="radio" name="tabs">
 <label for="tab4">Demos {{ if ($demos) }}<span class="label label-75">{{ len $demos }}</span>{{end}}</label>
 
+<input id="tab5" type="radio" name="tabs">
+<label for="tab5">Material {{ if ($material) }}<span class="label label-75">{{ len $material }}</span>{{end}}</label>
 
 <section id="content1">
     <ol>
@@ -105,8 +107,15 @@
         </li>
             
     </ul>
+</section>
 
-
-
-
+<section id="content5">
+    <ol>
+    {{ range $material }}
+        <li>
+        <p class="result-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ if(.Params.Excerpt) }}<p class="small">{{ .Params.Excerpt }}</p>{{end}}
+        </li>
+    {{ end }}
+    </ol>
 </section>
