@@ -6,7 +6,7 @@ tags:
 images:
 - project_logos/helios_logo.png
 website_name: helios-social.eu
-website_link: https://helios-social.eu
+website_link: http://helios-social.eu
 acronym: Empowering Meaningful Relationships; A Context-aware Distributed Social Networking Framework
 layout: projects
 title: HELIOS
