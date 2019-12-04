@@ -10,7 +10,7 @@ website_link: http://helios-social.eu
 acronym: Empowering Meaningful Relationships; A Context-aware Distributed Social Networking Framework
 layout: projects
 title: HELIOS
-date: '2019-12-04T10:43:03+02:00'
+date: '2019-06-07T10:30:33+02:00'
 program: H2020-ICT-2018-2020
 contact:
 - Papadopoulos Symeon
