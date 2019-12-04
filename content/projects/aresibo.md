@@ -10,7 +10,7 @@ website_link: http://aresibo.eu/
 acronym: Augmented Reality Enriched Situation Awareness for Border Security
 layout: projects
 title: ARESIBO
-date: '2019-06-07T10:26:33+02:00'
+date: '2019-06-07T10:35:33+02:00'
 program: H2020-SU-BES02-2018-2019-2020
 contact: 
 - Ioannidis Konstantinos
