@@ -10,7 +10,7 @@ website_link: https://h2020mirror.eu/
 acronym: Migration-Related Risks caused by misconceptions of Opportunities and Requirement
 layout: projects
 title: MIRROR
-date: '2019-06-05T10:25:33+02:00'
+date: '2019-06-07T10:40:33+02:00'
 program: H2020 RIA, 2019-2022
 contact: 
 - Mezaris Vasileios
