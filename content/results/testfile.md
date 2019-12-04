@@ -6,7 +6,7 @@ tags:
 images: []
 layout: results
 title: TEST material
-date: '2015-10-09T12:36:44+03:00'
+date: '2019-12-03T12:36:44+03:00'
 ---
 <p><font size="5" color="red"><strong>Accelerated Kernel Subclass Discriminant Analysis and SVM combination:</strong></font><em><font size="4" color="red"> An efficient dimensionality reduction and classification method, for very high-dimensional data.</font></em></p>
 <p><strong>Description </strong></p>
