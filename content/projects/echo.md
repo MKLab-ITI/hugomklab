@@ -10,7 +10,7 @@ website_link: https://www.echonetwork.eu/
 acronym: European network of Cybersecurity centres and competence Hub for innovation and Operations
 layout: projects
 title: ECHO
-date: '2019-06-05T10:24:33+02:00'
+date: '2019-06-07T10:44:33+02:00'
 program: H2020-SU-ICT-2018-2022
 contact: 
 - Tsikrika Theodora
