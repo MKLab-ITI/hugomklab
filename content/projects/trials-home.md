@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/trials_home_logo.png
 website_name: Coming Soon
 website_link: #
 acronym: Center of Excellence – Remote Decentralised Clinical Trials
