@@ -4,12 +4,12 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/so-close-logo.png
 website_name: Coming Soon
 website_link: #
 acronym: Enhancing Social Cohesion through Sharing the Cultural Heritage of Forced Migrations
 layout: projects
-title: So-Close
+title: SO-CLOSE
 date: '2019-12-17T10:31:33+02:00'
 program: H2020-SC6-TRANSFORMATIONS-2018
 contact:
