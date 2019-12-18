@@ -7,7 +7,7 @@ images:
 - project_logos/
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/870930
-acronym: 
+acronym: Multiple Intelligent Conversation Agent Services for Reception, Management and Integration of Third Country Nationals in the EU
 layout: projects
 title: WELCOME
 date: '2019-12-18T07:31:33+02:00'
