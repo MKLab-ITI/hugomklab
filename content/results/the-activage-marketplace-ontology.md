@@ -2,7 +2,7 @@
 excerpt: 'The Marketplace Ontology is a model for AHA IoT Apps primarily used for knowledge representation around the Apps as well as for logic-based search and discovery.'
 types: results
 tags:
-- material
+- ontology
 images: []
 layout: results
 title: The ACTIVAGE Marketplace Ontology
