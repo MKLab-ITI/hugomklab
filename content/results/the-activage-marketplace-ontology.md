@@ -16,6 +16,6 @@ The Marketplace Ontology is a model for AHA IoT Apps primarily used for knowledg
 <a href="https://mklab.iti.gr/files/material/marketplace_ontology2.ttl" target="_blank">TTL File</a>
 </p>
 <p>
-Contact:
+Contact:<br>
 Thanos Stavropoulos (athstavr@iti.gr)
 </p>
