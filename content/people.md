@@ -28,7 +28,6 @@ showpagemeta: false
 **Dr. Chatzilari Elisavet**, ehatzi@iti.gr  
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
 **Dr. Gkalelis Nikos**, gkalelis@iti.gr  
-**Dr. Gkamas Theodosios**, tgkamas@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
 **Dr. Iakovidou Chrysanthi**, c.iakovidou@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
@@ -131,6 +130,7 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Dr. Gkamas Theodosios, Postdoctoral Research Fellow, tgkamas@iti.gr  
 Mitzias Panagiotis, Research Associate, pmitzias@iti.gr  
 Theodoroudi Eleftheria, Administration Assistant, eletheod@iti.gr  
 Dr. Kontopoulos Efstratios, Postdoctoral Research Fellow, skontopo@iti.gr  
