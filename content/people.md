@@ -84,6 +84,7 @@ showpagemeta: false
 **Kyrampalidou Sophia**, sofiaky@iti.gr  
 **Lazarou Ioulietta**, iouliettalaz@iti.gr  
 **Liatsikou Maria**, maria_liatsikou@iti.gr  
+**Makedas Themistoklis**,  tmakedas@iti.gr  
 **Mantsis Damianos-Florin**,  dmantsis@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
 **Metsai Alexander**, alexmetsai@iti.gr  
