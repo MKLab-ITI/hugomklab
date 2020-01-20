@@ -69,6 +69,7 @@ showpagemeta: false
 **Kagkelidou Eleftheria**, ekagkelidou@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
+**Kalomitsinis Georgios**, geokal@iti.gr  
 **Kamateri Eleni**, ekamater@iti.gr  
 **Karatzia Anastasia**, akaratzia@iti.gr  
 **Katmada Katerina**, akatmada@iti.gr  
