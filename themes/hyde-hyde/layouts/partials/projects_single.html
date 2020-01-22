@@ -13,7 +13,6 @@
                 {{ range $i, $tag := sort . }}
                 <a class="meta" href="{{ "tags/" | relURL }}{{ $tag | urlize }}">{{ $tag | lower }}</a>{{ if lt $i $subtotal }} {{ end }} {{ end }} {{ end }} {{ end }}
                 <br/>
-                <i class="fas fa-clock"></i> {{ .ReadingTime }} min read
             </span>
         </div>
         {{ end }}        
