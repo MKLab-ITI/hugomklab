@@ -3,6 +3,7 @@
 <div class="project-container">
                
         {{ range .Data.Pages }}
+        {{ if eq .Params.types "project" }}
         <div class="project-box">
             
             <p class="project-title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
@@ -23,6 +24,7 @@
             {{ end }}
             <p class="acronym">{{ .Params.Acronym }}</p>
         </div>
+        {{ end }}
         {{ end }}
 
 </div>
