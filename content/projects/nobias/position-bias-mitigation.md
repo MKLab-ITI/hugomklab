@@ -2,7 +2,7 @@
 types: results
 images: []
 layout: results
-title: Call for applications Early Stage Researcher (PhD Position)
+title: Call for applications - Early Stage Researcher (PhD Position)
 date: "2020-01-27T13:57:00+03:00"
 ---
 
