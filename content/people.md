@@ -120,6 +120,7 @@ showpagemeta: false
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakides Stefanos**, stefpstsol@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
+**Vasileiou Zoi**, zvasilei@iti.gr  
 **Xaritidis Xronis**, charitidis@iti.gr  
 
 ## PhD Candidates
