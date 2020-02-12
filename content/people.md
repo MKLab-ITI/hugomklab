@@ -66,7 +66,6 @@ showpagemeta: false
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Gkoudakos Konstantinos**, gountakos@iti.gr  
 **Iliou Christos**, iliouchristos@iti.gr  
-**Kagkelidou Eleftheria**, ekagkelidou@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalomitsinis Georgios**, geokal@iti.gr  
@@ -109,7 +108,6 @@ showpagemeta: false
 **Pistola Dora**, tpistola@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr  
 **Prountzos Giorgos**, gprountzos@iti.gr  
-**Riga Marina**, mriga@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Samlides Philippos**, philip.samlides@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
@@ -134,6 +132,8 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Kagkelidou Eleftheria, Research Associate, ekagkelidou@iti.gr  
+Riga Marina, Research Associate, mriga@iti.gr  
 Dr. Gkamas Theodosios, Postdoctoral Research Fellow, tgkamas@iti.gr  
 Mitzias Panagiotis, Research Associate, pmitzias@iti.gr  
 Theodoroudi Eleftheria, Administration Assistant, eletheod@iti.gr  
