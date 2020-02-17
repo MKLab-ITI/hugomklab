@@ -126,7 +126,7 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
-Prof. Laskaris Nikolaos, Academic Research Partner, Aristotle University of Thessaloniki, laskaris@csd.auth.gr  
+Prof. Laskaris Nikolaos, Academic Research Partner, laskaris@csd.auth.gr  
 Mokkas Alexandros, Research Associate, mokkas@iti.gr  
 Palaiopanos Gerasimos, Research Associate, gerasimos@iti.gr  
 Kagkelidou Eleftheria, Research Associate, ekagkelidou@iti.gr  
