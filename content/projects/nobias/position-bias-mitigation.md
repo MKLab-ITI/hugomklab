@@ -87,4 +87,4 @@ Please contact Senior Researcher Dr. Symeon Papadopoulos, the primary scientific
 Applications will be processed according to the rules of the corresponding host institute and in compliance with the general rules for projects in the H2020/Marie Skłodowska-Curie programmes. Applications that do not meet the eligibility criteria will not be considered. 
 
 *NoBIAS ITN has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 860630.*
-<img src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
+<img width="70" src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
