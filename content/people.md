@@ -44,10 +44,6 @@ showpagemeta: false
 **Dr. Ververidis Dimitrios**, ververid@iti.gr  
 **Dr. Zampoglou Markos**, markzampoglou@iti.gr  
 
-## Academic Research Partners
-
-**Prof. Laskaris Nikolaos**, Aristotle University of Thessaloniki, laskaris@csd.auth.gr  
-
 ## Research Associates
 
 **Adamantidou Eleni**, adamelen@iti.gr  
@@ -90,7 +86,6 @@ showpagemeta: false
 **Metsai Alexander**, alexmetsai@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
 **Migkotzidis Panagiotis**, migkotzidis@iti.gr  
-**Mokkas Alexandros**, mokkas@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr  
 **Mpakratsas Marios**,mbakratsas@iti.gr  
 **Mpaltadoros Lampros**,lamprosmpalt@iti.gr  
@@ -99,7 +94,6 @@ showpagemeta: false
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Ntrigkogia Paraskevi**, vividrig@iti.gr  
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
-**Palaiopanos Gerasimos**, gerasimos@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
@@ -132,6 +126,9 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Prof. Laskaris Nikolaos, Academic Research Partner, Aristotle University of Thessaloniki, laskaris@csd.auth.gr  
+Mokkas Alexandros, Research Associate, mokkas@iti.gr  
+Palaiopanos Gerasimos, Research Associate, gerasimos@iti.gr  
 Kagkelidou Eleftheria, Research Associate, ekagkelidou@iti.gr  
 Riga Marina, Research Associate, mriga@iti.gr  
 Dr. Gkamas Theodosios, Postdoctoral Research Fellow, tgkamas@iti.gr  
