@@ -9,13 +9,15 @@ date: "2020-01-27T13:57:00+03:00"
 
 Fully funded for up to 3 years, starting as soon as possible between 1st of May and July 2020
 
-**Closing date:** March 1st, 2020
+**Closing date:** ~~March 1st~~March 15th, 2020
 
 **Interview period:** March-April 2020
 
 **Position starts:** July 1st, 2020 (indicative)
 
 **Reference:**  NoBIAS ITN
+
+**Euraxess link**: https://euraxess.ec.europa.eu/jobs/489768
 
 ### PhD project:  “Bias mitigation in classification methods”
 
@@ -55,8 +57,9 @@ You have a Master's degree in Computer Science, Artificial Intelligence, or a si
 #### General eligibility criteria 
 
 To be eligible, the applicant must satisfy [the mobility requirements of Marie Skłodowska-Curie actions](https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf). At the time of recruitment, the potential candidate 
-* "_must not have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary for more than 12 months in the 3 years immediately before the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account_".
-* "_be in the first four years (full-time equivalent research experience) of their research careers and have not been awarded a doctoral degree_".
+
+* "_must not have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary for more than 12 months in the 3 years immediately before the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account_".  
+* "_be in the first four years (full-time equivalent research experience) of their research careers and have not been awarded a doctoral degree_".  
 
 You work efficiently and reliably, independently as well as in teams. You have very good communication skills and scientific curiosity. Your English is very good. You are flexible and prepared to travel and to integrate into the local teams, while keeping a focus on your PhD and on delivering scientific and other project-related output.
 
@@ -71,12 +74,13 @@ In accordance with the MSCA-ITN rules: approximately 34,800€ gross per year, s
 #### Required documents
 
 Applications must be accompanied by the following documents:
-* Detailed CV in Europass format in English, highlighting your achievements and fit to the applied position;
-* Scanned copies of BSc and MSc transcripts, with certified translation in English (if the degree qualification is not in English or in the language of the hosting country);
-* A motivation letter in English, highlighting why you will be a good fit for the position and why you want to be a NoBIAS ESR to carry out this specific PhD;
-* Contact details or recommendation letters of two referees in English or in certified translation (if available);
-* Scanned copy of valid identification document.
-* Proof of English skills (e.g., IELTS, TOEFL, Cambridge or equivalent). This is not required in case of native English speakers (i.e., English is your mother tongue).
+
+* Detailed CV in Europass format in English, highlighting your achievements and fit to the applied position;  
+* Scanned copies of BSc and MSc transcripts, with certified translation in English (if the degree qualification is not in English or in the language of the hosting country);  
+* A motivation letter in English, highlighting why you will be a good fit for the position and why you want to be a NoBIAS ESR to carry out this specific PhD;  
+* Contact details or recommendation letters of two referees in English or in certified translation (if available);  
+* Scanned copy of valid identification document;  
+* Proof of English skills (e.g., IELTS, TOEFL, Cambridge or equivalent). This is not required in case of native English speakers (i.e., English is your mother tongue).  
 
 If available, please also include contact details or recommendation letters of two referees in English or in certified translation.
 
@@ -87,4 +91,5 @@ Please contact Senior Researcher Dr. Symeon Papadopoulos, the primary scientific
 Applications will be processed according to the rules of the corresponding host institute and in compliance with the general rules for projects in the H2020/Marie Skłodowska-Curie programmes. Applications that do not meet the eligibility criteria will not be considered. 
 
 *NoBIAS ITN has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 860630.*
+
 <img width="70" src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
