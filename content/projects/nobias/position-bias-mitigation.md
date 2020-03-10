@@ -9,7 +9,7 @@ date: "2020-01-27T13:57:00+03:00"
 
 Fully funded for up to 3 years, starting as soon as possible between 1st of May and July 2020
 
-**Closing date:** ~~March 1st~~ March 15th, 2020
+**Closing date:** ~~March 1st~~ March 31st, 2020
 
 **Interview period:** March-April 2020
 
