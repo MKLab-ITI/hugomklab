@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- field/image/
+- field/image/mklab-vr-2.jpg
 layout: article
 title: Η εκπαίδευση στα χρόνια του κορονοϊού μέσω τρισδιάστατων εμπειριών
 date: '2020-04-06T08:49:37+02:00'
