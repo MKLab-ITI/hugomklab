@@ -18,6 +18,7 @@ showpagemeta: false
 
 **Dr. Nikolopoulos Spiros**, nikolopo@iti.gr  
 **Dr. Vrochidis Stefanos**, stefanos@iti.gr  
+**<a href="https://www.linkedin.com/in/nsarris/" target="blank">Dr. Sarris Nikolaos</a>**, nsarris@iti.gr  
 
 ## Postdoctoral Research Fellows
 
@@ -107,7 +108,6 @@ showpagemeta: false
 **Prountzos Giorgos**, gprountzos@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Samlides Philippos**, philip.samlides@iti.gr  
-**Sarris Nikolaos**, nsarris@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
