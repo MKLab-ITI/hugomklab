@@ -16,9 +16,9 @@ showpagemeta: false
 
 ## Senior Researchers
 
-**Dr. Nikolopoulos Spiros**, nikolopo@iti.gr  
-**Dr. Vrochidis Stefanos**, stefanos@iti.gr  
+**Dr. Nikolopoulos Spiros**, nikolopo@iti.gr   
 **<a href="https://www.linkedin.com/in/nsarris/" target="blank">Dr. Sarris Nikolaos</a>**, nsarris@iti.gr  
+**Dr. Vrochidis Stefanos**, stefanos@iti.gr 
 
 ## Postdoctoral Research Fellows
 
