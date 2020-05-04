@@ -55,14 +55,17 @@ showpagemeta: false
 **Apostolidis Evlampios**, apostolid@iti.gr  
 **Apostolidis Lazaros**, laaposto@iti.gr  
 **Apostolou Konstantinos**, konapost@iti.gr  
-**Chatzimichail Aggelos**, angechat@iti.gr  
+**Apostolou Konstantinos**, konapost@iti.gr  
+**Avgoustinakis Pavlos**, pavgoust@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
 **Gatziaki Vasiliki**, vasgat@iti.gr  
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
+**Georgiou Georgia**, georgiou_georgia@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
+**Gkartzonika Ioanna**, gkartzoni@iti.gr  
 **Gkoudakos Konstantinos**, gountakos@iti.gr  
 **Iliou Christos**, iliouchristos@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
@@ -104,6 +107,7 @@ showpagemeta: false
 **Papastergiou Asterios**, astepapa@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
+**Pliatsios Antonis**, apliatsios@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr  
 **Prountzos Giorgos**, gprountzos@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
