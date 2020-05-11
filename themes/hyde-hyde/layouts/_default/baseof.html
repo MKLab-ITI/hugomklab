@@ -4,6 +4,14 @@
     {{ block "header" . -}}{{- end }}
 	</head>
     <body class="{{.Page.Type}} {{ if .IsHome }}home{{ end }}{{- if .Site.Params.themeColor }}{{ .Site.Params.themeColor }}{{ end }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
+	    
+	    	
+	    <div id="cookies-eu-banner" style="display: none;">
+    		By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.
+    		<a href="./read-more.html" id="cookies-eu-more">Read more</a>
+    		<button id="cookies-eu-reject">Reject</button>
+    		<button id="cookies-eu-accept">Accept</button>
+	    </div>
         {{ partial "sidebar.html" . }}
         <div class="content container">
             {{ block "content" . }}{{ end }}
@@ -11,11 +19,18 @@
                 {{ block "footer" . }}{{ end }}
             </div>
         </div>
-        <!-- Google Analytics -->
-        {{ if .Site.GoogleAnalytics -}}
-            {{ template "_internal/google_analytics_async.html" . }}
-        {{- end }}
-	    
-	    <span>Test</span>    
+	    <script src="files/cookies-eu-banner.min.js"></script>
+<script>
+    new CookiesEuBanner(function () {
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        // Don't forget to put your own UA-XXXXXXXX-X code
+        ga('create', 'UA-395829-7', 'auto');
+        ga('send', 'pageview');
+    },true);
+</script> 
     </body>
 </html>
