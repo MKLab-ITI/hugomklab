@@ -3,6 +3,7 @@ excerpt: 'LIBSVM Accelerated with GPU using the CUDA Framework'
 types: results
 aliases:
 - /results/gpu-libsvm
+- /project/GPU-LIBSVM
 tags:
 - tool
 - utility
