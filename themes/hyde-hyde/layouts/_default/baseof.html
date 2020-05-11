@@ -4,7 +4,7 @@
     {{ block "header" . -}}{{- end }}
 		<style>
 			.sidebar{}
-			#cookies-eu-banner{position:fixed;bottom:0;width:100%;padding:10px;color:white;background-color: rgba(0, 0, 0, 0.9);text-align:center;}
+			#cookies-eu-banner{position:fixed;bottom:0;width:100%;padding:10px;color:white;background-color: rgba(255, 0, 0, 0.9);text-align:center;}
 		</style>	
 	</head>
     <body class="{{.Page.Type}} {{ if .IsHome }}home{{ end }}{{- if .Site.Params.themeColor }}{{ .Site.Params.themeColor }}{{ end }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
