@@ -3,20 +3,18 @@
 	<head>
     {{ block "header" . -}}{{- end }}
 		<style>
-			.sidebar{z-index:-1;}
+			.sidebar{}
 			#cookies-eu-banner{position:fixed;bottom:0;width:100%;padding:10px;color:white;background-color: rgba(0, 0, 0, 0.9);text-align:center;}
 		</style>	
 	</head>
     <body class="{{.Page.Type}} {{ if .IsHome }}home{{ end }}{{- if .Site.Params.themeColor }}{{ .Site.Params.themeColor }}{{ end }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
-	    
-	    	
+        {{ partial "sidebar.html" . }}
 	    <div id="cookies-eu-banner" style="display: none;">
     		By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.
     		<a href="./read-more.html" id="cookies-eu-more">Read more</a>
     		<button id="cookies-eu-reject">Reject</button>
     		<button id="cookies-eu-accept">Accept</button>
 	    </div>
-        {{ partial "sidebar.html" . }}
         <div class="content container">
             {{ block "content" . }}{{ end }}
             <div class="footer">
