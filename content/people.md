@@ -27,12 +27,14 @@ showpagemeta: false
 **Dr. Chantas Ioannis**, gchantas@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzilari Elisavet**, ehatzi@iti.gr  
+**Dr. Chatzistavros Evaggelos**, vchatzist@iti.gr  
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
 **Dr. Gkalelis Nikos**, gkalelis@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
 **Dr. Iakovidou Chrysanthi**, c.iakovidou@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
 **Dr. Karakostas Anastasios**, akarakos@iti.gr  
+**Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Meditskos Georgios**, gmeditsk@iti.gr  
@@ -87,6 +89,7 @@ showpagemeta: false
 **Kyrampalidou Sophia**, sofiaky@iti.gr  
 **Lazarou Ioulietta**, iouliettalaz@iti.gr  
 **Liatsikou Maria**, maria_liatsikou@iti.gr  
+**Loumponias Kostas**, loumponias@iti.gr  
 **Makedas Themistoklis**,  tmakedas@iti.gr  
 **Mantsis Damianos-Florin**,  dmantsis@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
@@ -112,6 +115,7 @@ showpagemeta: false
 **Prountzos Giorgos**, gprountzos@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Samlides Philippos**, philip.samlides@iti.gr  
+**Serri Niki**, nikiserri@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
