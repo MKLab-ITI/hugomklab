@@ -45,7 +45,6 @@ showpagemeta: false
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
 **Dr. Ververidis Dimitrios**, ververid@iti.gr  
-**Dr. Zampoglou Markos**, markzampoglou@iti.gr  
 
 ## Research Associates
 
@@ -94,7 +93,6 @@ showpagemeta: false
 **Mantsis Damianos-Florin**,  dmantsis@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
 **Metsai Alexander**, alexmetsai@iti.gr  
-**Michail Emmanouil**, michem@iti.gr  
 **Migkotzidis Panagiotis**, migkotzidis@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr  
 **Mpakratsas Marios**,mbakratsas@iti.gr  
@@ -140,6 +138,8 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Dr. Zampoglou Markos, Postdoctoral Research Fellow, markzampoglou@iti.gr  
+Michail Emmanouil, Research Associate, michem@iti.gr  
 Prof. Laskaris Nikolaos, Academic Research Partner, laskaris@csd.auth.gr  
 Mokkas Alexandros, Research Associate, mokkas@iti.gr  
 Palaiopanos Gerasimos, Research Associate, gerasimos@iti.gr  
