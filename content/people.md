@@ -105,7 +105,6 @@ showpagemeta: false
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
-**Papastergiou Asterios**, astepapa@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
 **Pliatsios Antonis**, apliatsios@iti.gr  
@@ -138,6 +137,7 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Papastergiou Asterios, Research Associate, astepapa@iti.gr  
 Dr. Zampoglou Markos, Postdoctoral Research Fellow, markzampoglou@iti.gr  
 Michail Emmanouil, Research Associate, michem@iti.gr  
 Prof. Laskaris Nikolaos, Academic Research Partner, laskaris@csd.auth.gr  
