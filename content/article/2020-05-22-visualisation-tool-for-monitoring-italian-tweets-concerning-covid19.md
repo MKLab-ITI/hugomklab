@@ -2,11 +2,13 @@
 types: article
 tags:
 images: 
-- field/image/covid-mklab.jpg
+- field/image/covid-feat.jpg
 layout: article
 title: Visualisation Tool for monitoring Italian tweets concerning COVID19
 date: '2020-05-22T08:49:37+02:00'
 ---
+<a href="http://beaware-server.mklab.iti.gr:3000/" target="blank"><img src="https://mklab.iti.gr/files/field/image/covid-mklab.jpg" /></a>
+
 <p>
 The Multimedia Knowledge and Social Media Analytics Laboratory (<a href="https://mklab.iti.gr/" target="blank">MKLab</a>) of the Centre for Research & Technology Hellas (CERTH) participates and contributes actively in the <a href="https://sec3r.com/" target="blank">Security Research Rapid Response Platform</a> and the efforts to combat COVID19 by developing a web-based application to monitor, analyse and visualise social media posts related to the Coronavirus pandemic. The Social Media Visualisation Tool collects tweets with the hashtags #covid19Italy and #covid19italia, focusing on the region of Italy. 
 </p>
