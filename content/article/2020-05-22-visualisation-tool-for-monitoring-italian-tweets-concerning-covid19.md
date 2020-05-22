@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- field/image/covid-feat.jpg
+- field/image/covid-feat.png
 layout: article
 title: Visualisation Tool for monitoring Italian tweets concerning COVID19
 date: '2020-05-22T08:49:37+02:00'
