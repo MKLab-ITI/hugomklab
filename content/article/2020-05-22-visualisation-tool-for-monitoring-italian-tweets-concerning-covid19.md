@@ -14,3 +14,9 @@ The Multimedia Knowledge and Social Media Analytics Laboratory (<a href="https:/
 The advanced analytical processes enable to geo-localise the captured tweets, extract the visual content from their images as well as estimate their severity. The outcomes of the analysis are propagated and visualised to a user-friendly and interactive interface facilitating civil protection authorities and other stakeholders from the health sector to monitor and extract valuable and actionable information concerning the evolution of COVID19 outbreak. This in-house application is motivated by the basic ideas and aspects of various EU funded projects, such as <a href="https://beaware-project.eu/" target="blank">H2020 beAWARE</a>, <a href="https://eopen-project.eu/" target="blank">H2020 EOPEN</a>, <a href="https://aqua3s.eu/" target="blank">H2020 aqua3S</a> that the MKLab leads or actively participates in.    
 </p>
 Please check our online demo <a href="http://beaware-server.mklab.iti.gr:3000/" target="blank">here</a>
+
+Contact:
+Dr. Gialampoukidis Ilias, heliasgj@iti.gr 
+Dr. Karakostas Anastasios, akarakos@iti.gr 
+Dr. Vrochidis Stefanos, stefanos@iti.gr
+
