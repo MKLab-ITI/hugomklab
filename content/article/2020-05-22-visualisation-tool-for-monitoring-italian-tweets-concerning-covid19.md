@@ -15,8 +15,8 @@ The advanced analytical processes enable to geo-localise the captured tweets, ex
 </p>
 Please check our online demo <a href="http://beaware-server.mklab.iti.gr:3000/" target="blank">here</a>
 
-Contact:
-Dr. Gialampoukidis Ilias, heliasgj@iti.gr 
-Dr. Karakostas Anastasios, akarakos@iti.gr 
+Contact:<br>
+Dr. Gialampoukidis Ilias, heliasgj@iti.gr <br>
+Dr. Karakostas Anastasios, akarakos@iti.gr <br>
 Dr. Vrochidis Stefanos, stefanos@iti.gr
 
