@@ -10,7 +10,7 @@ website_link: #
 acronym: 
 layout: projects
 title: INFINITY
-date: '2020-06-0910:35:33+02:00'
+date: '2020-06-0810:35:33+02:00'
 program: H2020 SEC, FCT, 2020-2022
 contact: 
 - Tsikrika Theodora
