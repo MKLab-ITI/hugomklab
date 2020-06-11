@@ -5,9 +5,9 @@ tags:
 - european
 images:
 - project_logos/
-website_name: coming soon
-website_link: #
-acronym: 
+website_name: cordis.europa.eu
+website_link: https://cordis.europa.eu/project/id/883293
+acronym: IMMERSE. INTERACT. INVESTIGATE
 layout: projects
 title: INFINITY
 date: '2020-06-08T10:35:33+02:00'
