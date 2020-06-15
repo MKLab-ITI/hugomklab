@@ -4,6 +4,7 @@ tags:
 - current
 - european
 - scientific manager
+- coordinator
 images:
 - project_logos/connexions_logo.png
 website_name: Coming Soon
