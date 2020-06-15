@@ -12,7 +12,7 @@ website_link: "#"
 acronym: InterCONnected NEXt-Generation Immersive IoT Platform of Crime and Terrorism
   DetectiON, PredictiON, InvestigatiON, and PreventiON Services
 layout: projects
-title: CONNEXIONs
+title: CONNEXIONs (Coordinator)
 date: '2018-05-16T11:48:57+03:00'
 program: H2020 RIA, FCT 2018-2021
 contact: 
