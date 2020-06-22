@@ -7,8 +7,8 @@ tags:
 - coordinator
 images:
 - project_logos/connexions_logo.png
-website_name: Coming Soon
-website_link: "#"
+website_name: connexions-project.eu
+website_link: https://www.connexions-project.eu/
 acronym: InterCONnected NEXt-Generation Immersive IoT Platform of Crime and Terrorism
   DetectiON, PredictiON, InvestigatiON, and PreventiON Services
 layout: projects
