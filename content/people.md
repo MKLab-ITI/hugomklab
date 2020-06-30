@@ -42,6 +42,7 @@ showpagemeta: false
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
 **Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
 **Dr. Stavropoulos Athanasios**, athstavr@iti.gr  
+**Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
 **Dr. Ververidis Dimitrios**, ververid@iti.gr  
@@ -119,7 +120,6 @@ showpagemeta: false
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
-**Theodosiadou Ourania**, raniatheo@iti.gr  
 **Topouzidis Kimon**, ktopouzi@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakides Stefanos**, stefpstsol@iti.gr  
