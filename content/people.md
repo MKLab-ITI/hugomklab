@@ -61,9 +61,11 @@ showpagemeta: false
 **Avgoustinakis Pavlos**, pavgoust@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
+**Dourvas Nikolaos**, ndourvas@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
 **Gatziaki Vasiliki**, vasgat@iti.gr  
+**Gavriilidis Nikolaos-Orestis**, gavriili@iti.gr  
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Georgiou Georgia**, georgiou_georgia@iti.gr  
@@ -93,6 +95,7 @@ showpagemeta: false
 **Loumponias Kostas**, loumponias@iti.gr  
 **Makedas Themistoklis**,  tmakedas@iti.gr  
 **Mantsis Damianos-Florin**,  dmantsis@iti.gr  
+**Masa Panagiota**,  gmasa@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
 **Metsai Alexander**, alexmetsai@iti.gr  
 **Migkotzidis Panagiotis**, migkotzidis@iti.gr  
