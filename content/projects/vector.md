@@ -10,7 +10,7 @@ website_link: #
 acronym: Virtual Evidence Capture Tool for Ordnance Recovery
 layout: projects
 title: VECTOR
-date: '2018-07-15T11:48:57+03:00'
+date: '2018-07-15T07:48:57+03:00'
 program: Supported by the NATO Science for Peace and Security Programme
 contact: 
 - Kalpakis George
