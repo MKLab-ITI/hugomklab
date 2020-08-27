@@ -77,7 +77,6 @@ showpagemeta: false
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalomitsinis Georgios**, geokal@iti.gr  
 **Kamateri Eleni**, ekamater@iti.gr  
-**Karatzia Anastasia**, akaratzia@iti.gr  
 **Kassiano Vasileios**, vaskass@iti.gr  
 **Katmada Katerina**, akatmada@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
@@ -109,6 +108,7 @@ showpagemeta: false
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantalona Georgia**, georgiapant@iti.gr  
+**Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
@@ -120,6 +120,7 @@ showpagemeta: false
 **Samlides Philippos**, philip.samlides@iti.gr  
 **Serri Niki**, nikiserri@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
+**Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
@@ -143,6 +144,7 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Karatzia Anastasia, Research Associate, akaratzia@iti.gr  
 Papastergiou Asterios, Research Associate, astepapa@iti.gr  
 Dr. Zampoglou Markos, Postdoctoral Research Fellow, markzampoglou@iti.gr  
 Michail Emmanouil, Research Associate, michem@iti.gr  
