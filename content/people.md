@@ -57,7 +57,6 @@ showpagemeta: false
 **Apostolidis Evlampios**, apostolid@iti.gr  
 **Apostolidis Lazaros**, laaposto@iti.gr  
 **Apostolou Konstantinos**, konapost@iti.gr  
-**Apostolou Konstantinos**, konapost@iti.gr  
 **Avgoustinakis Pavlos**, pavgoust@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
@@ -102,7 +101,7 @@ showpagemeta: false
 **Mpakratsas Marios**,mbakratsas@iti.gr  
 **Mpaltadoros Lampros**,lamprosmpalt@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
-**Nikolaidis Stathis**, stathis.nikolaidis@iti.gr  
+**Nikolaidis Efstathios**, stathis.nikolaidis@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Ntrigkogia Paraskevi**, vividrig@iti.gr  
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
