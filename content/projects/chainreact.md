@@ -1,32 +1,23 @@
 ---
 types: project
 tags:
-- completed
-- european
+- current
+- national
 - coordinator
 images:
-- project_logos/chainreact logo.png
-website_name: chainreact.org
-website_link: http://chainreact.org/
-acronym: Making Supplier Networks Transparent, Understandable and Responsive
+- project_logos/prescit-logo.png
+website_name: prescit.com
+website_link: https://www.prescit.com/
+acronym: Smart, Personalized, and Interactive Platform for Electronic Prescription
 layout: projects
-title: ChainReact (Coordinator)
-date: '2015-12-10T12:47:16+02:00'
-program: H2020 ICT RIA, 2016-2018
+title: PrescIT (Coordinator)
+date: '2020-09-08T12:47:16+02:00'
+program: Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK)
 contact: 
-- Diplaris Sotiris
+- Kompatsiaris Yiannis (Ioannis)
 ---
-<p><a href="#">ChainReact</a> (<strong>Making Supplier Networks Transparent, Understandable and Responsive</strong>) is an effort to make supplier networks transparent, understandable, and responsive, so that companies and their stakeholders can see, react to, and ultimately transform corporate network impacts.&nbsp; The main objectives of the project are:</p>
-<ul>
-	<li>Identify irresponsible corporate activity</li>
-	<li>Connect issues at corporate networks’ edges to network drivers</li>
-	<li>Incentivize companies to address the issues</li>
-</ul>
-<p>To this end, ChainReact will create an integrated data network supported by three platform struts:</p>
-<ol>
-	<li>A new informer platform (TalkFree) will help advocacy groups manage campaigns to solicit flexible bottom-up reports about corporate behaviour.</li>
-	<li>The world’s largest open repository of corporate information (OpenCorporates) will be enhanced to connect these reports to major corporate brands through multi-level corporate network mapping.</li>
-	<li>An open analysis platform (WikiRate.org) will integrate data from both sources (and others, including direct corporate disclosure) and support their interpretation via collaboratively-developed, dynamic, network-aware CSR metrics.</li>
-</ol>
-<p><u>Role of MKLab:</u></p>
-<p>MKLab is the project Coordinator of ChainReact. It is also involved in the entity matching that will support extracting corporate network data from unstructured documents. Entity matching by Explicit Semantic Analysis will make it possible to extract structured data from less structured data sources, including supplier network reporting, for which clear reporting standards have not yet emerged. In support of network data mapping, MKLab will also improve upon state-of-the-art entity mapping techniques to match and normalize corporate name references in unstructured textual space.</p>
+<p>Electronic prescription (e-Prescription) and Computerized Physician Order Entry (CPOE) systems are increasingly being adopted nationwide and by healthcare organizations, respectively. These systems aim primarily to facilitate healthcare professionals in documenting transactions with the healthcare delivery services and help in the assessment of healthcare costs. To this end, the main focus of such systems has been given up to now on administrative and auditing aspects of healthcare delivery, while lately there is a trend to complement and advance the functionality of these systems with features aiming to reinforce quality and safety of care. This project aims to develop, evaluate and disseminate a Clinical Decision Support System (CDSS) platform for more efficient, safe, standardized and affordable e-Prescription, initially at a national and later on at international level, with emphasis on the end-users, their needs and the needs of each clinical environment. For this purpose, the proposal will benefit from and extend the knowledge base of the already successful Galinos portal (ERGOBYTE), to make use of Linked Data and Semantic Web technologies, while it constantly feeds from and unifies heterogeneous online data sources such as clinical protocols, Therapeutic Prescription Protocols (TPPs), global literature and open sources, such as DrugBank and SIDER.</p>
+
+<p>Furthermore, it will integrate with data analysis, reasoning, rule-based systems and machine learning, all in one interoperable web service to support clinical decisions. The service will produce justified recommendations and alerts based on good clinical practice directives, thorough inspection of pharmaceutical indications, counter-indications and incompatibilities of co-prescribed medicine, incompatibilities of medicine and active disease, correlations of medical exams and undesirable medicine effects. Additionally, it will generate indications of proper dosage (per indication and biometric characteristics of the patient) and more affordable choices of pharmaceuticals. Validation and evaluation of the platform in real-world conditions will be carried out in three hospitals (public and private) using different medical information systems: 1) a complex ERP system with CPOE functionality in NDIAV 2) the DataLife system provided by ERGOBYTE at the private psychiatric clinic NASKL, and 3) a relatively simple system at NCHATZI by another provider.</p>
+
+<p>The evaluation will also entail three different use case scenarios regarding medicine: a) for common disease such as Type II diabetes, b) high-cost such as arthritis and c) psychiatric conditions, such as depression, aiming to highlight the contribution of the platform towards safer e-Prescription, more affordable care and ability to specialize in certain therapeutic protocols in each of the three cases. The expected outcomes of the project promise breakthroughs at a technological level, increase service quality, efficiency and reduce costs at a health provision level and deep market penetration at a business level. It is worth mentioning that the consortium holds the technological know-how and the means to standardize additional TPPs and integrate significant outcomes at a national level, with the support of governmental bodies, such as EOPYY, while it also aims at international markets.</p>
