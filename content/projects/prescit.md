@@ -3,17 +3,18 @@ types: project
 tags:
 - current
 - national
-- coordinator
 images:
 - project_logos/prescit-logo.png
 website_name: prescit.com
 website_link: https://www.prescit.com/
 acronym: Smart, Personalized, and Interactive Platform for Electronic Prescription
 layout: projects
-title: PrescIT (Coordinator)
+title: PrescIT
 date: '2020-09-08T12:47:16+02:00'
 program: Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK)
 contact: 
+- Stavropoulos Thanos
+- Nikolopoulos Spiros
 - Kompatsiaris Yiannis (Ioannis)
 ---
 <p>Electronic prescription (e-Prescription) and Computerized Physician Order Entry (CPOE) systems are increasingly being adopted nationwide and by healthcare organizations, respectively. These systems aim primarily to facilitate healthcare professionals in documenting transactions with the healthcare delivery services and help in the assessment of healthcare costs. To this end, the main focus of such systems has been given up to now on administrative and auditing aspects of healthcare delivery, while lately there is a trend to complement and advance the functionality of these systems with features aiming to reinforce quality and safety of care. This project aims to develop, evaluate and disseminate a Clinical Decision Support System (CDSS) platform for more efficient, safe, standardized and affordable e-Prescription, initially at a national and later on at international level, with emphasis on the end-users, their needs and the needs of each clinical environment. For this purpose, the proposal will benefit from and extend the knowledge base of the already successful Galinos portal (ERGOBYTE), to make use of Linked Data and Semantic Web technologies, while it constantly feeds from and unifies heterogeneous online data sources such as clinical protocols, Therapeutic Prescription Protocols (TPPs), global literature and open sources, such as DrugBank and SIDER.</p>
