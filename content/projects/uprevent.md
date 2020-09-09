@@ -14,6 +14,8 @@ title: UPrevent (Coordinator)
 date: '2020-09-08T12:47:16+02:00'
 program: Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK)
 contact: 
+- Stavropoulos Thanos
+- Nikolopoulos Spiros
 - Kompatsiaris Yiannis (Ioannis)
 ---
 <p>It is estimated that on an average 7% of the world population are diabetics now and this number is estimated to increase to 8.3% by 2030 .On an average every 30 s an extremity is amputated due to complications of diabetes mellitus and the majority of these amputations are secondary to foot ulcers. Diabetic foot ulcer is not only a patient problem but also a major health care concern throughout the world. Diabetic foot ulcer is one of the common and serious complications in diabetic patients. Treatment of infection in diabetic ulcer is difficult and expensive.</p>
