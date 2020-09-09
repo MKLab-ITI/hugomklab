@@ -16,6 +16,8 @@ The SUITCEYES ontology, in cooperatin with the haptic intelligent personalized i
 The SUITCEYES ontology adopts and extends existing third-party vocabularies, such as the Dem@care , and the SEAS Building ontology , which were utilized in order to enrich the context and spatial reference of entities existing around the HIPI user. The main classes of the ontology refer to Objects, Persons and Spaces (such as rooms), that the sensors can detect and provide the ontology, so that the process of semantic reasoning is initiated.
 </p>
 <img src="https://mklab.iti.gr/files/material/spatial_classes.png" />
+<p><a href="https://mklab.iti.gr/files/material/suitceyes_tbox.ttl" target="_blank">TTL File</a></p>
+
 <p>
 Contact:<br>
 Thanos Stavropoulos (athstavr@iti.gr)
