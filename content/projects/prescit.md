@@ -3,13 +3,14 @@ types: project
 tags:
 - current
 - national
+- coordinator
 images:
 - project_logos/prescit-logo.png
 website_name: prescit.com
 website_link: https://www.prescit.com/
 acronym: Smart, Personalized, and Interactive Platform for Electronic Prescription
 layout: projects
-title: PrescIT
+title: PrescIT (Coordinator)
 date: '2020-09-08T12:47:16+02:00'
 program: Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK)
 contact: 
