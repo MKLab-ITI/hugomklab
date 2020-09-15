@@ -3,8 +3,8 @@ layout: publication
 types: publication
 title: "eHealth4MS: Problem Detection from Wearable Activity Trackers to Support
   the Care of Multiple Sclerosis"
-date: "2020-04-09T13:56:48.356Z"
+date: 2020-04-09T13:56:48.356Z
 tags: conference_publications
-publication_date: "2020-10-07"
+publication_date: 2020-10-07
 ---
-T. G. Stavropoulos, G. Meditskos, S. Papagiannopoulos and I. Kompatsiaris (2020). “eHealth4MS: Problem Detection from Wearable Activity Trackers to Support the Care of Multiple Sclerosis”. The 11th International Symposium on Ambient Intelligence (ISAmI), 7th – 9th October 2020, L’Aquila Italy (accepted for publication).
+T. G. Stavropoulos, G. Meditskos, S. Papagiannopoulos and I. Kompatsiaris (2020). “eHealth4MS: Problem Detection from Wearable Activity Trackers to Support the Care of Multiple Sclerosis”. The 11th International Symposium on Ambient Intelligence (ISAmI), pp. 3-12, 7th - 9th October 2020, L’Aquila Italy ([DOI](https://doi.org/10.1007/978-3-030-58356-9_1))
