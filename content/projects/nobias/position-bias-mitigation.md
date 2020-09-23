@@ -2,22 +2,22 @@
 types: results
 images: []
 layout: results
-title: Call for applications Marie Skłodowska-Curie Early Stage Researcher (PhD Position)
-date: "2020-01-27T13:57:00+03:00"
+title: Call for applications: Marie Skłodowska-Curie Early Stage Researcher (PhD Position)
+date: "2020-09-23T10:57:00+03:00"
 ---
 
 
 Fully funded for up to 3 years, starting as soon as possible between 1st of May and July 2020
 
-**Closing date:** ~~March 1st~~ March 31st, 2020
+**Closing date:** October 31st, 2020
 
-**Interview period:** March-April 2020
+**Interview period:** October-November 2020
 
-**Position starts:** July 1st, 2020 (indicative)
+**Position starts:** December 1st, 2020 or January 1st, 2021
 
 **Reference:**  NoBIAS ITN
 
-**Euraxess link**: https://euraxess.ec.europa.eu/jobs/489768
+**Euraxess link**: https://euraxess.ec.europa.eu/jobs/561079
 
 ### PhD project:  “Bias mitigation in classification methods”
 
@@ -89,6 +89,8 @@ If available, please also include contact details or recommendation letters of t
 Please contact Senior Researcher Dr. Symeon Papadopoulos, the primary scientific supervisor of this PhD project, at papadop@iti.gr and Senior Researcher Dr. Yiannis Kompatsiars, the Head of MKLab, at ikom@iti.gr if you have any questions, and/or send your application to them.
 
 Applications will be processed according to the rules of the corresponding host institute and in compliance with the general rules for projects in the H2020/Marie Skłodowska-Curie programmes. Applications that do not meet the eligibility criteria will not be considered. 
+
+Selected applicants will be invited for an interview and afterwards they will be asked to complete an assignment offline, which they will then present in a follow up interview.
 
 *NoBIAS ITN has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 860630.*
 
