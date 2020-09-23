@@ -5,28 +5,26 @@ layout: results
 title: Call for applications: Marie Skłodowska-Curie Early Stage Researcher (PhD Position)
 date: "2020-09-22T10:57:00+03:00"
 ---
-
-
 Fully funded for up to 3 years, starting as soon as possible between 1st of May and July 2020
 
-**Closing date:** October 31st, 2020
+**Closing date**: October 31st, 2020
 
-**Interview period:** October-November 2020
+**Interview period**: October-November 2020
 
-**Position starts:** December 1st, 2020 or January 1st, 2021
+**Position starts**: December 1st, 2020 or January 1st, 2021
 
-**Reference:**  NoBIAS ITN
+**Reference**:  NoBIAS ITN
 
 **Euraxess link**: https://euraxess.ec.europa.eu/jobs/561079
 
-### PhD project:  “Bias mitigation in classification methods”
+### PhD project:  "Bias mitigation in classification methods"
 
-The [Information Technologies Institute](https://www.iti.gr/iti/index.html) (ITI)/ [Multimedia Knowledge and Social Media Analytics Lab](https://mklab.iti.gr)  of [Centre for Research and Technology Hellas](https://www.certh.gr/root.en.aspx) (CERTH), Thessaloniki, Greece, invites applications for 1 fully funded PhD student position in the area of Artificial Intelligence. 
+The <a href="https://www.iti.gr/iti/index.html" target="blank">Information Technologies Institute</a> (ITI)/ <a href="https://mklab.iti.gr" target="blank">Multimedia Knowledge and Social Media Analytics Lab</a> of <a href="https://www.certh.gr/root.en.aspx" target="blank">Centre for Research and Technology Hellas</a> (CERTH), Thessaloniki, Greece, invites applications for 1 fully funded PhD student position in the area of Artificial Intelligence. 
 
 
 #### The project context: NoBIAS
 
-[NoBIAS](https://nobias-project.eu/) - Artificial Intelligence without Bias is a project funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie - Innovative Training Networks (ITN), Grant Agreement No. 860630.
+<a href="https://nobias-project.eu/" target="blank">NoBIAS</a> - Artificial Intelligence without Bias is a project funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie - Innovative Training Networks (ITN), Grant Agreement No. 860630.
 
 NoBIAS aims at developing novel methods for AI-based decision making without bias by taking into account ethical and legal considerations in the design of technical solutions. The core objectives of NoBIAS are to understand legal, social and technical challenges of bias in AI-decision making, to counter them by developing fairness-aware algorithms, to automatically explain AI results, and to document the overall process for data provenance and transparency.
 NoBIAS will train a cohort of 15 ESRs (Early-Stage Researchers) to address problems with bias through multi-disciplinary training and research in computer science, machine learning, artificial intelligence, law and social science.
@@ -47,7 +45,7 @@ You will conduct research visits and secondments at several NoBIAS partner insti
 
 You will work independently as well as in local and international teams, with a focus on producing excellent research as well as in learning and acting in real-life contexts of AI creation and deployment.
 
-You will be based in [Thessaloniki](https://wikitravel.org/en/Thessaloniki), Greece, a city renowned for its festivals, events and vibrant cultural life in general and recently being ranked by Lonely Planet as the world's fifth-best party city worldwide. More importantly, it is also a city with a continuous 3,000 year old history; preserving relics of its Roman, Byzantine, Ottoman past and of its formerly dominant Jewish population.  
+You will be based in <a href="https://wikitravel.org/en/Thessaloniki" target="blank">Thessaloniki</a>, Greece, a city renowned for its festivals, events and vibrant cultural life in general and recently being ranked by Lonely Planet as the world's fifth-best party city worldwide. More importantly, it is also a city with a continuous 3,000 year old history; preserving relics of its Roman, Byzantine, Ottoman past and of its formerly dominant Jewish population.  
 
 
 #### Your profile
@@ -56,7 +54,7 @@ You have a Master's degree in Computer Science, Artificial Intelligence, or a si
 
 #### General eligibility criteria 
 
-To be eligible, the applicant must satisfy [the mobility requirements of Marie Skłodowska-Curie actions](https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf). At the time of recruitment, the potential candidate 
+To be eligible, the applicant must satisfy <a href="https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf" target="blank">the mobility requirements of Marie Skłodowska-Curie actions</a>. At the time of recruitment, the potential candidate 
 
 * "_must not have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary for more than 12 months in the 3 years immediately before the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account_".  
 * "_be in the first four years (full-time equivalent research experience) of their research careers and have not been awarded a doctoral degree_".  
