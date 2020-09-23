@@ -70,4 +70,17 @@ Applications will be processed according to the rules of the corresponding host 
 
 In accordance with the MSCA-ITN rules: approximately 34,800€ gross per year, subject to health insurance/tax deductions (pursuant to Greek Law), not including mobility and family allowance (if applicable).
 
+#### Required documents
+
+Applications must be accompanied by the following documents:
+
+* Detailed CV in Europass format in English, highlighting your achievements and fit to the applied position;  
+* Scanned copies of BSc and MSc transcripts, with certified translation in English (if the degree qualification is not in English or in the language of the hosting country);  
+* A motivation letter in English, highlighting why you will be a good fit for the position and why you want to be a NoBIAS ESR to carry out this specific PhD;  
+* Contact details or recommendation letters of two referees in English or in certified translation (if available);  
+* Scanned copy of valid identification document;  
+* Proof of English skills (e.g., IELTS, TOEFL, Cambridge or equivalent). This is not required in case of native English speakers (i.e., English is your mother tongue).  
+
+If available, please also include contact details or recommendation letters of two referees in English or in certified translation.
+
 <img width="70" src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
