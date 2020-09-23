@@ -83,4 +83,12 @@ Applications must be accompanied by the following documents:
 
 If available, please also include contact details or recommendation letters of two referees in English or in certified translation.
 
+#### Information and contact
+
+Please contact Senior Researcher Dr. Symeon Papadopoulos, the primary scientific supervisor of this PhD project, at papadop@iti.gr and Senior Researcher Dr. Yiannis Kompatsiars, the Head of MKLab, at ikom@iti.gr if you have any questions, and/or send your application to them.
+
+Applications will be processed according to the rules of the corresponding host institute and in compliance with the general rules for projects in the H2020/Marie Skłodowska-Curie programmes. Applications that do not meet the eligibility criteria will not be considered. 
+
+Selected applicants will be invited for an interview and afterwards they will be asked to complete an assignment offline, which they will then present in a follow up interview.
+
 <img width="70" src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
