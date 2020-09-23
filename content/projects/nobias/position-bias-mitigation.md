@@ -60,4 +60,14 @@ To be eligible, the applicant must satisfy [the mobility requirements of Marie S
 * "_must not have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary for more than 12 months in the 3 years immediately before the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account_".  
 * "_be in the first four years (full-time equivalent research experience) of their research careers and have not been awarded a doctoral degree_".  
 
+You work efficiently and reliably, independently as well as in teams. You have very good communication skills and scientific curiosity. Your English is very good. You are flexible and prepared to travel and to integrate into the local teams, while keeping a focus on your PhD and on delivering scientific and other project-related output.
+
+We welcome all applicants, but specifically encourage people from traditionally under-represented groups to apply.
+
+Applications will be processed according to the rules of the corresponding host institute and in compliance with the general rules for projects in the H2020/Marie Skłodowska-Curie programmes.
+
+#### Salary
+
+In accordance with the MSCA-ITN rules: approximately 34,800€ gross per year, subject to health insurance/tax deductions (pursuant to Greek Law), not including mobility and family allowance (if applicable).
+
 <img width="70" src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
