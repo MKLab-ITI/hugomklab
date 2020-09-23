@@ -91,4 +91,6 @@ Applications will be processed according to the rules of the corresponding host 
 
 Selected applicants will be invited for an interview and afterwards they will be asked to complete an assignment offline, which they will then present in a follow up interview.
 
+*NoBIAS ITN has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 860630.*
+
 <img width="70" src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
