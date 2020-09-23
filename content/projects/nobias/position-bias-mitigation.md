@@ -57,5 +57,7 @@ You have a Master's degree in Computer Science, Artificial Intelligence, or a si
 
 To be eligible, the applicant must satisfy [the mobility requirements of Marie Skłodowska-Curie actions](https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/h2020-guide-appl-msca-itn_en.pdf). At the time of recruitment, the potential candidate 
 
+* "_must not have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary for more than 12 months in the 3 years immediately before the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account_".  
+* "_be in the first four years (full-time equivalent research experience) of their research careers and have not been awarded a doctoral degree_".  
 
 <img width="70" src="https://mklab.iti.gr/projects/nobias/flag_yellow_low.jpg" alt="EU Emblem" />
