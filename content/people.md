@@ -22,8 +22,6 @@ showpagemeta: false
 
 ## Postdoctoral Research Fellows
 
-**Dr. Alvanitopoulos Petros-Fotios**, palvanitopoulos@iti.gr  
-**Dr. Collyda Chrysa**, ckol@iti.gr  
 **Dr. Chantas Ioannis**, gchantas@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzilari Elisavet**, ehatzi@iti.gr  
@@ -57,7 +55,6 @@ showpagemeta: false
 **Apostolidis Evlampios**, apostolid@iti.gr  
 **Apostolidis Lazaros**, laaposto@iti.gr  
 **Apostolou Konstantinos**, konapost@iti.gr  
-**Avgoustinakis Pavlos**, pavgoust@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr  
@@ -75,7 +72,6 @@ showpagemeta: false
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalomitsinis Georgios**, geokal@iti.gr  
-**Kamateri Eleni**, ekamater@iti.gr  
 **Kassiano Vasileios**, vaskass@iti.gr  
 **Katmada Katerina**, akatmada@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
@@ -148,6 +144,10 @@ showpagemeta: false
 **Aliapouliou Marigoula**, maroalia@iti.gr  
 
 ## Past Colleagues
+Dr. Alvanitopoulos Petros-Fotios, Postdoctoral Research Fellow, palvanitopoulos@iti.gr  
+Dr. Collyda Chrysa, Postdoctoral Research Fellow, ckol@iti.gr  
+Avgoustinakis Pavlos, Research Associate, pavgoust@iti.gr  
+Kamateri Eleni, Research Associate, ekamater@iti.gr  
 Karatzia Anastasia, Research Associate, akaratzia@iti.gr  
 Papastergiou Asterios, Research Associate, astepapa@iti.gr  
 Dr. Zampoglou Markos, Postdoctoral Research Fellow, markzampoglou@iti.gr  
