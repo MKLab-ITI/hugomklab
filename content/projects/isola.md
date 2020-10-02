@@ -3,11 +3,13 @@ types: project
 tags:
 - current
 - european
+- scientific manager
+- technical manager
 images:
 - project_logos/isola-logo.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/883302
-acronym: 
+acronym: A system platform that enhances the situational awareness and support Ship’s Security Stakeholders to the execution of their duties referring to the Ship's Security Plan
 layout: projects
 title: ISOLA
 date: '2020-10-02T07:48:57+03:00'
