@@ -3,13 +3,11 @@ types: project
 tags:
 - current
 - european
-- scientific manager
-- technical manager
 images:
 - project_logos/safers-logo.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/869353
-acronym: A system platform that enhances the situational awareness and support Ship’s Security Stakeholders to the execution of their duties referring to the Ship's Security Plan
+acronym: 
 layout: projects
 title: SAFERS
 date: '2020-10-02T07:48:57+03:00'
