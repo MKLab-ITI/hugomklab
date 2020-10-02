@@ -7,7 +7,7 @@ images:
 - project_logos/safers-logo.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/869353
-acronym: 
+acronym: Enhancing our society's resilience against wildfires
 layout: projects
 title: SAFERS
 date: '2020-10-02T07:48:57+03:00'
