@@ -18,7 +18,6 @@ showpagemeta: false
 ## Senior Researchers
 
 **Dr. Nikolopoulos Spiros**, nikolopo@iti.gr   
-**<a href="https://www.linkedin.com/in/nsarris/" target="blank">Dr. Sarris Nikolaos</a>**, nsarris@iti.gr  
 
 ## Postdoctoral Research Fellows
 
@@ -39,6 +38,7 @@ showpagemeta: false
 **Dr. Mpastas Nikolaos**, nimpasta@iti.gr  
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
 **Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
+**Dr. Sarris Nikolaos**, nsarris@iti.gr  
 **Dr. Stavropoulos Athanasios**, athstavr@iti.gr  
 **Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
@@ -108,6 +108,7 @@ showpagemeta: false
 **Pantalona Georgia**, georgiapant@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
+**Papadimos Thomas**, papadimos@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papageorgiou Vasilis**, vpap@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
