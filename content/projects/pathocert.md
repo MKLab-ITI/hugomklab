@@ -7,7 +7,7 @@ tags:
 images:
 - project_logos/pathocert-logo.png
 website_name: cordis.europa.eu
-website_link: 
+website_link: https://cordis.europa.eu/project/id/883484
 acronym: Pathogen Contamination Emergency Response Technologies
 layout: projects
 title: PathoCERT
