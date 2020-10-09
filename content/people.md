@@ -112,6 +112,7 @@ showpagemeta: false
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papageorgiou Vasilis**, vpap@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
+**Pegia Maria-Eirini**, mpegia@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
 **Pliatsios Antonis**, apliatsios@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr  
