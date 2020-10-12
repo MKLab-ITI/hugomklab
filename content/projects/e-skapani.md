@@ -12,7 +12,7 @@ acronym: Η Θεσσαλονίκη της εποχής του Γαλέριου: 
 layout: projects
 title: e-SKAPANI
 date: '2020-10-12T07:48:57+03:00'
-program: ΕΠΑνΕΚ «Ειδικές Δράσεις» - «ΑΝΟΙΧΤΗ ΚΑΙΝΟΤΟΜΙΑ ΣΤΟΝ ΠΟΛΙΤΙΣΜΟ»
+program: ΕΠΑνΕΚ «Ειδικές Δράσεις» / «ΑΝΟΙΧΤΗ ΚΑΙΝΟΤΟΜΙΑ ΣΤΟΝ ΠΟΛΙΤΙΣΜΟ»
 contact:
 - Anastasovitis Eleftherios
 - Nikolopoulos Spiros
