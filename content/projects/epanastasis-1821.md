@@ -11,7 +11,7 @@ website_link: http://epanastasis1821.gr/
 acronym: Επικοινωνία και Προώθηση της ΑΝΑβίωσης ΣΤαθμών του Αγώνα με Συστήματα εΙκονικής πραγματικότηταΣ-1821
 layout: projects
 title: EPANASTASIS-1821
-date: '2020-10-02T07:48:57+03:00'
+date: '2020-10-12T07:48:57+03:00'
 program: ΕΛ.ΙΔ.Ε.Κ. «Επιστήμη και Κοινωνία» - «200 χρόνια από την Ελληνική Επανάσταση»
 contact:
 - Anastasovitis Eleftherios
