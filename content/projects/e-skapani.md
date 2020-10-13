@@ -8,11 +8,11 @@ images:
 - project_logos/eskapani-logo.png
 website_name: e-skapani.gr
 website_link: https://e-skapani.gr/
-acronym: Η Θεσσαλονίκη της εποχής του Γαλέριου αναβιώνοντας μια λαμπρή ιστορική περίοδο της πόλης, με οδηγούς τη διεπιστημονική έρευνα και τις τεχνολογίες αιχμής
+acronym: Thessaloniki in Galerius-era: Reviving a glorious historical period of the city, guided by interdisciplinary research and cutting-edge technologies
 layout: projects
 title: e-SKAPANI
 date: '2020-10-12T07:48:57+03:00'
-program: ΕΠΑνΕΚ «Ειδικές Δράσεις» - «ΑΝΟΙΧΤΗ ΚΑΙΝΟΤΟΜΙΑ ΣΤΟΝ ΠΟΛΙΤΙΣΜΟ»
+program: EPAnEK "Special Actions" - "Open Innovation in Culture"
 contact:
 - Anastasovitis Eleftherios
 - Nikolopoulos Spiros
