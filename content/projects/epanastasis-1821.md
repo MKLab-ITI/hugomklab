@@ -8,11 +8,11 @@ images:
 - project_logos/epanastasi-logo.png
 website_name: epanastasis1821.gr
 website_link: http://epanastasis1821.gr/
-acronym: Επικοινωνία και Προώθηση της ΑΝΑβίωσης ΣΤαθμών του Αγώνα με Συστήματα εΙκονικής πραγματικότηταΣ-1821
+acronym: Communication and Promotion of Revival of Historical Events of the Revolution through Virtual Reality-1821
 layout: projects
 title: EPANASTASIS-1821
 date: '2020-10-12T07:48:57+03:00'
-program: ΕΛ.ΙΔ.Ε.Κ. «Επιστήμη και Κοινωνία» - «200 χρόνια από την Ελληνική Επανάσταση»
+program: H.F.R.I. 1st Call "Science & Society" - "200 years from the Greek Revolution"
 contact:
 - Anastasovitis Eleftherios
 - Nikolopoulos Spiros
