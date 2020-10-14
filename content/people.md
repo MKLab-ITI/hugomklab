@@ -30,7 +30,7 @@ showpagemeta: false
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
 **Dr. Iakovidou Chrysanthi**, c.iakovidou@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
-**Dr. Karakostas Anastasios**, akarakos@iti.gr  
+**Dr. Karakostas (Tasos) Anastasios**, akarakos@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
