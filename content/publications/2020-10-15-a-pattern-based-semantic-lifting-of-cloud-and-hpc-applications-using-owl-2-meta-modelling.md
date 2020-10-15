@@ -1,8 +1,7 @@
 ---
 layout: publication
 types: publication
-title: A Pattern-based Semantic Lifting of Cloud and HPC Applications using OWL
-  2 Meta-modelling
+title: A Pattern-based Semantic Lifting of Cloud and HPC Applications using OWL 2 Meta-modelling
 date: 2020-10-15T08:41:40.112Z
 tags: conference_publications
 publication_date: 2020-10-15
