@@ -1,11 +1,10 @@
 ---
 layout: publication
 types: publication
-title: >-
-  "VisDrone-VDT2018: The vision meets drone video detection and tracking
-  challenge results
+title: '"VisDrone-VDT2018: The vision meets drone video detection and tracking
+  challenge results'
 date: 2018-10-15T14:15:00.000Z
 tags: conference_publications
-publication_date: '2018-10-15'
+publication_date: 2018-10-15
 ---
-Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Haibin Ling, Qinghua Hu, Haotian Wu, Qinqin Nie, Hao Cheng, Chenfeng Liu, Xiaoyu Liu, Wenya Ma, Lianjie Wang, Arne Schumann, Dan Wang, Diego Ortego, Elena Luna, Emmanouil Michail, Erik Bochinski, Feng Ni, Filiz Bunyak, Gege Zhang, Guna Seetharaman, Guorong Li, Hongyang Yu, Ioannis Kompatsiaris, Jianfei Zhao, Jie Gao, Jose M. Martinez, Juan C. San Miguel, Kannappan Palaniappan, Konstantinos Avgerinakis, Lars Sommer, Martin Lauer, Mengkun Liu, Noor M. Al-Shakarji, Oliver Acatay, Panagiotis Giannakeris, Qijie Zhao, Qinghua Ma, Qingming Huang, Stefanos Vrochidis, Thomas Sikora, Tobias Senst, Wei Song, Wei Tian, Wenhua Zhang, Yanyun Zhao, Yidong Bai, Yinan Wu, Yongtao Wang, Yuxuan Li, Zhaoliang Pi and Zhiming Ma, "[VisDrone-VDT2018: The vision meets drone video detection and tracking challenge results](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Zhu_VisDrone-VDT2018_The_Vision_Meets_Drone_Video_Detection_and_Tracking_Challenge_ECCVW_2018_paper.pdf)." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+P. Zhu, L. Wen, D. Du, X. Bian, H. Ling, Q. Hu, H. Wu, Q. Nie, H. Cheng, C. Liu, X. Liu, W. Ma, L. Wang, A. Schumann, D. Wang, D. Ortego, E. Luna, E. Michail, E. Bochinski, F. Ni, F. Bunyak, G. Zhang, G. Seetharaman, G. Li, H. Yu, I. Kompatsiaris, J. Zhao, J. Gao, J. M. Martinez, J. C. San Miguel, K. Palaniappan, K. Avgerinakis, L. Sommer, M. Lauer, M. Liu, N. M. Al-Shakarji, O. Acatay, P. Giannakeris, Q. Zhao, Q. Ma, Q. Huang, S. Vrochidis, T. Sikora, T. Senst, W. Song, W. Tian, W. Zhang, Y. Zhao, Y. Bai, Y- Wu, Y. Wang, Y. Li, Z. Pi and Z. Ma, "[VisDrone-VDT2018: The vision meets drone video detection and tracking challenge results](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Zhu_VisDrone-VDT2018_The_Vision_Meets_Drone_Video_Detection_and_Tracking_Challenge_ECCVW_2018_paper.pdf)." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
