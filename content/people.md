@@ -16,31 +16,33 @@ showpagemeta: false
 **Dr. Papadopoulos Symeon**, Senior Researcher (Researcher C), papadop@iti.gr  
 **Dr. Vrochidis Stefanos**, Senior Researcher (Researcher C), stefanos@iti.gr 
 
-## Postdoctoral Research Fellows
-
-**Dr. Chantas Ioannis**, gchantas@iti.gr  
-**Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
+## Senior Researchers
 **Dr. Chatzilari Elisavet**, ehatzi@iti.gr  
-**Dr. Chatzistavros Evaggelos**, vchatzist@iti.gr  
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
-**Dr. Gkalelis Nikos**, gkalelis@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
-**Dr. Iakovidou Chrysanthi**, c.iakovidou@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
 **Dr. Karakostas (Tasos) Anastasios**, akarakos@iti.gr  
-**Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
-**Dr. Koutlis Christos**, ckoutlis@iti.gr  
-**Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Meditskos Georgios**, gmeditsk@iti.gr  
-**Dr. Mpastas Nikolaos**, nimpasta@iti.gr  
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
 **Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
 **Dr. Sarris Nikolaos**, nsarris@iti.gr  
 **Dr. Stavropoulos Athanasios**, athstavr@iti.gr  
-**Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
 **Dr. Ververidis Dimitrios**, ververid@iti.gr  
+
+## Postdoctoral Research Fellows
+
+**Dr. Chantas Ioannis**, gchantas@iti.gr  
+**Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
+**Dr. Chatzistavros Evaggelos**, vchatzist@iti.gr  
+**Dr. Gkalelis Nikos**, gkalelis@iti.gr  
+**Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
+**Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
+**Dr. Koutlis Christos**, ckoutlis@iti.gr  
+**Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
+**Dr. Mpastas Nikolaos**, nimpasta@iti.gr  
+**Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
 
 ## Research Associates
 
@@ -52,6 +54,7 @@ showpagemeta: false
 **Apostolidis Evlampios**, apostolid@iti.gr  
 **Apostolidis Lazaros**, laaposto@iti.gr  
 **Apostolou Konstantinos**, konapost@iti.gr  
+**Charitidis Polychronis**, charitidis@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr  
@@ -73,7 +76,6 @@ showpagemeta: false
 **Katmada Katerina**, akatmada@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
 **Konstantinou Apostolos**, konstantinou@iti.gr  
-**Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Koufakis Alexandros-Michail**, akoufakis@iti.gr  
 **Koulalis Ilias**, iliask@iti.gr  
 **Kouloglou Ioannis-Omiros**, kouloglou@iti.gr  
@@ -129,7 +131,6 @@ showpagemeta: false
 **Tzionis Grigoris**, gtzionis@iti.gr  
 **Vakkou Despoina**, dvakkou@iti.gr  
 **Vasileiou Zoi**, zvasilei@iti.gr  
-**Xaritidis Xronis**, charitidis@iti.gr  
 **Xefteris Vasileios-Rafahl**, vxefteris@iti.gr  
 
 ## PhD Candidates
@@ -143,6 +144,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Dr. Iakovidou Chrysanthi, Postdoctoral Research Fellow, c.iakovidou@iti.gr  
 Dr. Alvanitopoulos Petros-Fotios, Postdoctoral Research Fellow, palvanitopoulos@iti.gr  
 Dr. Collyda Chrysa, Postdoctoral Research Fellow, ckol@iti.gr  
 Avgoustinakis Pavlos, Research Associate, pavgoust@iti.gr  
