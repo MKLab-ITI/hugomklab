@@ -139,8 +139,8 @@ showpagemeta: false
 
 ## Administration Assistant
 
-**Papadopoulou Maria**, marpap@iti.gr  
 **Aliapouliou Marigoula**, maroalia@iti.gr  
+**Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
 Dr. Alvanitopoulos Petros-Fotios, Postdoctoral Research Fellow, palvanitopoulos@iti.gr  
