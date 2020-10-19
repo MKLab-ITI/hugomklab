@@ -1,5 +1,5 @@
 ---
-excerpt: <p>F. Bellotti, S. Vrochidis, E. Parissi, P. Lhoas, D. Mathevon, M. Pellegrino,
+excerpt: <p> F. Bellotti, S. Vrochidis, E. Parissi, P. Lhoas, D. Mathevon, M. Pellegrino,
   G. Bo and I. Kompatsiaris, &quot;A T-learning Courses Development and Presentation
   Framework&quot;, 3rd International Conference on Interactive Mobile and Computer
   Aided Learning, IMCL2008, April 16-18, 2008, Amman, Jordan.<a href="/files/imcl2008.pdf"><img
