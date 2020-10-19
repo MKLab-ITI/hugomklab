@@ -7,9 +7,9 @@ showpagemeta: false
 ---
 ## Head
 
-> **[Dr. Kompatsiaris Yiannis (Ioannis)](ikom)**, Senior Researcher (Researcher A), ikom@iti.gr
+> **[Dr. Kompatsiaris Yiannis (Ioannis)](ikom)**, Research Director (Researcher A), ikom@iti.gr
 
-## Researchers
+## Group Leaders
 
 **[Dr. Mezaris Vasileios](https://www.iti.gr/~bmezaris)**, Senior Researcher (Researcher A), bmezaris@iti.gr  
 **Dr. Nikolopoulos Spiros**, Senior Researcher (Researcher C), nikolopo@iti.gr  
