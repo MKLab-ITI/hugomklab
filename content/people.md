@@ -33,7 +33,6 @@ showpagemeta: false
 
 ## Postdoctoral Research Fellows
 
-**Dr. Chantas Ioannis**, gchantas@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzistavros Evaggelos**, vchatzist@iti.gr  
 **Dr. Gkalelis Nikos**, gkalelis@iti.gr  
@@ -144,6 +143,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Dr. Chantas Ioannis, Postdoctoral Research Fellow, gchantas@iti.gr  
 Dr. Iakovidou Chrysanthi, Postdoctoral Research Fellow, c.iakovidou@iti.gr  
 Dr. Alvanitopoulos Petros-Fotios, Postdoctoral Research Fellow, palvanitopoulos@iti.gr  
 Dr. Collyda Chrysa, Postdoctoral Research Fellow, ckol@iti.gr  
