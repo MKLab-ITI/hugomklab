@@ -19,6 +19,7 @@ showpagemeta: false
 ## Senior Researchers
 **Dr. Chatzilari Elisavet**, ehatzi@iti.gr  
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
+**Dr. Gkalelis Nikos**, gkalelis@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
 **Dr. Karakostas (Tasos) Anastasios**, akarakos@iti.gr  
@@ -35,7 +36,6 @@ showpagemeta: false
 
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzistavros Evaggelos**, vchatzist@iti.gr  
-**Dr. Gkalelis Nikos**, gkalelis@iti.gr  
 **Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
