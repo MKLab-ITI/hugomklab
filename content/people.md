@@ -123,10 +123,8 @@ showpagemeta: false
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
-**Topouzidis Kimon**, ktopouzi@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
-**Tsolakides Stefanos**, stefpstsol@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
 **Vakkou Despoina**, dvakkou@iti.gr  
 **Vasileiou Zoi**, zvasilei@iti.gr  
@@ -143,6 +141,8 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Tsolakides Stefanos, Research Associate, stefpstsol@iti.gr  
+Topouzidis Kimon, Research Associate, ktopouzi@iti.gr  
 Dr. Chantas Ioannis, Postdoctoral Research Fellow, gchantas@iti.gr  
 Dr. Iakovidou Chrysanthi, Postdoctoral Research Fellow, c.iakovidou@iti.gr  
 Dr. Alvanitopoulos Petros-Fotios, Postdoctoral Research Fellow, palvanitopoulos@iti.gr  
