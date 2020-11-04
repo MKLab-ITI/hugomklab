@@ -141,6 +141,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Chatzimichail Aggelos, Research Associate, angechat@iti.gr  
 Tsolakides Stefanos, Research Associate, stefpstsol@iti.gr  
 Topouzidis Kimon, Research Associate, ktopouzi@iti.gr  
 Dr. Chantas Ioannis, Postdoctoral Research Fellow, gchantas@iti.gr  
