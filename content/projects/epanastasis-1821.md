@@ -10,7 +10,7 @@ website_name: epanastasis1821.gr
 website_link: http://epanastasis1821.gr/
 acronym: Communication and Promotion of Revival of Historical Events of the Revolution through Virtual Reality-1821
 layout: projects
-title: EPANASTASIS-1821
+title: EPANASTASIS-1821 (Coordinator)
 date: '2020-10-12T07:48:57+03:00'
 program: H.F.R.I. 1st Call "Science & Society" - "200 years from the Greek Revolution"
 contact:
