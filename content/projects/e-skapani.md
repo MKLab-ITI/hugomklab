@@ -10,7 +10,7 @@ website_name: e-skapani.gr
 website_link: https://e-skapani.gr/
 acronym: Thessaloniki in Galerius-era, Reviving a glorious historical period of the city, guided by interdisciplinary research and cutting-edge technologies
 layout: projects
-title: e-SKAPANI
+title: e-SKAPANI (Coordinator)
 date: '2020-10-12T07:48:57+03:00'
 program: EPAnEK "Special Actions" - "Open Innovation in Culture"
 contact:
