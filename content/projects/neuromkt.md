@@ -10,7 +10,7 @@ website_name: neuromkt.gr
 website_link: https://neuromkt.gr/
 acronym: A multimodal system for the evaluation of advertisements
 layout: projects
-title: NeuroMkt
+title: NeuroMkt (Coordinator)
 date: '2020-09-30T10:44:33+02:00'
 program: Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK)
 contact: 
