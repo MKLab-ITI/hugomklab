@@ -10,7 +10,7 @@ website_name: etryon-h2020.eu
 website_link: http://etryon-h2020.eu/
 acronym: Virtual try-ons of garments enabling novel human fashion interactions
 layout: projects
-title: eTryOn
+title: eTryOn (Coordinator)
 date: '2020-10-02T07:48:57+03:00'
 program: ICT-55-2020
 contact:
