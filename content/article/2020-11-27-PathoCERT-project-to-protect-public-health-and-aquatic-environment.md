@@ -7,6 +7,7 @@ layout: article
 title: PathoCERT project to protect public health and aquatic environment
 date: '2020-11-27T08:49:37+02:00'
 ---
+<i>Figure 1 Photo by Flo Regi on Unsplash</i>
 <p>
 M4D/MKLAB announces the kick off of <b>PathoCERT</b> project that aims to the timely and precise identification of pathogen contamination events in areas that water is present in order to inform the first responders and warn the public.
 </p>
