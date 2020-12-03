@@ -46,6 +46,7 @@ showpagemeta: false
 ## Research Associates
 
 **Adamantidou Eleni**, adamelen@iti.gr  
+**Alepopoulos Vasileios**, valep@iti.gr  
 **Andreadis Stelios**, andreadisst@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr  
 **Antzoulatos Gerasimos**, gantzoulatos@iti.gr  
@@ -73,7 +74,7 @@ showpagemeta: false
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalomitsinis Georgios**, geokal@iti.gr  
 **Kassiano Vasileios**, vaskass@iti.gr  
-**Katmada Katerina**, akatmada@iti.gr  
+**Kesidis Anastasios**, akesidis@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
 **Konstantinou Apostolos**, konstantinou@iti.gr  
 **Koufakis Alexandros-Michail**, akoufakis@iti.gr  
@@ -109,6 +110,7 @@ showpagemeta: false
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
 **Papadimos Thomas**, papadimos@iti.gr  
+**Papadopoulos Stefanos**, stefpapad@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papageorgiou Vasilis**, vpap@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
@@ -124,12 +126,14 @@ showpagemeta: false
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
 **Smyrlis Panagiotis**, pnsmyrlis@iti.gr  
+**Stasinakis Andreas**, andstasi@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Strantzalis Dimitris**, dstrants@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
+**Tsolakis Nikolaos**, stsolakin@iti.gr  
 **Tzanakis Savvas**, stzanakis@iti.gr  
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
@@ -149,6 +153,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Katmada Katerina, Research Associate, akatmada@iti.gr  
 Chatzimichail Aggelos, Research Associate, angechat@iti.gr  
 Tsolakides Stefanos, Research Associate, stefpstsol@iti.gr  
 Topouzidis Kimon, Research Associate, ktopouzi@iti.gr  
