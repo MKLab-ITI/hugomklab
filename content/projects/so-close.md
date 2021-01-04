@@ -5,8 +5,8 @@ tags:
 - european
 images:
 - project_logos/so-close-logo.png
-website_name: Coming Soon
-website_link: #
+website_name: so-close.eu
+website_link: https://so-close.eu/
 acronym: Enhancing Social Cohesion through Sharing the Cultural Heritage of Forced Migrations
 layout: projects
 title: SO-CLOSE
