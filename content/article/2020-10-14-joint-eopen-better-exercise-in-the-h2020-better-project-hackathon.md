@@ -12,3 +12,14 @@ A joint exercise will be supported by Fraunhofer IAIS (<a href="https://www.ec-b
 <p>Date & Time  29 October 1.30pm – 5.30pm CET</p>
 <p>Register for this exercise <a href="https://www.eventbrite.co.uk/e/better-hackathon-2020-exercise-4-semantic-geo-clustering-with-sansa-tickets-123306825033" target="blank">here</a>
 </p>
+<p>
+The full dataset includes:
+<ul>
+<li>Healthy Controls Elders (60+ years old): 33 participants</li>
+<li>Subjective Cognitive Decline: 34 participants</li>
+<li>Mild Cognitive Impairment: 79 participants</li>
+<li>Alzheimer's Disease: 48 participants</li>
+<li>Healthy Young (25-40 years old): 36 participants</li>
+</ul>
+</p>  
+<p><b><a href="https://zenodo.org/record/4316608#.X-M0BFVLjIU" target="blank">Download the dataset here</a></b></p>
