@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: 'This repository contains Matlab files'
 types: results
 tags:
 - data
