@@ -23,4 +23,4 @@ The full dataset includes:
 <li>Healthy Young (25-40 years old): 36 participants</li>
 </ul>
 </p>  
-<p><b><a href="https://zenodo.org/record/4316608#.X-M0BFVLjIU" target="blank">Download the dataset here</a></b></p>
+<p><b><a href="https://zenodo.org/record/4316608#.X-M0BFVLjIU" target="blank">More information about the dataset and how to request access</a></b></p>
