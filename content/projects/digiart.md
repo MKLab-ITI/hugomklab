@@ -1,5 +1,5 @@
 ---
-excerpt: "<a href=\"http://digiart-project.eu/\">DigiArt</a>: The Internet Of Historical
+excerpt: "DigiArt: The Internet Of Historical
   Things And Building New 3D Cultural Worlds\r\nDigiArt seeks to provide a new, cost
   efficient solution to the capture, processing and display of cultural artefacts.
   It offers innovative 3D capture systems and methodologies, including aerial capture
@@ -14,8 +14,8 @@ tags:
 - european
 images:
 - project_logos/DigiArt_Logo.jpg
-website_name: digiart-project.eu
-website_link: http://digiart-project.eu/
+website_name: mklab.iti.gr/digiart
+website_link: https://mklab.iti.gr/digiart
 acronym: The Internet Of Historical Things And Building New 3D Cultural Worlds
 layout: projects
 title: DigiArt
