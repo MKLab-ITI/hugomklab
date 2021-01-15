@@ -21,3 +21,6 @@ Aiming to enhance the research activity in the field of oil spill detection, the
 <img src="https://mklab.iti.gr/files/images/article-jan21.jpg" width="100%" />
 <i>(a) Sample of a SAR image and (b) Corresponding annotated image. Cyan color corresponds to oil spills, red to look-alikes, brown to ships, green to land and black is for sea surface.</i>
 </p>
+<p>
+  <b>Link:</b><a href="https://m4d.iti.gr/oil-spill-detection-dataset/" target="blank">m4d.iti.gr/oil-spill-detection-dataset</a>
+</p>
