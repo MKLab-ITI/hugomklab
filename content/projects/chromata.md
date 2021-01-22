@@ -5,7 +5,7 @@ tags:
 - national
 - coordinator
 images:
-- project_logos/chromata-logo.png
+- project_logos/chromata-logo.JPG
 website_name: chromata-project.gr
 website_link: http://chromata-project.gr/
 acronym: 
