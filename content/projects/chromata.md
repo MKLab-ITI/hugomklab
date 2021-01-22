@@ -12,7 +12,7 @@ acronym:
 layout: projects
 title: CHROMATA (Coordinator)
 date: '2021-01-22T08:48:57+03:00'
-program: RESEARCH – CREATE – INNOVATE Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK).
+program: Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK)
 contact:
 - Diplaris Sotiris
 - Vrochidis Stefanos
