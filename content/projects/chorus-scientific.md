@@ -5,8 +5,8 @@ tags:
 - european
 images:
 - project_logos/chorus_plus_logo.jpg
-website_name: avmediasearch.eu
-website_link: http://avmediasearch.eu/
+website_name: cordis.europa.eu
+website_link: https://cordis.europa.eu/project/id/249008
 acronym: Coordinated approacH to the EurOpean effoRt on aUdio-visual Search engines+
   is a Coordination Action
 layout: projects
