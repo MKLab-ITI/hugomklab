@@ -16,4 +16,4 @@ i4Q involves <b>24 partners from 11 different European countries</b> that bring 
 <p>
 We are certain that this will be the start of a very successful collaboration! 
 </p>
-<img src="https://mklab.iti.gr/field/image/i4q-feature2.jpg" />
+<img src="https://mklab.iti.gr/files/field/image/i4q-feature2.jpg" />
