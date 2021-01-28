@@ -8,7 +8,7 @@ images:
 - project_logos/chromata-logo.JPG
 website_name: chromata-project.gr
 website_link: http://chromata-project.gr/
-acronym: 
+acronym: Dances, Songs, Myths and Customs for the Development of Technologies for Intangible Cultural Heritage
 layout: projects
 title: CHROMATA (Coordinator)
 date: '2021-01-22T08:48:57+03:00'
