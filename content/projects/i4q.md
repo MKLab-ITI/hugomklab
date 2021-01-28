@@ -6,8 +6,8 @@ tags:
 - coordinator
 images:
 - project_logos/i4q-logo.png
-website_name: Coming Soon
-website_link: #
+website_name: i4q-project.eu
+website_link: https://www.i4q-project.eu/
 acronym: Industrial Data Services for Quality Control in Smart Manufacturing
 layout: projects
 title: i4Q (Coordinator)
