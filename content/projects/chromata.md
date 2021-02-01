@@ -5,7 +5,7 @@ tags:
 - national
 - coordinator
 images:
-- project_logos/chromata-logo.JPG
+- project_logos/chromata-logo.PNG
 website_name: chromata-project.gr
 website_link: http://chromata-project.gr/
 acronym: Dances, Songs, Myths and Customs for the Development of Technologies for Intangible Cultural Heritage
