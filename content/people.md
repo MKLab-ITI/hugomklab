@@ -68,7 +68,7 @@ showpagemeta: false
 **Georgiou Georgia**, georgiou_georgia@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Gkartzonika Ioanna**, gkartzoni@iti.gr  
-**Gkoudakos Konstantinos**, gountakos@iti.gr  
+**Gkountakos Konstantinos**, gountakos@iti.gr  
 **Iliou Christos**, iliouchristos@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
