@@ -8,7 +8,7 @@ images:
 - project_logos/mediaverse-logo.png
 website_name: mediaverse-project.eu
 website_link: https://mediaverse-project.eu/
-acronym: 
+acronym: A universe of media assets and co-creation opportunities at your fingertips
 layout: projects
 title: MediaVerse (Coordinator)
 date: '2021-02-08T07:48:57+03:00'
