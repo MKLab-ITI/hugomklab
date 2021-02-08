@@ -8,7 +8,7 @@ title: Bridging the gap between Copernicus data providers and end users through 
 date: '2021-02-02T08:49:37+02:00'
 ---
 <p>
-M4D/MKLab of ITI-CERTH is delighted to participate in the newly launched, EU-funded H2020 project CALLISTO - “Copernicus Artificial Intelligence (AI) Services and data fusion with other distributed data sources and processing at the edge to support DIAS and HPC infrastructures”. M4D/MKLab has a significant role in CALLISTO, being the scientific and technical coordinator, as well as leading one Work Package and several tasks, including social media data collection, change detection on satellite and UAV images, data fusion, and information retrieval.
+MKLab of ITI-CERTH is delighted to participate in the newly launched, EU-funded H2020 project CALLISTO - “Copernicus Artificial Intelligence (AI) Services and data fusion with other distributed data sources and processing at the edge to support DIAS and HPC infrastructures”. MKLab has a significant role in CALLISTO, being the scientific and technical coordinator, as well as leading one Work Package and several tasks, including social media data collection, change detection on satellite and UAV images, data fusion, and information retrieval.
 </p>
 <p>
 The EU-funded H2020 project CALLISTO aims to bridge the gap between the DIAS providers and the users of the above-mentioned data through dedicated AI solutions that add value to the large volumes of satellite data frequently coming to Earth from the Copernicus Sentinel constellation.
