@@ -1,9 +1,9 @@
 ---
-types: publication
-tags: conference_publications
-publication_date: '2016-09-12T00:00:00'
 layout: publication
+types: publication
 title: Question Answering over Pattern-Based User Models
-date: '2016-06-13T13:02:41+03:00'
+date: 2016-06-13T13:02:41+03:00
+tags: conference_publications
+publication_date: 2016-09-12T00:00:00
 ---
-<p>G. Meditskos, S. Dasiopoulou, S. Vrochidis, L. Wanner, I. Kompatsiaris, "Question Answering over Pattern-Based User Models", In Proceedings of the 12th International Conference on Semantic Systems (SEMANTiCS 2016), pp. 153-160. ACM, New York, NY, USA, 2016 DOI: https://doi.org/10.1145/2993318.2993331</p>
+<p>G. Meditskos, S. Dasiopoulou, S. Vrochidis, L. Wanner, I. Kompatsiaris, "[Question Answering over Pattern-Based User Models](https://www.researchgate.net/publication/309032859_Question_Answering_over_Pattern-Based_User_Models)", In Proceedings of the 12th International Conference on Semantic Systems (SEMANTiCS 2016), pp. 153-160. ACM, New York, NY, USA, 2016 DOI: https://doi.org/10.1145/2993318.2993331</p>
