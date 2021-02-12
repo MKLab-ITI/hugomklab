@@ -59,6 +59,7 @@ showpagemeta: false
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr  
+**Fiska Vasiliki**, vickyfi@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
 **Gatziaki Vasiliki**, vasgat@iti.gr  
@@ -70,9 +71,11 @@ showpagemeta: false
 **Giatsoglou Nikolaos**, ngiatsog@iti.gr  
 **Gkartzonika Ioanna**, gkartzoni@iti.gr  
 **Gkountakos Konstantinos**, gountakos@iti.gr  
+**Gramatikopoulou Margarita**, marggram@iti.gr  
 **Iliou Christos**, iliouchristos@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
+**Kalpakis Leonidas**, leokalpakis@iti.gr  
 **Kalomitsinis Georgios**, geokal@iti.gr  
 **Kassiano Vasileios**, vaskass@iti.gr  
 **Kesidis Anastasios**, akesidis@iti.gr  
@@ -96,8 +99,8 @@ showpagemeta: false
 **Masa Panagiota**,  gmasa@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
-**Metsai Alexander**, alexmetsai@iti.gr  
 **Migkotzidis Panagiotis**, migkotzidis@iti.gr  
+**Mouzakis Christos**, chrismouz@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr  
 **Mpakratsas Marios**,mbakratsas@iti.gr  
 **Mpalaouras Georgios**,mpalaourg@iti.gr  
@@ -116,6 +119,7 @@ showpagemeta: false
 **Papadopoulos Stefanos**, stefpapad@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papageorgiou Vasilis**, vpap@iti.gr  
+**Papagianni Andromachi**, andromap@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
@@ -127,9 +131,11 @@ showpagemeta: false
 **Serri Niki**, nikiserri@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
+**Siopi Maria**, siopi@iti.gr  
 **Smyrlis Panagiotis**, pnsmyrlis@iti.gr  
 **Stasinakis Andreas**, andstasi@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
+**Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
@@ -154,6 +160,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Metsai Alexander, Research Associate, alexmetsai@iti.gr  
 Strantzalis Dimitris, Research Associate, dstrants@iti.gr  
 Samlides Philippos, Research Associate, philip.samlides@iti.gr  
 Ntrigkogia Paraskevi, Research Associate, vividrig@iti.gr  
