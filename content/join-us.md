@@ -17,6 +17,6 @@ In our offices, in Thessaloniki and Athens, we cultivate a cooperative and vibra
 <p>
 If you would like to join our team please send us your CV at <a href="mailto:mklab_hr@iti.gr">mklab_hr@iti.gr</a> and we will try to come back to you with ideas on how we could work together.
 </p>
-<p style="font-size:10px;">
-  Any information provided is considered an <u>expression of interest only</u> and is not considered in any way part of a formal job application.  
+<p style="font-size:12px;">
+<i>Any information provided is considered an <u>expression of interest only</u> and is not considered in any way part of a formal job application.</i>
 </p>
