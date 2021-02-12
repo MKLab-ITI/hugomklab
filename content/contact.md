@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2018-06-19T02:16:58+03:00
 menu: "main" #Display this page on the nav menu
-weight: "1000" 
+weight: "1100" 
 showpagemeta: false
 ---
 ### Dr. Yiannis (Ioannis) Kompatsiaris
