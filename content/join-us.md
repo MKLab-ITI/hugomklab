@@ -5,7 +5,6 @@ menu: "main" #Display this page on the nav menu
 weight: "1000" 
 showpagemeta: false
 ---
-### Join Us
 <p>
 We are running a significant number of research and innovation projects advancing the state of the art, and we are also constantly looking into opportunities to explore new research areas and apply our research to more sectors.
 </p>
