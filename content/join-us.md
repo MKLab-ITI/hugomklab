@@ -5,6 +5,7 @@ menu: "main" #Display this page on the nav menu
 weight: "1000" 
 showpagemeta: false
 ---
+<img src="https://mklab.iti.gr/files/images/certh-office.jpg" />
 <p>
 We are running a significant number of <a href="https://mklab.iti.gr/projects/" target="_blank">research and innovation projects</a> advancing the state of the art, and we are also constantly looking into opportunities to explore new research areas and apply <a href="https://mklab.iti.gr/research/" target="_blank">our research</a> to more sectors.
 </p>
