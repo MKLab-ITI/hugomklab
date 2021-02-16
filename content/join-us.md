@@ -21,3 +21,8 @@ If you would like to join our team please send us your CV at <a href="mailto:mkl
 <p style="font-size:12px;">
 <i>Any information provided is considered an <u>expression of interest only</u> and is not considered in any way part of a formal job application.</i>
 </p>
+<p style="font-size:12px;">
+<i>We will use the personal information you send us strictly for the purposes of considering possible job opportunities at MKLab. We will maintain this information for 6 months securely stored in our internal server and not share it with any external parties. For further details regarding how we handle personal data, please refer to our <a href="https://mklab.iti.gr/privacy-policy/">privacy policy</a>.</i>
+</p>
+
+
