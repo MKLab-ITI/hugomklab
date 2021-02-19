@@ -111,6 +111,7 @@ showpagemeta: false
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Oikonomou Konstantinos**, koikonomou@iti.gr  
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
+**Panagiotopoulos Apostolos**, apanag@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantalona Georgia**, georgiapant@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
