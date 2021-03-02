@@ -15,6 +15,8 @@ The paper provides a technical specification of a platform, for managing a dockl
 </p>
 <p>
 The full-text paper and presentation slides are available from the following links:
-- Paper: https://link.springer.com/chapter/10.1007/978-3-030-58802-1_61
-- Presentation: https://www.slideshare.net/LazarosApostolidis/ichange-a-platform-for-managing-dockless-bike-sharing-systems
+<ul>
+  <li>Paper: <a href="https://link.springer.com/chapter/10.1007/978-3-030-58802-1_61" target="blank">https://link.springer.com/chapter/10.1007/978-3-030-58802-1_61</a></li>
+<li>Presentation: <a href="https://www.slideshare.net/LazarosApostolidis/ichange-a-platform-for-managing-dockless-bike-sharing-systems" target="blank">https://www.slideshare.net/LazarosApostolidis/ichange-a-platform-for-managing-dockless-bike-sharing-systems</a></li>
+</ul>
 </p>
