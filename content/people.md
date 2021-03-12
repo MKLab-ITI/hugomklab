@@ -34,6 +34,7 @@ showpagemeta: false
 
 ## Postdoctoral Research Fellows
 
+**Dr. Apostolou Georgia**, gapostolou@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzistavros Evaggelos**, vchatzist@iti.gr  
 **Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
@@ -59,11 +60,12 @@ showpagemeta: false
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr  
+**Evaggelatos Pavlos**, pevangelatos@iti.gr  
 **Fiska Vasiliki**, vickyfi@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
+**Gatselou Vera**, veragatselou@iti.gr  
 **Gatziaki Vasiliki**, vasgat@iti.gr  
-**Gavriilidis Nikolaos-Orestis**, gavriili@iti.gr  
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Georgiou Georgia**, georgiou_georgia@iti.gr  
@@ -107,6 +109,8 @@ showpagemeta: false
 **Mpaltadoros Lampros**,lamprosmpalt@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
 **Mpegkas Georgios**, gbegkas@iti.gr  
+**Mpektsis Evaggelos**, evanbekt@iti.gr  
+**Mpozas Areistidis**, arbozas@iti.gr  
 **Nikolaidis Efstathios**, stathis.nikolaidis@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Oikonomou Konstantinos**, koikonomou@iti.gr  
@@ -117,6 +121,7 @@ showpagemeta: false
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
 **Papadimos Thomas**, papadimos@iti.gr  
+**Papadopoulos Charalampos**, chapapadopoulos@iti.gr  
 **Papadopoulos Stefanos**, stefpapad@iti.gr  
 **Papadopoulou Olga**, olgapapa@iti.gr  
 **Papageorgiou Vasilis**, vpap@iti.gr  
@@ -134,6 +139,7 @@ showpagemeta: false
 **Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
 **Siopi Maria**, siopi@iti.gr  
 **Smyrlis Panagiotis**, pnsmyrlis@iti.gr  
+**Spyros Arnold**, aspyros@iti.gr  
 **Stasinakis Andreas**, andstasi@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
@@ -161,6 +167,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Gavriilidis Nikolaos-Orestis, Research Associate, gavriili@iti.gr  
 Metsai Alexander, Research Associate, alexmetsai@iti.gr  
 Strantzalis Dimitris, Research Associate, dstrants@iti.gr  
 Samlides Philippos, Research Associate, philip.samlides@iti.gr  
