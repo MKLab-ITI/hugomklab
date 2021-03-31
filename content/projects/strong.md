@@ -4,8 +4,8 @@ tags:
 - current
 - european
 images:
-- project_logos/
-website_name: coming soon
+- project_logos/strong_logo.png
+website_name: Coming Soon
 website_link: #
 acronym: advanced firST RespONders training
 layout: projects
