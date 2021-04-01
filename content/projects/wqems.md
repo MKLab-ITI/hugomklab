@@ -7,8 +7,6 @@ images:
 - project_logos/WQEMS-logo.png
 website_name: ec.europa.eu, wqems.eu
 website_link: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/lc-space-18-eo-2020, https://wqems.eu/
-website_name: wqems.eu
-website_link: https://wqems.eu/
 acronym: Copernicus Assisted Lake Water Quality Emergency Monitoring Service
 layout: projects
 title: WQeMS
