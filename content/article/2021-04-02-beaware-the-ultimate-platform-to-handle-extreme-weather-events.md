@@ -15,6 +15,6 @@ date: '2021-04-02T08:49:37+02:00'
 
 <p>You can find more in the project’s web page: <a href="https://beaware-project.eu/" target="_blank" rel="noopener noreferrer">https://beaware-project.eu/</a></p>
 
-<img src="Screenshot-2021-04-01-at-7.13.36-PM.png" />
+<img src="field/image/Screenshot-2021-04-01-at-7.13.36-PM.png" />
 
-<img src="image-2.png" alt="" />
+<img src="field/image/image-2.png" />
