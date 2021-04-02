@@ -7,7 +7,7 @@ layout: article
 title: The ultimate platform to handle extreme weather events! The European Commission has officially labelled Η2020 beAWARE (coordinated by MKLab) as a “success story”!
 date: '2021-04-02T08:49:37+02:00'
 ---
-<p><mark>As stated in the EC article, the beAWARE platform is much more than a crisis management platform to help authorities, first responders and citizens. It should rather be seen as a combination of relevant state-of-the-art technologies spread across different components and applications. It encompasses a protection and rescue service, it can be used for risk assessment (including scenario building), and it supports the core functions of call centres (public safety answering point or PSAP).</mark></p>
+<p>As stated in the EC article, the beAWARE platform is much more than a crisis management platform to help authorities, first responders and citizens. It should rather be seen as a combination of relevant state-of-the-art technologies spread across different components and applications. It encompasses a protection and rescue service, it can be used for risk assessment (including scenario building), and it supports the core functions of call centres (public safety answering point or PSAP).</p>
 
 <p>beAWARE was a three year (2017-2019) project with 10 partners (practitioners, industries and academics). The consortium designed and developed an integrated decision support solution to provide crisis forecasting, early warnings, aggregated analysis and fusion of multimodal data, as well as management of the coordination between the first responders and the authorities.</p>
 
