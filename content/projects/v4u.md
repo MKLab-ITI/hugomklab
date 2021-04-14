@@ -6,7 +6,7 @@ tags:
 images:
 website_name:
 website_link:
-acronym: Virtual technologies For Universities Supporting online learning with virtual technologies
+acronym: Virtual technologies For (4) Universities. Supporting online learning with virtual technologies
 layout: projects
 title: V4U
 date: '2021-05-14T10:26:33+02:00'
