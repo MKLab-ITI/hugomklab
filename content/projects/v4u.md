@@ -5,8 +5,8 @@ tags:
 - european
 images:
 - 
-website_name:Coming Soon
-website_link:#
+website_name:
+website_link:
 acronym: Virtual technologies For (4) Universities. Supporting online learning with virtual technologies
 layout: projects
 title: V4U
