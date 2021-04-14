@@ -9,7 +9,7 @@ website_link:
 acronym: Virtual technologies For (4) Universities. Supporting online learning with virtual technologies
 layout: projects
 title: V4U
-date: '2021-05-14T08:10:33+02:00'
+date: '2021-04-14T08:10:33+02:00'
 program: Erasmus+ 2020-1-DK01-KA226
 contact: 
 - Karakostas Anastasios
