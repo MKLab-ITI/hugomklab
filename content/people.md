@@ -58,6 +58,7 @@ showpagemeta: false
 **Charalampopoulos Panagiotis**, panchar@iti.gr  
 **Charitidis Polychronis**, charitidis@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
+**Chatzitheodorou Tilemachos**, t.chatzitheodorou@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr  
 **Evaggelatos Pavlos**, pevangelatos@iti.gr  
@@ -99,6 +100,7 @@ showpagemeta: false
 **Makedas Themistoklis**,  tmakedas@iti.gr  
 **Mantsis Damianos-Florin**,  dmantsis@iti.gr  
 **Masa Panagiota**,  gmasa@iti.gr  
+**Matinopoulou Eleni**,  matinopoulou@iti.gr  
 **Meggidis Anagnostis**,  nmengidis@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
 **Migkotzidis Panagiotis**, migkotzidis@iti.gr  
@@ -110,6 +112,7 @@ showpagemeta: false
 **Mpatziou Elisavet**, batziou.el@iti.gr  
 **Mpegkas Georgios**, gbegkas@iti.gr  
 **Mpektsis Evaggelos**, evanbekt@iti.gr  
+**Mpoikou Andromachi**, boikou@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
 **Nikolaidis Efstathios**, stathis.nikolaidis@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
@@ -127,6 +130,8 @@ showpagemeta: false
 **Papageorgiou Vasilis**, vpap@iti.gr  
 **Papagianni Andromachi**, andromap@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
+**Papoutsis Aggelos**, apapoutsis@iti.gr  
+**Paspalakis Stavros**, spaspalakis@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
 **Pliatsios Antonis**, apliatsios@iti.gr  
@@ -153,6 +158,7 @@ showpagemeta: false
 **Tzionis Grigoris**, gtzionis@iti.gr  
 **Vaggeli-Margariti Evaggelia**, margariti@iti.gr  
 **Vakkou Despoina**, dvakkou@iti.gr  
+**Vasileiadis Aggelos**, angelvasileiad@iti.gr  
 **Vasileiou Zoi**, zvasilei@iti.gr  
 **Xefteris Vasileios-Rafahl**, vxefteris@iti.gr  
 
