@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- 
+- project_logos/law-game.png
 website_name: 
 website_link: 
 acronym: An Interactive, Collaborative Digital Gamification Approach to Effective Experiential Training and Prediction of Criminal Actions
