@@ -9,7 +9,7 @@ website_name:
 website_link: 
 acronym: An Interactive, Collaborative Digital Gamification Approach to Effective Experiential Training and Prediction of Criminal Actions
 layout: projects
-title: 7SHIELD
+title: LAW-GAME
 date: '2021-05-12T07:48:57+03:00'
 program: H2020-SU-SEC-2018-2019-2020 / H2020-SU-SEC-2020
 contact:
