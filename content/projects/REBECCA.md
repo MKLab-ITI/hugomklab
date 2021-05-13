@@ -10,7 +10,7 @@ website_link: https://cordis.europa.eu/project/id/965231
 acronym: REsearch on BrEast Cancer induced chronic conditions supported by Causal Analysis of multi-source data
 layout: projects
 title: REBECCA
-date: '2021-5-13T07:48:57+03:00'
+date: '2021-05-13T07:48:57+03:00'
 program: H2020, SC1-DTH-12-2020
 contact:
 - Lazaros Apostolidis
