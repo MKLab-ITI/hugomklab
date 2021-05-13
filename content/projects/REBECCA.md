@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/rebecca.png
+- project_logos/rebecca-logo-v0.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/965231
 acronym: REsearch on BrEast Cancer induced chronic conditions supported by Causal Analysis of multi-source data
