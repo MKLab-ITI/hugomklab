@@ -15,13 +15,15 @@ date: '2014-05-27T16:51:49+03:00'
 ---
 <img src="https://mklab.iti.gr/files/people/kompats_corrected_final.jpg" style="width:120px;float:left;margin: 10px 10px 10px 0;">
 
-Dr. Ioannis (Yiannis) Kompatsiaris is a Researcher Director at CERTH-ITI, the Head of Multimedia Knowledge and Social Media Analytics Laboratory and Deputy Director of the Institute. 
+Dr. Ioannis (Yiannis) Kompatsiaris is a Research Director at CERTH-ITI, the Head of Multimedia Knowledge and Social Media Analytics Laboratory and Deputy Director of the Institute. 
 
-His research interests include multimedia, big data and social media analytics, semantics, human computer interfaces (AR and BCI), eHealth, security and culture applications. He is the co-author of 129 papers in refereed journals, 46 book chapters, 8 patents and more than 420 papers in international conferences. Since 2001, Dr. Kompatsiaris has participated in 59 National and European research programs including direct collaboration with industry, in 15 of which he has been the Project Coordinator and in 41 the Principal Investigator.  
+His research interests include ΑΙ/Machine Learning for multimedia analysis, Semantics (multimedia ontologies and reasoning), Social Media and Big Data Analytics, Multimodal and Sensors Data Analysis, Human Computer Interfaces, e- Health, Arts and Cultural, Media/Journalism, Environmental and Security applications. He is the co-author of 178 papers in refereed journals, 63 book chapters, 8 patents and 560 papers in international conferences. Since 2001, Dr. Kompatsiaris has participated in 88 National and European research programs, in 31 of which he has been the Project Coordinator. He has also been the PI in 15 contracts from the industry. 
 
-He is co-editor of the books “Semantic Multimedia and Ontologies: Theory and Applications” and "TV Content Analysis: Techniques and Applications", the guest editor of eight special issues, including "Social Media as Sensors" in IEEE Transactions on Multimedia and he has served as a program committee member and regular reviewer for a number of international journals and conferences. He has been the co-organizer of various conferences and workshops, such as the MMM 2019, ΙΕΕΕ IVMSP 2018, ACM CIVR 2009, WIAMIS 2007 and SSMS 2012 and he was a program co-chair for ACM MM 2016.
+He has been the co-chair of various international conferences and workshops including the 13th IEEE Image, Video, and Multidimensional Signal Processing (IVMSP 2018) Workshop and has served as a regular reviewer, associate and guest editor for a number of journals and conferences currently being an associate editor of IEEE Transactions on Image Processing. He is a member of the National Ethics and Technoethics Committee, the Scientific Advisory Board of the CHIST-ERA funding programme and an elected member of the IEEE Image, Video and Multidimensional Signal Processing - Technical Committee (IVMSP - TC). 
 
-He is a Senior Member of IEEE and member of ACM.
+He is a Senior Member of IEEE and ACM.  
+
+Since January 2014, he is a co-founder of the Infalia private company, a high-tech SME focusing on data intensive web services and applications.
 
 You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompatsiaris_CV_EN.pdf) and [current list of citations](https://mklab.iti.gr/files/ikom/Kompatsiaris_CV_CITATIONS.pdf)
 
