@@ -11,7 +11,7 @@ website_link: https://cordis.europa.eu/project/id/951911
 acronym: A European Excellence Centre for Media, Society and Democracy
 layout: projects
 title: AI4Media (Coordinator)
-date: '2021-5-14T07:48:57+03:00'
+date: '2021-05-14T07:48:57+03:00'
 program: H2020, ICT-48-2020
 contact:
 - Yiannis (Ioannis) Kompatsiaris
