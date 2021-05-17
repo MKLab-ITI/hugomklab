@@ -59,8 +59,10 @@ showpagemeta: false
 **Charitidis Polychronis**, charitidis@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Chatzitheodorou Tilemachos**, t.chatzitheodorou@iti.gr  
+**Daskalakis Dimitrios**, dimidask@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr  
+**Elobaid Alaa**, elobaida@iti.gr  
 **Evaggelatos Pavlos**, pevangelatos@iti.gr  
 **Fiska Vasiliki**, vickyfi@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
@@ -132,6 +134,7 @@ showpagemeta: false
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Papoutsis Aggelos**, apapoutsis@iti.gr  
 **Paspalakis Stavros**, spaspalakis@iti.gr  
+**Petropoulos Alexandos**, alpetrop@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
 **Pliatsios Antonis**, apliatsios@iti.gr  
@@ -160,6 +163,7 @@ showpagemeta: false
 **Vakkou Despoina**, dvakkou@iti.gr  
 **Vasileiadis Aggelos**, angelvasileiad@iti.gr  
 **Vasileiou Zoi**, zvasilei@iti.gr  
+**Vlachos Konstantinos**, kostasvlachosgrs@iti.gr  
 **Xefteris Vasileios-Rafahl**, vxefteris@iti.gr  
 
 ## PhD Candidates
