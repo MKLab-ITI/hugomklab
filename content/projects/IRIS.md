@@ -7,7 +7,7 @@ images:
 - project_logos/IRIS.png
 website_name: 
 website_link:
-acronym: 
+acronym: artificial Intelligence threat Reporting and Incident response System
 layout: projects
 title: IRIS
 date: '2021-05-18T07:48:57+03:00'
