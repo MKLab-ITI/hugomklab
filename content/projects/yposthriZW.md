@@ -1,11 +1,10 @@
 ---
-title: υποστηρίΖΩ (Coordinator)
+title: υποστηρίΖΩ
 date: 2018-10-12T12:00:00+03:00
 types: project
 tags:
 - current
 - national
-- coordinator
 images: 
 - project_logos/ipostirizo_logo.png
 website_name: ypostirizo-project.gr
