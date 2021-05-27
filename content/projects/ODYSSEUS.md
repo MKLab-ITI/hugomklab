@@ -12,7 +12,7 @@ acronym: PREVENTING, COUNTERING, AND INVESTIGATING TERRORIST ATTACKS THROUGH PRO
 layout: projects
 title: ODYSSEUS
 date: '2021-05-27T07:48:57+03:00'
-program: H2020-SU-SEC-2020
+program: H2020-SU-SEC-2020/ H2020-SU-FCT04-2020
 contact:
 - Theodora Tsikrika
 - Vrochidis Stefanos
