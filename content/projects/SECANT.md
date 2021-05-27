@@ -12,7 +12,7 @@ website_link:
 acronym: SECurity And privacy protectioN in Internet of Things devices
 layout: projects
 title: SECANT
-date: '2020-05-27T07:48:57+03:00'
+date: '2021-05-27T07:48:57+03:00'
 program: H2020-SU-DS-2020
 contact:
 - Theodora Tsikrika
