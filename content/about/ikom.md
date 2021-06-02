@@ -33,7 +33,9 @@ You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompat
 
 <div class="acmdlitem" id="item3042064">Anastasia Ioannidou, Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Kompatsiaris, <a href="http://dl.acm.org/authorize?N24331" title="Deep Learning Advances in Computer Vision with 3D Data: A Survey"> Deep Learning Advances in Computer Vision with 3D Data: A Survey</a>, ACM Computing Surveys (CSUR), Volume 50, Issue 2, 2017</div>
 
-E. Spyromitros-Xioufis, S. Papadopoulos, Y. Kompatsiaris, G. Tsoumakas, I. Vlahavas, "<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6847226&tag=1">A Comprehensive Study over VLAD and Product Quantization in Large-scale Image Retrieval</a>", IEEE Transactions on Multimedia 16(6), pp. 1713-1728, October 2014.
+Fotis Kalaganis, Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Kompatsiaris, and Nikos Laskaris, An error-aware gaze-based keyboard by means of a hybrid BCI system, Scientific Reports 8, Article number: 13176 (2018)
+
+<p>E. Spyromitros-Xioufis, S. Papadopoulos, Y. Kompatsiaris, G. Tsoumakas, I. Vlahavas, "<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6847226&tag=1">A Comprehensive Study over VLAD and Product Quantization in Large-scale Image Retrieval</a>", IEEE Transactions on Multimedia 16(6), pp. 1713-1728, October 2014.</p>
 
 <p>I. Kompatsiaris and M.G. Strintzis, &quot;Spatiotemporal Segmentation and Tracking of Objects for Visualization of Videoconference Image Sequences&quot;, IEEE Trans. on Circuits and System for Video Technology, vol. 10, no. 8, December 2000.<a href="/files/pdf/CSVT2000.pdf"><img align="top" border="0" src="/files/pdf/pdf.png" /></a></p>
 
