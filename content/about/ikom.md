@@ -31,9 +31,11 @@ You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompat
 
 Ntoutsi E, Fafalios P, Gadiraju U, Iosifidis V, Nejdl W, Vidal ME, Ruggieri S, Turini F, Papadopoulos S, Krasanakis E, Kompatsiaris I. et al. "Bias in data‐driven artificial intelligence systems—An introductory survey". Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 10(3), e1356. May 2020. <https://doi.org/10.1002/widm.1356>
 
+Lazarou I, Nikolopoulos S, Dimitriadis SI, Yiannis Kompatsiaris I, Spilioti M, Tsolaki M. "Is brain connectome research the future frontier for subjective cognitive decline? A systematic review., Clin Neurophysiol. 2019 Oct;130(10):1762-1780. doi: 10.1016/j.clinph.2019.07.004. Epub 2019 Jul 19. PMID: 31401485.
+
 <p>L. Aiello, G. Petkos, C. Martin, D. Corney, S. Papadopoulos, R. Skraba, A. Goker, I. Kompatsiaris, A. Jaimes, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6525357">Sensing trending topics in Twitter</a>", IEEE Transactions on Multimedia, vol. 15, issue 6, 2013, doi:10.1109/TMM.2013.2265080</p>
 
-<div class="acmdlitem" id="item3042064">Anastasia Ioannidou, Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Kompatsiaris, <a href="http://dl.acm.org/authorize?N24331" title="Deep Learning Advances in Computer Vision with 3D Data: A Survey"> Deep Learning Advances in Computer Vision with 3D Data: A Survey</a>, ACM Computing Surveys (CSUR), Volume 50, Issue 2, 2017</div>
+Anastasia Ioannidou, Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Kompatsiaris, <a href="http://dl.acm.org/authorize?N24331" title="Deep Learning Advances in Computer Vision with 3D Data: A Survey"> Deep Learning Advances in Computer Vision with 3D Data: A Survey</a>, ACM Computing Surveys (CSUR), Volume 50, Issue 2, 2017
 
 <p>Fotis Kalaganis, Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Kompatsiaris, and Nikos Laskaris, "<a href="https://www.nature.com/articles/s41598-018-31425-2"> An error-aware gaze-based keyboard by means of a hybrid BCI system</a>", Nature Scientific Reports 8, Article number: 13176 (2018)</p>
 
