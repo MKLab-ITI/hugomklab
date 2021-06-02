@@ -31,7 +31,7 @@ You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompat
 
 Ntoutsi E, Fafalios P, Gadiraju U, Iosifidis V, Nejdl W, Vidal ME, Ruggieri S, Turini F, Papadopoulos S, Krasanakis E, Kompatsiaris I. et al. "Bias in data‐driven artificial intelligence systems—An introductory survey". Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 10(3), e1356. May 2020. <https://doi.org/10.1002/widm.1356>
 
-Lazarou I, Nikolopoulos S, Dimitriadis SI, Yiannis Kompatsiaris I, Spilioti M, Tsolaki M. "Is brain connectome research the future frontier for subjective cognitive decline? A systematic review., Clin Neurophysiol. 2019 Oct;130(10):1762-1780. doi: 10.1016/j.clinph.2019.07.004. Epub 2019 Jul 19. PMID: 31401485.
+Lazarou I, Nikolopoulos S, Dimitriadis SI, Yiannis Kompatsiaris I, Spilioti M, Tsolaki M. <a href=https://www.sciencedirect.com/science/article/pii/S1388245719311460> Is brain connectome research the future frontier for subjective cognitive decline? A systematic review</a>, Clin Neurophysiol. 2019 Oct;130(10):1762-1780. doi: 10.1016/j.clinph.2019.07.004. Epub 2019 Jul 19. PMID: 31401485.
 
 <p>L. Aiello, G. Petkos, C. Martin, D. Corney, S. Papadopoulos, R. Skraba, A. Goker, I. Kompatsiaris, A. Jaimes, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6525357">Sensing trending topics in Twitter</a>", IEEE Transactions on Multimedia, vol. 15, issue 6, 2013, doi:10.1109/TMM.2013.2265080</p>
 
