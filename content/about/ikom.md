@@ -31,6 +31,6 @@ You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompat
 
 <p>L. Aiello, G. Petkos, C. Martin, D. Corney, S. Papadopoulos, R. Skraba, A. Goker, I. Kompatsiaris, A. Jaimes, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6525357">Sensing trending topics in Twitter</a>", IEEE Transactions on Multimedia, vol. 15, issue 6, 2013, doi:10.1109/TMM.2013.2265080</p>
 
-<div class="acmdlitem" id="item3042064">Anastasia Ioannidou, Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Kompatsiaris,<a href="http://dl.acm.org/authorize?N24331" title="Deep Learning Advances in Computer Vision with 3D Data: A Survey">Deep Learning Advances in Computer Vision with 3D Data: A Survey</a>, ACM Computing Surveys (CSUR),2017</div>
+<div class="acmdlitem" id="item3042064">Anastasia Ioannidou, Elisavet Chatzilari, Spiros Nikolopoulos, Ioannis Kompatsiaris, <a href="http://dl.acm.org/authorize?N24331" title="Deep Learning Advances in Computer Vision with 3D Data: A Survey"> Deep Learning Advances in Computer Vision with 3D Data: A Survey</a>, ACM Computing Surveys (CSUR), Volume 50, Issue 2, 2017</div>
 
 
