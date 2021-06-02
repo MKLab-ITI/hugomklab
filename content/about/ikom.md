@@ -29,7 +29,7 @@ You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompat
 
 ### Key publications
 
-<p>L. Aiello, G. Petkos, C. Martin, D. Corney, S. Papadopoulos, R. Skraba, A. Goker, I. Kompatsiaris, A. Jaimes, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6525357">Sensing trending topics in Twitter</a>", Transactions on Multimedia, online preprint, IEEE, 2013, doi:10.1109/TMM.2013.2265080</p>
+<p>L. Aiello, G. Petkos, C. Martin, D. Corney, S. Papadopoulos, R. Skraba, A. Goker, I. Kompatsiaris, A. Jaimes, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6525357">Sensing trending topics in Twitter</a>", IEEE Transactions on Multimedia, vol. 15, issue 6, 2013, doi:10.1109/TMM.2013.2265080</p>
 
 A. Tsakalidis, S. Papadopoulos, A. Cristea, Y. Kompatsiaris. "Predicting Elections for Multiple Countries Using Twitter and Polls", IEEE Intelligent Systems.
 
