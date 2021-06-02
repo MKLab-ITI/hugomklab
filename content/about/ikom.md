@@ -29,6 +29,8 @@ You can download my [detailed CV](https://mklab.iti.gr/files/ikom/Ioannis_Kompat
 
 ### Key publications
 
+<p>L. Aiello, G. Petkos, C. Martin, D. Corney, S. Papadopoulos, R. Skraba, A. Goker, I. Kompatsiaris, A. Jaimes, "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6525357">Sensing trending topics in Twitter</a>", Transactions on Multimedia, online preprint, IEEE, 2013, doi:10.1109/TMM.2013.2265080</p>
+
 A. Tsakalidis, S. Papadopoulos, A. Cristea, Y. Kompatsiaris. "Predicting Elections for Multiple Countries Using Twitter and Polls", IEEE Intelligent Systems.
 
 G. Meditskos, S. Dasiopoulou, I. Kompatsiaris, "<a href="https://doi.org/10.1016/j.pmcj.2015.01.007">MetaQ: A Knowledge-Driven Framework for Context-Aware Activity Recognition Combining SPARQL and OWL 2 Activity Patterns</a>", Pervasive and Mobile Computing, 2015,https://doi.org/10.1016/j.pmcj.2015.01.007
