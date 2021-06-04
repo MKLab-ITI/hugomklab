@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/echologo.png
+- project_logos/ECHO_logo_horizontal_light.png
 website_name: echonetwork.eu
 website_link: https://www.echonetwork.eu/
 acronym: European network of Cybersecurity centres and competence Hub for innovation and Operations
