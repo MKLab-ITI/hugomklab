@@ -57,6 +57,7 @@ showpagemeta: false
 **Apostolou Konstantinos**, konapost@iti.gr  
 **Charalampopoulos Panagiotis**, panchar@iti.gr  
 **Charitidis Polychronis**, charitidis@iti.gr  
+**Chatzis Konstantinos**, kohatzis@iti.gr   
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Chatzitheodorou Tilemachos**, t.chatzitheodorou@iti.gr  
 **Daskalakis Dimitrios**, dimidask@iti.gr  
@@ -72,6 +73,7 @@ showpagemeta: false
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Georgiou Georgia**, georgiou_georgia@iti.gr  
+**Georgoudi Amalia**, ageorgoudi@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Giatsoglou Nikolaos**, ngiatsog@iti.gr  
 **Gkartzonika Ioanna**, gkartzoni@iti.gr  
@@ -91,6 +93,7 @@ showpagemeta: false
 **Kouloglou Ioannis-Omiros**, kouloglou@iti.gr  
 **Kouslis Ilias**, kouslis@iti.gr  
 **Krestenitis Marios**, mikrestenitis@iti.gr  
+**Kritopoulou Paraskevi**, pakrito@iti.gr  
 **Krasanakis Manolis**, maniospas@iti.gr  
 **Kyrampalidou Sophia**, sofiaky@iti.gr  
 **Kyriakidis Pantelis**, pantelisk@iti.gr  
@@ -134,14 +137,15 @@ showpagemeta: false
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Papoutsis Aggelos**, apapoutsis@iti.gr  
 **Paspalakis Stavros**, spaspalakis@iti.gr  
+**Passali Soultana- Tatiana**, tpassali@iti.gr  
 **Petropoulos Alexandos**, alpetrop@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
-**Pliatsios Antonis**, apliatsios@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr  
 **Prountzos Giorgos**, gprountzos@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Sarakatsanos Orestis**, orestiss@iti.gr  
+**Sarridis Ioannis**, gsarridis@iti.gr  
 **Serri Niki**, nikiserri@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
@@ -177,6 +181,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Pliatsios Antonis, Research Associate, apliatsios@iti.gr  
 Gavriilidis Nikolaos-Orestis, Research Associate, gavriili@iti.gr  
 Metsai Alexander, Research Associate, alexmetsai@iti.gr  
 Strantzalis Dimitris, Research Associate, dstrants@iti.gr  
