@@ -21,5 +21,5 @@ date: '2021-06-18T08:49:37+02:00'
 </p>
 <p>
 More about the project:<br/>
-<a href="https://www.kathimerini.gr/society/561401146/exypni-platforma-gia-tin-ilektroniki-syntagografisi/" target="blank">https://www.prescit.com</a>
+<a href="https://www.prescit.com" target="blank">https://www.prescit.com</a>
 </p>
