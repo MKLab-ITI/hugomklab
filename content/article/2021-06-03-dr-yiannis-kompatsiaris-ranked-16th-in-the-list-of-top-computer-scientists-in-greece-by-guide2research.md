@@ -13,4 +13,3 @@ date: '2021-06-03T08:49:37+02:00'
   <a href="https://guide2research.com/scientists/GR" target="blank">https://guide2research.com/scientists/GR</a>
 </p>
 <p>This is a recognition of all MKLab members! MKLab is committed to always conducting and delivering high-quality and high-impact research in all its activities.</p>
-test
