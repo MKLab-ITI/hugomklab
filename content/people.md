@@ -66,6 +66,7 @@ showpagemeta: false
 **Elobaid Alaa**, elobaida@iti.gr  
 **Evaggelatos Pavlos**, pevangelatos@iti.gr  
 **Fiska Vasiliki**, vickyfi@iti.gr  
+**Gagrinas Georgios**, gagrinas.g@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
 **Gatselou Vera**, veragatselou@iti.gr  
@@ -120,6 +121,7 @@ showpagemeta: false
 **Mpoikou Andromachi**, boikou@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
 **Nikolaidis Efstathios**, stathis.nikolaidis@iti.gr  
+**Ntemi Myrsini**, nmyrsini@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Oikonomou Konstantinos**, koikonomou@iti.gr  
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
@@ -136,6 +138,7 @@ showpagemeta: false
 **Papagianni Andromachi**, andromap@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Papoutsis Aggelos**, apapoutsis@iti.gr  
+**Paraschos Spyridon**, sparaschos@iti.gr  
 **Paspalakis Stavros**, spaspalakis@iti.gr  
 **Passali Soultana- Tatiana**, tpassali@iti.gr  
 **Petropoulos Alexandos**, alpetrop@iti.gr  
@@ -144,6 +147,7 @@ showpagemeta: false
 **Pournaras Alexandros**, apournaras@iti.gr  
 **Prountzos Giorgos**, gprountzos@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
+**Samaras Stamatios**, sstamatis@iti.gr  
 **Sarakatsanos Orestis**, orestiss@iti.gr  
 **Sarridis Ioannis**, gsarridis@iti.gr  
 **Serri Niki**, nikiserri@iti.gr  
@@ -160,7 +164,6 @@ showpagemeta: false
 **Touska Despoina**, destousok@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakis Nikolaos**, stsolakin@iti.gr  
-**Tzanakis Savvas**, stzanakis@iti.gr  
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
 **Vaggeli-Margariti Evaggelia**, margariti@iti.gr  
@@ -181,6 +184,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Tzanakis Savvas, Research Associate, stzanakis@iti.gr  
 Pliatsios Antonis, Research Associate, apliatsios@iti.gr  
 Gavriilidis Nikolaos-Orestis, Research Associate, gavriili@iti.gr  
 Metsai Alexander, Research Associate, alexmetsai@iti.gr  
