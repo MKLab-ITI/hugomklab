@@ -5,12 +5,12 @@ tags:
 - european
 images:
 - project_logos/starlight.png
-website_name: https://cordis.europa.eu/project/id/101021797
+website_name: cordis.europa.eu/project/id/101021797
 website_link: https://cordis.europa.eu/project/id/101021797
 acronym: STARLIGHT – Sustainable Autonomy and Resilience for LEAs using AI against High priority Threats 
 layout: projects
 title: STARLIGHT
-date: '2021-07-19T07:48:57+03:00'
+date: '2021-07-18T07:48:57+03:00'
 program: H2020-SU-AI-2020
 contact:
 - Theodora Tsikrika
