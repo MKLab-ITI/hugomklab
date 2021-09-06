@@ -154,13 +154,13 @@ showpagemeta: false
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
 **Siopi Maria**, siopi@iti.gr  
-**Smyrlis Panagiotis**, pnsmyrlis@iti.gr  
 **Spyros Arnold**, aspyros@iti.gr  
 **Stasinakis Andreas**, andstasi@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr  
 **Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr  
+**Tikas Ioannis**, tikas@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakis Nikolaos**, stsolakin@iti.gr  
@@ -184,6 +184,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Smyrlis Panagiotis, Research Associate, pnsmyrlis@iti.gr  
 Tzanakis Savvas, Research Associate, stzanakis@iti.gr  
 Pliatsios Antonis, Research Associate, apliatsios@iti.gr  
 Gavriilidis Nikolaos-Orestis, Research Associate, gavriili@iti.gr  
