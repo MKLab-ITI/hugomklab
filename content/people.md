@@ -184,7 +184,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
-Smyrlis Panagiotis, Research Associate, pnsmyrlis@iti.gr  
+Smyrlis Panagiotis, Research Associate2, pnsmyrlis@iti.gr  
 Tzanakis Savvas, Research Associate, stzanakis@iti.gr  
 Pliatsios Antonis, Research Associate, apliatsios@iti.gr  
 Gavriilidis Nikolaos-Orestis, Research Associate, gavriili@iti.gr  
