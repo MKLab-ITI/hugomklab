@@ -23,4 +23,4 @@ date: '2021-06-18T08:49:37+02:00'
 More about the project:<br/>
 <a href="https://www.prescit.com" target="blank">https://www.prescit.com</a>
 </p>
-<p>Photo by Myriam Zilles [4] on Unsplash [5]</p>
+<p><i>Photo by Myriam Zilles [4] on Unsplash [5]</i></p>
