@@ -1,9 +1,7 @@
 ---
 layout: publication
 types: publication
-title: "[xR4DRAMA: Enhancing situation awareness using immersive (XR)
-  technologies](https://xr4drama.eu/wp-content/uploads/2021/08/XR4DRAMA_ICIR_20\
-  21_final.pdf)"
+title: "xR4DRAMA: Enhancing situation awareness using immersive (XR) technologies"
 date: 2021-09-08T12:56:54.139Z
 tags: conference_publications
 publication_date: 2021-05-12
