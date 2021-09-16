@@ -63,6 +63,7 @@ showpagemeta: false
 **Chatzitheodorou Tilemachos**, t.chatzitheodorou@iti.gr  
 **Daskalakis Dimitrios**, dimidask@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
+**Dogoulis Pantelis**, dogoulis@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr  
 **Elobaid Alaa**, elobaida@iti.gr  
 **Evaggelatos Pavlos**, pevangelatos@iti.gr  
@@ -78,14 +79,17 @@ showpagemeta: false
 **Georgoudi Amalia**, ageorgoudi@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Giatsoglou Nikolaos**, ngiatsog@iti.gr  
+**Gkagkas Anastasios**, gagastasos@iti.gr  
 **Gkartzonika Ioanna**, gkartzoni@iti.gr  
 **Gkountakos Konstantinos**, gountakos@iti.gr  
+**Gounaridis Dimitrios**, dimgoun@iti.gr  
 **Gramatikopoulou Margarita**, marggram@iti.gr  
 **Iliou Christos**, iliouchristos@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
 **Kalomitsinis Georgios**, geokal@iti.gr  
+**Kartsounidou Evaggelia**, evankart@iti.gr  
 **Kassiano Vasileios**, vaskass@iti.gr  
 **Kesidis Anastasios**, akesidis@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
@@ -116,6 +120,7 @@ showpagemeta: false
 **Mpalaouras Georgios**,mpalaourg@iti.gr  
 **Mpaltadoros Lampros**,lamprosmpalt@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
+**Mpaxevanakis Spyridon**, spirosbax@iti.gr  
 **Mpegkas Georgios**, gbegkas@iti.gr  
 **Mpektsis Evaggelos**, evanbekt@iti.gr  
 **Mpoikou Andromachi**, boikou@iti.gr  
@@ -146,6 +151,7 @@ showpagemeta: false
 **Pistola Dora**, tpistola@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr  
 **Prountzos Giorgos**, gprountzos@iti.gr  
+**Raptis Sotirios**, sraptis@iti.gr  
 **Rousi Maria**, mariarousi@iti.gr  
 **Samaras Stamatios**, sstamatis@iti.gr  
 **Sarakatsanos Orestis**, orestiss@iti.gr  
@@ -162,6 +168,7 @@ showpagemeta: false
 **Theodosiadis Xristos**, theodosc@iti.gr  
 **Tikas Ioannis**, tikas@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
+**Triantafyllidis Theocharis**, theocharistr@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakis Nikolaos**, stsolakin@iti.gr  
 **Tzanetis Georgios**, tzangeor@iti.gr  
