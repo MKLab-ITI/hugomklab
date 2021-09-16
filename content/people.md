@@ -72,7 +72,6 @@ showpagemeta: false
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
 **Gatselou Vera**, veragatselou@iti.gr  
-**Gatziaki Vasiliki**, vasgat@iti.gr  
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Georgiou Georgia**, georgiou_georgia@iti.gr  
@@ -130,7 +129,6 @@ showpagemeta: false
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Oikonomou Konstantinos**, koikonomou@iti.gr  
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
-**Panagiotopoulos Apostolos**, apanag@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantalona Georgia**, georgiapant@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
@@ -191,6 +189,8 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Gatziaki Vasiliki, Research Associate, vasgat@iti.gr  
+Panagiotopoulos Apostolos, Research Associate, apanag@iti.gr  
 Smyrlis Panagiotis, Research Associate, pnsmyrlis@iti.gr  
 Tzanakis Savvas, Research Associate, stzanakis@iti.gr  
 Pliatsios Antonis, Research Associate, apliatsios@iti.gr  
