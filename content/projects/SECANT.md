@@ -7,8 +7,8 @@ tags:
 - technical manager
 images:
 - project_logos/SECANT.png
-website_name: cordis.europa.eu
-website_link:  https://cordis.europa.eu/project/id/101019645
+website_name: secant-project.eu
+website_link:  https://secant-project.eu/
 acronym: SECurity And privacy protectioN in Internet of Things devices
 layout: projects
 title: SECANT
