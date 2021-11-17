@@ -41,32 +41,11 @@
         
 
 
-        {{ if .Params.Relevant_tools }}
-            <h3>Relevant tools</h3>
-            <ul>
-            {{ range .Params.Relevant_tools }}
-                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
+ 
 
-        {{ if .Params.Relevant_datasets }}
-            <h3>Relevant datasets</h3>
-            <ul>
-            {{ range .Params.Relevant_datasets }}
-                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
 
-        {{ if .Params.Relevant_demos }}
-            <h3>Relevant demos</h3>
-            <ul>
-            {{ range .Params.Relevant_demos }}
-                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
+
+
 
     </div>
 </div>
