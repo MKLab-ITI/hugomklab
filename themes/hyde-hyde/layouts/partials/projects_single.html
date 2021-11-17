@@ -5,6 +5,7 @@
 
         {{ if ne .Params.showpagemeta false }}
         <div class="col-sm-12 col-md-12">
+            <span>{{ .News }}</span>
             <span class="text-left post-date meta">
                 <!-- tags -->
                 {{ with .Params.tags }} {{ $total := len . }} {{ if gt $total 0 }}
