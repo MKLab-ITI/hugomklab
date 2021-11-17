@@ -39,14 +39,7 @@
             </ul>   
         {{ end }}
         
-        {{ if .Params.Relevant_projects }}
-            <h3>Relevant projects</h3>
-            <ul>
-            {{ range .Params.Relevant_projects }}
-                <li><a href="/projects/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
+
 
         {{ if .Params.Relevant_tools }}
             <h3>Relevant tools</h3>
