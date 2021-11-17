@@ -41,6 +41,11 @@ menu:
       identifier: "results"
       url: "/results/"
 
+    - name: "News"
+      weight: 600
+      identifier: "news"
+      url: "/news/"
+
 #    - name: "People"
 #      weight: 600
 #      identifier: "people"
