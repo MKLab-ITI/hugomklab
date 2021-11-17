@@ -167,6 +167,7 @@ body.publications .wrapper {
     list-style-type: none;    
 }
 body.home .container,
+body.news .container,
 body.research .container,
 body.projects .container,
 body.tags .container,
