@@ -6,7 +6,6 @@
     
         {{ if ne .Params.showpagemeta false }}
         <div class="col-sm-12 col-md-12">
-            <span>{{ .Date }}</span>
             <span class="text-left post-date meta">
                 <!-- tags -->
                 {{ with .Params.tags }} {{ $total := len . }} {{ if gt $total 0 }}
@@ -39,41 +38,6 @@
             </ul>   
         {{ end }}
         
-        {{ if .Params.Relevant_projects }}
-            <h3>Relevant projects</h3>
-            <ul>
-            {{ range .Params.Relevant_projects }}
-                <li><a href="/projects/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
-
-        {{ if .Params.Relevant_tools }}
-            <h3>Relevant tools</h3>
-            <ul>
-            {{ range .Params.Relevant_tools }}
-                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
-
-        {{ if .Params.Relevant_datasets }}
-            <h3>Relevant datasets</h3>
-            <ul>
-            {{ range .Params.Relevant_datasets }}
-                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
-
-        {{ if .Params.Relevant_demos }}
-            <h3>Relevant demos</h3>
-            <ul>
-            {{ range .Params.Relevant_demos }}
-                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
-            {{ end }}
-            </ul>   
-        {{ end }}
-
+        
     </div>
 </div>
