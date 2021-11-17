@@ -1,45 +1,77 @@
-<h1 class="title">News</h1>
 
 <div class="row-flex">
     <div class="column-a">
-  
-      <div class="posts">
-        
-        {{ range .Data.Pages.Reverse }}
-          <div class="post post-research">
-            <h2 id="{{ .File.BaseFileName }}" class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }}<sup><i class="fas fa-pen-square fa-xs"></i></sup>{{ end }}</h2>
-            
-            {{ if index (.Params.Images) 0 }}
-            <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="blog-thumbnail" />
-            {{ end }}
-          
-            <div class="bl{{ if index (.Params.Images) 0 }} blog-pl{{end}}">
-              {{ .Summary }}
-            
-              {{ if .Truncated }}
-              <div class="read-more-link">
-                  <a href="{{ .RelPermalink }}">Read More…</a>
-              </div>
-              {{ end }}
-            </div>
-  
-          </div>
-        
+
+        <h1>{{ .Title }}</h1>
+    
+        {{ if ne .Params.showpagemeta false }}
+        <div class="col-sm-12 col-md-12">
+            <span class="text-left post-date meta">
+                <!-- tags -->
+                {{ with .Params.tags }} {{ $total := len . }} {{ if gt $total 0 }}
+                <br/> {{ $subtotal := sub $total 1 }}
+                <i class="fas fa-tags"></i>
+                {{ range $i, $tag := sort . }}
+                <a class="meta" href="{{ " /tags/ " | relURL }}{{ $tag | urlize }}">{{ $tag | lower }}</a>{{ if lt $i $subtotal }} {{ end }} {{ end }} {{ end }} {{ end }}
+                <br/>
+                <i class="fas fa-clock"></i> {{ .ReadingTime }} min read
+            </span>
+        </div>
         {{ end }}
-      </div>
+        
+        {{ range .Params.Images }}
+            <p><img src="/files/{{ . }}" alt="" class="center" /></p>
+        {{ end }}
+
+        {{ .Content }}
+
     </div>
     <div class="column-b">
-        <div class="sticky">
-            <h3>What's on this page</h3>
-            <nav id="TableOfContents">
-                <ul>
-                    {{ range .Data.Pages.Reverse -}}
-                    <li>
-                        <a href="#{{ .File.BaseFileName }}">{{ .Title }}</a>
-                    </li>
-                    {{- end }}
-                </ul>
-            </nav>
-        </div>
+        
+        {{ if .Params.Contact }}
+        <h3>Contact</h3>
+        <ul>
+            {{ range .Params.Contact }}
+                <li>{{ . }}</li>
+            {{ end }}
+            </ul>   
+        {{ end }}
+        
+        {{ if .Params.Relevant_projects }}
+            <h3>Relevant projects</h3>
+            <ul>
+            {{ range .Params.Relevant_projects }}
+                <li><a href="/projects/{{ . | urlize | lower }}">{{ . }}</a></li>
+            {{ end }}
+            </ul>   
+        {{ end }}
+
+        {{ if .Params.Relevant_tools }}
+            <h3>Relevant tools</h3>
+            <ul>
+            {{ range .Params.Relevant_tools }}
+                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
+            {{ end }}
+            </ul>   
+        {{ end }}
+
+        {{ if .Params.Relevant_datasets }}
+            <h3>Relevant datasets</h3>
+            <ul>
+            {{ range .Params.Relevant_datasets }}
+                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
+            {{ end }}
+            </ul>   
+        {{ end }}
+
+        {{ if .Params.Relevant_demos }}
+            <h3>Relevant demos</h3>
+            <ul>
+            {{ range .Params.Relevant_demos }}
+                <li><a href="/results/{{ . | urlize | lower }}">{{ . }}</a></li>
+            {{ end }}
+            </ul>   
+        {{ end }}
+
     </div>
 </div>
