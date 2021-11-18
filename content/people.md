@@ -171,7 +171,7 @@ showpagemeta: false
 **Tsolakis Nikolaos**, stsolakin@iti.gr  
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
-**Vaggeli-Margariti Evaggelia**, margariti@iti.gr  
+**Vangeli-Margariti Evaggelia**, margariti@iti.gr  
 **Vakkou Despoina**, dvakkou@iti.gr  
 **Vasileiadis Aggelos**, angelvasileiad@iti.gr  
 **Vasileiou Zoi**, zvasilei@iti.gr  
