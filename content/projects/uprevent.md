@@ -5,7 +5,7 @@ tags:
 - national
 - coordinator
 images:
-- project_logos/
+- project_logos/uprevent.png
 website_name: Coming Soon
 website_link: #
 acronym: Smart Insole for Foot Ulcer Prevention in Diabetic Patients
