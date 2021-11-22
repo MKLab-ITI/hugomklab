@@ -12,7 +12,7 @@ acronym: Operational Programme Competitiveness, Entrepreneurship and Innovation 
 layout: projects
 title: HealthTourismHub (Coordinator)
 date: '2021-11-18T12:47:16+02:00'
-program: Ministry of Development and Investments – Region of Central Macedonia 
+program: Ministry of Development and Investments – Prefecture of Central Macedonia
 contact: 
 - Lazarou Ioulietta
 - Nikolopoulos Spiros
