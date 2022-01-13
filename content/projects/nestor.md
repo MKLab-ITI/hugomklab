@@ -15,7 +15,6 @@ title: NESTOR
 date: '2021-12-21T07:48:57+03:00'
 program: H2020-SU-BES03-2018-2019-2020 / H2020-SU-SEC-202
 contact:
-- Chatzistavros Evangelos
 - Ioannidis Konstantinos
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
