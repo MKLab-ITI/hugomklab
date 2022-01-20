@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: "TOTEMSS: topic-based, temporal sentiment summarisation for Twitter"
-date: 2022-01-20T11:34:21.534Z
+date: 2017-10-10T10:34:21.534Z
 tags: conference_publications
 publication_date: 2017-07-10
 ---
