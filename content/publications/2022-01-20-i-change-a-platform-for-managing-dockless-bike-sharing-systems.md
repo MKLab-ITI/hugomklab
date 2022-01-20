@@ -4,7 +4,7 @@ types: publication
 title: "i-CHANGE: A platform for managing dockless bike sharing systems"
 date: 2022-01-20T11:32:26.367Z
 tags: conference_publications
-publication_date: 2022-01-20
+publication_date: 2020-08-10
 ---
 <!--StartFragment-->
 
