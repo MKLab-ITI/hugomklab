@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Operation-wise Attention Network for Tampering Localization Fusion
-date: 2022-01-20T11:31:00.761Z
+date: 2021-10-12T10:31:00.761Z
 tags: conference_publications
 publication_date: 2021-12-01
 ---
