@@ -4,7 +4,7 @@ types: publication
 title: "ViSiL: Fine-grained spatio-temporal video similarity learning"
 date: 2022-01-20T11:33:39.177Z
 tags: conference_publications
-publication_date: 2022-01-20
+publication_date: 2019-10-16
 ---
 <!--StartFragment-->
 
