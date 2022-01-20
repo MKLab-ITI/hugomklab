@@ -4,7 +4,7 @@ types: publication
 title: "Future directions for chatbot research: an interdisciplinary research agenda"
 date: 2022-01-20T10:36:56.880Z
 tags: journal_publications
-publication_date: 2022-01-20
+publication_date: 2021-08-02
 ---
 <!--StartFragment-->
 
