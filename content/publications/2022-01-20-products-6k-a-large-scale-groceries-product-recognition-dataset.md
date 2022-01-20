@@ -4,7 +4,7 @@ types: publication
 title: "Products-6K: A Large-Scale Groceries Product Recognition Dataset"
 date: 2022-01-20T11:28:34.480Z
 tags: conference_publications
-publication_date: 2022-01-20
+publication_date: 2021-09-13
 ---
 <!--StartFragment-->
 
