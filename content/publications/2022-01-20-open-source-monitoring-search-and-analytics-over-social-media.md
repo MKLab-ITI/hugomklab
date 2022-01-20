@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Open-source monitoring, search and analytics over social media
-date: 2022-01-20T11:34:44.902Z
+date: 2017-10-03T10:34:44.902Z
 tags: conference_publications
 publication_date: 2017-08-07
 ---
