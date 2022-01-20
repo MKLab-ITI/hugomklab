@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Preface for CONVERSATIONS 2018-2nd International Workshop on Chatbot Research
-date: 2022-01-20T11:33:59.596Z
+date: 2018-09-04T10:33:59.596Z
 tags: conference_publications
 publication_date: 2018-08-14
 ---
