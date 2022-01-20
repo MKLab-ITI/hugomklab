@@ -1,7 +1,7 @@
 ---
 layout: publication
 types: publication
-title: Towards a Privacy Respecting Image-based User Profiling Component,
+title: Towards a Privacy Respecting Image-based User Profiling Component
 date: 2022-01-20T11:29:40.499Z
 tags: conference_publications
 publication_date: 2021-12-06
