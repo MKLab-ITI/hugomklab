@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: A two-level classification approach for detecting clickbait posts using
   text-based features
-date: 2022-01-20T11:35:03.759Z
+date: 2017-10-18T10:35:03.759Z
 tags: conference_publications
 publication_date: 2017-09-12
 ---
