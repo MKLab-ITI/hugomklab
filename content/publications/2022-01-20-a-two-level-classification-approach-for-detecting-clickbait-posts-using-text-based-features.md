@@ -5,7 +5,7 @@ title: A two-level classification approach for detecting clickbait posts using
   text-based features
 date: 2022-01-20T11:35:03.759Z
 tags: conference_publications
-publication_date: 2022-01-20
+publication_date: 2017-09-12
 ---
 <!--StartFragment-->
 
