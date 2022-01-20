@@ -1,0 +1,13 @@
+---
+layout: publication
+types: publication
+title: "Future directions for chatbot research: an interdisciplinary research agenda"
+date: 2022-01-20T10:36:56.880Z
+tags: journal_publications
+publication_date: 2021-03-17
+---
+<!--StartFragment-->
+
+A. Følstad, T. Araujo, E. Law, P. Brandtzaeg, S. Papadopoulos, et al., “Future directions for chatbot research: an interdisciplinary research agenda,” Computing, vol. 103, no. 12, pp. 2915–2942, 2021.
+
+<!--EndFragment-->
