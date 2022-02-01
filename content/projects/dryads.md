@@ -9,8 +9,8 @@ website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101036926
 acronym: A Holistic Fire Management Ecosystem for Prevention, Detection and Restoration of Environmental Disasters
 layout: projects
-title: SocialSensor (Coordinator)
-date: '2011-10-03T12:40:02+03:00'
+title: Dryads
+date: '2022-01-31T12:40:02+03:00'
 program: LC-GD-1-1-2020
 contact: 
 - Ioannidis Konstantinos
