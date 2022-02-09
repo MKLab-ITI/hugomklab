@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - technical manager
 images:
-- project_logos/dryads.jpg
+- project_logos/ctc.png
 website_name: ctc-project.eu
 website_link: https://ctc-project.eu/
 acronym: Cut the Cord
