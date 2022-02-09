@@ -11,7 +11,7 @@ website_name: ctc-project.eu
 website_link: https://ctc-project.eu/
 acronym: Cut the Cord
 layout: projects
-title: Cut the Cord
+title: CTC
 date: '2022-02-08T12:40:02+03:00'
 program: ISFP-2020-AG-TERFIN
 contact: 
