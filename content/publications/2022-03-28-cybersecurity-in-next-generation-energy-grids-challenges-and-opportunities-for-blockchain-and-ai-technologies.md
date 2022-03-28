@@ -1,7 +1,7 @@
 ---
 layout: publication
 types: publication
-title: " [Cybersecurity in Next Generation Energy Grids: Challenges and
+title: " Cybersecurity in Next Generation Energy Grids: Challenges and
   Opportunities for Blockchain and AI Technologies"
 date: 2022-03-28T12:53:28.143Z
 tags: journal_publications
