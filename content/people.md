@@ -168,7 +168,7 @@ showpagemeta: false
 **Touska Despoina**, destousok@iti.gr  
 **Triantafyllidis Theocharis**, theocharistr@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
-**Tsolakis Nikolaos**, stsolakin@iti.gr  
+**Tsolakis Nikolaos**, tsolakin@iti.gr 
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
 **Vangeli-Margariti Evaggelia**, margariti@iti.gr  
