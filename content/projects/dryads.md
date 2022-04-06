@@ -5,11 +5,13 @@ tags:
 - european
 images:
 - project_logos/dryads.jpg
-website_name: cordis.europa.eu
-website_link: https://cordis.europa.eu/project/id/101036926
+website_name: dryads-project.eu
+website_link: https://dryads-project.eu/
+
+#https://cordis.europa.eu/project/id/101036926
 acronym: A Holistic Fire Management Ecosystem for Prevention, Detection and Restoration of Environmental Disasters
 layout: projects
-title: Dryads
+title: DRYADS
 date: '2022-01-31T12:40:02+03:00'
 program: LC-GD-1-1-2020
 contact: 
