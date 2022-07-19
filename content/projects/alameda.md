@@ -13,7 +13,7 @@ title: ALAMEDA
 date: '2021-03-29T07:48:57+03:00'
 program: H2020-SC1-DTH-2020-1
 contact:
-- Karakostas Anastasios
+- Maga-Nteve Christoniki
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---

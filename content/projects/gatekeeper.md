@@ -12,8 +12,7 @@ layout: projects
 title: GATEKEEPER
 date: '2020-09-10T07:47:16+02:00'
 program: DT-TDS-01-2019
-contact: 
-- Meditskos Georgios
+contact:
 - Stavropoulos Thanos
 - Vrochidis Stefanos
 - Nikolopoulos Spiros

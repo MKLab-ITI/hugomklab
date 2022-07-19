@@ -13,7 +13,8 @@ title: Nightingale
 date: '2021-05-26T07:48:57+03:00'
 program: H2020-SU-SEC-2018-2019-2020 / H2020-SU-SEC-2020
 contact:
-- Karakostas Anastasios
+- Vasileiou Zoi
+- Kintzios Spyridon
 - Vrochidis Stefanos
 ---
 <p>

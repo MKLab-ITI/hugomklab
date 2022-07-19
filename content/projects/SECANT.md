@@ -15,9 +15,9 @@ title: SECANT
 date: '2021-05-27T07:48:57+03:00'
 program: H2020-SU-DS-2018-2019-2020 / H2020-SU-DS02-2020
 contact:
+- Kavallieros Dimitrios
 - Theodora Tsikrika
 - Vrochidis Stefanos
-- Christos Iliou
 ---
 <p>
 SECANT aims to contribute decisively towards improving the readiness and resilience of organisations against the crippling modern cyber-threats, by increasing the privacy, data protection, and accountability across the entire interconnected ICT ecosystem, and by reducing the costs for security training in the European market. 

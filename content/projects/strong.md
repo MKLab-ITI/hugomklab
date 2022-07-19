@@ -13,7 +13,7 @@ title: STRONG
 date: '2021-03-31T07:48:57+03:00'
 program: ERASMUS+ 2020-1-DE02-KA202
 contact:
-- Karakostas Anastasios
+- Kintzios Spyridon
 - Vrochidis Stefanos
 ---
 <p>

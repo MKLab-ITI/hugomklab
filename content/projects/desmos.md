@@ -14,7 +14,7 @@ acronym: Smart Interconnected Infrastructures for Security and Protection
 layout: projects
 program: ΕΡΕΥΝΩ – ΔΗΜΙΟΥΡΓΩ – ΚΑΙΝΟΤΟΜΩ, ΕΠΑνΕΚ, ΕΣΠΑ 2014-2020
 contact: 
-- Meditskos Georgios
+- Tsanousa Athina
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---

@@ -15,7 +15,6 @@ date: '2021-01-08T08:48:57+03:00'
 program: H2020,ICT,2020-2022
 contact:
 - Diplaris Sotiris
-- Karakostas Anastasios
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---

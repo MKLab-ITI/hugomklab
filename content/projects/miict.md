@@ -13,8 +13,7 @@ layout: projects
 title: MIICT
 date: '2018-11-26T15:25:33+02:00'
 program: H2020, SC6-MIGRATION, 2018-2019-2020
-contact: 
-- Karakostas Anastasios
+contact:
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---

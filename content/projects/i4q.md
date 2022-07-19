@@ -14,7 +14,8 @@ title: i4Q (Coordinator)
 date: '2021-01-08T07:48:57+03:00'
 program: H2020-NMBP-TR-IND-2018-2020 / H2020-NMBP-TR-IND-2020-singlestage
 contact:
-- Karakostas Anastasios
+- Apostolou Georgia
+- Gialampoukidis Ilias
 - Vrochidis Stefanos
 ---
 <p>

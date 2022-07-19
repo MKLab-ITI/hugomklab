@@ -14,7 +14,6 @@ title: aqua3S (Coordinator)
 date: '2019-09-05T10:26:33+02:00'
 program: H2020 - SU-DRS03-2018-2019-2020
 contact: 
-- Karakostas Anastasios
 - Gialampoukidis Ilias
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)

@@ -13,7 +13,6 @@ title: WELCOME
 date: '2019-12-18T07:31:33+02:00'
 program: H2020, SC6-MIGRATION, 2020-2023
 contact:
-- Karakostas Anastasios
 - Meditskos Georgios
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)

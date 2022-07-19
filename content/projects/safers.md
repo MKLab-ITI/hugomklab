@@ -13,7 +13,7 @@ title: SAFERS
 date: '2020-10-02T07:48:57+03:00'
 program: H2020-SC5-2019-2
 contact:
-- Karakostas Anastasios
+- Kintzios Spyridon
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---

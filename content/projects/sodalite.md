@@ -13,8 +13,7 @@ layout: projects
 title: SODALITE
 date: '2019-01-21T10:25:33+02:00'
 program: H2020, ICT, 2018-2020
-contact: 
-- Karakostas Anastasios
+contact:
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---

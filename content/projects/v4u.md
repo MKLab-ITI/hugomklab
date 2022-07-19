@@ -14,7 +14,7 @@ date: '2021-04-14T06:10:33+02:00'
 program: Erasmus+ 2020-1-DK01-KA226
 contact: 
 - Georgakopoulou Nefeli
-- Karakostas Anastasios
+- Diplaris Sotiris
 - Vrochidis Stefanos
 ---
 <p>

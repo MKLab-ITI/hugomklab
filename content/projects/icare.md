@@ -13,7 +13,7 @@ title: iCare
 date: '2021-05-21T07:48:57+03:00'
 program: JUST-JCOO-AG-2020
 contact:
-- Karakostas (Tasos) Anastasios
+- Mavropoulos Athanasios
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---
