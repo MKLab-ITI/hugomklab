@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- field/image/task_banner-768x290.png
+- news_images/multimedia-evaluation-benchmark.png
 layout: article
 title: 'DisasterMM Task at MediaEval 2022'
 date: '2022-08-26T08:49:37+02:00'
