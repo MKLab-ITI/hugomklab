@@ -14,5 +14,5 @@ date: '2022-08-26T08:49:37+02:00'
 <li><i>Location Extraction from Twitter Texts (LETT)</i>: participants are asked to develop a named-entity recognition model in order to identify which words (or sequence of words) inside a tweet’s text refer to locations.</li>
 </ul>
 <p>For both subtasks, the datasets are in Italian language, so as to encourage researchers to move away from a focus on English, and have been manually annotated by native speakers.</p>
-Find out more at <a href="https://multimediaeval.github.io/editions/2022/tasks/disastermm/">https://multimediaeval.github.io/editions/2022/tasks/disastermm/</a>
+Find out more at <a href="https://multimediaeval.github.io/editions/2022/tasks/disastermm/">https://multimediaeval.github.io/editions/2022/tasks/disastermm/</a><br>
 Or register now: <a href="https://multimediaeval.github.io/">https://multimediaeval.github.io/</a>
