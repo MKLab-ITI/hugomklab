@@ -4,8 +4,8 @@ tags:
 images: 
 - field/image/task_banner-768x290.png
 layout: article
-title: 'NESTOR project receives the 2nd prize in Digital Governance Awards'
-date: '2022-07-14T08:49:37+02:00'
+title: 'DisasterMM Task at MediaEval 2022'
+date: '2022-08-26T08:49:37+02:00'
 ---
 <p>M4D/MKLab in cooperation with the Eastern Alps River Basin District invites you to the “DisasterMM: Multimedia Analysis of Disaster-Related Social Media Data” task at MediaEval 2022, a multimedia evaluation benchmark that is dedicated to evaluating new algorithms for multimedia access and retrieval.</p>
 <p>The DisasterMM task concerns the multimedia analysis of social media data, specifically posts from the popular platform of Twitter, that relate to natural or manmade disasters; this year, in particular, the disaster of floods. The participants of this task are provided with a set of Tweet IDs in order to download textual as well as visual information and other metadata of tweets that have been selected with keyword-based search that involved words/phrases about flood. DisasterMM includes two subtasks:</p>
