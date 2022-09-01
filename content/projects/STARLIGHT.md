@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/starlight-logo.png
+- project_logos/starlight-logo-new.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101021797
 acronym: STARLIGHT – Sustainable Autonomy and Resilience for LEAs using AI against High priority Threats 
