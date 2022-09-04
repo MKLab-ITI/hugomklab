@@ -10,6 +10,6 @@ publication_date: 2022-02-01
 ---
 <!--StartFragment-->
 
-Ioulietta Lazarou, Kostas Georgiadis, Spiros Nikolopoulos, Vangelis P. Oikonomou, Thanos G. Stavropoulos, Anthoula Tsolaki, Ioannis Kompatsiaris, Magda Tsolaki and the RADAR-AD Consortium, Exploring network properties across preclinical stages of Alzheimer’s Disease using a visual short-term memory and attention task with high-density EEG: A brain-connectome neurophysiological study, Journal of Alzheimer’s Disease, Feb 2022 (accepted) 
+Ioulietta Lazarou, Kostas Georgiadis, Spiros Nikolopoulos, Vangelis P. Oikonomou, Thanos G. Stavropoulos, Anthoula Tsolaki, Ioannis Kompatsiaris, Magda Tsolaki and the RADAR-AD Consortium, Exploring network properties across preclinical stages of Alzheimer’s Disease using a visual short-term memory and attention task with high-density EEG: A brain-connectome neurophysiological study, Journal of Alzheimer’s Disease, Feb 2022;87(2):643-664. doi: 10.3233/JAD-215421.
 
 <!--EndFragment-->
