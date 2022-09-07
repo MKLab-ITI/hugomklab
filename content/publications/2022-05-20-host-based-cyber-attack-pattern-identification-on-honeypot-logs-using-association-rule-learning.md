@@ -9,6 +9,6 @@ publication_date: 2022-05-20
 ---
 <!--StartFragment-->
 
-A. Papoutsis, C. Iliou, D. Kavallieros, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, Host-based Cyber Attack Pattern Identification on Honeypot Logs Using Association Rule Learning. In Proceedings of the 2022 IEEE International Conference on Cyber Security and Resilience, Virtual Conference, 27-29 July,2022.
+A. Papoutsis, C. Iliou, D. Kavallieros, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, Host-based Cyber Attack Pattern Identification on Honeypot Logs Using Association Rule Learning. In Proceedings of the 2022 IEEE International Conference on Cyber Security and Resilience, Virtual Conference, 27-29 July,2022, pp. 50-55, doi:10.1109/CSR54599.2022.9850317.
 
 <!--EndFragment-->
