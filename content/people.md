@@ -11,7 +11,7 @@ showpagemeta: false
 
 ## Group Leaders
 
-**[Dr. Mezaris Vasileios](https://www.iti.gr/~bmezaris)**, Senior Researcher (Researcher A), bmezaris@iti.gr  
+<!-- **[Dr. Mezaris Vasileios](https://www.iti.gr/~bmezaris)**, Senior Researcher (Researcher A), bmezaris@iti.gr   -->
 **Dr. Nikolopoulos Spiros**, Senior Researcher (Researcher C), nikolopo@iti.gr  
 **Dr. Papadopoulos Symeon**, Senior Researcher (Researcher C), papadop@iti.gr  
 **Dr. Vrochidis Stefanos**, Senior Researcher (Researcher C), stefanos@iti.gr 
