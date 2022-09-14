@@ -7,7 +7,7 @@ showpagemeta: false
 ---
 ## Head
 
-> **[Dr. Kompatsiaris Yiannis (Ioannis)](ikom)**, Research Director (Researcher A), ikom@iti.gr
+> **[Dr. Kompatsiaris Yiannis (Ioannis)](ikom)**, Director of Information Technologies Institute - CERTH (Researcher A), ikom@iti.gr
 
 ## Group Leaders
 
