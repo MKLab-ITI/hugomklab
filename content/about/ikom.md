@@ -15,7 +15,7 @@ date: '2014-05-27T16:51:49+03:00'
 ---
 <img src="https://mklab.iti.gr/files/people/kompats_corrected_final.jpg" style="width:120px;float:left;margin: 10px 10px 10px 0;">
 
-Dr. Ioannis (Yiannis) Kompatsiaris is a Research Director at CERTH-ITI, the Head of Multimedia Knowledge and Social Media Analytics Laboratory and Director of the Institute. 
+Dr. Ioannis (Yiannis) Kompatsiaris is the Director of the Information Technologies Institute, Research Director at CERTH-ITI and the Head of Multimedia Knowledge and Social Media Analytics Laboratory
 
 His research interests include ΑΙ/Machine Learning for multimedia analysis, Semantics (multimedia ontologies and reasoning), Social Media and Big Data Analytics, Multimodal and Sensors Data Analysis, Human Computer Interfaces, e- Health, Arts and Cultural, Media/Journalism, Environmental and Security applications. He is the co-author of 178 papers in refereed journals, 63 book chapters, 8 patents and 560 papers in international conferences. Since 2001, Dr. Kompatsiaris has participated in 88 National and European research programs, in 31 of which he has been the Project Coordinator. He has also been the PI in 15 contracts from the industry. 
 
