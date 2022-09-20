@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/nightingale.jpg
+- project_logos/nightgale-dark.png
 website_name: www.nightingale-h2020.eu
 website_link: http://www.nightingale-h2020.eu/
 acronym: Novel InteGrated toolkit for enhanced pre-Hospital life support and Triage IN challenGing And Large Emergencies
