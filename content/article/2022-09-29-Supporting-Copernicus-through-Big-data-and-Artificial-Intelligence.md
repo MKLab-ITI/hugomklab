@@ -5,7 +5,7 @@ images:
 - news_images/Joint event EU Space Week landscape.png
 layout: article
 title: '"Supporting Copernicus through Big data and Artificial Intelligence" - Joint Event organised by European projects'
-date: '2022-09-29T08:49:37+02:00'
+date: '2022-09-28T08:49:37+02:00'
 ---
 <p>Four EU projects, namely CALLISTO (where M4D/MKLab is the Scientific &amp; Technical Manager), CENTURION, DeepCube and Global Earth Monitor (GEM), funded under the Horizon 2020 call <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/dt-space-25-eo-2020">DT-SPACE-25-EO-2020</a> are inviting any interested parties to their joint event with the title: <strong>“Supporting Copernicus through Big data and Artificial Intelligence”</strong>. The event will take place within EU Space Week 2022 on <strong>October 6<sup>th</sup>, </strong>at<strong> 13:30-15:00 CEST </strong>at<strong> Hall C </strong>of the<strong> Prague Expo</strong>. <a href="https://www.euspaceweek.eu/">EU Space Week</a> is the go-to event for Europe’s space community and this year it will be realised on October 3<sup>rd</sup>-6<sup>th</sup> in Prague, Czech Republic. EU Space Week is jointly organised by the European Commission and the EU Agency for the Space Programme (EUSPA) in collaboration with the Czech Presidency of the Council and the City of Prague. It will gather all the major EU Space industry voices, stakeholders and innovators for an insightful week full of inspiring speeches, discussions and innovation.</p>
 
