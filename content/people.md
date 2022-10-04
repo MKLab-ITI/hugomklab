@@ -126,8 +126,7 @@ showpagemeta: false
 **Michail Emmanouil**, michem@iti.gr  
 **Milios Christos**, cmilios@iti.gr  
 **Mouzakis Christos**, chrismouz@iti.gr  
-**Moumtzidou Anastasia**, moumtzid@iti.gr  
-**Mpakratsas Marios**, mbakratsas@iti.gr  
+**Moumtzidou Anastasia**, moumtzid@iti.gr    
 **Mpalaouras Georgios**, mpalaourg@iti.gr  
 **Mpaltadoros Lampros**, lamprosmpalt@iti.gr  
 **Mparachanou Anna**, barachanou@iti.gr  
@@ -138,8 +137,7 @@ showpagemeta: false
 **Mpektsis Evaggelos**, evanbekt@iti.gr  
 **Mpoikou Andromachi**, boikou@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
-**Nagkoulis Nikolaos**, nagkoulisn@iti.gr  
-**Nikolaidis Efstathios**, stathis.nikolaidis@iti.gr  
+**Nagkoulis Nikolaos**, nagkoulisn@iti.gr   
 **Ntemi Myrsini**, nmyrsini@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Ntrougkas Mariano**, ntrougkas@iti.gr  
@@ -176,8 +174,7 @@ showpagemeta: false
 **Rousi Maria**, mariarousi@iti.gr  
 **Samaras Stamatios**, sstamatis@iti.gr  
 **Sarakatsanos Orestis**, orestiss@iti.gr  
-**Sarridis Ioannis**, gsarridis@iti.gr  
-**Serri Niki**, nikiserri@iti.gr  
+**Sarridis Ioannis**, gsarridis@iti.gr    
 **Sideri Aikaterini**, asiderie@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr   
 **Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
@@ -375,4 +372,7 @@ Prountzos Giorgos, Research Associate, gprountzos@iti.gr
 Dr. Mpastas Nikolaos, Postdoctoral Research Fellow, nimpasta@iti.gr  
 Migkotzidis Panagiotis, Research Associate, migkotzidis@iti.gr  
 Chatzitheodorou Tilemachos, Research Associate, t.chatzitheodorou@iti.gr  
-Apostolou Konstantinos, Research Associate, konapost@iti.gr  
+Apostolou Konstantinos, Research Associate, konapost@iti.gr
+Nikolaidis Efstathios, Research Associate, stathis.nikolaidis@iti.gr
+Serri Niki, Research Associate, nikiserri@iti.gr
+Mpakratsas Marios, Research Associate, mbakratsas@iti.gr   
