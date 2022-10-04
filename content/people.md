@@ -216,6 +216,28 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Gagrinas Georgios, Research Associate, gagrinas.g@iti.gr  
+Kalomitsinis Georgios, Research Associate, geokal@iti.gr  
+Tikas Ioannis, Research Associate, tikas@iti.gr  
+Siopi Maria, Research Associate, siopi@iti.gr  
+Dr. Stavropoulos Athanasios, Senior Researcher, athstavr@iti.gr  
+Makedas Themistoklis, Research Associate, tmakedas@iti.gr  
+Liatsikou Maria, Research Associate, maria_liatsikou@iti.gr  
+Dr. Karakostas (Tasos) Anastasios, Senior Researcher, akarakos@iti.gr  
+Dr. Chatzistavros Evaggelos, Postdoctoral Research Fellow, vchatzist@iti.gr  
+Chatzis Konstantinos, Research Associate, kohatzis@iti.gr  
+Dr. Chatzilari Elisavet, Senior Researcher, ehatzi@iti.gr  
+Charalampopoulos Panagiotis, Research Associate, panchar@iti.gr  
+Kassiano Vasileios, Research Associate, vaskass@iti.gr  
+Vasileiadis Aggelos, Research Associate, angelvasileiad@iti.gr  
+Prountzos Giorgos, Research Associate, gprountzos@iti.gr  
+Dr. Mpastas Nikolaos, Postdoctoral Research Fellow, nimpasta@iti.gr  
+Migkotzidis Panagiotis, Research Associate, migkotzidis@iti.gr  
+Chatzitheodorou Tilemachos, Research Associate, t.chatzitheodorou@iti.gr  
+Apostolou Konstantinos, Research Associate, konapost@iti.gr  
+Nikolaidis Efstathios, Research Associate, stathis.nikolaidis@iti.gr  
+Serri Niki, Research Associate, nikiserri@iti.gr  
+Mpakratsas Marios, Research Associate, mbakratsas@iti.gr     
 Gatziaki Vasiliki, Research Associate, vasgat@iti.gr  
 Panagiotopoulos Apostolos, Research Associate, apanag@iti.gr  
 Smyrlis Panagiotis, Research Associate, pnsmyrlis@iti.gr  
@@ -353,26 +375,4 @@ Zigkolis Christos, Aristotle University of Thessaloniki (prof. Athena Vakali), c
 Gkontra Xenia, Electrical and Computer Engineer, xenia_gk@hotmail.com  
 Iosifidis Dimitris, Electrical and Computer Engineer  
 Kanz Adam, Electrical and Computer Engineer  
-Panagi Panagiotis, Electrical and Computer Engineer
-Gagrinas Georgios, Research Associate, gagrinas.g@iti.gr  
-Kalomitsinis Georgios, Research Associate, geokal@iti.gr  
-Tikas Ioannis, Research Associate, tikas@iti.gr  
-Siopi Maria, Research Associate, siopi@iti.gr  
-Dr. Stavropoulos Athanasios, Senior Researcher, athstavr@iti.gr  
-Makedas Themistoklis, Research Associate, tmakedas@iti.gr  
-Liatsikou Maria, Research Associate, maria_liatsikou@iti.gr  
-Dr. Karakostas (Tasos) Anastasios, Senior Researcher, akarakos@iti.gr  
-Dr. Chatzistavros Evaggelos, Postdoctoral Research Fellow, vchatzist@iti.gr  
-Chatzis Konstantinos, Research Associate, kohatzis@iti.gr  
-Dr. Chatzilari Elisavet, Senior Researcher, ehatzi@iti.gr  
-Charalampopoulos Panagiotis, Research Associate, panchar@iti.gr  
-Kassiano Vasileios, Research Associate, vaskass@iti.gr  
-Vasileiadis Aggelos, Research Associate, angelvasileiad@iti.gr  
-Prountzos Giorgos, Research Associate, gprountzos@iti.gr  
-Dr. Mpastas Nikolaos, Postdoctoral Research Fellow, nimpasta@iti.gr  
-Migkotzidis Panagiotis, Research Associate, migkotzidis@iti.gr  
-Chatzitheodorou Tilemachos, Research Associate, t.chatzitheodorou@iti.gr  
-Apostolou Konstantinos, Research Associate, konapost@iti.gr  
-Nikolaidis Efstathios, Research Associate, stathis.nikolaidis@iti.gr  
-Serri Niki, Research Associate, nikiserri@iti.gr  
-Mpakratsas Marios, Research Associate, mbakratsas@iti.gr     
+Panagi Panagiotis, Electrical and Computer Engineer  
