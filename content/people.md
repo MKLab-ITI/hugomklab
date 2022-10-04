@@ -21,7 +21,7 @@ showpagemeta: false
 **Dr. Gkalelis Nikos**, gkalelis@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
-**Dr. Meditskos Georgios**, gmeditsk@iti.gr 
+**Dr. Meditskos Georgios**, gmeditsk@iti.gr  
 **Dr. Mezaris Vasileios**, bmezaris@iti.gr  
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
 **Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
