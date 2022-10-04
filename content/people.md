@@ -373,6 +373,6 @@ Dr. Mpastas Nikolaos, Postdoctoral Research Fellow, nimpasta@iti.gr
 Migkotzidis Panagiotis, Research Associate, migkotzidis@iti.gr  
 Chatzitheodorou Tilemachos, Research Associate, t.chatzitheodorou@iti.gr  
 Apostolou Konstantinos, Research Associate, konapost@iti.gr
-Nikolaidis Efstathios, Research Associate, stathis.nikolaidis@iti.gr
-Serri Niki, Research Associate, nikiserri@iti.gr
-Mpakratsas Marios, Research Associate, mbakratsas@iti.gr   
+Nikolaidis Efstathios, Research Associate, stathis.nikolaidis@iti.gr  
+Serri Niki, Research Associate, nikiserri@iti.gr  
+Mpakratsas Marios, Research Associate, mbakratsas@iti.gr     
