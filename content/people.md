@@ -217,7 +217,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
-Papadopoulou Danai, Research Associate, danae@iti.gr
+Papadopoulou Danai, Research Associate, danae@iti.gr  
 Iliou Christos, Research Associate, iliouchristos@iti.gr  
 Evaggelatos Pavlos, Research Associate, pevangelatos@iti.gr  
 Gagrinas Georgios, Research Associate, gagrinas.g@iti.gr  
