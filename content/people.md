@@ -35,7 +35,9 @@ showpagemeta: false
 **Dr. Apostolou Georgia**, gapostolou@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzimisios Periklis**, pchatzimisios@iti.gr  
+**Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
+**Dr. Kalaganis Fotis**, fkalaganis@iti.gr  
 **Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Kosti Viola-Makrina**, mkosti@iti.gr  
@@ -58,7 +60,6 @@ showpagemeta: false
 **Apostolidis Evlampios**, apostolid@iti.gr  
 **Apostolidis Lazaros**, laaposto@iti.gr  
 **Boutziona Ioanna**, joboutziona@iti.gr  
-**Charitidis Polychronis**, charitidis@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Darra Eleni**, e.darra@iti.gr  
 **Daskalakis Dimitrios**, dimidask@iti.gr  
@@ -74,20 +75,17 @@ showpagemeta: false
 **Galopoulos Panagiotis**, gpan@iti.gr  
 **Gatselou Vera**, veragatselou@iti.gr    
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
-**Georgalis Dimitrios**, dgeorgalis@iti.gr    
-**Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
+**Georgalis Dimitrios**, dgeorgalis@iti.gr     
 **Georgiou Georgia**, georgiou_georgia@iti.gr  
 **Georgoudi Amalia**, ageorgoudi@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Giannios Georgios**, ggiannios@iti.gr   
 **Giatsoglou Nikolaos**, ngiatsog@iti.gr  
 **Gkagkas Anastasios**, gagastasos@iti.gr  
-**Gkartzonika Ioanna**, gkartzoni@iti.gr  
 **Gkevreki Sofia**, sgkevreki@iti.gr  
 **Gkountakos Konstantinos**, gountakos@iti.gr  
 **Gounaridis Dimitrios**, dimgoun@iti.gr  
-**Gramatikopoulou Margarita**, marggram@iti.gr   
-**Kalaganis Fotis**, fkalaganis@iti.gr  
+**Gramatikopoulou Margarita**, marggram@iti.gr    
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
 **Karageorgiadis Anastasios**, tassoskarag@iti.gr  
@@ -129,7 +127,6 @@ showpagemeta: false
 **Milios Christos**, cmilios@iti.gr  
 **Mouzakis Christos**, chrismouz@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr    
-**Mpalaouras Georgios**, mpalaourg@iti.gr  
 **Mpaltadoros Lampros**, lamprosmpalt@iti.gr  
 **Mparachanou Anna**, barachanou@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
@@ -218,6 +215,9 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Mpalaouras Georgios, Research Associate, mpalaourg@iti.gr   
+Gkartzonika Ioanna, Research Associate, gkartzoni@iti.gr   
+Charitidis Polychronis, Research Associate, charitidis@iti.gr  
 Papadopoulou Danai, Research Associate, danae@iti.gr  
 Iliou Christos, Research Associate, iliouchristos@iti.gr  
 Evaggelatos Pavlos, Research Associate, pevangelatos@iti.gr  
