@@ -35,6 +35,7 @@ showpagemeta: false
 **Dr. Apostolou Georgia**, gapostolou@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzimisios Periklis**, pchatzimisios@iti.gr  
+**Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
 **Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Kosti Viola-Makrina**, mkosti@iti.gr  
