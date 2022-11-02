@@ -17,8 +17,8 @@ contact:
 - Gialampoukidis Ilias
 - Vrochidis Stefanos
 ---
-<p>AIDEAS will develop AI technologies for supporting the entire lifecycle (design, manufacturing, use, and repair/reuse/recycle) of industrial equipment as a strategic instrument to improve sustainability, agility and resilience of the European machinery manufacturing companies. AIDEAS will deploy 4 integrated Suites: </p>
-<p>1) Design: AI technologies, integrated with CAD/CAM/CAE systems, for optimising the design of industrial equipment structural components, mechanisms and control components; </p>
+<p>AIDEAS will develop AI technologies for supporting the entire lifecycle (design, manufacturing, use, and repair/reuse/recycle) of industrial equipment as a strategic instrument to improve sustainability, agility and resilience of the European machinery manufacturing companies. AIDEAS will deploy 4 integrated Suites:</p>
+<p>1) Design: AI technologies, integrated with CAD/CAM/CAE systems, for optimising the design of industrial equipment structural components, mechanisms and control components;</p>
 <p>2) Manufacturing: AI technologies for industrial equipment purchased components selection and procurement, manufactured parts processes optimisation, operations sequencing, quality control and customisation; </p>
 <p>3) Use: AI technologies with added value for the industrial equipment user, providing enhanced support for installation and initial calibration, production, quality assurance and predictive maintenance for working on optimal conditions; </p>
 <p>4) Repair-Reuse-Recycle: AI technologies for extending the useful life of machines through prescriptive maintenance (repair), facilitating a second life for machines through a smart retrofitting (reuse) and identification of the most sustainable end-of-life (recycle). The AIDEAS Solutions will be demonstrated in 4 Pilots of machinery manufacturers that provide industrial equipment to different industrial sectors: metal, stone, plastic and food.</p>
