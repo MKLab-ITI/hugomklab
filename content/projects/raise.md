@@ -5,8 +5,8 @@ tags:
 - european
 images:
 - project_logos/raise-logo.png
-website_name:
-website_link:
+website_name: raise-science.eu
+website_link: https://raise-science.eu
 acronym: Research Analysis Identifier SystEm
 layout: projects
 title: RAISE
