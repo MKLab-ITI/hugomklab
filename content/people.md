@@ -113,7 +113,7 @@ showpagemeta: false
 **Krasanakis Manolis**, maniospas@iti.gr  
 **Kyriakidis Pantelis**, pantelisk@iti.gr  
 **Kyrou Maria**, mariakyrou@iti.gr  
-**Lagonidis Charalampos**, nlazaridis@iti.gr  
+**Lagonidis Charalampos**, charlago@iti.gr  
 **Lazaridis Nikolaos**, nlazaridis@iti.gr   
 **Loumponias Kostas**, loumponias@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
