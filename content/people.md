@@ -111,7 +111,6 @@ showpagemeta: false
 **Krestenitis Marios**, mikrestenitis@iti.gr  
 **Kritopoulou Paraskevi**, pakrito@iti.gr  
 **Krasanakis Manolis**, maniospas@iti.gr  
-**Kyrampalidou Sophia**, sofiaky@iti.gr  
 **Kyriakidis Pantelis**, pantelisk@iti.gr  
 **Kyrou Maria**, mariakyrou@iti.gr  
 **Lazaridis Nikolaos**, nlazaridis@iti.gr   
@@ -216,6 +215,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Kyrampalidou Sophia, Research Associate, sofiaky@iti.gr  
 Mpalaouras Georgios, Research Associate, mpalaourg@iti.gr   
 Gkartzonika Ioanna, Research Associate, gkartzoni@iti.gr   
 Charitidis Polychronis, Research Associate, charitidis@iti.gr  
