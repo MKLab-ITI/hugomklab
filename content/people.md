@@ -201,7 +201,7 @@ showpagemeta: false
 **Vasiloudis Georgios**, vasiloudisg@iti.gr  
 **Vlachos Konstantinos**, kostasvlachosgrs@iti.gr  
 **Voulgaris Christos**, christosvoulgaris@iti.gr  
-**Vrachnos Panagiotis**, christosvoulgaris@iti.gr  
+**Vrachnos Panagiotis**, panosvrachnos@iti.gr  
 **Xefteris Vasileios-Rafahl**, vxefteris@iti.gr  
 **Zeltsi Alexandra**, azeltsi@iti.gr  
 
