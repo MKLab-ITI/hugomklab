@@ -141,7 +141,6 @@ showpagemeta: false
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Ntrougkas Mariano**, ntrougkas@iti.gr  
 **Oikonomidis Alexandros**, aleoikon@iti.gr   
-**Oikonomou Konstantinos**, koikonomou@iti.gr   
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantalona Georgia**, georgiapant@iti.gr  
@@ -215,6 +214,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Oikonomou Konstantinos, Research Associate, koikonomou@iti.gr  
 Kyrampalidou Sophia, Research Associate, sofiaky@iti.gr  
 Mpalaouras Georgios, Research Associate, mpalaourg@iti.gr   
 Gkartzonika Ioanna, Research Associate, gkartzoni@iti.gr   
