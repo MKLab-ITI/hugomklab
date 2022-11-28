@@ -12,7 +12,7 @@ title: LAGO
 date: '2022-11-28T03:47:00+03:00'
 program: HORIZON-CL3-2021-FCT-01
 contact:
-- Theodora Tsikrika
+- Tsikrika Theodora
 - Vrochidis Stefanos
 - Kompatsiaris Yiannis (Ioannis)
 ---
