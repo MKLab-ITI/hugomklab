@@ -9,7 +9,7 @@ website_link: https://cordis.europa.eu/project/id/101073951
 acronym: LESSEN DATA ACCESS AND GOVERNANCE OBSTACLES
 layout: projects
 title: LAGO
-date: '2020-11-28T12:47:00+03:00'
+date: '2020-11-01T12:47:00+03:00'
 program: HORIZON-CL3-2021-FCT-01
 contact:
 - Theodora Tsikrika
