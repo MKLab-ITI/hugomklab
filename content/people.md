@@ -33,6 +33,7 @@ showpagemeta: false
 ## Postdoctoral Research Fellows
 
 **Dr. Apostolou Georgia**, gapostolou@iti.gr  
+**Dr. Arvanitidis Athanasios**, athasarv@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzimisios Periklis**, pchatzimisios@iti.gr  
 **Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
@@ -63,6 +64,7 @@ showpagemeta: false
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Darra Eleni**, e.darra@iti.gr  
 **Daskalakis Dimitrios**, dimidask@iti.gr  
+**Diamantopoulou Thaleia**,  thadiama@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dimopoulou Ourania**, drania@iti.gr  
 **Dogoulis Pantelis**, dogoulis@iti.gr  
@@ -81,6 +83,7 @@ showpagemeta: false
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Giannios Georgios**, ggiannios@iti.gr   
 **Giatsoglou Nikolaos**, ngiatsog@iti.gr  
+**Giogiou Natalia**, nataliagio@iti.gr  
 **Gkagkas Anastasios**, gagastasos@iti.gr  
 **Gkevreki Sofia**, sgkevreki@iti.gr  
 **Gkountakos Konstantinos**, gountakos@iti.gr  
