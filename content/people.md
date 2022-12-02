@@ -200,7 +200,9 @@ showpagemeta: false
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
 **Vangeli-Margariti Evaggelia**, margariti@iti.gr  
+**Vaitsi Aikaterini**, katvai@iti.gr  
 **Vakkou Despoina**, dvakkou@iti.gr  
+**Valla Evgenia**, evg.valla@iti.gr  
 **Valsamis Dimitrios**, dvalsamis@iti.gr  
 **Vasileiadis Alexandros**, valexande@iti.gr  
 **Vasileiou Zoi**, zvasilei@iti.gr  
