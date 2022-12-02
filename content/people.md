@@ -119,6 +119,7 @@ showpagemeta: false
 **Kyrou Maria**, mariakyrou@iti.gr  
 **Lagonidis Charalampos**, charlago@iti.gr  
 **Lazaridis Nikolaos**, nlazaridis@iti.gr   
+**Leonidis Dimitrios**, dim.leon@iti.gr  
 **Loumponias Kostas**, loumponias@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
 **Maniati Athanasia**, maniati@iti.gr  
@@ -190,6 +191,7 @@ showpagemeta: false
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Stylianou Nikolaos**, nstylia@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr   
+**Theofilakou Ioanna**, io_theo@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
 **Triantafyllidis Theocharis**, theocharistr@iti.gr  
 **Tsaknaki Ilektra**, tsaknaki@iti.gr  
