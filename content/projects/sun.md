@@ -3,7 +3,8 @@ types: project
 tags:
 - current
 - european
-images: -project_logos/sun.png
+images: 
+-project_logos/sun.png
 website_name: sun-xr-project.eu
 website_link: https://www.sun-xr-project.eu/ 
 acronym: Social and hUman ceNtered XR 
