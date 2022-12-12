@@ -21,21 +21,26 @@ The SUN Horizon Europe project aims at investigating and developing extended rea
 </p>
 <p>
 Relevant limitations that will be addressed are:
-•	Lack of solutions to develop scalable and cost-effective new XR applications.
-•	Lack of convincing solutions for mixing of the virtual and physical environment.
-•	Lack of plausible and convincing human interaction interfaces in XR.
-•	Barriers due to resource limitations of end-user devices.
+<ul>
+<li>•	Lack of solutions to develop scalable and cost-effective new XR applications.</li>
+<li>•	Lack of convincing solutions for mixing of the virtual and physical environment.</li>
+<li>•	Lack of plausible and convincing human interaction interfaces in XR.</li>
+<li>•	Barriers due to resource limitations of end-user devices.</li>
+</ul>
 The SUN project develops solutions to surpass the aforementioned limitations, including:
-•	Scalable solutions to obtain plausible and convincing virtual copies of physical objects and environments.
-•	Seamless and convincing interaction between the physical and the virtual world.
-•	Wearable sensors and haptic interfaces for convincing and natural interaction with the virtual environment.
-•	Artificial intelligence-based solutions to address current computing, memory, and network limitations of wearable devices.
+<ul>
+<li>•	Scalable solutions to obtain plausible and convincing virtual copies of physical objects and environments.</li>
+•	Seamless and convincing interaction between the physical and the virtual world.</li>
+•	Wearable sensors and haptic interfaces for convincing and natural interaction with the virtual environment.</li>
+•	Artificial intelligence-based solutions to address current computing, memory, and network limitations of wearable devices.</li>
+</ul>
 The solutions will be demonstrated in three real-life scenarios, focusing on social interaction and collaboration:
-1.	XR for rehabilitation after accidents or diseases.
-2.	XR in the industry to increase safety and improve social interaction among workers.
-3.	XR to remove interaction barriers for persons with disabilities.
+<ol type="1">
+<li>XR for rehabilitation after accidents or diseases.</li>
+<li>XR in the industry to increase safety and improve social interaction among workers.</li>
+<li>XR to remove interaction barriers for persons with disabilities.</li>
+</ol>
 </p>
 <p>
 MKLab develops visual analysis tools (e.g. for pose estimation) as well as multimodal fusion techniques that combine different types of data (visual, sensors from wearables, etc.).
 </p>
-<p>
