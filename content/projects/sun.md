@@ -28,7 +28,7 @@ Relevant limitations that will be addressed are:
 <li>Barriers due to resource limitations of end-user devices.</li>
 </ul>
 The SUN project develops solutions to surpass the aforementioned limitations, including:
-
+<br>
 <ul>
 <li>Scalable solutions to obtain plausible and convincing virtual copies of physical objects and environments.</li>
 <li>Seamless and convincing interaction between the physical and the virtual world.</li>
@@ -36,7 +36,7 @@ The SUN project develops solutions to surpass the aforementioned limitations, in
 <li>Artificial intelligence-based solutions to address current computing, memory, and network limitations of wearable devices.</li>
 </ul>
 The solutions will be demonstrated in three real-life scenarios, focusing on social interaction and collaboration:
-
+<br>
 <ol type="1">
 <li>XR for rehabilitation after accidents or diseases.</li>
 <li>XR in the industry to increase safety and improve social interaction among workers.</li>
