@@ -13,4 +13,3 @@ The research was conducted by M4D, the Multimodal Data Fusion and Analytics Grou
 conference in Genova between the 5th to the 7th of December 2022.</p>
 <p style="text-align: center;"><img class="aligncenter" src="/files/news_images/best%20session%20paper%202.jpg" alt="" width="420" height="236" style="margin-left: auto;  margin-right: auto;"/></p>
 
-style=""
