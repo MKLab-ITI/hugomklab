@@ -2,10 +2,10 @@
 types: article
 tags:
 images: 
-- news_images/Joint event EU Space Week landscape.png
+- news_images/best-session-paper-award.jpg
 layout: article
 title: '"IPAS’22: Best Session Paper Award for the research team of M4D, CERTH!"'
-date: '2022-12-13T08:49:37+02:00'
+date: '2022-12-12T08:49:37+02:00'
 ---
 <p style="text-align: center;">The research paper entitled ‘Vehicle Color Identification Framework using Pixel-level color Estimation from Segmentation Masks of Car Parts’ wins the Best Session Award Certificate under the category Image and Video Processing for Smart City and Smart Environments!</p>
 <p style="text-align: center;"><img class="aligncenter" src="https://mklab.iti.gr/files/news_images/best-session-paper-award.jpg" alt="" width="408" height="320" />
