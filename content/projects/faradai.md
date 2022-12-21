@@ -12,7 +12,7 @@ website_link:
 acronym: Frugal and Robust AI for Defence Advanced Intelligence 
 layout: projects
 title: FaRADAI
-date: '2022-12-01T07:48:57+03:00'
+date: '2022-12-21T07:48:57+03:00'
 program: EDF-2021-DIGIT-R-2
 contact:
 - Ioannidis Konstantinos 
