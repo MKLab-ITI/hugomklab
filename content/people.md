@@ -48,7 +48,8 @@ showpagemeta: false
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
-**Dr. Skaltsas Theodoros**, scaltsas@iti.gr   
+**Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
+**Dr. Stylianou Nikolaos**, nstylia@iti.gr   
 **Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
 
 ## Research Associates
@@ -189,7 +190,6 @@ showpagemeta: false
 **Stathopoulos Evangelos**, estathop@iti.gr   
 **Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
-**Stylianou Nikolaos**, nstylia@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr   
 **Theofilakou Ioanna**, io_theo@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
