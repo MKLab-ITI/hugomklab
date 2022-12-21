@@ -6,8 +6,8 @@ tags:
 - coordinator 
 images:
 - project_logos/dimat.png
-website_name: cordis.europa.eu
-website_link: https://cordis.europa.eu/project/id/883284
+website_name: 
+website_link: 
 acronym: Digital Modelling and Simulation for Design, Processing and Manufacturing of Advanced Materials 
 layout: projects
 title: DiMAT
