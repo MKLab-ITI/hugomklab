@@ -11,7 +11,7 @@ website_link: https://cordis.europa.eu/project/id/883284
 acronym: Digital Modelling and Simulation for Design, Processing and Manufacturing of Advanced Materials 
 layout: projects
 title: DiMAT
-date: '2023-01-01T07:48:57+03:00'
+date: '2022-12-21T07:48:57+03:00'
 program: HORIZON-CL4-2022-RESILIENCE-01-25 / HORIZON-IA HORIZON Innovation Actions
 contact:
 - Gialampoukidis Ilias 
