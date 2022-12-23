@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - coordinator
 images:
-- project_logos/connexions_logo.png
+- project_logos/CONNEXIONs_Logo.png
 website_name: connexions-project.eu
 website_link: https://www.connexions-project.eu/
 acronym: InterCONnected NEXt-Generation Immersive IoT Platform of Crime and Terrorism
