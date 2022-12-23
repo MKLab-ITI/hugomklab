@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/aida-logo.png
+- project_logos/aida_logo_2.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/883596
 acronym: Artificial Intelligence and advanced Data Analytics for Law Enforcement Agencies
