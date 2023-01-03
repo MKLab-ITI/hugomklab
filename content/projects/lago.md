@@ -3,7 +3,7 @@ types: project
 tags:
 - current
 - european
-images: -project_logos/
+images: -project_logos/lago_logo_final.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101073951
 acronym: LESSEN DATA ACCESS AND GOVERNANCE OBSTACLES
