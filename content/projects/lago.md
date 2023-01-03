@@ -3,7 +3,7 @@ types: project
 tags:
 - current
 - european
-images: -project_logos/lago_logo_final.png
+images: - project_logos/lago_logo_final.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101073951
 acronym: LESSEN DATA ACCESS AND GOVERNANCE OBSTACLES
@@ -22,4 +22,4 @@ LAGO will deliver the foundation for a trusted EU FTC Research Data Ecosystem (R
 <p>
 MKLab leads the task related to the discovery of data and datasets that are relevant to the FCT domain in order to enhance the capabilities for creating relevant and significant datasets that can support FCT research. MKLab also contributes to the task on data pseudonymisation for protecting the privacy of people who are either explicitly or implicitly included or embedded in relevant datasets, particularly as far as multimedia data are concerned. Finally, MKLab contributes to other technical tasks towards the deployment and validation of the developed solutions within a set of specific data spaces.
 </p>
-<p>
+
