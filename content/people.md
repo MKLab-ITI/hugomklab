@@ -134,7 +134,6 @@ showpagemeta: false
 **Meggidis Anagnostis**, nmengidis@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
-**Milios Christos**, cmilios@iti.gr  
 **Moschou Chrysoula**, moschouc@iti.gr  
 **Mouzakis Christos**, chrismouz@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr    
@@ -157,8 +156,7 @@ showpagemeta: false
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantalona Georgia**, georgiapant@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr    
-**Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
-**Papadimos Thomas**, papadimos@iti.gr  
+**Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr    
 **Papadopoulos Charalampos**, chapapadopoulos@iti.gr  
 **Papadopoulos Sotirios**, papasoti@iti.gr  
 **Papadopoulos Stefanos**, stefpapad@iti.gr    
@@ -181,19 +179,16 @@ showpagemeta: false
 **Psychalas Christos**, psychalas@iti.gr  
 **Raptis Sotirios**, sraptis@iti.gr  
 **Raptopoulou Charikleia**, hraptop@iti.gr  
-**Rousi Maria**, mariarousi@iti.gr  
 **Samaras Stamatios**, sstamatis@iti.gr  
 **Sarakatsanos Orestis**, orestiss@iti.gr  
 **Sarridis Ioannis**, gsarridis@iti.gr    
 **Sasilioglou Ioanna**, ioansasi@iti.gr  
-**Sideri Aikaterini**, asiderie@iti.gr  
-**Simeonidis Spyros**, spyridons@iti.gr   
+**Simeonidis Spyros**, spyridons@iti.gr  
 **Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
 **Skouras Taxiarchis**, tax_skouras@iti.gr  
 **Soukaras Sotirios**, soukaras@iti.gr  
 **Spathi Theoni**, tspathi@iti.gr  
 **Spyros Arnold**, aspyros@iti.gr  
-**Stasinakis Andreas**, andstasi@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr   
 **Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
@@ -232,6 +227,11 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Stasinakis Andreas, Research Associate, andstasi@iti.gr  
+Sideri Aikaterini, Research Associate, asiderie@iti.gr  
+Rousi Maria, Research Associate, mariarousi@iti.gr  
+Papadimos Thomas, Research Associate, papadimos@iti.gr  
+Milios Christos, Research Associate, cmilios@iti.gr  
 Oikonomou Konstantinos, Research Associate, koikonomou@iti.gr  
 Kyrampalidou Sophia, Research Associate, sofiaky@iti.gr  
 Mpalaouras Georgios, Research Associate, mpalaourg@iti.gr   
