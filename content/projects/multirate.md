@@ -7,7 +7,7 @@ tags:
 - scientific manager
 - technical manager
 images:
-- project_logos/
+- project_logos/multirate.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101073929
 acronym: Holistic framework for the MatUrity evaLuaTIon of ReAdiness level for security TEchnologies
