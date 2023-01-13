@@ -5,7 +5,7 @@ tags:
 - european
 - technical manager
 images: 
-- project_logos/
+- project_logos/dynamo.png
 website_name: cordis.europa.eu
 website_link: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/987472029/project/101069601/program/43108390/details
 acronym: Dynamic Resilience Assessment Method including combined Business Continuity Management and Cyber Threat Intelligence solution for Critical Sectors
