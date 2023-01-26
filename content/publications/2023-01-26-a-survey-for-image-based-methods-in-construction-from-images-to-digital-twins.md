@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "A survey for image based methods in construction: from images to digital
   twins"
-date: 2023-01-26T12:12:50.401Z
+date: 2022-09-14T12:12:50.401Z
 tags: conference_publications
 publication_date: 2022-09-14
 ---
