@@ -5,7 +5,7 @@ title: "Stress detection based on wearable physiological sensors: laboratory and
   real-life pilot scenario application"
 date: 2023-01-27T19:04:49.189Z
 tags: conference_publications
-publication_date: 2023-01-27
+publication_date: 2023-01-24
 ---
 <!--StartFragment-->
 
