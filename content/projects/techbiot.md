@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/techbiot-logo.png
 website_name: techbiot.eu
 website_link:  https://techbiot.eu/ 
 acronym: Surveillance and Reconnaissance Techniques for Chemical & Biological Threats
