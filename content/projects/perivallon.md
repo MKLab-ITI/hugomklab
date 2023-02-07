@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - technical manager
 images:
-- project_logos/
+- project_logos/perivallon-logo.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101073952
 acronym: Protecting the EuRopean terrItory from organised enVironmentAl crime through inteLLigent threat detectiON tools
