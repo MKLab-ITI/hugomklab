@@ -37,6 +37,7 @@ showpagemeta: false
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Chatzimisios Periklis**, pchatzimisios@iti.gr  
 **Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
+**Dr. Karamintziou Sofia**, skaramintziou@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
 **Dr. Kalaganis Fotis**, fkalaganis@iti.gr  
 **Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
@@ -63,6 +64,7 @@ showpagemeta: false
 **Apostolidis Evlampios**, apostolid@iti.gr  
 **Apostolidis Lazaros**, laaposto@iti.gr  
 **Boutziona Ioanna**, joboutziona@iti.gr  
+**Chamilos Eythimios**, e.hamilos@iti.gr  
 **Chatzistavros Konstantinos**, konschat@iti.gr  
 **Darra Eleni**, e.darra@iti.gr  
 **Daskalakis Dimitrios**, dimidask@iti.gr  
@@ -124,6 +126,7 @@ showpagemeta: false
 **Lagonidis Charalampos**, charlago@iti.gr  
 **Lazaridis Nikolaos**, nlazaridis@iti.gr   
 **Leonidis Dimitrios**, dim.leon@iti.gr  
+**Loukas Nikolaos**, nickloukas@iti.gr  
 **Loumponias Kostas**, loumponias@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
 **Maniati Athanasia**, maniati@iti.gr  
@@ -139,6 +142,7 @@ showpagemeta: false
 **Mouzakis Christos**, chrismouz@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr    
 **Mpaltadoros Lampros**, lamprosmpalt@iti.gr  
+**Mpantogias Christos**, mpantogi@iti.gr  
 **Mparachanou Anna**, barachanou@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
 **Mpaxevanakis Spyridon**, spirosbax@iti.gr  
@@ -180,6 +184,7 @@ showpagemeta: false
 **Psychalas Christos**, psychalas@iti.gr  
 **Raptis Sotirios**, sraptis@iti.gr  
 **Raptopoulou Charikleia**, hraptop@iti.gr  
+**Rizou Stelina**, stelina.r@iti.gr  
 **Samaras Stamatios**, sstamatis@iti.gr  
 **Sarakatsanos Orestis**, orestiss@iti.gr  
 **Sarridis Ioannis**, gsarridis@iti.gr    
@@ -200,7 +205,8 @@ showpagemeta: false
 **Triantafyllidis Theocharis**, theocharistr@iti.gr  
 **Tsaknaki Ilektra**, tsaknaki@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
-**Tsolakis Nikolaos**, tsolakin@iti.gr   
+**Tsolakis Nikolaos**, tsolakin@iti.gr  
+**Tsoni Eytyxia**, etsoni@iti.gr  
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
 **Vangeli-Margariti Evaggelia**, margariti@iti.gr  
