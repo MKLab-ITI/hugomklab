@@ -65,7 +65,6 @@ showpagemeta: false
 **Apostolidis Lazaros**, laaposto@iti.gr  
 **Boutziona Ioanna**, joboutziona@iti.gr  
 **Chamilos Eythimios**, e.hamilos@iti.gr  
-**Chatzistavros Konstantinos**, konschat@iti.gr  
 **Darra Eleni**, e.darra@iti.gr  
 **Daskalakis Dimitrios**, dimidask@iti.gr  
 **Diamantopoulou Thaleia**,  thadiama@iti.gr  
@@ -234,6 +233,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Chatzistavros Konstantinos, Research Associate, konschat@iti.gr  
 Stasinakis Andreas, Research Associate, andstasi@iti.gr  
 Sideri Aikaterini, Research Associate, asiderie@iti.gr  
 Rousi Maria, Research Associate, mariarousi@iti.gr  
