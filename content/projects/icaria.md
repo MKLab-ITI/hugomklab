@@ -16,8 +16,8 @@ date: '2023-02-16T07:48:57+03:00'
 program: HORIZON-MISS-2021-CLIMA-02
 contact:
 - Gialampoukidis Ilias
-- Kompatsiaris Yiannis (Ioannis)
 - Vrochidis Stefanos
+- Kompatsiaris Yiannis (Ioannis)
 ---
 <p>
 The frequency of natural disasters has steadily increased over the past two decades. It is far from irrational to assume that this trend could be significantly worsened in a short and long-time period according to reported climate change projections. With the help of a multidisciplinary team and a firm foundation, ICARIA aims to advance the use of asset-level modeling to better understand the direct and indirect effects of climate change caused by complex, cascading and compound disasters as well as the related risk reduction provided by suitable, sustainable, and affordable adaptation solutions.
