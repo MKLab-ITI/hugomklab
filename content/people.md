@@ -160,7 +160,8 @@ showpagemeta: false
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantalona Georgia**, georgiapant@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr    
-**Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr    
+**Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
+**Papadimitriou Ioannis**, i.papadimitriou@iti.gr  
 **Papadopoulos Charalampos**, chapapadopoulos@iti.gr  
 **Papadopoulos Sotirios**, papasoti@iti.gr  
 **Papadopoulos Stefanos**, stefpapad@iti.gr    
