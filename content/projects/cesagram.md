@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/cesagram-logo.jpg
 website_name: 
 website_link: 
 acronym: Towards a Comprehensive European Strategy Against tech-facilitated GRooming And Missing
