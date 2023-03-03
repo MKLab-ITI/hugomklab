@@ -6,7 +6,7 @@ tags:
 - scientific manager 
 - technical manager
 images: 
-- project_logos/
+- project_logos/BeOpen_Logo.png
 website_name: ec.europa.eu
 website_link: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43152860/101100807/DIGITAL
 acronym: BeOpen - an Open framework for boosting EU High ValueDatasets from Public Sector
