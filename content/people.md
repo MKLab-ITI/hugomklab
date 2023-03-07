@@ -79,6 +79,7 @@ showpagemeta: false
 **Fiska Vasiliki**, vickyfi@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
+**Gkatsikos Alexandros**, agkatsik@iti.gr  
 **Gatselou Vera**, veragatselou@iti.gr    
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgalis Dimitrios**, dgeorgalis@iti.gr     
@@ -150,6 +151,7 @@ showpagemeta: false
 **Mpektsis Evaggelos**, evanbekt@iti.gr  
 **Mpoikou Andromachi**, boikou@iti.gr  
 **Mpotsoglou Georgios**, georbots@iti.gr  
+**Mpountzis Polizois**, pmpountz@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
 **Nagkoulis Nikolaos**, nagkoulisn@iti.gr   
 **Ntemi Myrsini**, nmyrsini@iti.gr  
@@ -178,6 +180,7 @@ showpagemeta: false
 **Petropoulos Alexandos**, alpetrop@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
+**Politis Pervanidis Eystathios Panagiotis**, stapolitis@iti.gr  
 **Polytarchi Evaggelia**, epolytarchi@iti.gr  
 **Portokalidis Stavros**, sportokalidis@iti.gr  
 **Pournaras Alexandros**, apournaras@iti.gr   
@@ -198,6 +201,7 @@ showpagemeta: false
 **Stathopoulos Evangelos**, estathop@iti.gr   
 **Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
+**Stefanopoulos Dimitrios**,  distef@iti.gr  
 **Taxidari Athina**, athinata@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr   
 **Theofilakou Ioanna**, io_theo@iti.gr  
