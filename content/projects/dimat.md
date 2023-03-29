@@ -5,7 +5,7 @@ tags:
 - european
 - coordinator 
 images:
-- project_logos/dimat.png
+- project_logos/DiMAT_Logo.png
 website_name: 
 website_link: 
 acronym: Digital Modelling and Simulation for Design, Processing and Manufacturing of Advanced Materials 
