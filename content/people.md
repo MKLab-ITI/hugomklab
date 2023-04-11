@@ -28,7 +28,6 @@ showpagemeta: false
 **Dr. Sarris Nikolaos**, nsarris@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
-**Dr. Ververidis Dimitrios**, ververid@iti.gr  
 
 ## Postdoctoral Research Fellows
 
@@ -136,7 +135,6 @@ showpagemeta: false
 **Masa Panagiota**, gmasa@iti.gr  
 **Mastoras Chrysovaladis**, mastoras.valadis@iti.gr  
 **Matinopoulou Eleni**, matinopoulou@iti.gr  
-**Meggidis Anagnostis**, nmengidis@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
 **Moschou Chrysoula**, moschouc@iti.gr  
@@ -144,19 +142,16 @@ showpagemeta: false
 **Mouzakis Christos**, chrismouz@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr    
 **Mpaltadoros Lampros**, lamprosmpalt@iti.gr  
-**Mpantogias Christos**, mpantogi@iti.gr  
 **Mparachanou Anna**, barachanou@iti.gr  
 **Mpatsioulas Athanasios**, abatsioulas@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
 **Mpaxevanakis Spyridon**, spirosbax@iti.gr  
 **Mpegkas Georgios**, gbegkas@iti.gr  
-**Mpezerianos Anastasios**, tasos.bezer@certh.gr  
 **Mpektsis Evaggelos**, evanbekt@iti.gr  
 **Mpoikou Andromachi**, boikou@iti.gr  
 **Mpotsoglou Georgios**, georbots@iti.gr  
 **Mpountzis Polizois**, pmpountz@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
-**Nagkoulis Nikolaos**, nagkoulisn@iti.gr   
 **Ntemi Myrsini**, nmyrsini@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Ntrougkas Mariano**, ntrougkas@iti.gr  
@@ -242,6 +237,11 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Dr. Ververidis Dimitrios, Senior Researcher, ververid@iti.gr  
+Nagkoulis Nikolaos, Research Associate, nagkoulisn@iti.gr  
+Mpezerianos Anastasios, Research Associate, tasos.bezer@certh.gr  
+Mpantogias Christos, Research Associate, mpantogi@iti.gr  
+Meggidis Anagnostis, Research Associate, nmengidis@iti.gr  
 Chatzistavros Konstantinos, Research Associate, konschat@iti.gr  
 Stasinakis Andreas, Research Associate, andstasi@iti.gr  
 Sideri Aikaterini, Research Associate, asiderie@iti.gr  
