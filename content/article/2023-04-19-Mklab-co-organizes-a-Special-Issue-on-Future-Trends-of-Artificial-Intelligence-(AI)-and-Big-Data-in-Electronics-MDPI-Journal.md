@@ -7,7 +7,7 @@ layout: article
 title: 'Mklab co-organizes a Special Issue on Future Trends of Artificial Intelligence (AI) and Big Data in Electronics MDPI Journal'
 date: '2023-04-18T08:49:37+02:00'
 ---
-<p>Mklab participates at the editorial committee of the Special Issue and is represented by Dr. Ioannis Kompatsiaris, Dr. Sotiris Diplaris and Dr. Stefanos Vrochidis. </p>
+<p>Mklab participates at the editorial committee of the Special Issue and is represented by Dr. Ioannis Kompatsiaris, Dr. Sotiris Diplaris and Dr. Stefanos Vrochidis.</p>
 <p>
 This Special Issue aims to investigate the future trends of AI and big data, as well as their influence on various domains. Extended reality, art and culture, multimodal analysis, and multimedia retrieval are just a few of the areas that will be explored. We welcome original research papers and review articles that delve into topics such as edge computing, personalized medicine, ethics and the responsible use of AI, and natural language understanding, among others. We encourage researchers, scholars, and practitioners to submit their contributions and share their insights to enhance our understanding of the impact of AI and big data on society.</p>
 <img class="aligncenter" src="/files/news_images/electronics-banner.png" alt="" width="408" height="320" style="margin-left: auto;  margin-right: auto;"/>
