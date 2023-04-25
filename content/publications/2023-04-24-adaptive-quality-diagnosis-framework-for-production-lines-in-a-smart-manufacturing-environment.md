@@ -9,6 +9,6 @@ publication_date: 2023-04-24
 ---
 <!--StartFragment-->
 
- A. Kyriakopoulos; Ilias Gialampoukidis; Stefanos Vrochidis; Ioannis Kompatsiaris. "Adaptive Quality Diagnosis Framework for Production Lines in a Smart Manufacturing Environment". Machines 2023, 11(4), 499; [](https://doi.org/10.3390/machines110404)https://www.mdpi.com/2075-1702/11/4/499
+ A. Kyriakopoulos; Ilias Gialampoukidis; Stefanos Vrochidis; Ioannis Kompatsiaris. "Adaptive Quality Diagnosis Framework for Production Lines in a Smart Manufacturing Environment". Machines 2023, 11(4), 499; https://www.mdpi.com/2075-1702/11/4/499
 
 <!--EndFragment-->
