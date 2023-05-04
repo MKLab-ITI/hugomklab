@@ -15,8 +15,8 @@ title: ALLIES
 date: '2023-05-04T10:53:38+03:00'
 program: ISF-2021-AG-TCO
 contact: 
-- Theoni Spathi
-- George Kalpakis
+- Spathi Theoni
+- Kalpakis George
 - Tsikrika Theodora
 - Vrochidis Stefanos
 ---
