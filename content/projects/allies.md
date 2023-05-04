@@ -6,7 +6,7 @@ tags:
 - scientific manager 
 - technical manager
 images:
-- project_logos/
+- project_logos/allies.png
 website_name: alliesproject.com
 website_link: https://www.alliesproject.com/ 
 acronym: AI-based framework for supporting micro (and small) HSPs on the report and removaL of onLIne tErroriSt content
