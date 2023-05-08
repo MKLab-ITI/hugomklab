@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/oncoscreen-logo.jpg
 website_name: oncoscreen.health
 website_link: https://oncoscreen.health
 acronym: A European “shield” against colorectal cancer based on novel, more precise and affordable risk-based screening methods and viable policy pathways
