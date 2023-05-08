@@ -247,7 +247,7 @@ showpagemeta: false
 ## Past Colleagues
 Triantafyllidis Theocharis, Research Associate, theocharistr@iti.gr  
 Pantelidou Kyriaki-Nektaria, Research Associate, kpantelidou@iti.gr  
-Dr. Gkalelis Nikos**, Postdoctoral Research Fellow, gkalelis@iti.gr  
+Dr. Gkalelis Nikos, Postdoctoral Research Fellow, gkalelis@iti.gr  
 Andreadis Stelios, Research Associate, andreadisst@iti.gr  
 Dr. Ververidis Dimitrios, Senior Researcher, ververid@iti.gr  
 Nagkoulis Nikolaos, Research Associate, nagkoulisn@iti.gr  
