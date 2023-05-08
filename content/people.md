@@ -18,7 +18,6 @@ showpagemeta: false
 
 ## Senior Researchers 
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
-**Dr. Gkalelis Nikos**, gkalelis@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
 **Dr. Meditskos Georgios**, gmeditsk@iti.gr  
@@ -57,7 +56,6 @@ showpagemeta: false
 ## Research Associates
 
 **Alepopoulos Vasileios**, valep@iti.gr  
-**Andreadis Stelios**, andreadisst@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr    
 **Antzoulatos Gerasimos**, gantzoulatos@iti.gr  
 **Apostolidis Konstantinos**, kapost@iti.gr  
@@ -169,8 +167,7 @@ showpagemeta: false
 **Palla Zoi**, palla@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantalona Georgia**, georgiapant@iti.gr  
-**Pantelidis Nikolaos**, pantelidisnikos@iti.gr    
-**Pantelidou Kyriaki-Nektaria**, kpantelidou@iti.gr  
+**Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Papadimitriou Ioannis**, i.papadimitriou@iti.gr  
 **Papadopoulos Charalampos**, chapapadopoulos@iti.gr  
 **Papadopoulos Sotirios**, papasoti@iti.gr  
@@ -215,7 +212,6 @@ showpagemeta: false
 **Theodosiadis Xristos**, theodosc@iti.gr   
 **Theofilakou Ioanna**, io_theo@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
-**Triantafyllidis Theocharis**, theocharistr@iti.gr  
 **Triaridis Konstantinos**, triaridis@iti.gr  
 **Tsaknaki Ilektra**, tsaknaki@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
@@ -249,6 +245,10 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Triantafyllidis Theocharis, Research Associate, theocharistr@iti.gr  
+Pantelidou Kyriaki-Nektaria, Research Associate, kpantelidou@iti.gr  
+Dr. Gkalelis Nikos**, Postdoctoral Research Fellow, gkalelis@iti.gr  
+Andreadis Stelios, Research Associate, andreadisst@iti.gr  
 Dr. Ververidis Dimitrios, Senior Researcher, ververid@iti.gr  
 Nagkoulis Nikolaos, Research Associate, nagkoulisn@iti.gr  
 Mpezerianos Anastasios, Research Associate, tasos.bezer@certh.gr  
