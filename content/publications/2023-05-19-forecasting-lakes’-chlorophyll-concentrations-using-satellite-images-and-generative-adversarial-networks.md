@@ -9,6 +9,6 @@ publication_date: 2023-05-19
 ---
 <!--StartFragment-->
 
-Nikolaos Nagkoulis, Giorgos Vasiloudis, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis, Ioannis Kompatsiaris. Forecasting Lakes’ Chlorophyll Concentrations Using Satellite Images and Generative Adversarial Networks. IEEE Geoscience and Remote Sensing Letters. 2023
+Nikolaos Nagkoulis, Giorgos Vasiloudis, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis, Ioannis Kompatsiaris. "Forecasting Lakes’ Chlorophyll Concentrations Using Satellite Images and Generative Adversarial Networks." IEEE Geoscience and Remote Sensing Letters. 2023
 
 <!--EndFragment-->
