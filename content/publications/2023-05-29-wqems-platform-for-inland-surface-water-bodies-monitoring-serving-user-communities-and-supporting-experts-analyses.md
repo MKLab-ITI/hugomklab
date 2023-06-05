@@ -1,8 +1,8 @@
 ---
 layout: publication
 types: publication
-title: "WQEMS PLATFORM FOR INLAND SURFACE WATER BODIES' MONITORING: SERVING USER
-  COMMUNITIES AND SUPPORTING EXPERTS' ANALYSES"
+title: "WQeMS Platform for Insland and Surface Water Bodies' Monitoring: Serving
+  User Communities and Supporting Experts' Analyses"
 date: 2023-05-29T10:49:12.677Z
 tags: conference_publications
 publication_date: 2023-05-29
