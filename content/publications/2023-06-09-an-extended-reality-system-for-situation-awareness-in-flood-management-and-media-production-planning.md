@@ -9,6 +9,6 @@ publication_date: 2023-06-09
 ---
 <!--StartFragment-->
 
-E. Raptis, K. Englezos O. Kypris, Marios Krestenitis, A. Kapoutsis, K. Ioannidis, S. Vrochidis and E. Kosmatopoulos, "CoFly: An automated, AI-based open-source platform for UAV precision agriculture applications", SoftwareX, 2023 (accepted for publication)
+Symeonidis, S., Samaras, S., Stentoumis, C., Plaum, A., Paccelli, M.,Grivolla, J., Shekhawat, Y., Ferri, M., Diplaris, S. & Vrochidis, S. (2023). "An Extended Reality system for situation awareness in flood management and media production planning", Electronics,2023, 12(12), 2569; https://doi.org/10.3390/electronics12122569
 
 <!--EndFragment-->
