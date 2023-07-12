@@ -33,7 +33,6 @@ showpagemeta: false
 **Dr. Apostolou Georgia**, gapostolou@iti.gr  
 **Dr. Arvanitidis Athanasios**, athasarv@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
-**Dr. Chatzimisios Periklis**, pchatzimisios@iti.gr  
 **Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Dr. Karamintziou Sofia**, skaramintziou@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
@@ -43,7 +42,6 @@ showpagemeta: false
 **Dr. Kosti Viola-Makrina**, mkosti@iti.gr  
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Krooupa Anna Maria**, annamariakrooupa@iti.gr  
-**Dr. Kyriakopoulos Konstantinos**, kyriak@iti.gr  
 **Dr. Lazarou Ioulietta**, iouliettalaz@iti.gr  
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
@@ -85,7 +83,6 @@ showpagemeta: false
 **Georgakopoulou Nepheli Valeria**, nefeli.valeria@iti.gr  
 **Georgalis Dimitrios**, dgeorgalis@iti.gr     
 **Georgiou Georgia**, georgiou_georgia@iti.gr  
-**Georgoudi Amalia**, ageorgoudi@iti.gr  
 **Giannakeris Panagiotis**, giannakeris@iti.gr  
 **Giannios Georgios**, ggiannios@iti.gr   
 **Giatsoglou Nikolaos**, ngiatsog@iti.gr  
@@ -96,11 +93,11 @@ showpagemeta: false
 **Gkountakos Konstantinos**, gountakos@iti.gr  
 **Gkigkilinis Emmanouil**, emmanouil_gk@iti.gr  
 **Gounaridis Dimitrios**, dimgoun@iti.gr  
-**Gramatikopoulou Margarita**, marggram@iti.gr    
+**Gramatikopoulou Margarita**, marggram@iti.gr  
+**Kallipoliti Dimitra**, dkallipoliti@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
 **Kaltsidis Michail**, kaltsidis_mixalis@iti.gr  
-**Karageorgiadis Anastasios**, tassoskarag@iti.gr  
 **Karageorgiou Dimitrios**, dkarageo@iti.gr  
 **Karantaidis Georgios**, karantai@iti.gr  
 **Kardara Antonia**, antoniakardara@iti.gr  
@@ -143,8 +140,8 @@ showpagemeta: false
 **Mastoras Chrysovaladis**, mastoras.valadis@iti.gr  
 **Matinopoulou Eleni**, matinopoulou@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
+**Mitro Ioanni**, john.mitros@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
-**Moschou Chrysoula**, moschouc@iti.gr  
 **Moskachlaidi Christina**, christina.moskachlaidi@iti.gr  
 **Mouzakis Christos**, chrismouz@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr    
@@ -159,6 +156,7 @@ showpagemeta: false
 **Mpotsoglou Georgios**, georbots@iti.gr  
 **Mpountzis Polizois**, pmpountz@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
+**Mylonas Nikolaos**, myloniko@iti.gr  
 **Ntemi Myrsini**, nmyrsini@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
 **Ntrougkas Mariano**, ntrougkas@iti.gr  
@@ -166,14 +164,12 @@ showpagemeta: false
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
 **Palla Zoi**, palla@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
-**Pantalona Georgia**, georgiapant@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Papadimitriou Ioannis**, i.papadimitriou@iti.gr  
 **Papadopoulos Charalampos**, chapapadopoulos@iti.gr  
 **Papadopoulos Sotirios**, papasoti@iti.gr  
 **Papadopoulos Stefanos**, stefpapad@iti.gr    
 **Papadopoulou Olga**, olgapapa@iti.gr  
-**Papageorgiou Vasilis**, vpap@iti.gr  
 **Papagianni Andromachi**, andromap@iti.gr  
 **Papaioannou Periklis**, ppapaioa@iti.gr  
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
@@ -188,7 +184,6 @@ showpagemeta: false
 **Politis Pervanidis Eystathios Panagiotis**, stapolitis@iti.gr  
 **Polytarchi Evaggelia**, epolytarchi@iti.gr  
 **Portokalidis Stavros**, sportokalidis@iti.gr  
-**Pournaras Alexandros**, apournaras@iti.gr   
 **Psychalas Christos**, psychalas@iti.gr  
 **Raptis Sotirios**, sraptis@iti.gr  
 **Raptopoulou Charikleia**, hraptop@iti.gr  
@@ -214,13 +209,12 @@ showpagemeta: false
 **Touska Despoina**, destousok@iti.gr  
 **Triaridis Konstantinos**, triaridis@iti.gr  
 **Tsaknaki Ilektra**, tsaknaki@iti.gr  
+**Tsalas Nikolaos**, tsalas_niko@iti.gr  
 **Tsanousa Athina**, atsan@iti.gr  
 **Tsolakis Nikolaos**, tsolakin@iti.gr  
 **Tsoni Eytyxia**, etsoni@iti.gr  
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
-**Vangeli-Margariti Evaggelia**, margariti@iti.gr  
-**Vaitsi Aikaterini**, katvai@iti.gr  
 **Vakkou Despoina**, dvakkou@iti.gr  
 **Valla Evgenia**, evg.valla@iti.gr  
 **Valsamis Dimitrios**, dvalsamis@iti.gr  
@@ -245,6 +239,16 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Vangeli-Margariti Evaggelia, Research Associate, margariti@iti.gr  
+Vaitsi Aikaterini, Research Associate, katvai@iti.gr  
+Pournaras Alexandros, Research Associate, apournaras@iti.gr  
+Papageorgiou Vasilis, Research Associate, vpap@iti.gr  
+Pantalona Georgia, Research Associate, georgiapant@iti.gr  
+Moschou Chrysoula, Research Associate, moschouc@iti.gr  
+Dr. Kyriakopoulos Konstantinos, Postdoctoral Research Fellow, kyriak@iti.gr  
+Karageorgiadis Anastasios, Research Associate, tassoskarag@iti.gr  
+Georgoudi Amalia, Research Associate, ageorgoudi@iti.gr  
+Dr. Chatzimisios Periklis, Postdoctoral Research Fellow, pchatzimisios@iti.gr  
 Triantafyllidis Theocharis, Research Associate, theocharistr@iti.gr  
 Pantelidou Kyriaki-Nektaria, Research Associate, kpantelidou@iti.gr  
 Dr. Gkalelis Nikos, Postdoctoral Research Fellow, gkalelis@iti.gr  
