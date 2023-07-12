@@ -239,6 +239,7 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Michailidis Georgios, Research Associate, geormich@iti.gr  
 Vangeli-Margariti Evaggelia, Research Associate, margariti@iti.gr  
 Vaitsi Aikaterini, Research Associate, katvai@iti.gr  
 Pournaras Alexandros, Research Associate, apournaras@iti.gr  
