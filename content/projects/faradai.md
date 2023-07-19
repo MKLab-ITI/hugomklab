@@ -7,8 +7,8 @@ tags:
 - scientific manager
 images:
 - project_logos/faradai.png
-website_name:
-website_link:
+website_name: faradai.eu
+website_link: https://faradai.eu/
 acronym: Frugal and Robust AI for Defence Advanced Intelligence 
 layout: projects
 title: FaRADAI
