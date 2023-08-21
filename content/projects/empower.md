@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/empower-logo.png
 website_name: transgero.eu
 website_link: https://transgero.eu/empower/
 acronym: Uptake of new generation AI Powered Investigative tools for LEAs

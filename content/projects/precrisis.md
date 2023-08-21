@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/precrisis-logo.png
 website_name: precrisis-project.eu
 website_link: https://precrisis-project.eu/
 acronym: PRotECting public spaces thRough Integrated Smarter Innovative Security
