@@ -45,6 +45,7 @@ showpagemeta: false
 **Dr. Lazarou Ioulietta**, iouliettalaz@iti.gr  
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
+**Dr. Mpaltsou Georgia**, gebaltso@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
 **Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
