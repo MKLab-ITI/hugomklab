@@ -103,6 +103,7 @@ showpagemeta: false
 **Karantaidis Georgios**, karantai@iti.gr  
 **Kardara Antonia**, antoniakardara@iti.gr  
 **Kartsounidou Evaggelia**, evankart@iti.gr  
+**Karystinakis Konstantinos**, kkarys@iti.gr  
 **Kasabalis Apostolos**, apkas@iti.gr  
 **Kelaiditis Sokratis**, skelaiditis@iti.gr  
 **Kesidis Anastasios**, akesidis@iti.gr  
