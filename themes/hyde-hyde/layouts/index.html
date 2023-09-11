@@ -10,14 +10,18 @@
     <p class="lab">The Lab has extensive experience and expertise in semantic multimedia analysis, indexing and retrieval, social media and big data analytics, knowledge structures, reasoning and personalization for multimedia applications, eHealth and environmental applications</p>    
 
     <div class="posts">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "=" "article") }}
-      {{ range $paginator.Pages }}
+      {{ $paginator := .Paginate (where .Site.Pages "Type" "=" "article") }}
+  {{ $firstPage := index $paginator.Pages 0 }}
+  
+  {{ range $paginator.Pages }}
+    {{ if ne . $firstPage }}
+    
         <div class="post">
           <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }}<sup><i class="fas fa-pen-square fa-xs"></i></sup>{{ end }}</h2>
           <span class="post-date">
             {{- .Date.Format (.Site.Params.dateformat | default "Jan 02, 2006") -}}
           </span>
-          
+          <!-- {{ printf "Debug: %s" .Params | safeHTML }} -->
           {{ if (isset .Params "images") }}
             {{ if index (.Params.Images) 0 }}
             <img src="/files/{{ index (.Params.Images) 0 }}" alt="" class="blog-thumbnail" />
@@ -33,11 +37,12 @@
             </div>
             {{ end }}
           </div>
-
+    
         </div>
-      
+        
+        {{ end }}
       {{ end }}
-      </div>
+    </div>
       <hr />
       {{ template "_internal/pagination.html" . }}
   </div>
