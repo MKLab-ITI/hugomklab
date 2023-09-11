@@ -36,5 +36,5 @@ This Special Issue aims to investigate the future trends of AI and big data, as 
  	<li>Impact of AI and big data on urban planning and smart cities;</li>
  	<li>AI and big data for enhancing cybersecurity and data privacy.</li>
 </ul>
-<p>We invite all interested parties to submit a paper via the following link: <a href="https://www.mdpi.com/journal/electronics/special_issues/9XSO54RNOA">https://www.mdpi.com/journal/electronics/special_issues/9XSO54RNOA</a>, where you can also find information about the Special Issue Editors and the call.</p>
+<p>We invite all interested parties to submit a paper via the following link: <a href="https://www.mdpi.com/journal/electronics/special_issues/9XSO54RNOA">https://www.mdpi.com/journal/electronics/special_issues/9XSO54RNOA </a>, where you can also find information about the Special Issue Editors and the call.</p>
 
