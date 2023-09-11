@@ -5,7 +5,7 @@ title: "Change Point Analysis of Time Series Related to Bitcoin Transactions:
   Towards the Detection of Illegal Activities"
 date: 2023-09-11T10:53:35.953Z
 tags: journal_publications
-publication_date: 2023-09-11
+publication_date: 2023-09-10
 ---
 <!--StartFragment-->
 
