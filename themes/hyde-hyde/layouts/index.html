@@ -11,7 +11,7 @@
 
     <div class="posts">
       {{ $paginator := .Paginate (where .Site.Pages "Type" "=" "article") }}
-  {{ $firstPage := index $paginator.Pages 0 }}
+      {{ $firstPage := index $paginator.Pages 0 }}
   
   {{ range $paginator.Pages }}
     {{ if ne . $firstPage }}
@@ -58,7 +58,7 @@
 
     <div class="sideblock">
       <h3>Motorola collaborations</h3>
-      <p><a href="https://mklab.iti.gr/content/motorola-funded-projects"><img alt="Motorola Logo" src="/images/motorola.jpg" /></a></p>
+      <p><a href="https://mklab.iti.gr/projects/motorola-funded-projects/"><img alt="Motorola Logo" src="/images/motorola.jpg" /></a></p>
       <p>The Multimedia Group has been collaborating with Motorola in several Motorola funded R&amp;D projects.</p>
     </div>  
 
