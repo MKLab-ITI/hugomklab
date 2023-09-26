@@ -8,6 +8,6 @@ publication_date: 2023-01-17
 ---
 <!--StartFragment-->
 
-Theodosiadou, O.; Chatzakou, D.; Tsikrika, T.; Vrochidis, S.; Kompatsiaris, I. Real-time Threat Assessment based on Hidden Markov Models. Risk Analysis 2023 (accepted for publication).
+Theodosiadou, O.; Chatzakou, D.; Tsikrika, T.; Vrochidis, S.; Kompatsiaris, I. Real-time Threat Assessment based on Hidden Markov Models. Risk Analysis 2023
 
 <!--EndFragment-->
