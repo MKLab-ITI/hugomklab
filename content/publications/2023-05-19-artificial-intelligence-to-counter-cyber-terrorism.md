@@ -8,6 +8,6 @@ publication_date: 2023-05-19
 ---
 <!--StartFragment-->
 
-S. Bianchi, M. Mancuso, C. Paternoster, G. Kalpakis, T. Tsikrika, S. Vrochidis, D. Kozhuharova, and B. Jaeger. "Artificial Intelligence to counter Cyber-Terrorism". In Proceedings International Conference on Cybersecurity and Cybercrime, Vol. 10, 2023.
+S. Bianchi, M. Mancuso, C. Paternoster, G. Kalpakis, T. Tsikrika, S. Vrochidis, D. Kozhuharova, and B. Jaeger. [Artificial Intelligence to counter Cyber-Terrorism.](https://proceedings.cybercon.ro/index.php/ic3/article/view/2023-02/104) In Proceedings International Conference on Cybersecurity and Cybercrime, Vol. 10, 2023.
 
 <!--EndFragment-->
