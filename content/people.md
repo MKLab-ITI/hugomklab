@@ -46,14 +46,18 @@ showpagemeta: false
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Mpaltsou Georgia**, gebaltso@iti.gr  
+**Dr. Papaioannou Vasileios**, vaspapa@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
 **Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
 **Dr. Stylianou Nikolaos**, nstylia@iti.gr   
 **Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
+**Dr. Tzelepi Maria**, mtzelepi@iti.gr  
+**Dr. Violos Ioannis**, violos@iti.gr  
 
 ## Research Associates
 
+**Aggelopoulos Konstantinos**, kostaggelo@iti.gr  
 **Alepopoulos Vasileios**, valep@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr    
 **Antzoulatos Gerasimos**, gantzoulatos@iti.gr  
@@ -93,6 +97,7 @@ showpagemeta: false
 **Gkiourtzidis Xristos**, xristosgkiou@iti.gr  
 **Gkountakos Konstantinos**, gountakos@iti.gr  
 **Gkigkilinis Emmanouil**, emmanouil_gk@iti.gr  
+**Goulas Andreas**, agoulas@iti.gr  
 **Gounaridis Dimitrios**, dimgoun@iti.gr  
 **Gramatikopoulou Margarita**, marggram@iti.gr  
 **Kallipoliti Dimitra**, dkallipoliti@iti.gr  
@@ -113,6 +118,7 @@ showpagemeta: false
 **Kokkalas Alexandros**, akokkalas@iti.gr  
 **Koktsidou Anna**, akoktsidou@iti.gr  
 **Konstantakou Agni**, agnikonst@iti.gr  
+**Konstantinidou Despoina**, dekonstantinidou@iti.gr  
 **Konstantinou Apostolos**, konstantinou@iti.gr  
 **Kontostathis Ioannis**, ioankont@iti.gr  
 **Kopalidis Nikolaos**, nikokopa@iti.gr  
@@ -133,6 +139,7 @@ showpagemeta: false
 **Lagonidis Charalampos**, charlago@iti.gr  
 **Lazaridis Nikolaos**, nlazaridis@iti.gr   
 **Leonidis Dimitrios**, dim.leon@iti.gr  
+**Leventakis Antonios**, aleventakis@iti.gr  
 **Loukas Nikolaos**, nickloukas@iti.gr  
 **Loumponias Kostas**, loumponias@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
@@ -177,6 +184,7 @@ showpagemeta: false
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Papoutsis Aggelos**, apapoutsis@iti.gr  
 **Paraschos Spyridon**, sparaschos@iti.gr  
+**Parisi Styliani**, pastella@iti.gr  
 **Paspalakis Stavros**, spaspalakis@iti.gr  
 **Passali Soultana- Tatiana**, tpassali@iti.gr  
 **Patsiouras Emmanouil**, manolispats@iti.gr  
@@ -187,6 +195,7 @@ showpagemeta: false
 **Polytarchi Evaggelia**, epolytarchi@iti.gr  
 **Portokalidis Stavros**, sportokalidis@iti.gr  
 **Psychalas Christos**, psychalas@iti.gr  
+**Psychas Christoforos**, cpsychas@iti.gr  
 **Raptis Sotirios**, sraptis@iti.gr  
 **Raptopoulou Charikleia**, hraptop@iti.gr  
 **Rizou Stelina**, stelina.r@iti.gr  
