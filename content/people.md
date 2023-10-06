@@ -73,7 +73,6 @@ showpagemeta: false
 **Diamantopoulou Thaleia**,  thadiama@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dimopoulou Ourania**, drania@iti.gr  
-**Dogoulis Pantelis**, dogoulis@iti.gr  
 **Dolias Georgios**, gdolias@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr   
 **Efthimiou Spyridoula-Eythimia**, efie@iti.gr  
@@ -140,7 +139,6 @@ showpagemeta: false
 **Lazaridis Nikolaos**, nlazaridis@iti.gr   
 **Leonidis Dimitrios**, dim.leon@iti.gr  
 **Leventakis Antonios**, aleventakis@iti.gr  
-**Loukas Nikolaos**, nickloukas@iti.gr  
 **Loumponias Kostas**, loumponias@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
 **Maniati Athanasia**, maniati@iti.gr  
@@ -205,7 +203,6 @@ showpagemeta: false
 **Sasilioglou Ioanna**, ioansasi@iti.gr  
 **Sidiropoulou Despoina**, d.sidiropoulou@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
-**Simone Fabbrizzi**, simone.fabbrizzi@iti.gr  
 **Skouras Taxiarchis**, tax_skouras@iti.gr  
 **Soukaras Sotirios**, soukaras@iti.gr  
 **Spathi Theoni**, tspathi@iti.gr  
@@ -215,8 +212,7 @@ showpagemeta: false
 **Stavrothanasopoulos Klearxos**, klearchos_stav@iti.gr  
 **Stefanopoulos Dimitrios**,  distef@iti.gr  
 **Taxidari Athina**, athinata@iti.gr  
-**Theodosiadis Xristos**, theodosc@iti.gr   
-**Theofilakou Ioanna**, io_theo@iti.gr  
+**Theodosiadis Xristos**, theodosc@iti.gr  
 **Touska Despoina**, destousok@iti.gr  
 **Triaridis Konstantinos**, triaridis@iti.gr  
 **Tsaknaki Ilektra**, tsaknaki@iti.gr  
@@ -250,6 +246,10 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Theofilakou Ioanna, Research Associate, io_theo@iti.gr  
+Simone Fabbrizzi, Research Associate, simone.fabbrizzi@iti.gr  
+Loukas Nikolaos, Research Associate, nickloukas@iti.gr  
+Dogoulis Pantelis, Research Associate, dogoulis@iti.gr  
 Michailidis Georgios, Research Associate, geormich@iti.gr  
 Vangeli-Margariti Evaggelia, Research Associate, margariti@iti.gr  
 Vaitsi Aikaterini, Research Associate, katvai@iti.gr  
