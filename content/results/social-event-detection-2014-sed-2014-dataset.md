@@ -23,7 +23,7 @@ date: '2014-11-14T15:47:44+03:00'
 <div>The dataset has two parts, the first contains a set of 362,578 images that belong to 17,834 events. Its metadata file, in JSON format, can be obtained from here:</div>
 <div>&nbsp;</div>
 <div>
-	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_Dev_Metadata.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Metadata file for first part</a></p>
+	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_Dev_Metadata.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Metadata file for first part</a></p>
 	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);">&nbsp;</p>
 	<div>To obtain the image files please use the URL listed for each image in the metadata file. The association of these images to the events is provided in the following file:&nbsp;</div>
 	<div>&nbsp;</div>
