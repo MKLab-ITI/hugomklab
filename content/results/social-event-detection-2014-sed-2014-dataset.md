@@ -27,30 +27,30 @@ date: '2014-11-14T15:47:44+03:00'
 	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);">&nbsp;</p>
 	<div>To obtain the image files please use the URL listed for each image in the metadata file. The association of these images to the events is provided in the following file:&nbsp;</div>
 	<div>&nbsp;</div>
-	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_Dev_Clusters.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Cluster mappings file for first part</a></p>
+	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_Dev_Clusters.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Cluster mappings file for first part</a></p>
 </div>
 <div>&nbsp;</div>
 <div>This first part of the dataset is used for development in the first subtask as well as for development and testing purposes in the second subtask. In particular, the data in the first part of the dataset can be used as an example clustering for developing solutions to the first subtask. Additionally, for development purposes in the first subtask we provide a list of example queries here:</div>
 <div>&nbsp;</div>
 <div>
-	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_Dev_Queries.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Development queries file</a></p>
+	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_Dev_Queries.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Development queries file</a></p>
 	<div>&nbsp;</div>
 	<div>The second part of the dataset is used for testing in the first subtask. The corresponding metadata file can be found here:</div>
 </div>
 <div>&nbsp;</div>
 <div>
-	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_Test_Metadata.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Metadata file for second part</a>&nbsp; (has exactly the same format as the first metadata file)</p>
+	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_Test_Metadata.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Metadata file for second part</a>&nbsp; (has exactly the same format as the first metadata file)</p>
 	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);">&nbsp;</p>
 	<div>The test queries for the second subtask can be found in the following file:</div>
 	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);">&nbsp;</p>
-	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_Test_Queries.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(17, 68, 136);">Test queries file</a></p>
+	<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_Test_Queries.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(17, 68, 136);">Test queries file</a></p>
 </div>
 <div>&nbsp;</div>
 <div>Finally, we provide the ground truth for the first subtask here:</div>
 <div>&nbsp;</div>
 <div>
 	<div>
-		<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_Subtask1_ground_truth.json" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(17, 68, 136);">First subtask ground truth</a></p>
+		<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_Subtask1_ground_truth.json" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(17, 68, 136);">First subtask ground truth</a></p>
 	</div>
 	<div>&nbsp;</div>
 </div>
@@ -58,14 +58,14 @@ date: '2014-11-14T15:47:44+03:00'
 <div>&nbsp;</div>
 <div>
 	<div>
-		<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_Subtask2_ground_truth.json" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(17, 68, 136);">Second subtask ground truth</a></p>
+		<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_Subtask2_ground_truth.json" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(17, 68, 136);">Second subtask ground truth</a></p>
 		<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);">&nbsp;</p>
 		<h2 style="margin: 0px; padding: 0px; border: 0px; font-size: 17px; font-family: 'Segoe UI', 'Lucida Grande', Arial, sans-serif; vertical-align: baseline; line-height: 1.25em; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><span style="font-family: 'Segoe UI', 'Lucida Grande', Arial; font-size: 13px; line-height: 19.5px;">Evaluation:</span></h2>
 		<div>A script is provided to easily compute the evaluation measures on your results. You can find it here:</div>
 	</div>
 	<div>&nbsp;</div>
 </div>
-<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="http://socialsensor.iti.gr/sed2014/SED_2014_evaluation_resources.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Evaluation resources</a></p>
+<p style="margin: 0px; padding: 0px; border: 0px; font-size: 13px; font-family: 'Segoe UI', 'Lucida Grande', Arial; vertical-align: baseline; line-height: 19.5px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);"><a href="https://socialsensor.iti.gr/sed2014/SED_2014_evaluation_resources.rar" search_id="undefined" style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; color: rgb(17, 68, 136);">Evaluation resources</a></p>
 <div>&nbsp;</div>
 <div>
 	<div>
