@@ -13,23 +13,23 @@ On November 8, 2023, the Information Technologies Institute (ITI) of Centre for 
 
 
 <figure>
-<img src="/files/news_images/surveillance and security measures 1.jpg" alt="" width="642" height="361" /> <figcaption style="font-size:10px;">P.1 Dr. Yiannis Kompatsiaris, Dr. Stefanos Vrochidis, Athanasios Kyriazis (from the left) during the Demonstration of the Remote-Control Center of the UAV Surveillance system</figcaption>
+<img src="/files/news_images/surveillance and security measures 1.jpg" alt="" width="642" height="361" /> <figcaption style="font-size:12px; text-align: center;">P.1 Dr. Yiannis Kompatsiaris, Dr. Stefanos Vrochidis, Athanasios Kyriazis (from the left) during the Demonstration of the Remote-Control Center of the UAV Surveillance system</figcaption>
 </figure>
 <p style="text-align: center;"><strong>These technologies included are a collaborative innovation by M4D Group and ConvCAO Group. The demonstration marked a milestone for ITI's extended involvement and expertise in surveillance-related projects.</strong></p>
 &nbsp;
 <figure>
-<img class="wp-image-5785" src="/files/news_images/surveillance and security measures 2.jpg" alt="" width="617" height="346" /> <figcaption  style="font-size:10px;">P.2 The Graphical User Interface of the Remote-Control Center (Choosepath)</figcaption>
+<img class="wp-image-5785" src="/files/news_images/surveillance and security measures 2.jpg" alt="" width="617" height="346" /> <figcaption  style="font-size:10px; text-align: center;">P.2 The Graphical User Interface of the Remote-Control Center (Choosepath)</figcaption>
 </figure>
 &nbsp;
 <p style="text-align: center;">The operator has the capacity to determine the number of UAVs to deploy and set various parameters such as speed, camera angle, and more. Leveraging advanced AI algorithms, the system estimates the most efficient flight pathways for each drone, ensuring effective area coverage.</p>
 <p style="text-align: center;"><strong>The showcase system allows an operator to designate a surveillance area on a map, which could be located at any world point.</strong></p>
 &nbsp;
 <figure>
-<img src="/files/news_images/surveillance and security measures 3.jpg" alt="" width="656" height="330" /> <figcaption  style="font-size:10px;">P.3 Detection of the objects of interest by analyzing video stream in real-time</figcaption>
+<img src="/files/news_images/surveillance and security measures 3.jpg" alt="" width="656" height="330" /> <figcaption  style="font-size:12px; text-align: center;">P.3 Detection of the objects of interest by analyzing video stream in real-time</figcaption>
 </figure>
 &nbsp;
 <figure>
-<img  src="/files/news_images/surveillance and security measures 5.jpg" alt="" width="655" height="369" /> <figcaption>P.4 Detection of the objects of interest by analyzing video stream in real-time</figcaption>
+<img  src="/files/news_images/surveillance and security measures 5.jpg" alt="" width="655" height="369" /> <figcaption style="font-size:12px; text-align: center;">P.4 Detection of the objects of interest by analyzing video stream in real-time</figcaption>
 </figure>
 &nbsp;
 <p style="text-align: center;">Once the mission is approved by the operator, the UAVs autonomously take off from their remote location, conduct the surveillance operation, and return to their starting points, all without the need for local intervention. The system also includes state-of-the-art AI algorithms, which are capable of analyzing the visual feed from the UAVs in real-time, identifying objects of interest tailored to an operator’s needs and according to the application.</p>
