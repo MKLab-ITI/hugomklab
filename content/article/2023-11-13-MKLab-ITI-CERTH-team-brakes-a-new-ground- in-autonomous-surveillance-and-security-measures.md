@@ -8,7 +8,7 @@ title: 'Τhe M4D/MKLab-ITI-CERTH Team brakes a new ground in autonomous surveill
 date: '2023-11-13T08:49:37+02:00'
 ---
 <style>
-    .post img:first-child {
+    .post img:first-of-type {
         display:none;
     }
 </style>
