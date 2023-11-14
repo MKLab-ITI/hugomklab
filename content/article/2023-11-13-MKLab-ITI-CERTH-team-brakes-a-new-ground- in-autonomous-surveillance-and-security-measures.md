@@ -18,7 +18,7 @@ On November 8, 2023, the Information Technologies Institute (ITI) of Centre for 
 <p style="text-align: center;"><strong>These technologies included are a collaborative innovation by M4D Group and ConvCAO Group. The demonstration marked a milestone for ITI's extended involvement and expertise in surveillance-related projects.</strong></p>
 &nbsp;
 <figure>
-<img class="wp-image-5785" src="/files/news_images/surveillance and security measures 3.jpg" alt="" width="617" height="346" /> <figcaption  style="font-size:10px; text-align: center;">P.2 The Graphical User Interface of the Remote-Control Center (Choosepath)</figcaption>
+<img class="wp-image-5785" src="/files/news_images/surveillance and security measures 6.JPEG" alt="" width="617" height="346" /> <figcaption  style="font-size:10px; text-align: center;">P.2 The Graphical User Interface of the Remote-Control Center (Choosepath)</figcaption>
 </figure>
 &nbsp;
 <p style="text-align: center;">The operator has the capacity to determine the number of UAVs to deploy and set various parameters such as speed, camera angle, and more. Leveraging advanced AI algorithms, the system estimates the most efficient flight pathways for each drone, ensuring effective area coverage.</p>
