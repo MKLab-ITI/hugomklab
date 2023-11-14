@@ -6,12 +6,13 @@ images:
 layout: article
 title: 'Τhe M4D/MKLab-ITI-CERTH Team brakes a new ground in autonomous surveillance and security measures in the presence of the General Secretary of the General Secretariat for Research & Innovation (GSRI), Athanasios Kyriazis'
 date: '2023-11-13T08:49:37+02:00'
----
 <style>
     .post img:first-of-type {
         display:none;
     }
 </style>
+---
+
 <p style="text:center">
 On November 8, 2023, the Information Technologies Institute (ITI) of Centre for Research and Technology Hellas (CERTH) was honored to host the General Secretary of the General Secretariat for Research & Innovation (GSRI), Athanasios Kyriazis. A key highlight of Kyriazis's visit was a comprehensive demonstration of a groundbreaking remote surveillance system for an autonomous swarm of Unmanned Aerial Vehicles (UAVs) with enhanced cognitive capabilities.</p>
 &nbsp;
