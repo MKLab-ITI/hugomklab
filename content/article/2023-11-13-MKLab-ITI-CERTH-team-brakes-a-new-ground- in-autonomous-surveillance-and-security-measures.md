@@ -2,7 +2,7 @@
 types: article
 tags:
 images: 
-- news_images/mklab-m4d.png
+- news_images/surveillance and security measures 2.jpg
 layout: article
 title: 'Τhe M4D/MKLab-ITI-CERTH Team brakes a new ground in autonomous surveillance and security measures in the presence of the General Secretary of the General Secretariat for Research & Innovation (GSRI), Athanasios Kyriazis'
 date: '2023-11-13T08:49:37+02:00'
