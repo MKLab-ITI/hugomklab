@@ -46,6 +46,7 @@ showpagemeta: false
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Mpaltsou Georgia**, gebaltso@iti.gr  
+**Dr. Palapanidis Konstantinos**, kpalapan@iti.gr  
 **Dr. Papaioannou Vasileios**, vaspapa@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
@@ -59,6 +60,7 @@ showpagemeta: false
 
 **Aggelopoulos Konstantinos**, kostaggelo@iti.gr  
 **Alepopoulos Vasileios**, valep@iti.gr  
+**Anagnostopoulos Christos**, anagn_c@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr    
 **Antzoulatos Gerasimos**, gantzoulatos@iti.gr  
 **Apostolidis Konstantinos**, kapost@iti.gr  
@@ -143,9 +145,11 @@ showpagemeta: false
 **Loupas Georgios**, loupgeor@iti.gr  
 **Maniati Athanasia**, maniati@iti.gr  
 **Mantsis Damianos-Florin**, dmantsis@iti.gr  
+**Maroudis Aggelos-Christos**, acmaroudis@iti.gr  
 **Masa Panagiota**, gmasa@iti.gr  
 **Mastoras Chrysovaladis**, mastoras.valadis@iti.gr  
 **Matinopoulou Eleni**, matinopoulou@iti.gr  
+**Matzanou Georgia**, gmatzanou@iti.gr  
 **Mitro Ioanni**, john.mitros@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
 **Moskachlaidi Christina**, christina.moskachlaidi@iti.gr  
