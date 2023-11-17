@@ -24,6 +24,6 @@ PREDICTOM's potential lies in its innovative approach to biosample collection, c
 The PREDICTOM trial involves more than 4000 participants, drawing from a pool of individuals from previous projects such as PROTECT UK, PROTECT Norway, and Radar-AD. Participants also include individuals from the catchment areas of other participating centers in Germany, France, Switzerland, Belgium, and Spain.
 </p>
 <p><strong>The Consortium:</strong></p>
-<img src="/files/news_images/PREDICTOM_Consortium.jpg" alt="" width="642" height="361" /> 
+<img src="/files/news_images/PREDICTOM_Consortium.jpg" alt="" width="642" height="400" /> 
 <p>With the support of €21 million in funding (€8 million from the EU, €9 million from industry, and €4 million from UKRI), a consortium of 30 partners from academia, business, civil society, and hospitals is driving PREDICTOM. Partners hail from 15 countries across Europe, Asia, and America, with Stavanger University Hospital leading the consortium.</p>
 <p>PREDICTOM is part of the Innovative Health Initiative (IHI), a public-private partnership between the European Union and the European life science industries. EU funding is provided through Horizon Europe, while additional funding comes from Novo Nordisk A/S, GN Hearing A/S, Pharmacoidea Hungary, GE HealthCare, Siemens Healthineers, Icometrix Nv Belgium, ALZpath Inc USA, University of Geneva, Altoida Inc USA, BrainCheck Inc USA, Muhdo Health Ltd, and UK Research and Innovation (UKRI).</p>
