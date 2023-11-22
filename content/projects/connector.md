@@ -4,7 +4,7 @@ tags:
 - current
 - european
 - scientific manager 
-- technical manage
+- technical manager
 images:
 - project_logos/
 website_name: cordis.europa.eu
