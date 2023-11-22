@@ -6,7 +6,7 @@ tags:
 - scientific manager 
 - technical manager
 images:
-- project_logos/
+- project_logos/connector.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101121271
 acronym: CustOms exteNded iNteroperablE Common informaTiOn shaRing environment

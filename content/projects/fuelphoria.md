@@ -6,7 +6,7 @@ tags:
 - scientific manager 
 - technical manager
 images:
-- project_logos/
+- project_logos/fuelphoria.png
 website_name: fuelphoria.eu
 website_link: https://www.fuelphoria.eu
 acronym: Accelarating the sustainable production of advanced biofuels and RFNBOs – from feedstock to end-use
