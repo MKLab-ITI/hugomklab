@@ -17,7 +17,6 @@ M4D Group researchers led the authoring of the award-winning paper “Evaluation
 
 <p style="text:center"><strong>XAI is a set of processes and methods that allows human users to interpret, understand and trust the results derived from machine learning models.</strong></p>
 
-<img src="/files/news_images/PREDICTOM_Consortium.jpg" alt="" width="642" height="400" /> 
 
 <p style="text:center">The IMCL2023 conference covered all aspects of mobile learning as well as the emer-gence of mobile communication technologies, infrastructures and services and their im-plications for education, business, governments and society. 
 </p>
