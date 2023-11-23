@@ -12,7 +12,7 @@ date: '2023-11-23T08:49:37+02:00'
 We are excited to share the Best Full Paper Award at the 2023 International Confer-ence on Interactive Mobile Communication Technologies and Learning (IMCL).
 </p>
 <p style="text-align: center;"> 
-M4D Group researchers led the authoring of the award-winning paper “Evaluation of Explainable Artificial Intelligence methods in Language Learning Classification of Spanish Tertiary Students”. In the language learning domain, teachers face challeng-es regarding the classification of the students’ learning capabilities and building the appropriate learning path for them. To address these challenges the team adopted the concept of Explainable Artificial Intelligence (XAI), aiming to classify Spanish Tertiary Education Learners, in terms of their performance and interpret the hidden relation-ships among general characteristics and students’ learning profile.
+M4D/MKLab group researchers led the authoring of the award-winning paper “Evaluation of Explainable Artificial Intelligence methods in Language Learning Classification of Spanish Tertiary Students”. In the language learning domain, teachers face challeng-es regarding the classification of the students’ learning capabilities and building the appropriate learning path for them. To address these challenges the team adopted the concept of Explainable Artificial Intelligence (XAI), aiming to classify Spanish Tertiary Education Learners, in terms of their performance and interpret the hidden relation-ships among general characteristics and students’ learning profile.
 </p>
 
 <p style="text-align: center;"><strong>XAI is a set of processes and methods that allows human users to interpret, understand and trust the results derived from machine learning models.</strong></p>
