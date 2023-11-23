@@ -20,7 +20,7 @@ M4D Group researchers led the authoring of the award-winning paper “Evaluation
 
 <p style="text-align: center;">The IMCL2023 conference covered all aspects of mobile learning as well as the emer-gence of mobile communication technologies, infrastructures and services and their im-plications for education, business, governments and society. 
 </p>
-<p style="text-align: center;">
-In this context, our team stood out, contributing substantially not only to the academic knowledge but also to the expansion of the horizon of artificial intelli-gence.
+<p style="text-align: center;"><strong>
+In this context, our team stood out, contributing substantially not only to the academic knowledge but also to the expansion of the horizon of artificial intelli-gence.</strong>
 </p>
-<p>You can read the full paper <a href="https://zenodo.org/records/8433405" target="_blank">here</a></p>
+<p style="text-align: center;">You can read the full paper <a href="https://zenodo.org/records/8433405" target="_blank">here</a></p>
