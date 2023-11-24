@@ -4,7 +4,7 @@ types: publication
 title: Real-time Threat Assessment based on Hidden Markov Models
 date: 2023-01-17T10:20:57.523Z
 tags: journal_publications
-publication_date: 2023-01-17
+publication_date: 2022-10-17
 ---
 <!--StartFragment-->
 
