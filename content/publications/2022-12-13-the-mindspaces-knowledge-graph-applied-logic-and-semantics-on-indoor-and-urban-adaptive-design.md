@@ -5,10 +5,10 @@ title: "The MindSpaces Knowledge Graph: Applied Logic and Semantics on Indoor
   and Urban Adaptive Design"
 date: 2022-12-13T20:20:32.174Z
 tags: conference_publications
-publication_date: 2022-12-13
+publication_date: 2023-02-22
 ---
 <!--StartFragment-->
 
-Evangelos A. Stathopoulos, Alexandros Vassiliades, Sotiris Diplaris, Stefanos Vrochidis, Nick Bassiliades, & Ioannis Kompatsiaris (2023, February). The MindSpaces Knowledge Graph: Applied Logic and Semantics on Indoor and Urban Adaptive Design. In ICAART (accepted for publication)
+A. Vassiliades, S. Symeonidis, S. Diplaris, G. Tzanetis, S. Vrochidis and I. Kompatsiaris, “XR4DRAMA Knowledge Graph: A Knowledge Graph for Media Planning”, in Proceedings of: 15th Internation Conference on Agents and Artificial Intelligence (ICAART), 22-24 February 2023, Lisbon, Portugal.
 
 <!--EndFragment-->
