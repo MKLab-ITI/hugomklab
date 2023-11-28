@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: Automatic transcription of Greek folk dance videos to labanotation based
   on autoencoders
-date: 2023-08-24T10:06:54.968Z
+date: 2023-06-08T10:06:54.968Z
 tags: conference_publications
 publication_date: 2023-06-08
 ---
