@@ -9,6 +9,6 @@ publication_date: 2023-09-25
 ---
 <!--StartFragment-->
 
-A.Georgoudi; G. Meditskos; T. Mavropoulos; S. Vrochidis; "DYNAMO: Dynamic Ontology Extension for Augmenting Chatbot Intelligence through BabelNet", in SEMAPRO 2023, September 25- 29, 2023.
+A. Georgoudi; G. Meditskos; T. Mavropoulos; S. Vrochidis; "DYNAMO: Dynamic Ontology Extension for Augmenting Chatbot Intelligence through BabelNet", in SEMAPRO 2023, September 25- 29, 2023.
 
 <!--EndFragment-->
