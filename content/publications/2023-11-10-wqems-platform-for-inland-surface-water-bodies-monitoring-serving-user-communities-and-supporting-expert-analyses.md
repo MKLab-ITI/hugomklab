@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "WQEMS platform for inland surface water bodies' monitoring: serving user
   communities and supporting expert analyses"
-date: 2023-11-10T13:12:40.322Z
+date: 2023-04-03T12:12:40.322Z
 tags: conference_publications
 publication_date: 2023-04-03
 ---
