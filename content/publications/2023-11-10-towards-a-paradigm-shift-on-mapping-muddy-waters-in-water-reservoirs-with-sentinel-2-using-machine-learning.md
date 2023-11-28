@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: TOWARDS A PARADIGM SHIFT ON MAPPING MUDDY WATERS IN WATER RESERVOIRS WITH
   SENTINEL-2 USING MACHINE LEARNING
-date: 2023-11-10T13:10:49.104Z
+date: 2023-04-03T12:10:49.104Z
 tags: conference_publications
 publication_date: 2023-04-03
 ---
