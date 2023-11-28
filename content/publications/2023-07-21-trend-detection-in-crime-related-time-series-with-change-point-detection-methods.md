@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: Trend Detection in Crime-related Time Series with Change Point Detection
   Methods
-date: 2023-07-21T14:09:47.216Z
+date: 2023-09-18T14:09:47.216Z
 tags: conference_publications
 publication_date: 2023-09-18
 ---
