@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: Social media sensing for forest wildfires- a case study from Greece
-date: 2023-11-10T14:20:52.076Z
+date: 2023-06-20T13:20:52.076Z
 tags: conference_publications
-publication_date: 2023-09-25
+publication_date: 2023-06-20
 ---
 <!--StartFragment-->
 
