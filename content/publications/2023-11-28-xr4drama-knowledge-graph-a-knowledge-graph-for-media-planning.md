@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: "XR4DRAMA Knowledge Graph: A Knowledge Graph for Media Planning"
-date: 2023-11-28T08:51:54.080Z
+date: 2022-02-22T08:51:54.080Z
 tags: conference_publications
 publication_date: 2023-02-22
 ---
