@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: Detection of oil spills in an inland lake using Multi-Spectral Satellite Images
-date: 2022-06-02T09:47:07.486Z
+date: 2022-05-23T09:47:07.486Z
 tags: conference_publications
-publication_date: 2022-06-02
+publication_date: 2022-05-23
 ---
 <!--StartFragment-->
 
