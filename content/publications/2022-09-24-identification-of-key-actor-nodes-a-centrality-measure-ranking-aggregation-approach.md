@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "Identification of Key Actor Nodes: A Centrality Measure Ranking
   Aggregation Approach"
-date: 2022-09-24T11:33:59.265Z
+date: 2022-11-10T12:33:59.265Z
 tags: conference_publications
 publication_date: 2022-11-10
 ---
