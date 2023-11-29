@@ -3,9 +3,9 @@ layout: publication
 types: publication
 title: A tempοral Deep Convolutional Neural Network model on Sentinel-1 Image
   Time Series for pixel-wise Flood Classification
-date: 2022-06-02T09:40:15.962Z
+date: 2022-07-17T09:40:15.962Z
 tags: conference_publications
-publication_date: 2022-06-02
+publication_date: 2022-07-17
 ---
 <!--StartFragment-->
 
