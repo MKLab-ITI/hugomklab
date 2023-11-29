@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: "Graph-Based Data Association in Multiple Object Tracking: A Survey"
-date: 2022-11-02T19:06:36.566Z
+date: 2023-01-09T19:06:36.566Z
 tags: conference_publications
-publication_date: 2022-12-09
+publication_date: 2023-01-09
 ---
 <!--StartFragment-->
 
