@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "SILVANUS: An Integrated Technological and Information Platform for
   Wildfire Management – North Evia Pilot Area"
-date: 2022-11-30T07:55:12.041Z
+date: 2022-09-29T06:55:12.041Z
 tags: conference_publications
 publication_date: 2022-09-29
 ---
