@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Tweaking EfficientDet for frugal training
-date: 2023-05-19T11:24:42.307Z
+date: 2023-06-12T11:24:42.307Z
 tags: conference_publications
 publication_date: 2023-06-12
 ---
