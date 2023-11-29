@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: An Explainable Multimodal Fusion Approach for Mass Casualty Incidents
-date: 2022-05-19T12:18:54.158Z
+date: 2022-08-22T12:18:54.158Z
 tags: conference_publications
-publication_date: 2022-05-19
+publication_date: 2022-08-22
 ---
 <!--StartFragment-->
 
