@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "Leveraging Cyber ranges for Prototyping, Certification and Training: The
   ECHO case"
-date: 2022-09-01T08:40:36.310Z
+date: 2022-07-27T08:40:36.310Z
 tags: conference_publications
 publication_date: 2022-07-27
 ---
