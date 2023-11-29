@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: "BiasUNet: Learning Change Detection over Sentinel-2 Image Pairs"
-date: 2022-10-31T14:09:50.893Z
+date: 2022-09-14T13:09:50.893Z
 tags: conference_publications
 publication_date: 2022-09-14
 ---
