@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: Standardized and extensible reference data model for clinical research in
   Living Labs
-date: 2023-04-12T14:45:10.454Z
+date: 2022-10-26T14:45:10.454Z
 tags: conference_publications
 publication_date: 2022-10-26
 ---
