@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: '"An early-warning system for fire spreading by monitoring simple climate
   conditions and combining Cellular Automata with Digital Twins"'
-date: 2022-10-11T12:54:37.977Z
+date: 2022-05-25T12:54:37.977Z
 tags: conference_publications
 publication_date: 2022-05-25
 ---
