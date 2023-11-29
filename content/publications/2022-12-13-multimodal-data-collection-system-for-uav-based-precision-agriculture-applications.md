@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: Multimodal Data Collection System for UAV-based Precision Agriculture
   Applications
-date: 2022-12-13T20:30:38.030Z
+date: 2022-12-05T20:30:38.030Z
 tags: conference_publications
 publication_date: 2022-12-05
 ---
