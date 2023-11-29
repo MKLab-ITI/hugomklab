@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: Automatic Visual Recognition of Unexploded Ordnances Using Supervised
   Deep Learning
-date: 2022-10-12T17:12:35.001Z
+date: 2022-06-27T17:12:35.001Z
 tags: conference_publications
 publication_date: 2022-06-27
 ---
