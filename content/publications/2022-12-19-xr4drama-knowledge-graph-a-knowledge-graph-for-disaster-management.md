@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: "XR4DRAMA Knowledge Graph: A Knowledge Graph for Disaster Management"
-date: 2022-12-19T13:53:22.206Z
+date: 2023-02-01T13:53:22.206Z
 tags: conference_publications
 publication_date: 2023-02-01
 ---
