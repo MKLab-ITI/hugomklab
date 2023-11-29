@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: Low-light image enhancement based on U-Net and Haar wavelet pooling
-date: 2022-11-02T18:13:37.467Z
+date: 2023-01-09T18:13:37.467Z
 tags: conference_publications
-publication_date: 2022-12-09
+publication_date: 2023-01-09
 ---
 <!--StartFragment-->
 
