@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: Comparison of deep learning techniques for video-based automatic
   recognition of Greek folk dances
-date: 2022-10-25T15:27:59.673Z
+date: 2023-01-09T16:27:59.673Z
 tags: conference_publications
 publication_date: 2023-01-09
 ---
