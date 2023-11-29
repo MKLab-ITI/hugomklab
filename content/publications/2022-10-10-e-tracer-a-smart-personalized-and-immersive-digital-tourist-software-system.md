@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: "e-Tracer: A Smart, Personalized and Immersive Digital Tourist Software System"
-date: 2022-10-10T17:58:00.826Z
+date: 2022-11-28T18:58:00.826Z
 tags: conference_publications
 publication_date: 2022-11-28
 ---
