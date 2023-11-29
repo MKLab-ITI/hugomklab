@@ -3,9 +3,9 @@ layout: publication
 types: publication
 title: Domain-aligned Data Augmentation for Low-resource and Imbalanced Text
   Classification
-date: 2023-01-03T08:46:51.859Z
+date: 2023-04-02T07:46:51.859Z
 tags: conference_publications
-publication_date: 2023-04-06
+publication_date: 2023-04-02
 ---
 <!--StartFragment-->
 
