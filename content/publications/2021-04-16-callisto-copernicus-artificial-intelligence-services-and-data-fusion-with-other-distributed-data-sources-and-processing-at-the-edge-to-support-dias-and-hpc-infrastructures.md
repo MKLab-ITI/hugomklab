@@ -4,9 +4,9 @@ types: publication
 title: "CALLISTO: Copernicus Artificial Intelligence Services and data fusion
   with other distributed data sources and processing at the edge to support DIAS
   and HPC infrastructures"
-date: 2021-04-16T13:54:18.615Z
+date: 2021-05-18T13:54:18.615Z
 tags: conference_publications
-publication_date: 2021-04-16
+publication_date: 2021-05-18
 ---
 <!--StartFragment-->
 
