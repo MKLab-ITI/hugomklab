@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: "Earthquakes: from Twitter detection to EO data processing"
-date: 2021-06-03T17:35:06.069Z
+date: 2021-07-15T17:35:06.069Z
 tags: conference_publications
-publication_date: 2021-06-03
+publication_date: 2021-07-15
 ---
 <!--StartFragment-->
 
