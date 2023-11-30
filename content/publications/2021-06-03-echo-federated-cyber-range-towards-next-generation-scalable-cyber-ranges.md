@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: "ECHO Federated Cyber Range: Towards Next-Generation Scalable Cyber Ranges"
-date: 2021-06-03T17:37:18.072Z
+date: 2021-07-26T17:37:18.072Z
 tags: conference_publications
-publication_date: 2021-06-03
+publication_date: 2021-07-26
 ---
 <!--StartFragment-->
 
