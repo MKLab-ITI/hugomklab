@@ -12,7 +12,7 @@ website_link:
 acronym: Autonomous Swarm of Heterogeneous resources in infrastructure protection via threat prediction and prevention
 layout: projects
 title: TESTUDO
-date: '2021-05-27T07:48:57+03:00'
+date: '2023-12-01T07:48:57+03:00'
 program: HORIZON-CL3-2022-INFRA-01
 contact:
 - Ιoannidis Konstantinos
