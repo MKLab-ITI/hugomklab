@@ -23,8 +23,8 @@ The SYNERGISE project aims at boosting the efficiency and safety of first respon
 </p>
 <p>
 <ol type="1">
-<li>boosting situational awareness and sense-making by offering them the means to autonomously and synergistically perform indoor and outdoor exploration of incident sites towards victim identification whilst receiving at all times information about responders’ position and vitals as well as analyses of passive and active threats and hazards at the area of operations and</li>
-<li>upgrading collaborative response and incident as well as resources management by continuously sharing and updating the common operational picture across deployed teams, among the chain of command and between participating agencies.</li>
+<li> boosting situational awareness and sense-making by offering them the means to autonomously and synergistically perform indoor and outdoor exploration of incident sites towards victim identification whilst receiving at all times information about responders’ position and vitals as well as analyses of passive and active threats and hazards at the area of operations and</li>
+<li> upgrading collaborative response and incident as well as resources management by continuously sharing and updating the common operational picture across deployed teams, among the chain of command and between participating agencies.</li>
 </ol>
 </p>
 <p>
