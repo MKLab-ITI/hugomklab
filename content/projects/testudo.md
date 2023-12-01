@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - coordinator
 images:
-- project_logos/
+- project_logos/testudo-logo.png
 website_name: 
 website_link:  
 acronym: Autonomous Swarm of Heterogeneous resources in infrastructure protection via threat prediction and prevention
