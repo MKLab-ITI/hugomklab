@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/synergise-logo.png
 website_name: synergise-project.eu
 website_link: https://www.synergise-project.eu/
 acronym: A novel integrated SYstem of Systems streNgthening tEchnical and logistical capacities to ensure better Response to emerGencies by synergIStically addrEssing FRs capability gaps
