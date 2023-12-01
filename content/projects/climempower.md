@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/climempower-logo.png
 website_name: climempower.eu
 website_link: https://climempower.eu/
 acronym: User driven climate applications empowering regional resilience
