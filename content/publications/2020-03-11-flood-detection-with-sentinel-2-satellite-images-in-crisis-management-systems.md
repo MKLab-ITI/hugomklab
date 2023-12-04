@@ -1,7 +1,7 @@
 ---
 layout: publication
 types: publication
-title: Flood detection with Sentinel 2 satellite images in crisis management systems
+title: Flood detection with Sentinel-2 satellite images in crisis management systems
 date: 2020-05-24T09:10:34.900Z
 tags: conference_publications
 publication_date: 2020-05-24T00:00:00.000Z
