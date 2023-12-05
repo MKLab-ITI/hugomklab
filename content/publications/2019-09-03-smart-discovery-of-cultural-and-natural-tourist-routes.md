@@ -1,7 +1,7 @@
 ---
 layout: publication
 types: publication
-title: Smart Discovery of Cultural and Natural  Tourist Routes
+title: Smart Discovery of Cultural and Natural Tourist Routes
 date: 2019-10-14T12:31:21.525Z
 tags: conference_publications
 publication_date: 2019-10-14
