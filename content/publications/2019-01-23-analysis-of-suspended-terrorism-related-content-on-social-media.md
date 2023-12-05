@@ -2,8 +2,8 @@
 layout: publication
 types: publication
 title: Analysis of Suspended Terrorism-Related Content on Social Media
-date: 2018-12-23T13:35:00.000Z
+date: 2018-04-27T12:35:00.000Z
 tags: conference_publications
-publication_date: 2018-12-23
+publication_date: 2018-04-27
 ---
-Kalpakis, G., Tsikrika, T., Gialampoukidis, I., Papadopoulos, S., Vrochidis, S., & Kompatsiaris, I. (2018). [Analysis of Suspended Terrorism-Related Content on Social Media](https://www.researchgate.net/publication/324779932_Analysis_of_Suspended_Terrorism-Related_Content_on_Social_Media). Community-Oriented Policing and Technological Innovations, 107-118
+G. Kalpakis, T. Tsikrika, I. Gialampoukidis, S. Papadopoulos, S. Vrochidis, I. Kompatsiaris, "[Analysis of Suspended Terrorism-Related Content on Social Media](https://www.researchgate.net/publication/324779932_Analysis_of_Suspended_Terrorism-Related_Content_on_Social_Media)", Community-Oriented Policing and Technological Innovations, 107-118. [https://doi.org/10.1007/978-3-319-89294-8_11](https://doi.org/10.1007/978-3-319-89294-8_11)
