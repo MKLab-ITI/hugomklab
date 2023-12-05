@@ -2,8 +2,8 @@
 layout: publication
 types: publication
 title: Activity Recognition from Wearable Cameras
-date: 2019-08-26T08:27:32.268Z
+date: 2018-09-04T08:27:32.268Z
 tags: conference_publications
-publication_date: 2019-08-26
+publication_date: 2018-09-04
 ---
-P. Giannakeris, K. Avgerinakis, S. Vrochidis, I. Kompatsiaris, "[Activity Recognition from Wearable Cameras](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8516553)", 2018 International Conference on Content-Based Multimedia Indexing (CBMI), 4-6 Sept. 2018
+P. Giannakeris, K. Avgerinakis, S. Vrochidis, I. Kompatsiaris, "[Activity Recognition from Wearable Cameras](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8516553)", International Conference on Content-Based Multimedia Indexing (CBMI), 4-6 Sept. 2018.
