@@ -2,8 +2,8 @@
 layout: publication
 types: publication
 title: Speed Estimation and Abnormality Detection from Surveillance Cameras
-date: 2018-05-10T17:04:28+03:00
+date: 2018-06-15T14:04:28.000Z
 tags: conference_publications
-publication_date: 2018-06-18T00:00:00
+publication_date: 2018-06-15
 ---
-P. Giannakeris, V. Kaltsa, K. Avgerinakis, A. Briassouli, S. Vrochidis and I. Kompatsiaris, "[Speed Estimation and Abnormality Detection from Surveillance Cameras](https://www.researchgate.net/publication/329744178_Speed_Estimation_and_Abnormality_Detection_from_Surveillance_Cameras)“. CVPRW NVIDIA AI City Challenge, 2018.
+P. Giannakeris, V. Kaltsa, K. Avgerinakis, A. Briassouli, S. Vrochidis and I. Kompatsiaris, "[Speed Estimation and Abnormality Detection from Surveillance Cameras](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Giannakeris_Speed_Estimation_and_CVPR_2018_paper.pdf)", in CVPRW NVIDIA AI City Challenge, 2018.
