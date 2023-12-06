@@ -1,8 +1,8 @@
 ---
 layout: publication
 types: publication
-title: '"VisDrone-VDT2018: The vision meets drone video detection and tracking
-  challenge results'
+title: "VisDrone-VDT2018: The vision meets drone video detection and tracking
+  challenge results"
 date: 2018-09-14T14:15:00.000Z
 tags: conference_publications
 publication_date: 2018-09-14
