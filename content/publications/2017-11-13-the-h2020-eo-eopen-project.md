@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: The H2020-EO EOPEN project
-date: 2017-11-13T11:35:35+02:00
+date: 2017-11-28T09:35:35.000Z
 tags: conference_publications
 publication_date: 2017-11-28T00:00:00
 ---
