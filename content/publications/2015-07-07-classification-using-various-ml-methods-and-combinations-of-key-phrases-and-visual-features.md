@@ -7,7 +7,7 @@ layout: publication
 types: publication
 title: Classification using various ML Methods and Combinations of Key-Phrases
   and Visual Features
-date: 2015-07-07T12:42:15+03:00
+date: 2015-09-08T09:42:15.000Z
 tags: conference_publications
 publication_date: 2015-09-08T00:00:00
 ---
