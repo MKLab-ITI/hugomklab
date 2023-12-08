@@ -7,8 +7,8 @@ tags:
 - coordinator
 images:
 - project_logos/testudo-logo.png
-website_name: 
-website_link:  
+website_name: testudo-project.eu
+website_link: http://www.testudo-project.eu
 acronym: Autonomous Swarm of Heterogeneous resources in infrastructure protection via threat prediction and prevention
 layout: projects
 title: TESTUDO
