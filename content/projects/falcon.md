@@ -5,7 +5,7 @@ tags:
 - european
 - scientific manager
 images:
-- project_logos/
+- project_logos/falcon-logo.png
 website_name: falcon-horizon.eu
 website_link: https://www.falcon-horizon.eu/ 
 acronym: Fight Against Large-scale Corruption and Organised Crime Networks
