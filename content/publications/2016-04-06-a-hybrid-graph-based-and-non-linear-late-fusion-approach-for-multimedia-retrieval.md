@@ -1,9 +1,10 @@
 ---
-types: publication
-tags: conference_publications
-publication_date: '2016-06-15T00:00:00'
 layout: publication
-title: A hybrid graph-based and non-linear late fusion approach for multimedia retrieval
-date: '2016-04-06T10:39:36+03:00'
+types: publication
+title: A hybrid graph-based and non-linear late fusion approach for multimedia
+  retrieval
+date: 2016-06-01T07:39:36.000Z
+tags: conference_publications
+publication_date: 2016-06-01
 ---
-<p>I. Gialampoukidis, A. Moumtzidou, D. Liparas, S. Vrochidis, I. Kompatsiaris, "A hybrid graph-based and non-linear late fusion approach for multimedia retrieval". In <em>Content-Based Multimedia Indexing (CBMI), 2016 14th International Workshop on</em>, pp. 1-6, IEEE, 2016.</p>
+I. Gialampoukidis, A. Moumtzidou, D. Liparas, S. Vrochidis, I. Kompatsiaris, "[A hybrid graph-based and non-linear late fusion approach for multimedia retrieval](https://zenodo.org/records/160505#.X8QwoKr7QWo)", in 14th International Workshop on Content-Based Multimedia Indexing (CBMI), 2016, pp. 1-6, IEEE, 2016. DOI: [10.1109/CBMI.2016.7500252](https://ieeexplore.ieee.org/document/7500252)
