@@ -5,7 +5,7 @@ tags:
 - european
 images:
 - project_logos/
-website_name: falcon-horizon.eu
+website_name: nancy-project.eu
 website_link: https://nancy-project.eu/ 
 acronym: An Artificial Intelligent Aided Unified Network for Secure Beyond 5G Long Term Evolution
 layout: projects
