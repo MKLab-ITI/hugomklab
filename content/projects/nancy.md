@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/nancy-poject.png
 website_name: nancy-project.eu
 website_link: https://nancy-project.eu/ 
 acronym: An Artificial Intelligent Aided Unified Network for Secure Beyond 5G Long Term Evolution
