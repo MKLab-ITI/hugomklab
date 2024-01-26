@@ -3,9 +3,9 @@ layout: publication
 types: publication
 title: Vehicle Color Identification Framework using Pixel-level Color Estimation
   from Segmentation Masks of Car Parts
-date: 2022-12-07T13:51:20.436Z
+date: 2023-02-28T13:51:20.436Z
 tags: conference_publications
-publication_date: 2022-12-07
+publication_date: 2023-02-28
 ---
 <!--StartFragment-->
 
