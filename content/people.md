@@ -255,6 +255,8 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Veglis Andreas, Academic Research Partners, veglis@iti.gr  
+Dimoulas Charalampos, Academic Research Partners, dimoulas@iti.gr  
 Voulgaris Christos, Research Associate, christosvoulgaris@iti.gr  
 Vasiloudis Georgios, Research Associate, vasiloudisg@iti.gr  
 Tsalas Nikolaos, Research Associate, tsalas_niko@iti.gr  
