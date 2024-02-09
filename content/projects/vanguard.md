@@ -6,7 +6,7 @@ tags:
 - coordinator 
 - scientific manager 
 images:
-- project_logos/
+- project_logos/vanguard-logo.jpg
 website_name: vanguard.europa.eu
 website_link: https://cordis.europa.eu/project/id/101121282    
 acronym: adVANced technoloGical solutions coupled with societal-oriented Understanding and AwaReness for Disrupting trafficking in human beings
