@@ -13,7 +13,7 @@ acronym: adVANced technoloGical solutions coupled with societal-oriented Underst
 layout: projects
 title: VANGUARD
 date: '2024-02-09T07:48:57+03:00'
-program: HORIZON-CL3-2022-FCT-01 (HORIZON Europe)
+program: HORIZON-CL3-2022-FCT-01
 contact:
 - Tsikrika Theodora 
 - Vrochidis Stefanos
