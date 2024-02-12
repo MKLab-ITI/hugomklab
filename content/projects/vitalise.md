@@ -3,8 +3,7 @@ types: project
 tags:
 - current
 - european
-- scientific manager 
-- technical manager 
+- partner
 images:
 - project_logos/
 website_name: vitalise-project.eu
