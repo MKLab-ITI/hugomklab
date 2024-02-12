@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/target_eu_project_logo.jpeg
 website_name: 
 website_link: 
 acronym: Health virtual twins for the personalised management of stroke related to atrial fibrillation
