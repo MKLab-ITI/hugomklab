@@ -2,9 +2,9 @@
 types: project
 tags:
 - current 
-- european 
-- scientific manager 
-- technical manager 
+- national
+- coordinator
+
 images:
 - project_logos/
 website_name: 
