@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/reschool_h-logo.png
 website_name: reschool-project.eu
 website_link: https://www.reschool-project.eu/
 acronym: Strategies and tOOls for Incentivization and management of flexibility in Energy Communities with distributed Resources
