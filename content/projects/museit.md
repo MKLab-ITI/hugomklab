@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/MuseIT-logo.jpg
 website_name: muse-it.eu
 website_link: https://www.muse-it.eu/
 acronym: Multi-sensory, User-centred, Shared cultural Experiences through Interactive Technologies
