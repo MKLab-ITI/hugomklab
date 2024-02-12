@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/ARTCAST4D_logo.png
 website_name: artcast4d.eu
 website_link: https://www.artcast4d.eu/
 acronym: Unleashing creativity!
