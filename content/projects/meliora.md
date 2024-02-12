@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/MELIORA_logo.png
 website_name: 
 website_link: 
 acronym: Multimodal Engagement and sustainable Lifestyle Interventions Optimizing breast cancer Risk reduction supported by Artificial intelligence
