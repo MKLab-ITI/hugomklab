@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/vitalise-logo.png
 website_name: vitalise-project.eu
 website_link: https://vitalise-project.eu/
 acronym: VIrtual healTh And weLlbeing Living Lab InftraStructurE
