@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/Prepare-Rehab-Logo.png
 website_name: prepare-rehab.eu
 website_link: https://prepare-rehab.eu/ 
 acronym: Personalize Rehabilitation vial novel AI patient stratification strategies
