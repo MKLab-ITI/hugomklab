@@ -4,7 +4,7 @@ tags:
 - completed
 - national
 images:
-- project_logos/
+- project_logos/echoes-logo.png
 website_name: echoes.he.duth.gr
 website_link: https://echoes.he.duth.gr/
 acronym: Development of a methodology for the digital rEconstruction of anCient Human biOgraphiES through the study of archaeo-anthropological material
