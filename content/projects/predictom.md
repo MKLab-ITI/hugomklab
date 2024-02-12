@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/Predictom_logo.png
 website_name: helse-stavanger.no/en/predictom
 website_link: https://www.helse-stavanger.no/en/predictom/  
 acronym: Prediction of Alzheimer’s Disease Using an AI driven screening platform
