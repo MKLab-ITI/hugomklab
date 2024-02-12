@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/RELEVIUM_logo.png
 website_name: releviumproject.eu
 website_link: https://www.releviumproject.eu/
 acronym: Improving quality of life of advanced pancreatic cancer patients through an AI-guided multimodal intervention, combining pain and cachexia management, nutrition, and physical activity
