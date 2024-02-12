@@ -4,7 +4,7 @@ tags:
 - completed
 - national
 images:
-- project_logos/
+- project_logos/e-hagiography-logo.png
 website_name: e-hagiography.edu.gr
 website_link: http://e-hagiography.edu.gr/
 acronym: Digital Cretan Hagiography Workshop using new technologies and 3D virtual reality
