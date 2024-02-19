@@ -6,8 +6,8 @@ tags:
 - coordinator
 images:
 - project_logos/
-website_name: helse-stavanger.no/en/predictom
-website_link: https://www.helse-stavanger.no/en/predictom/  
+website_name: https://bingo-project.gr
+website_link: https://bingo-project.gr
 acronym: BraIN imaGined speech cOmmunication
 layout: projects
 title: BINGO 
