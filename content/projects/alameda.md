@@ -2,7 +2,6 @@
 types: project
 tags:
 - completed
-- current
 - european
 images:
 - project_logos/alameda_logo.png
