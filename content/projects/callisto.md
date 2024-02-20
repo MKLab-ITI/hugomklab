@@ -2,7 +2,6 @@
 types: project
 tags:
 - completed
-- current
 - european
 - scientific manager
 - technical manager
