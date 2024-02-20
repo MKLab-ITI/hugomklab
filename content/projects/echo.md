@@ -1,7 +1,7 @@
 ---
 types: project
 tags:
-- current
+- completed
 - european
 images:
 - project_logos/ECHO_logo_horizontal_light.png
