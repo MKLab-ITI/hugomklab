@@ -1,7 +1,7 @@
 ---
 types: project
 tags:
-- current
+- completed
 - european
 images:
 - project_logos/gatekeeper-logo.png
