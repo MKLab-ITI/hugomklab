@@ -8,6 +8,6 @@ publication_date: 2023-12-01
 ---
 <!--StartFragment-->
 
-D. Touska, K. Gkountakos, O. Theodosiadou, T. Tsikrika, S. Vrochidis, "Object Detection and Recognition in Visual Content Understanding".
+D. Touska, K. Gkountakos, O. Theodosiadou, T. Tsikrika, S. Vrochidis, "Object Detection and Recognition in Visual Content Understanding", CERTH, Thessaloniki, Greece, Tech. Rep. INFINITY project H2020, 2023.
 
 <!--EndFragment-->
