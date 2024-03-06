@@ -27,6 +27,7 @@ showpagemeta: false
 **Dr. Sarris Nikolaos**, nsarris@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
+**Dr. Zisis Dimitrios**, dzissis@iti.gr  
 
 ## Postdoctoral Research Fellows
 
