@@ -5,7 +5,7 @@ tags:
 - european
 - technical manager
 images:
-- project_logos/
+- project_logos/cassata-logo.png
 website_name: cassata-project.eu
 website_link: https://cassata-project.eu/   
 acronym: Covert and Advanced multi-modal Sensor Systems for tArget acquisiTion and reconnAissance 

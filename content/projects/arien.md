@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/arien-logo.png
 website_name: arien-euproject.eu
 website_link: https://arien-euproject.eu/  
 acronym: ARtificial IntelligencE in fighting illicit drugs production and traffickiNg
