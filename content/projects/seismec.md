@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/SEISMEC-logo.png
 website_name: 
 website_link: 
 acronym: Supporting European Industry Success Maximization through Empowerment Centred development 
