@@ -45,6 +45,7 @@ showpagemeta: false
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Krooupa Anna Maria**, annamariakrooupa@iti.gr  
 **Dr. Lazarou Ioulietta**, iouliettalaz@iti.gr  
+**Dr. Loumponias Kostas**, loumponias@iti.gr  
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Mpaltsou Georgia**, gebaltso@iti.gr  
@@ -152,7 +153,6 @@ showpagemeta: false
 **Lazaridis Nikolaos**, nlazaridis@iti.gr   
 **Leonidis Dimitrios**, dim.leon@iti.gr  
 **Leventakis Antonios**, aleventakis@iti.gr  
-**Loumponias Kostas**, loumponias@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
 **Maniati Athanasia**, maniati@iti.gr  
 **Mantsis Damianos-Florin**, dmantsis@iti.gr  
