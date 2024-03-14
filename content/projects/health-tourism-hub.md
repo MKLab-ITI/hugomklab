@@ -3,14 +3,13 @@ types: project
 tags:
 - current
 - national
-- coordinator
 images:
 - project_logos/healthTourism.png
 website_name: Coming Soon
 website_link: #
 acronym: Operational Programme Competitiveness, Entrepreneurship and Innovation 2014-2020 (EPAnEK)
 layout: projects
-title: HealthTourismHub (Coordinator)
+title: HealthTourismHub
 date: '2021-11-18T12:47:16+02:00'
 program: Ministry of Development and Investments – Prefecture of Central Macedonia
 contact: 
