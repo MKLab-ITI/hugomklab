@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/cvdlink.png
 website_name: Coming Soon
 website_link: #
 acronym: A federated paradigm of real-world data sources utilization for the empowerment of diagnosis, prognosis and risk assessment of cardiovascular conditions
