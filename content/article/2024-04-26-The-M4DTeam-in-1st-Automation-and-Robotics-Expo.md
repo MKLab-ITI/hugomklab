@@ -4,7 +4,7 @@ tags:
 images: 
 - news_images/Automation-Robotics Expo-cover.jpg
 layout: article
-title: 'Τhe M4DTeam in 1st Automation and Robotics Expo'
+title: 'The M4DTeam in 1st Automation and Robotics Expo'
 date: '2024-04-26T08:49:37+02:00'
 ---
 
