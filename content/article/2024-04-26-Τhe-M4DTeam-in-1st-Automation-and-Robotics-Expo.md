@@ -17,6 +17,6 @@ In addition to videos, leaflets, and banners, M4D provided live virtual reality 
 
 Among the advanced technical solutions showcased at CERTH's booth, M4D highlighted digital twin technologies, data fusion and artificial intelligence techniques supporting automation in construction, improving ship safety as well as search & rescue and first responders operations, enabling smart manufacturing, and boosting autonomous operations for environmental monitoring.
 <figure>
-<img class="wp-image-5785" src="/files/news_images/Automation-Robotics Expo-pic.JPG" alt="" width="617" height="346" /> <figcaption  style="font-size:10px; text-align: center;">Pic.1: Trial users experience</figcaption>
+<img class="wp-image-5785" src="/files/news_images/Automation-Robotics Expo-pic.JPG" alt="" width="617" height="380" /> <figcaption  style="font-size:10px; text-align: center;">Pic.1: Trial users experience</figcaption>
 </figure>
 </p>
