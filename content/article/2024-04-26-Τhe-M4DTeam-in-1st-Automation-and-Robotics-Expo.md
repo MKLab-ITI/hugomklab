@@ -8,8 +8,7 @@ title: 'Τhe M4DTeam in 1st Automation and Robotics Expo'
 date: '2024-04-26T08:49:37+02:00'
 ---
 
-<p style="text-align: center;">
-The M4D/MKLab-ITI-CERTH team successfully participated in the 1st Robotic and Automation Expo held in Athens, Greece from April 12th to 14th, representing CERTH alongside ITI Robotics Lab. 
+<p>The M4D/MKLab-ITI-CERTH team successfully participated in the 1st Robotic and Automation Expo held in Athens, Greece from April 12th to 14th, representing CERTH alongside ITI Robotics Lab. 
 
 Throughout the three-day event, M4D researchers showcased the successful outcomes of various ongoing and concluded EU-Horizon Research and Innovation projects, including ASHVIN, ISOLA, LAW GAME, and DIH^2. 
 
