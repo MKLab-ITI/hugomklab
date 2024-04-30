@@ -5,8 +5,8 @@ tags:
 - european
 images:
 - project_logos/
-website_name: cyclopsproject.eu, cordis.europa.eu
-website_link: https://www.cyclopsproject.eu/, https://cordis.europa.eu/project/id/101135513
+website_name: cyclopsproject.eu
+website_link: https://www.cyclopsproject.eu/
 acronym: Automated end-to-end data life cycle management for FAIR data integration, processing and re-use
 layout: projects
 title: CYCLOPS
