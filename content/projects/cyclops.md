@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/cyclops-logo.png
 website_name: cyclopsproject.eu
 website_link: https://www.cyclopsproject.eu/
 acronym: Automated end-to-end data life cycle management for FAIR data integration, processing and re-use
