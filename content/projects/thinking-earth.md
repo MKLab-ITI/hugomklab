@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/Thinking-Earth-logo.png
 website_name: thinking-earth.eu
 website_link: https://thinking-earth.eu/
 acronym: Copernicus Foundation Models for a Thinking Earth
