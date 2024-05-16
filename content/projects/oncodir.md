@@ -5,7 +5,7 @@ tags:
 - european
 - coordinator
 images:
-- project_logos/
+- project_logos/oncodir logo.png
 website_name: oncodir.eu
 website_link: https://www.oncodir.eu/
 acronym: Evidence-based Participatory Decision Making for Cancer Prevention through implementation research
