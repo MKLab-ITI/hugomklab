@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/igame-logo.png
 website_name: 
 website_link:    
 acronym: Building a community for the co-creation of games with high impact on innovation, sustainability, social cohesion and growth
