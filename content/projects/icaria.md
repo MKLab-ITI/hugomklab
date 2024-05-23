@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - technical manager
 images:
-- project_logos/icaria-logo.jpg
+- project_logos/icaria-logo.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101093806
 acronym: Improving ClimAte Resilience of crItical Assets
