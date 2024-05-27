@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/revolution-logo.png
 website_name: cordis.europa.eu 
 website_link: https://cordis.europa.eu/project/id/101138245 
 acronym: A rEVOLUTIONary approach for maximising process water REuse and REsource REcovery through a smart, circular and integrated solution
