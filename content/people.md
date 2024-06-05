@@ -37,11 +37,14 @@ showpagemeta: false
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Drosoglou Theano**, tdroso@iti.gr  
 **Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
+**Dr. Kaltsa Maria**, mkaltsa@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
 **Dr. Kalaganis Fotis**, fkalaganis@iti.gr  
+**Dr. Katsetsiadis Foivos-Iordanis**, fivosk@iti.gr  
 **Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Kosti Viola-Makrina**, mkosti@iti.gr  
+**Dr. Kougka Georgia**, kougka@iti.gr  
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Krooupa Anna Maria**, annamariakrooupa@iti.gr  
 **Dr. Lazarou Ioulietta**, iouliettalaz@iti.gr  
@@ -66,6 +69,7 @@ showpagemeta: false
 **Aggelopoulos Konstantinos**, kostaggelo@iti.gr  
 **Alepopoulos Vasileios**, valep@iti.gr  
 **Anagnostopoulos Christos**, anagn_c@iti.gr  
+**Anagnostou Christina**, canagnostou@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr    
 **Antzoulatos Gerasimos**, gantzoulatos@iti.gr  
 **Apostolidis Konstantinos**, kapost@iti.gr  
@@ -84,6 +88,7 @@ showpagemeta: false
 **Dourvas Nikolaos**, ndourvas@iti.gr   
 **Efthimiou Spyridoula-Eythimia**, efie@iti.gr  
 **Elobaid Alaa**, elobaida@iti.gr  
+**Fasfalis Nikiforos**, fasfalisn@iti.gr  
 **Fiska Vasiliki**, vickyfi@iti.gr  
 **Galanopoulos Damianos**, dgalanop@iti.gr  
 **Galopoulos Panagiotis**, gpan@iti.gr  
@@ -156,6 +161,7 @@ showpagemeta: false
 **Leonidis Dimitrios**, dim.leon@iti.gr  
 **Leventakis Antonios**, aleventakis@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
+**Louverdis Stylianos-Konstantinos**, sklouver@iti.gr  
 **Maniati Athanasia**, maniati@iti.gr  
 **Mantsis Damianos-Florin**, dmantsis@iti.gr  
 **Maroudis Aggelos-Christos**, acmaroudis@iti.gr  
@@ -190,6 +196,7 @@ showpagemeta: false
 **Ntrougkas Mariano**, ntrougkas@iti.gr  
 **Oikonomidis Alexandros**, aleoikon@iti.gr   
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
+**Paitaridis Georgios**, georpait@iti.gr  
 **Palla Zoi**, palla@iti.gr  
 **Panagiotidis Georgios-Nektarios**, panayotidis@iti.gr  
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
@@ -210,7 +217,9 @@ showpagemeta: false
 **Petropoulos Alexandos**, alpetrop@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
 **Pistola Dora**, tpistola@iti.gr  
+**Politikou Aikaterini**, politikou@iti.gr  
 **Politis Pervanidis Eystathios Panagiotis**, stapolitis@iti.gr  
+**Polymenakos Pavlos**, pavpol@iti.gr  
 **Polytarchi Evaggelia**, epolytarchi@iti.gr  
 **Portokalidis Stavros**, sportokalidis@iti.gr  
 **Poulios Ilias**, ipoulios@iti.gr  
