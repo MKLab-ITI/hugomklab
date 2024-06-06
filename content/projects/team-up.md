@@ -5,7 +5,7 @@ tags:
 - european
 - technical manager
 images: 
-- project_logos/
+- project_logos/teamup-logo.jpg
 website_name: teamup-project.eu
 website_link: https://teamup-project.eu/
 acronym: Holistic Capability and Technology Evaluation and Co-creation Framework for Upskilled First Responders and Enhanced CBRN-E Response

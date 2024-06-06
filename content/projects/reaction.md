@@ -5,7 +5,7 @@ tags:
 - european
 - technical manager
 images: 
-- project_logos/
+- project_logos/reaction-logo.png
 website_name: 
 website_link: 
 acronym: REal-time ArtifiCial InTellIgence for BOrders Surveillance via RPAS data aNalytics to support Law Enforcement Agencies

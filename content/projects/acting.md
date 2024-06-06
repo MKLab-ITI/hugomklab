@@ -5,7 +5,7 @@ tags:
 - european
 - scientific manager
 images: 
-- project_logos/
+- project_logos/acting-logo.png
 website_name: acting-project.eu
 website_link: https://acting-project.eu/
 acronym: Advanced European platform and network of Cybersecurity training and exercises centres
