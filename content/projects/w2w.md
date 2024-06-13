@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images: 
-- project_logos/
+- project_logos/w2w-logo.jpg
 website_name: 
 website_link: 
 acronym: A Wood-to-Wood Cascade Upcycling Valorisation Approach
