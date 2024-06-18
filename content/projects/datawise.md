@@ -13,7 +13,7 @@ acronym: Intelligent and Sustainable Building Management powered by Cross-Sector
 layout: projects
 title: DATAWiSE
 date: '2024-06-18T03:47:00+03:00'
-program: HORIZON-CL5-2023-D4-02-01
+program: HORIZON EUROPE
 contact:
 - Tsanousa Athina
 - Vrochidis Stefanos
