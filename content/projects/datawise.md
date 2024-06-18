@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - technical manager 
 images: 
-- project_logos/
+- project_logos/datawise-logo.png
 website_name: 
 website_link: 
 acronym: Intelligent and Sustainable Building Management powered by Cross-Sectoral Lifecycle
