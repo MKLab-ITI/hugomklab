@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - technical manager 
 images: 
-- project_logos/
+- project_logos/hyper-ai-logo.png
 website_name: 
 website_link: 
 acronym: Hyper-Distributed Artificial Intelligence Platform for Network Resources Automation and Management Towards More Efficient Data Processing Applications
