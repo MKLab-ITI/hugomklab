@@ -10,7 +10,7 @@ website_link: https://www.ideation-euproject.eu/
 acronym: InlanD watErs in the digitAl Twin OceaN
 layout: projects
 title: IDEATION
-date: '2024-07-09T07:48:57+03:00'
+date: '2024-07-09T03:47:00+03:00'
 program: HORIZON-MISS-2023-OCEAN-01
 contact:
 - Gialampoukidis Ilias
