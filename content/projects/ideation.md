@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/ideation.png
 website_name: ideation-euproject.eu
 website_link: https://www.ideation-euproject.eu/
 acronym: InlanD watErs in the digitAl Twin OceaN
