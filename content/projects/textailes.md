@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/texttailes.png
 website_name:
 website_link: 
 acronym: TEXTile digitisAtIon tooLs and mEthodS for cultural heritage
