@@ -36,8 +36,10 @@ showpagemeta: false
 **Dr. Arvanitidis Athanasios**, athasarv@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Drosoglou Theano**, tdroso@iti.gr  
+**Dr. Egthimiadis Panagiotis**, panosef@iti.gr  
 **Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Dr. Kaltsa Maria**, mkaltsa@iti.gr  
+**Dr. Karaliopoulos Merkourios**, mkaraliopoulos@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
 **Dr. Kalaganis Fotis**, fkalaganis@iti.gr  
 **Dr. Katsetsiadis Foivos-Iordanis**, fivosk@iti.gr  
@@ -118,6 +120,7 @@ showpagemeta: false
 **Kampelopoulos Dimitrios**, dkampelo@iti.gr  
 **Kantasis Georgios**, george.kantasis@iti.gr  
 **Kaparinos Nikolaos**, kaparinos@iti.gr  
+**Karageorgiadis Anastasios**, tassoskarag@iti.gr  
 **Karageorgiou Dimitrios**, dkarageo@iti.gr  
 **Karamolegkos Spyridon**, skar@iti.gr  
 **Karamouslis Dimitrios**, dkaram@iti.gr  
@@ -128,6 +131,7 @@ showpagemeta: false
 **Karystinakis Konstantinos**, kkarys@iti.gr  
 **Kefala Eleftheria**, eleftheriakef@iti.gr  
 **Kelaiditis Sokratis**, skelaiditis@iti.gr  
+**Ketzaki Eleni**, eketzaki@iti.gr  
 **Kintzios Nikolaos**, nkintzios@iti.gr  
 **Kintzios Spyridon**, sp.kintzios@iti.gr  
 **Kioutsiouki Dimitra**, dimikiou@iti.gr  
