@@ -38,11 +38,11 @@ showpagemeta: false
 **Dr. Drosoglou Theano**, tdroso@iti.gr  
 **Dr. Egthimiadis Panagiotis**, panosef@iti.gr  
 **Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
+**Dr. Kalaganis Fotis**, fkalaganis@iti.gr  
 **Dr. Kaltsa Maria**, mkaltsa@iti.gr  
 **Dr. Karaliopoulos Merkourios**, mkaraliopoulos@iti.gr  
-**Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
-**Dr. Kalaganis Fotis**, fkalaganis@iti.gr  
 **Dr. Katsetsiadis Foivos-Iordanis**, fivosk@iti.gr  
+**Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
 **Dr. Komaris Dimitrios-Sokratis**, s.komaris@iti.gr  
 **Dr. Kordopatis Zilos Georgios**, georgekordopatis@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
