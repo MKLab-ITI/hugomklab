@@ -40,6 +40,7 @@ showpagemeta: false
 **Dr. Georgiadis Konstantinos**, kostas.georgiadis@iti.gr  
 **Dr. Kalaganis Fotis**, fkalaganis@iti.gr  
 **Dr. Kaltsa Maria**, mkaltsa@iti.gr  
+**Dr. Karantaidis Georgios**, karantai@iti.gr  
 **Dr. Karaliopoulos Merkourios**, mkaraliopoulos@iti.gr  
 **Dr. Katsetsiadis Foivos-Iordanis**, fivosk@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
@@ -125,7 +126,6 @@ showpagemeta: false
 **Karamolegkos Spyridon**, skar@iti.gr  
 **Karamouslis Dimitrios**, dkaram@iti.gr  
 **Karamouzas Dionisios**, dionkara@iti.gr  
-**Karantaidis Georgios**, karantai@iti.gr  
 **Kardara Antonia**, antoniakardara@iti.gr  
 **Kartsounidou Evaggelia**, evankart@iti.gr  
 **Karystinakis Konstantinos**, kkarys@iti.gr  
