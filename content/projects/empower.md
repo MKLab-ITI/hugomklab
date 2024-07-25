@@ -18,7 +18,7 @@ contact:
 - Vrochidis Stefanos
 ---
 
-<img src="/files/project_logos/co-funded-en.png" alt="" width="1500" height="150" class="" />
+<img src="/files/project_logos/co-funded-en.png" alt="" width="1500" height="140" class="" />
 <p>The application of AI methods to Big Data heralds a new era in Law Enforcement, increasing the operational capabilities of Law Enforcement Agencies (LEAs) in fighting and predicting crime. Promising tech solutions and tools are being developed within the framework of EU and nationally funded R&I projects reaching TRL 6-7 and applicable to a wide number of investigative fields. Building up from such previous and ongoing R&I projects (AIDA, DANTE, GRACE, STARLIGHT), the overall goal of EMPOWER is to foster the uptake of innovative solutions based upon AI powered tools allowing LEAs to increase their capabilities in such investigative fields.
 </p>
 <p>
