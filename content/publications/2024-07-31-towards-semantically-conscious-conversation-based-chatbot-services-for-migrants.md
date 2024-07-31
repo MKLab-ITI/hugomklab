@@ -4,7 +4,7 @@ types: publication
 title: Towards Semantically Conscious, Conversation-Based Chatbot Services for
   Migrants
 date: 2024-06-22T10:57:38.592Z
-tags: book_chapters
+tags: conference_publications
 publication_date: 2024-06-22
 ---
 <!--StartFragment-->
