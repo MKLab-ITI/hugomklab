@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "Deep Explainability: Spin-Geometrical Neural Meta-Structures"
 date: 2023-12-18T15:50:14.349Z
-tags: journal_publications
+tags: conference_publications
 publication_date: 2023-12-18
 ---
 <!--StartFragment-->
