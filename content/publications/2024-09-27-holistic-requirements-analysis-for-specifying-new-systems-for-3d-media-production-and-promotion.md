@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Holistic Requirements Analysis for Specifying New Systems for 3D Media
-  Production and Promotion,
+  Production and Promotion
 date: 2021-07-21T13:05:20.056Z
 tags: journal_publications
 publication_date: 2021-07-21
