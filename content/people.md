@@ -129,6 +129,7 @@ showpagemeta: false
 **Kardara Antonia**, antoniakardara@iti.gr  
 **Kartsounidou Evaggelia**, evankart@iti.gr  
 **Karystinakis Konstantinos**, kkarys@iti.gr  
+**Kavour Efthymios-Ioannis**, themis.kavour@iti.gr  
 **Kefala Eleftheria**, eleftheriakef@iti.gr  
 **Kelaiditis Sokratis**, skelaiditis@iti.gr  
 **Ketzaki Eleni**, eketzaki@iti.gr  
@@ -147,6 +148,7 @@ showpagemeta: false
 **Konstantinou Apostolos**, konstantinou@iti.gr  
 **Kontostathis Ioannis**, ioankont@iti.gr  
 **Koritsas Ilias**, ilias.koritsas@iti.gr  
+**Kosmidou Eleni**, elenikos@iti.gr  
 **Kougioumtzidou Anna**, annak@iti.gr  
 **Koulalis Ilias**, iliask@iti.gr  
 **Kouloglou Ioannis-Omiros**, kouloglou@iti.gr  
@@ -171,6 +173,7 @@ showpagemeta: false
 **Maroudis Aggelos-Christos**, acmaroudis@iti.gr  
 **Mastoras Chrysovaladis**, mastoras.valadis@iti.gr  
 **Matzanou Georgia**, gmatzanou@iti.gr  
+**Melitou Maria**, mariamel@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
 **Mita Mirsini-Eleni**, mmita@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
@@ -210,6 +213,7 @@ showpagemeta: false
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Papoutsis Aggelos**, apapoutsis@iti.gr  
 **Paraschos Spyridon**, sparaschos@iti.gr  
+**Paraskevopoulos Sotirios**, sotirispara@iti.gr  
 **Parisi Styliani**, pastella@iti.gr  
 **Pasios Stefanos**, pasioss@iti.gr  
 **Paspalakis Stavros**, spaspalakis@iti.gr  
