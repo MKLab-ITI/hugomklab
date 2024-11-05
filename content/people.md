@@ -72,8 +72,10 @@ showpagemeta: false
 ## Research Associates
 
 **Afxonidis Vasileios**, afxonidis@iti.gr  
+**Aggelidis Themistoklis**, themisangelidis@iti.gr  
 **Aggelopoulos Konstantinos**, kostaggelo@iti.gr  
 **Alepopoulos Vasileios**, valep@iti.gr  
+**Alexopoulos Alexandros**, alekalexopoulos@iti.gr  
 **Anagnostopoulos Christos**, anagn_c@iti.gr  
 **Anagnostou Christina**, canagnostou@iti.gr  
 **Anastasovitis Eleutherios**, anastasovitis@iti.gr    
@@ -168,6 +170,7 @@ showpagemeta: false
 **Leventakis Antonios**, aleventakis@iti.gr  
 **Loupas Georgios**, loupgeor@iti.gr  
 **Louverdis Stylianos-Konstantinos**, sklouver@iti.gr  
+**Lyssaris Efthymios**, e.lyssaris@iti.gr  
 **Maniati Athanasia**, maniati@iti.gr  
 **Mantsis Damianos-Florin**, dmantsis@iti.gr  
 **Maroudis Aggelos-Christos**, acmaroudis@iti.gr  
@@ -178,7 +181,8 @@ showpagemeta: false
 **Mita Mirsini-Eleni**, mmita@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
 **Moskachlaidi Christina**, christina.moskachlaidi@iti.gr  
-**Moumtzidou Anastasia**, moumtzid@iti.gr    
+**Moumtzidou Anastasia**, moumtzid@iti.gr  
+**Mouratidis Prodromos**, prodromosm@iti.gr  
 **Mpaltadoros Lampros**, lamprosmpalt@iti.gr  
 **Mparachanou Anna**, barachanou@iti.gr  
 **Mpatsioulas Athanasios**, abatsioulas@iti.gr  
@@ -240,6 +244,7 @@ showpagemeta: false
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Skoumperdis Michail**, skoumpmi@iti.gr  
 **Skouras Taxiarchis**, tax_skouras@iti.gr  
+**Sougias Evaggelos - Charalampos**, akis.sougias@iti.gr  
 **Soukaras Sotirios**, soukaras@iti.gr  
 **Soulos Konstantinos**, soulk@iti.gr  
 **Spathi Theoni**, tspathi@iti.gr  
