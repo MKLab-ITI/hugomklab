@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/carma-logo.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101168355
 acronym: Collaborative Autonomous Robots for eMergency Assistance
