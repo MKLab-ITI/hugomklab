@@ -6,7 +6,7 @@ tags:
 - coordinator
 - technical manager
 images:
-- project_logos/
+- project_logos/idriving-logo.png
 website_name: idriving-project.eu
 website_link: https://idriving-project.eu/ 
 acronym: Intelligent & Digital Roadway Infrastructure for Vehicles Integrated with Next-Gen Technologies
