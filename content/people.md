@@ -123,6 +123,7 @@ showpagemeta: false
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
 **Kaltsidis Michail**, kaltsidis_mixalis@iti.gr  
+**Kamateri Eleni**, ekamater@iti.gr  
 **Kampelopoulos Dimitrios**, dkampelo@iti.gr  
 **Kantasis Georgios**, george.kantasis@iti.gr  
 **Kaparinos Nikolaos**, kaparinos@iti.gr  
