@@ -56,8 +56,10 @@ showpagemeta: false
 **Dr. Loumponias Kostas**, loumponias@iti.gr  
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
+**Dr. Michaloglou Alkmini**, amichalo@iti.gr  
 **Dr. Mpaltsou Georgia**, gebaltso@iti.gr  
 **Dr. Mylonas Stylianos**, smylonas@iti.gr  
+**Dr. Nikoulis Georgios**, gnikoul@iti.gr  
 **Dr. Palapanidis Konstantinos**, kpalapan@iti.gr  
 **Dr. Papaioannou Vasileios**, vaspapa@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
@@ -96,6 +98,7 @@ showpagemeta: false
 **Dolias Georgios**, gdolias@iti.gr  
 **Dourvas Nikolaos**, ndourvas@iti.gr   
 **Efthimiou Spyridoula-Eythimia**, efie@iti.gr  
+**Eleftheriadis Thomas**, thomelef@iti.gr  
 **Elobaid Alaa**, elobaida@iti.gr  
 **Fasfalis Nikiforos**, fasfalisn@iti.gr  
 **Fiska Vasiliki**, vickyfi@iti.gr  
@@ -171,9 +174,7 @@ showpagemeta: false
 **Loupas Georgios**, loupgeor@iti.gr  
 **Louverdis Stylianos-Konstantinos**, sklouver@iti.gr  
 **Lyssaris Efthymios**, e.lyssaris@iti.gr  
-**Maniati Athanasia**, maniati@iti.gr  
 **Mantsis Damianos-Florin**, dmantsis@iti.gr  
-**Maroudis Aggelos-Christos**, acmaroudis@iti.gr  
 **Mastoras Chrysovaladis**, mastoras.valadis@iti.gr  
 **Matzanou Georgia**, gmatzanou@iti.gr  
 **Melitou Maria**, mariamel@iti.gr  
@@ -188,13 +189,13 @@ showpagemeta: false
 **Mpatsioulas Athanasios**, abatsioulas@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
 **Mpaxevanakis Spyridon**, spirosbax@iti.gr  
-**Mpechtsopoulos-Poulos Stergios**, sbechtsopoulos@iti.gr  
 **Mpoikou Andromachi**, boikou@iti.gr  
 **Mpoursalis Emmanouil**, mbours@iti.gr  
 **Mpoutsios Ieremias-Omiros**, ioboutsios@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
 **Mylonas Emmanouil**, emylonas@iti.gr  
 **Mylonas Nikolaos**, myloniko@iti.gr  
+**Nestoropoulou Efseveia**, nestoropo@iti.gr  
 **Nouvaki Eleni**, eleni.nouvaki@iti.gr  
 **Ntemi Myrsini**, nmyrsini@iti.gr  
 **Ntioudis Demos**, ntdimos@iti.gr  
@@ -278,6 +279,7 @@ showpagemeta: false
 **Xefteris Vasileios-Rafahl**, vxefteris@iti.gr  
 **Xilogiannis Paris**, pxylogiannis@iti.gr  
 **Zeltsi Alexandra**, azeltsi@iti.gr  
+**Zerva Charalampia**, charazerva@iti.gr  
 
 ## PhD Candidates
 
@@ -290,6 +292,9 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Mpechtsopoulos-Poulos Stergios, Research Associate, sbechtsopoulos@iti.gr  
+Maroudis Aggelos-Christos, Research Associate, acmaroudis@iti.gr  
+Maniati Athanasia, Research Associate, maniati@iti.gr  
 Portokalidis Stavros, Research Associate, sportokalidis@iti.gr  
 Mpountzis Polizois, Research Associate, pmpountz@iti.gr  
 Mpotsoglou Georgios, Research Associate, georbots@iti.gr  
