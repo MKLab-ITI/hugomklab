@@ -6,7 +6,7 @@ tags:
 - scientific manager
 - technical manager 
 images:
-- project_logos/
+- project_logos/alfie-logo.png
 website_name: alfie-project.eu
 website_link: https://alfie-project.eu/
 acronym: Assessment of Learning technologies and Frameworks for Intelligent and Ethical AI
