@@ -9,6 +9,4 @@ publication_date: 2024-12-23
 ---
 <!--StartFragment-->
 
-Pegia M., Jónsson, B. Þ., Moumtzidou, A., Gialampoukidis, I., Vrochidis, S., Kompatsiaris, I., "Comparative Analysis of Learning-Based Approaches for Change Detection in Satellite Images", *IEEE Selected Topics in Applied Earth Observations and Remote Sensing,* 2024 
-
-<!--EndFragment-->
+Pegia M., Jónsson, B. Þ., Moumtzidou, A., Gialampoukidis, I., Vrochidis, S., Kompatsiaris, I., "Comparative Analysis of Learning-Based Approaches for Change Detection in Satellite Images", *IEEE Selected Topics in Applied Earth Observations and Remote Sensing,* 2024, vol. 18, pp. 3766-3781, 2025, doi: 10.1109/JSTARS.2024.3522350.
