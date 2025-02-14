@@ -21,7 +21,7 @@ contact:
 - Vrochidis Stefanos
 ---
 <p>
-ENSEMBLE aims to enhance the capabilities of multiple stakeholders involved in (cross-border) joint cybercrime-oriented investigations by developing (i) a modular AI-based forensically sound investigation ToolBox to assist LEAs in fighting sophisticated cyber-threats and cybercrimes, (ii) relevant training material for Police Authorities, prosecutors, and judicial actors involved in such investigations, and (iii) appropriate public awareness campaigns for early identification and prevention of cybercrimes
+ENSEMBLE aims to enhance the capabilities of multiple stakeholders involved in (cross-border) joint cybercrime-oriented investigations by developing (i) a modular AI-based forensically sound investigation ToolBox to assist LEAs in fighting sophisticated cyber-threats and cybercrimes, (ii) relevant training material for Police Authorities, prosecutors, and judicial actors involved in such investigations, and (iii) appropriate public awareness campaigns for early identification and prevention of cybercrimes.
 </p>
 <p>
 MKLab is responsible for the coordination of the ENSEMBLE project and is also tasked with its Scientific and Technical management. MKLab contains a critical role across the whole project as the leader of the Work Package that is responsible for the development of AI-based tools that are used to enhance the decision support during investigations, the correlation of data extracted from multiple sources and information-sharing. It will also develop tools to support the extraction and analysis of multimodal information coming from various sources and fields of investigations and will support the creation of holistic cyber-criminology framework.
