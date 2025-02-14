@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/ENACT_logo.png
 website_name: enact-eu.net
 website_link: https://enact-eu.net/
 acronym: European Network Against Crime and Terrorism
