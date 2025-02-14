@@ -7,7 +7,7 @@ tags:
 - scientific manager 
 - technical manager
 images:
-- project_logos/
+- project_logos/ENSEMBLE_logo.png
 website_name: ensemble-he.eu
 website_link: https://ensemble-he.eu/ 
 acronym: ENhanced AI-baSEd cybercriMe-oriented collaBorative investigation technologies and capabiLitiEs
