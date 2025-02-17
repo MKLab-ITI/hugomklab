@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/tessera_logo.png
 website_name: tessera-project.eu
 website_link: https://tessera-project.eu/
 acronym: Towards thE dataSetS for the European secuRity dAta space for innovation
