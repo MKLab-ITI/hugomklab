@@ -6,7 +6,7 @@ tags:
 - technical manager 
 - coordinator
 images:
-- project_logos/
+- project_logos/safeguard_logo.png
 website_name: safeguard-project.eu
 website_link: https://safeguard-project.eu
 acronym: SAFEguardinG pUblic spAces through intelligent thReat Detection tools
