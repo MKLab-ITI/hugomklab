@@ -12,7 +12,7 @@ website_link: https://safeguard-project.eu
 acronym: SAFEguardinG pUblic spAces through intelligent thReat Detection tools
 layout: projects
 title: SAFEGUARD
-date: '2023-08-21T10:53:38+03:00'
+date: '2025-02-17T10:53:38+03:00'
 program: ISF/2022/SA/3.4.1 
 contact: 
 - Tsikrika Theodora
