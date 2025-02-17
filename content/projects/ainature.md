@@ -6,7 +6,7 @@ tags:
 - scientific manager 
 - technical manager
 images:
-- project_logos/
+- project_logos/AINATURE_logo.png
 website_name: ainature.interreg-ipa-adrion.eu
 website_link: https://ainature.interreg-ipa-adrion.eu/ 
 acronym: Exploitation of AI for the protection of the natural resources in the ADRION region
