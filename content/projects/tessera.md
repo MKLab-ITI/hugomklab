@@ -3,6 +3,7 @@ types: project
 tags:
 - current
 - european
+- coordinator
 images:
 - project_logos/tessera_logo.png
 website_name: tessera-project.eu
