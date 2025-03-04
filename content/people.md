@@ -264,7 +264,7 @@ showpagemeta: false
 **Papadopoulos Stefanos**, stefpapad@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
 **Sarridis Ioannis**, gsarridis@iti.gr  
-**Schinas Emmanouil**, manosetro@iti.gr  <!--Aristotle University of Thessaloniki (prof. Pericles A. Mitkas), manosetro@iti.gr-->
+**Schinas Emmanouil**, <!--Aristotle University of Thessaloniki (prof. Pericles A. Mitkas), manosetro@iti.gr--> manosetro@iti.gr  
 **Spyros Arnold**, aspyros@iti.gr  
 **Tsanakas Antonios**, atsanakas@iti.gr  
 **Tzionis Grigoris**, gtzionis@iti.gr  
