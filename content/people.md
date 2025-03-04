@@ -23,14 +23,16 @@ showpagemeta: false
 **Dr. Meditskos Georgios**, gmeditsk@iti.gr  
 **Dr. Mezaris Vasileios**, bmezaris@iti.gr  
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
-**Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
 **Dr. Sarris Nikolaos**, nsarris@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
-**Dr. Zisis Dimitrios**, dzissis@iti.gr  
 
 ## Academic Collaborators 
 **Dr. Chatzimisios Periklis**, pchatzimisios@iti.gr  
+**Dr. Kougka Georgia**, kougka@iti.gr  
+**Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
+**Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
+**Dr. Zisis Dimitrios**, dzissis@iti.gr  
 
 ## Postdoctoral Research Fellows
 
@@ -49,7 +51,6 @@ showpagemeta: false
 **Dr. Komaris Dimitrios-Sokratis**, s.komaris@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Kosti Viola-Makrina**, mkosti@iti.gr  
-**Dr. Kougka Georgia**, kougka@iti.gr  
 **Dr. Koutlis Christos**, ckoutlis@iti.gr  
 **Dr. Krooupa Anna Maria**, annamariakrooupa@iti.gr  
 **Dr. Lazarou Ioulietta**, iouliettalaz@iti.gr  
@@ -65,8 +66,7 @@ showpagemeta: false
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
 **Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
-**Dr. Stylianou Nikolaos**, nstylia@iti.gr   
-**Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
+**Dr. Stylianou Nikolaos**, nstylia@iti.gr  
 **Dr. Tzelepi Maria**, mtzelepi@iti.gr  
 **Dr. Violos Ioannis**, violos@iti.gr  
 **Dr. Xifilidis Theofanis**, thxif@iti.gr  
