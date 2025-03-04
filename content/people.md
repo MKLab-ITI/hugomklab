@@ -20,7 +20,6 @@ showpagemeta: false
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
 **Dr. Ioannidis Kostas**, kioannid@iti.gr  
-**Dr. Meditskos Georgios**, gmeditsk@iti.gr  
 **Dr. Mezaris Vasileios**, bmezaris@iti.gr  
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
 **Dr. Sarris Nikolaos**, nsarris@iti.gr  
@@ -30,6 +29,7 @@ showpagemeta: false
 ## Academic Collaborators 
 **Dr. Chatzimisios Periklis**, pchatzimisios@iti.gr  
 **Dr. Kougka Georgia**, kougka@iti.gr  
+**Dr. Meditskos Georgios**, gmeditsk@iti.gr  
 **Dr. Petrantonakis Panagiotis**, ppetrant@iti.gr  
 **Dr. Theodosiadou Ourania**, raniatheo@iti.gr  
 **Dr. Zisis Dimitrios**, dzissis@iti.gr  
