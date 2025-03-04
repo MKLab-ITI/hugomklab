@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: An ontology-based framework for sports media data interpretation
-date: 2024-07-12T14:35:12.683Z
+date: 2023-07-12T14:35:12.683Z
 tags: conference_publications
-publication_date: 2024-07-12
+publication_date: 2023-07-12
 ---
 <!--StartFragment-->
 
