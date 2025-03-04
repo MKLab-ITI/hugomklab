@@ -9,6 +9,6 @@ publication_date: 2025-02-28
 ---
 <!--StartFragment-->
 
-A. Spyros, A. Kougioumtzidou, A. Papoutsis, E. Darra, D. Kavallieros, A. Tziouvaras, T. Tsikrika, S. Vrochidis1†, I. Kompatsiaris, "A Comprehensive Survey of Manual and Dynamic Approaches for Cybersecurity Taxonomy Generation", *Knowledge and Information Systems*, 2025
+A. Spyros, A. Kougioumtzidou, A. Papoutsis, E. Darra, D. Kavallieros, A. Tziouvaras, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "A Comprehensive Survey of Manual and Dynamic Approaches for Cybersecurity Taxonomy Generation", *Knowledge and Information Systems*, 2025
 
 <!--EndFragment-->
