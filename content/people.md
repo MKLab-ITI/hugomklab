@@ -29,6 +29,8 @@ showpagemeta: false
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
 **Dr. Zisis Dimitrios**, dzissis@iti.gr  
 
+## Academic Collaborators 
+
 ## Postdoctoral Research Fellows
 
 **Dr. Apostolidis Evlampios**, apostolid@iti.gr  
