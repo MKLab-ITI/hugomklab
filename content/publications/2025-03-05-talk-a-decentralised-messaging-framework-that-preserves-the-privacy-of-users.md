@@ -7,5 +7,4 @@ tags: journal_publications
 publication_date: 2022-04-27
 ---
 
-Δημοσίευση	Ημερομηνία καταχώρισης	Ενέργειες
-I. Sarridis, V. Gkatziaki, E. Krasanakis, N. Giatsoglou, N. Sarris, S. Papadopoulos, I. Kompatsiaris, "TALK: A decentralised messaging framework that preserves the privacy of users.", Open Research Europe, 2023.
+I. Sarridis, V. Gkatziaki, E. Krasanakis, N. Giatsoglou, N. Sarris, S. Papadopoulos, I. Kompatsiaris, "TALK: A decentralised messaging framework that preserves the privacy of users.", Open Research Europe, 2023.
