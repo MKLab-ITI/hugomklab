@@ -40,12 +40,14 @@ showpagemeta: false
 **Dr. Apostolou Georgia**, gapostolou@iti.gr  
 **Dr. Arvanitidis Athanasios**, athasarv@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
+**Dr. Dimitriadis Athanasios**, asdimitriadis@iti.gr  
 **Dr. Egthimiadis Panagiotis**, panosef@iti.gr  
 **Dr. Kaltsa Maria**, mkaltsa@iti.gr  
 **Dr. Karantaidis Georgios**, karantai@iti.gr  
 **Dr. Karaliopoulos Merkourios**, mkaraliopoulos@iti.gr  
 **Dr. Katsetsiadis Foivos-Iordanis**, fivosk@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
+**Dr. Koilanitis Ioannis**, giakila@iti.gr  
 **Dr. Komaris Dimitrios-Sokratis**, s.komaris@iti.gr  
 **Dr. Kosmatopoulos Andreas**, akosmato@iti.gr  
 **Dr. Kosti Viola-Makrina**, mkosti@iti.gr  
@@ -60,12 +62,16 @@ showpagemeta: false
 **Dr. Mylonas Stylianos**, smylonas@iti.gr  
 **Dr. Nikoulis Georgios**, gnikoul@iti.gr  
 **Dr. Palapanidis Konstantinos**, kpalapan@iti.gr  
+**Dr. Papadimitriou Ioannis**, i.papadimitriou@iti.gr  
 **Dr. Papaioannou Vasileios**, vaspapa@iti.gr  
+**Dr. Parisi Styliani**, pastella@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
 **Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
 **Dr. Stylianou Nikolaos**, nstylia@iti.gr  
+**Dr. Tsanousa Athina**, atsan@iti.gr  
 **Dr. Tzelepi Maria**, mtzelepi@iti.gr  
+**Dr. Vasileiadis Alexandros**, valexande@iti.gr  
 **Dr. Violos Ioannis**, violos@iti.gr  
 **Dr. Xifilidis Theofanis**, thxif@iti.gr  
 
@@ -140,7 +146,6 @@ showpagemeta: false
 **Kintzios Spyridon**, sp.kintzios@iti.gr  
 **Kioutsiouki Dimitra**, dimikiou@iti.gr  
 **Kirtsanis Georgios**, gkirtsanis@iti.gr  
-**Koilanitis Ioannis**, giakila@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
 **Koktsidou Anna**, akoktsidou@iti.gr  
 **Konstantinidou Despoina**, dekonstantinidou@iti.gr  
@@ -195,7 +200,6 @@ showpagemeta: false
 **Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Pantsios Athansios**, apantsios@iti.gr  
-**Papadimitriou Ioannis**, i.papadimitriou@iti.gr  
 **Papadopoulos Charalampos**, chapapadopoulos@iti.gr  
 **Papadopoulos Konstantinos**, papkonst@iti.gr    
 **Papadopoulou Olga**, olgapapa@iti.gr  
@@ -204,7 +208,6 @@ showpagemeta: false
 **Papoutsis Aggelos**, apapoutsis@iti.gr  
 **Paraschos Spyridon**, sparaschos@iti.gr  
 **Paraskevopoulos Sotirios**, sotirispara@iti.gr  
-**Parisi Styliani**, pastella@iti.gr  
 **Pasios Stefanos**, pasioss@iti.gr  
 **Paspalakis Stavros**, spaspalakis@iti.gr  
 **Patsiouras Emmanouil**, manolispats@iti.gr  
@@ -234,14 +237,12 @@ showpagemeta: false
 **Taxidari Athina**, athinata@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr  
 **Toumpas Achilleas**, atoumpas@iti.gr  
-**Tsanousa Athina**, atsan@iti.gr  
 **Tsionkis Georgios**, tsiogeorgios@iti.gr  
 **Tsolakis Nikolaos**, tsolakin@iti.gr  
 **Tzanetis Georgios**, tzangeor@iti.gr  
 **Vakkou Despoina**, dvakkou@iti.gr  
 **Valla Evgenia**, evg.valla@iti.gr  
 **Valsamis Dimitrios**, dvalsamis@iti.gr  
-**Vasileiadis Alexandros**, valexande@iti.gr  
 **Vasileiou Zoi**, zvasilei@iti.gr  
 **Vasileiou-kyriakou Stavros**, stavrosv@iti.gr  
 **Vrachnos Panagiotis**, panosvrachnos@iti.gr  
