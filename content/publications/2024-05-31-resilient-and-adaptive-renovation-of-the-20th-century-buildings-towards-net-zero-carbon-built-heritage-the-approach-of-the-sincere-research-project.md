@@ -9,6 +9,6 @@ publication_date: 2024-06-17
 ---
 <!--StartFragment-->
 
-E. Tziviloglou, C. Stentoumis, J. I. Alvarez, E. Stathopoulos, S. Diplaris, A. Sfetsos, D. Vlachogiannis and I. Karatasios, "Resilient and adaptive renovation of 20th century buildings towards net-zero carbon built heritage - The approach of the SINCERE research project". *Proceedings of the 11th International Symposium on the Conservation of Monuments in the Mediterranean Basin (MONUBASIN), Athens, Greece, June 17-19, 2024.*
+E. Tziviloglou, C. Stentoumis, J. I. Alvarez, E. Stathopoulos, S. Diplaris, A. Sfetsos, D. Vlachogiannis, I. Karatasios, "Resilient and adaptive renovation of 20th century buildings towards net-zero carbon built heritage - The approach of the SINCERE research project", in Proceedings of the 11th International Symposium on the Conservation of Monuments in the Mediterranean Basin (MONUBASIN), Athens, Greece, June 17-19, 2024. <https://zenodo.org/records/11387767>
 
 <!--EndFragment-->
