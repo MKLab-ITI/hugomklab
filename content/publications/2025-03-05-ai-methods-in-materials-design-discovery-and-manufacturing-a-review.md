@@ -8,6 +8,6 @@ publication_date: 2024-02-15
 ---
 <!--StartFragment-->
 
-I. Papadimitriou, I. Gialampoukidis, S. Vrochidis & I. Kompatsiaris, "AI methods in materials design, discovery and manufacturing: A review",  *Computational Materials Science*, vol. 235, 112793, Feb. 2024, https://doi.org/10.1016/j.commatsci.2024.112793
+I. Papadimitriou, I. Gialampoukidis, S. Vrochidis, I. Kompatsiaris, "AI methods in materials design, discovery and manufacturing: A review", *Computational Materials Science,* vol. 235, February 2024, <https://doi.org/10.1016/j.commatsci.2024.112793>
 
 <!--EndFragment-->
