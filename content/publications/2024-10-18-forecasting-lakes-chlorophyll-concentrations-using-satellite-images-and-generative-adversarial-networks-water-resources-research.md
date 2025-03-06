@@ -9,6 +9,6 @@ publication_date: 2024-10-15
 ---
 <!--StartFragment-->
 
-Nagkoulis, N., Vasiloudis, G., Moumtzidou, A., Gialampoukidis, I., Vrochidis, S., & Kompatsiaris, I. (2024), "Forecasting lakes' chlorophyll concentrations using satellite images and generative adversarial networks", Water Resources Research, 60, e2024WR037138. <https://doi.org/10.1029/2024WR037138>
+N. Nagkoulis, G. Vasiloudis, A. Moumtzidou, I. Gialampoukidis, S. Vrochidis, I. Kompatsiaris, "Forecasting lakes' chlorophyll concentrations using satellite images and generative adversarial networks.", Water Resources Research, vol. 60, no. 10, October 2024. <https://doi.org/10.1029/2024WR037138>
 
 <!--EndFragment-->
