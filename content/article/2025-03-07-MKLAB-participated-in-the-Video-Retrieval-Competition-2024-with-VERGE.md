@@ -17,7 +17,7 @@ Our team ranked 5th in the Novice Session, 8th in the Expert Session and 7th ove
 
 You can read the <a href="https://link.springer.com/chapter/10.1007/978-981-96-2074-6_43">Paper</a> and visit the official <a href="https://videobrowsershowdown.org/">website</a> for more information. 
 
-<figure>
+<!-- <figure>
 <img class="wp-image-5785" src="/files/news_images/vrc in verge.JPEG" alt="" width="617" height="380" /> <figcaption  style="font-size:10px; text-align: center;">Pic.1. MKLAb Team During the Competition</figcaption>
-</figure>
+</figure> -->
 </p>
