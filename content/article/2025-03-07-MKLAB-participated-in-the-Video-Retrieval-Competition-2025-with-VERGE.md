@@ -4,11 +4,11 @@ tags:
 images: 
 - news_images/vrc in verge.JPEG
 layout: article
-title: 'MKLAB participated in the Video Retrieval Competition 2024 with VERGE'
+title: 'MKLAB participated in the Video Retrieval Competition 2025 with VERGE'
 date: '2025-03-07T08:49:37+02:00'
 ---
 
-<p>ΜKLab participated in The Video Retrieval Competition 2024, with the VERGE system, an interactive video content retrieval system designed for browsing a collection of images extracted from videos and conducting targeted content searches. VERGE incorporates a variety of retrieval methods and fusion techniques. It also offers a user-friendly web application for query formulation and displaying top results.
+<p>ΜKLab participated in The Video Retrieval Competition 2025, with the VERGE system, an interactive video content retrieval system designed for browsing a collection of images extracted from videos and conducting targeted content searches. VERGE incorporates a variety of retrieval methods and fusion techniques. It also offers a user-friendly web application for query formulation and displaying top results.
 
 VBS is an international video content search competition that evaluates the state-of-the-art of interactive video retrieval systems. It is performed annually as a special session at the International Conference on MultiMedia Modeling (MMM) since 2012. 
 
