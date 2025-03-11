@@ -9,6 +9,6 @@ publication_date: 2023-04-03
 ---
 <!--StartFragment-->
 
-K. Vlachos, C. Psychalas, A. Moumtzidou, I. Gialampoukidis, S. Vrochidis & I. Kompatsiaris. (2023). "TOWARDS A PARADIGM SHIFT ON MAPPING MUDDY WATERS IN WATER RESERVOIRS WITH SENTINEL-2 USING MACHINE LEARNING". Ιn Ninth International Conference on Remote Sensing and Geoinformation of the Environment (RSCy2023), Ayia Napa, Cyprus, 3-5 April, 2023  (Poster)
+K. Vlachos, C. Psychalas, A. Moumtzidou, I. Gialampoukidis, S. Vrochidis, I. Kompatsiaris, "TOWARDS A PARADIGM SHIFT ON MAPPING MUDDY WATERS IN WATER RESERVOIRS WITH SENTINEL-2 USING MACHINE LEARNING.", in Proceedings of the Ninth International Conference on Remote Sensing and Geoinformation of the Environment (RSCy2023), Ayia Napa, Cyprus, 3-5 April, 2023. (Poster)
 
 <!--EndFragment-->
