@@ -9,6 +9,6 @@ publication_date: 2023-12-02
 ---
 <!--StartFragment-->
 
-V.-R. Xefteris, M. Dominguez, J. Grivolla, A.Tsanousa, F. Zaffanela, Μ. Monego,S. Symeonidis, S. Diplaris, L. Wanner, S. Vrochidis, I. Kompatsiaris, “A Multimodal Late Fusion Framework for Physiological Sensor and Audio-Signal-Based Stress Detection: An Experimental Study and Public Dataset,” *Electronics, vol. 12, no. 23, p. 4871*, Dec. 2023. doi: 10.3390/electronics12234871**.**
+V.R. Xefteris, M. Dominguez, J. Grivolla, A.Tsanousa, F. Zaffanela, Μ. Monego, S. Symeonidis, S. Diplaris, L. Wanner, S. Vrochidis, I. Kompatsiaris, "A Multimodal Late Fusion Framework for Physiological Sensor and Audio-Signal-Based Stress Detection: An Experimental Study and Public Dataset", *Electronics*, vol. 12, no. 23, December 2023, doi: [10.3390/electronics12234871](https://www.mdpi.com/2079-9292/12/23/4871)
 
 <!--EndFragment-->
