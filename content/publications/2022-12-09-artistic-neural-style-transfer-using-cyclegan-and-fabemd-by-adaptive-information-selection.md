@@ -8,7 +8,7 @@ tags: journal_publications
 publication_date: 2023-01-01
 ---
 <!--StartFragment-->
-
-Batziou, E., Ioannidis, K., Patras, I., Vrochidis, S., & Kompatsiaris, I. (2023). Artistic neural style transfer using CycleGAN and FABEMD by adaptive information selection. <em>Pattern Recognition Letters, 165,</em> 55-62. <strong>DOI:</strong> [https://doi.org/10.1016/j.patrec.2022.11.026](https://doi.org/10.1016/j.patrec.2022.11.026)
+ 
+E. Batziou, K. Ioannidis, I. Patras, S. Vrochidis, I. Kompatsiaris, "Artistic neural style transfer using CycleGAN and FABEMD by adaptive information selection.", Pattern Recognition Letters, vol. 165, pp. 55-62, January 2023. <https://doi.org/10.1016/j.patrec.2022.11.026>
 
 <!--EndFragment-->
