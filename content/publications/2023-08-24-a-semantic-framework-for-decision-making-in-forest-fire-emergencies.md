@@ -8,6 +8,6 @@ publication_date: 2023-08-23
 ---
 <!--StartFragment-->
 
-Masa, P.; Kintzios, S.; Vasileiou, Z.; Meditskos, G.; Vrochidis, S.; Kompatsiaris, I. A Semantic Framework for Decision Making in Forest Fire Emergencies. Appl. Sci. 2023, 13, 9065. https://doi.org/10.3390/app13169065
+P﻿. Masa, S. Kintzios, Z. Vasileiou, G. Meditskos, S. Vrochidis, I. Kompatsiaris, "A Semantic Framework for Decision Making in Forest Fire Emergencies", Appl. Sci., vol. 13, no. 16, 2023. <https://doi.org/10.3390/app13169065>
 
 <!--EndFragment-->
