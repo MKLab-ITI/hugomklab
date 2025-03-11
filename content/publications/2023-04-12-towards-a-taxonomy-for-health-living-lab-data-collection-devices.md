@@ -2,12 +2,12 @@
 layout: publication
 types: publication
 title: Towards a taxonomy for health living lab data collection devices
-date: 2023-04-12T14:32:56.195Z
+date: 2022-06-08T14:32:56.195Z
 tags: conference_publications
-publication_date: 2023-04-12
+publication_date: 2022-06-08
 ---
 <!--StartFragment-->
 
-Petsani, D. ; Santonen, T. ; Konstantinidis, E. ; Enriquez, L. ; Petronikolou, V. ; Maga, C. ; Makroglou, S. & Bamidis, P.(2022) Towards a Taxonomy for Health Living Lab Data Collection Devices. In Leandro Bitetti, Iain Bitran, Steffen Conn, Jessica Fishburn, Eelko Huizingh, Marko Torkkeli, Jialei Yang (Eds.) Proceedings of the XXXIII ISPIM Innovation Conference
+D. Petsani, T. Santonen, E. Konstantinidis, L. Enriquez, V. Petronikolou, C. Maga, S. Makroglou, and P. Bamidis, "Towards a Taxonomy for Health Living Lab Data Collection Devices.", in Proceedings of the XXXIII ISPIM Innovation Conf., Leandro Bitetti, I. Bitran, S. Conn, J. Fishburn, E. Huizingh, M. Torkkeli, and J. Yang, Eds., 2022. 
 
 <!--EndFragment-->
