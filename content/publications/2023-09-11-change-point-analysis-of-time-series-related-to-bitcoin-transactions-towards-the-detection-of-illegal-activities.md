@@ -9,6 +9,6 @@ publication_date: 2023-09-10
 ---
 <!--StartFragment-->
 
-Theodosiadou, O.; Koufakis, A.-M.; Tsikrika, T.; Vrochidis, S.; Kompatsiaris, I. Change Point Analysis of Time Series Related to Bitcoin Transactions: Towards the Detection of Illegal Activities. J. Risk Financial Manag. 2023, 16, 408. [https://doi.org/10.3390/jrfm16090408](https://www.mdpi.com/1911-8074/16/9/408)
+O. Theodosiadou, A. M. Koufakis, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "Change Point Analysis of Time Series Related to Bitcoin Transactions: Towards the Detection of Illegal Activities.", J. Risk Financial Manag., vol. 16, no. 9, 2023. <https://www.mdpi.com/1911-8074/16/9/408>
 
 <!--EndFragment-->
