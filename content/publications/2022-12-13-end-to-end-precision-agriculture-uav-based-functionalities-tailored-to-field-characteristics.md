@@ -9,6 +9,6 @@ publication_date: 2022-12-13
 ---
 <!--StartFragment-->
 
-Emmanuel K. Raptis, Marios Krestenitis, Konstantinos Egglezos, Orfeas Kypris, Konstantinos Ioannidis, Lefteris Doitsidis, Athanasios Ch. Kapoutsis, Stefanos Vrochidis, Ioannis Kompatsiaris, Elias B. Kosmatopoulos, "End-to-end precision agriculture UAV-based functionalities tailored to field characteristics", Journal of Intelligent & Robotic Systems, 2022 
+E. Raptis, M. Krestenitis, K. Egglezos, O. Kypris, K. Ioannidis, L. Doitsidis, A. Kapoutsis, S. Vrochidis, I. Kompatsiaris, E. Kosmatopoulos, "End-to-end precision agriculture UAV-based functionalities tailored to field characteristics", Journal of Intelligent & Robotic Systems, 2022.
 
 <!--EndFragment-->
