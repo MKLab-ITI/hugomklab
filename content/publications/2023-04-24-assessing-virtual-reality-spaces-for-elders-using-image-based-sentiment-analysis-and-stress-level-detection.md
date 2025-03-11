@@ -9,6 +9,6 @@ publication_date: 2023-04-24
 ---
 <!--StartFragment-->
 
-Kosti, M.V.; Georgakopoulou, N.; Diplaris, S.; Pistola, T.; Chatzistavros, K.; Xefteris, V.-R.; Tsanousa, A.; Vrochidis, S.; Kompatsiaris, I. Assessing Virtual Reality Spaces for Elders Using Image-Based Sentiment Analysis and Stress Level Detection. Sensors 2023, 23, 4130. <https://doi.org/10.3390/s23084130>
+M. Kosti, N. Georgakopoulou, S. Diplaris, T. Pistola, K. Chatzistavros, V. Xefteris, A. Tsanousa, S. Vrochidis, I. Kompatsiaris, "Assessing Virtual Reality Spaces for Elders Using Image-Based Sentiment Analysis and Stress Level Detection.", Sensors, vol. 23, no. 8, 2023. <https://doi.org/10.3390/s23084130>
 
 <!--EndFragment-->
