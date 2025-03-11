@@ -9,6 +9,6 @@ publication_date: 2023-06-09
 ---
 <!--StartFragment-->
 
-Symeonidis, S., Samaras, S., Stentoumis, C., Plaum, A., Paccelli, M.,Grivolla, J., Shekhawat, Y., Ferri, M., Diplaris, S. & Vrochidis, S. (2023). "An Extended Reality system for situation awareness in flood management and media production planning", Electronics,2023, 12(12), 2569; <https://doi.org/10.3390/electronics12122569>
+S. Symeonidis, S. Samaras, C. Stentoumis, A. Plaum, M. Paccelli, J. Grivolla, Y. Shekhawat, M. Ferri, S. Diplaris, S. Vrochidis, "An Extended Reality system for situation awareness in flood management and media production planning.", Electronics, vol. 12, no. 12, 2023. <https://doi.org/10.3390/electronics12122569>
 
 <!--EndFragment-->
