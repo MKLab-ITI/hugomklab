@@ -9,6 +9,6 @@ publication_date: 2023-11-22
 ---
 <!--StartFragment-->
 
-Y. Kouloglou, G. Antzoulatos, G. Vosinakis, F. Lombardo, A. Abella, M. Bakratsas, A. Moumtzidou, E. Maltezos, I. Gialampoukidis, E. Ouzounoglou, S. Vrochidis, A. Amditis, I. Kompatsiaris & M. Ferri, " FIWARE-compatible Smart Data Models for Satellite Imagery and Flood Risk Assessment to Enhance Data Management", November 22, 2023  https://doi.org/10.5281/zenodo.10198821
+Y. Kouloglou, G. Antzoulatos, G. Vosinakis, F. Lombardo, A. Abella, M. Bakratsas, A. Moumtzidou, E. Maltezos, I. Gialampoukidis, E. Ouzounoglou, S. Vrochidis, A. Amditis, I. Kompatsiaris, M. Ferri, "FIWARE-compatible Smart Data Models for Satellite Imagery and Flood Risk Assessment to Enhance Data Management", November 22, 2023. <https://doi.org/10.5281/zenodo.10198821>
 
 <!--EndFragment-->
