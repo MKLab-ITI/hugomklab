@@ -19,8 +19,7 @@ showpagemeta: false
 ## Senior Researchers 
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
-**Dr. Ioannidis Kostas**, kioannid@iti.gr  
-**Dr. Mezaris Vasileios**, bmezaris@iti.gr  
+**Dr. Ioannidis Kostas**, kioannid@iti.gr   
 **Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
 **Dr. Sarris Nikolaos**, nsarris@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
