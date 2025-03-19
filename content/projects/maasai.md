@@ -12,7 +12,7 @@ acronym: MaaSAI | Agile Manufacturing as a Service through AI Autonomous Agents
 layout: projects
 title: MaaSAI
 date: '2025-03-19T07:48:57+03:00'
-program: HORIZON-CL4-2024-TWIN-TRANSITION-01-03 - Manufacturing as a Service&#58; Technologies for customised, flexible, and decentralised production on demand (Made in Europe Partnership) (RIA) 
+program: HORIZON-CL4-2024-TWIN-TRANSITION-01-03 - Manufacturing as a Service/:/ Technologies for customised, flexible, and decentralised production on demand (Made in Europe Partnership) (RIA) 
 contact:
 - Gialampoukidis Ilias
 - Vrochidis Stefanos
