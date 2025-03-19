@@ -5,7 +5,7 @@ tags:
 - scientific manager
 - technical manager
 images:
-- project_logos/
+- project_logos/maasai_logo.png
 website_name: cordis.europa.eu  
 website_link: https://cordis.europa.eu/project/id/101177368  
 acronym: MaaSAI | Agile Manufacturing as a Service through AI Autonomous Agents
