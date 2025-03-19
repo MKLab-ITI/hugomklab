@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/koban_logo.png
+- project_logos/KOBAN-logo-hires.png
 website_name: koban-project.eu 
 website_link: https://koban-project.eu/ 
 acronym: Identifying future capabilities for Community Policing
