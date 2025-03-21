@@ -9,6 +9,6 @@ publication_date: 2022-10-25
 ---
 <!--StartFragment-->
 
-S. Symeonidis, G. Meditskos, S. Vrochidis, K. Avgerinakis, J. Derdaele, M. Vergauwen, M. Bassier, A. Moghnieh, L. Fraguada, V. Vogler, Y. Shekhawat, L. Wanner, M. Marimon, K. Valsamidou, P. Koulali, A. Tellios, J. Wuyts, E. Lopez, "V4Design: Intelligent analysis and integration of multimedia content for Creative Industries", IEEE Systems journal 
+S. Symeonidis, G. Meditskos, S. Vrochidis, K. Avgerinakis, J. Derdaele, M. Vergauwen, M. Bassier, A. Moghnieh, L. Fraguada, V. Vogler, Y. Shekhawat, L. Wanner, M. Marimon, K. Valsamidou, P. Koulali, A. Tellios, J. Wuyts, E. Lopez, "V4Design: Intelligent analysis and integration of multimedia content for Creative Industries", IEEE Systems Journal, vol. 17, no. 2, pp. 2570 - 2573, November 2022.
 
 <!--EndFragment-->
