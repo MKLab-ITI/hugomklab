@@ -2,12 +2,12 @@
 layout: publication
 types: publication
 title: Quality Assurance and Design-Time Optimization
-date: 2022-08-29T18:01:41.941Z
+date: 2022-07-15T18:01:41.941Z
 tags: book_chapters
 publication_date: 2022-07-15
 ---
 <!--StartFragment-->
 
-Indika Kumara, Alfio Lazzaro, Nina Mujkanovic, Zoe Vasileiou & Damian A. Tamburri, "Quality Assurance and Design-Time Optimization" In Elisabetta Di Nitto, Jesús Gorroñogoitia Cruz, Indika Kumara, Dragan Radolović, Kamil Tokmakov, Zoe Vasileiou (eds), Deployment and Operation of Complex Software in Heterogeneous Execution Environments , Springer, https://doi.org/10.1007/978-3-031-04961-3, 53-66, July 2022.
+I. Kumara, A. Lazzaro, N. Mujkanovic, Z. Vasileiou, D. Tamburri, "Quality Assurance and Design-Time Optimization.", in Deployment and Operation of Complex Software in Heterogeneous Execution Environments, E. Di Nitto, J. G. Cruz, I. Kumara, D. Radolović, K. Tokmakov, and Z. Vasileiou, Eds. Cham, Switzerland: Springer, July 2022, pp. 53–66. <https://doi.org/10.1007/978-3-031-04961-3>
 
 <!--EndFragment-->
