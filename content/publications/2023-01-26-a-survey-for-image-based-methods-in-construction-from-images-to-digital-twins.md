@@ -9,6 +9,6 @@ publication_date: 2022-09-14
 ---
 <!--StartFragment-->
 
-Koulalis, I., Dourvas, N., Triantafyllidis, T., Ioannidis, K., Vrochidis, S., & Kompatsiaris, I. "A survey for image based methods in construction: from images to digital twins", In 19th International Conference on Content-based Multimedia Indexing (CBMI 2022), Graz, Austria, 14-16 September 2022, Pages 103-110, **DOI:**<https://doi.org/10.1145/3549555.3549594>.
+I. Koulalis, N. Dourvas, T. Triantafyllidis, K. Ioannidis, S. Vrochidis, I. Kompatsiaris, "A survey for image based methods in construction: from images to digital twins.", in Proceedings of the 19th International Conference on Content-based Multimedia Indexing (CBMI 2022), Graz, Austria, 14-16 September 2022, pp. 103-110. <https://doi.org/10.1145/3549555.3549594>
 
 <!--EndFragment-->
