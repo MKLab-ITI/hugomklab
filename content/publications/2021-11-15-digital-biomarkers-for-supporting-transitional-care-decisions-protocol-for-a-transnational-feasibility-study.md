@@ -5,6 +5,6 @@ title: "Digital Biomarkers for supporting transitional care decisions: Protocol
   for a transnational feasibility study"
 date: 2021-11-15T14:50:00.358Z
 tags: journal_publications
-publication_date: 2021-11-04
+publication_date: 2021-11-15
 ---
-Petsani D, Ahmed S, Petronikolou V, Kehayia E, Alastalo M, Santonen T, Merino-Barbancho B, Cea G, Segkouli S, Stavropoulos T, Billis A, Doumas M, Almeida R, Nagy E, Broeckx L, Bamidis P, Konstantinidis E, "Digital Biomarkers for supporting transitional care decisions: Protocol for a transnational feasibility study", JMIR Research Protocols. 04/11/2021:34573 (forthcoming/in press)
+D. Petsani, S. Ahmed, V. Petronikolou, E. Kehayia, M. Alastalo, T. Santonen, B. Merino-Barbancho, G. Cea, S. Segkouli, Th. Stavropoulos, A. Billis, M. Doumas, R. Almeida, E. Nagy, L. Broeckx, P. Bamidis, Ev. Konstantinidis, "Digital Biomarkers for supporting transitional care decisions: Protocol for a transnational feasibility study.", Journal of Medical Internet Research (JMIR), vol. 11, no. 1, 2021, (accepted and currently in production). <https://preprints.jmir.org/preprint/34573>
