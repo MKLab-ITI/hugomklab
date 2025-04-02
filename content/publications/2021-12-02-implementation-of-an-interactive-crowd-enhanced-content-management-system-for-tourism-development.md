@@ -7,4 +7,4 @@ date: 2021-11-30T13:49:42.510Z
 tags: conference_publications
 publication_date: 2021-11-30
 ---
-Paliokas, I., Mitsopoulou, E. E., Patenidis, A. T., Stathopoulos, E. A., Kokkalas, A., Diplaris, S., Karyati, E., Tsafaras, S., Tasiopoulou, E., Riggas, C., Meditskos, G., Vrochidis, S., Votis, K., Kompatsiaris, I., & Tzovaras, D. (2021). Implementation of an Interactive Crowd-Enhanced Content Management System for Tourism Development. KnE Social Sciences, vol. 5, no. 9, pp. 275–282, 2021, [https://doi.org/10.18502/kss.v5i9.9899](https://doi.org/10.18502/kss.v5i9.9899).
+I. Paliokas, E. Mitsopoulou, A. Patenidis, E. Stathopoulos, A. Kokkalas, S. Diplaris, E. Karyati, S. Tsafaras, E. Tasiopoulou, C. Riggas, G. Meditskos, S. Vrochidis, K. Votis, I. Kompatsiaris, D. Tzovaras, "Implementation of an Interactive Crowd-Enhanced Content Management System for Tourism Development.", in Proceedings of the conference on humanities, arts and social sciences, KnE Social Sciences, vol. 5, no. 9, 2021, pp. 275–282. <https://doi.org/10.18502/kss.v5i9.9899>
