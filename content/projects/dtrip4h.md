@@ -6,7 +6,7 @@ tags:
 images:
 - project_logos/
 website_name: dtrip4h.eu
-website_link: https://www.dtrip4h.eu/
+website_link: https://www.dtrip4h.eu/DTRIP4H-logo.png
 acronym: Enabling Decentralised Digital Twin Era in existing Research Infrastructures for Predictive, Preventive, Personalised, and Participatory Health
 layout: projects
 title: DTRIP4H
