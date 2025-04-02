@@ -8,6 +8,6 @@ publication_date: 2021-09-13
 ---
 <!--StartFragment-->
 
-K. Georgiadis, G. Kordopatis-Zilos, F. Kalaganis, P. Migkotzidis, E. Chatzilari, V. Panakidou, K. Pantouvakis, S. Tortopidis, S. Papadopoulos, S. Nikolopoulos, I. Kompatsiaris, “Products-6K: A Large-Scale Groceries Product Recognition Dataset,” in The 14th PErvasive Technologies Related to Assistive Environments Conference, 2021, pp. 1–7.
+K. Georgiadis, G. Kordopatis-Zilos, F. Kalaganis, P. Migkotzidis, E. Chatzilari, V. Panakidou, K. Pantouvakis, S. Tortopidis, S. Papadopoulos, S. Nikolopoulos, I. Kompatsiaris, "Products-6K: A Large-Scale Groceries Product Recognition Dataset.", in Proceedings of the 14th PErvasive Technologies Related to Assistive Environments Conference, 2021, pp. 1-7.
 
 <!--EndFragment-->
