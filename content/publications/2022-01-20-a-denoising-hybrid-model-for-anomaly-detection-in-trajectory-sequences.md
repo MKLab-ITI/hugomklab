@@ -8,6 +8,6 @@ publication_date: 2021-08-08
 ---
 <!--StartFragment-->
 
-M. Liatsikou, S. Papadopoulos, L. Apostolidis, and I. Kompatsiaris, “A Denoising Hybrid Model for Anomaly Detection in Trajectory Sequences,” in EDBT/ICDT Workshops, 2021.
+M. Liatsikou, S. Papadopoulos, L. Apostolidis, I. Kompatsiaris, "A Denoising Hybrid Model for Anomaly Detection in Trajectory Sequences.", in Proceedings of the EDBT/ICDT Workshops, 2021.
 
 <!--EndFragment-->
