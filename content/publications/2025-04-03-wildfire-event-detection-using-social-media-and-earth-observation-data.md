@@ -8,6 +8,6 @@ publication_date: 2025-03-17
 ---
 <!--StartFragment-->
 
-E. Valla,  A. Moumtzidou, I. Gialampoukidis, S. Vrochidis,  I. Kompatsiaris. "Wildfire Event Detection using Social Media and Earth Observation Data", In *Eleventh International Conference on Remote Sensing and Geoinformation of Environment, RSCy2025 (RSCy2025), Paphos, 17-19 March 2025* (Poster).
+E. Valla, A. Moumtzidou, I. Gialampoukidis, S. Vrochidis, I. Kompatsiaris, "Wildfire Event Detection using Social Media and Earth Observation Data.", in Proceedings of the Eleventh International Conference on Remote Sensing and Geoinformation of Environment, RSCy2025 (RSCy2025), Paphos, 17-19 March 2025, (Poster).
 
 <!--EndFragment-->
