@@ -2,8 +2,8 @@
 layout: publication
 types: publication
 title: Stopping Personalized PageRank without an Error Tolerance Parameter
-date: 2021-03-29T09:15:04.470Z
+date: 2020-12-07T10:15:04.470Z
 tags: conference_publications
-publication_date: 2020-12-31
+publication_date: 2020-12-07
 ---
-E. Krasanakis, S. Papadopoulos and I. Kompatsiaris. “Stopping Personalized PageRank without an Error Tolerance Parameter”, Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2020.
+E. Krasanakis, S. Papadopoulos, I. Kompatsiaris, "Stopping Personalized PageRank without an Error Tolerance Parameter.", in Proceedings of the 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2020, pp. 242–249.
