@@ -2,8 +2,8 @@
 layout: publication
 types: publication
 title: Unsupervised Video Summarization via Attention-Driven Adversarial Learning
-date: 2019-10-13T14:10:03.805Z
+date: 2020-01-05T15:10:03.805Z
 tags: conference_publications
-publication_date: '2019-10-13'
+publication_date: 2020-01-05
 ---
-E. Apostolidis, E. Adamantidou, A. Metsai, V. Mezaris, I. Patras, "Unsupervised Video Summarization via Attention-Driven Adversarial Learning", Proc. 26th Int. Conf. on Multimedia Modeling (MMM2020), Daejeon, Korea, Jan. 2020.
+E. Apostolidis, E. Adamantidou, A. Metsai, V. Mezaris, I. Patras, "Unsupervised Video Summarization via Attention-Driven Adversarial Learning.", in Proceedings of the 26th Int. Conf. on Multimedia Modeling (MMM2020), Daejeon, Korea, January 2020.
