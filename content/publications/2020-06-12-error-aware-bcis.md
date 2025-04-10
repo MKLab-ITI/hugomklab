@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Error-aware BCIs
-date: 2020-06-12T09:10:38.729Z
+date: 2020-05-25T09:10:38.729Z
 tags: book_chapters
 publication_date: 2020-05-25
 ---
