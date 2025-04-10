@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: BCIs using motor imagery and sensorimotor rhythms
-date: 2020-06-12T09:11:19.745Z
+date: 2020-05-25T09:11:19.745Z
 tags: book_chapters
 publication_date: 2020-05-25
 ---
