@@ -5,7 +5,7 @@ title: Interactive Video Retrieval Evaluation at a Distance - Comparing Sixteen
   Interactive Video Search Systems in a Remote Setting at the 10th Video Browser
   Showdown
 date: 2022-01-26T14:03:33.472Z
-tags: conference_publications
+tags: journal_publications
 publication_date: 2022-01-26
 ---
 <!--StartFragment-->
