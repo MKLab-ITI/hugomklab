@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "Parkinsonian patients experiences operating the computer with their
   eyes: the MAMEM project"
-date: 2020-06-12T09:22:00.409Z
+date: 2019-04-17T09:22:00.409Z
 tags: conference_publications
 publication_date: 2019-04-17
 ---
