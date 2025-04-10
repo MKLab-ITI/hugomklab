@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: The added value of EEG-based BCIs for communication and rehabilitation of
   people with motor impairment
-date: 2020-06-12T09:13:38.622Z
+date: 2020-05-25T09:13:38.622Z
 tags: book_chapters
 publication_date: 2020-05-25
 ---
