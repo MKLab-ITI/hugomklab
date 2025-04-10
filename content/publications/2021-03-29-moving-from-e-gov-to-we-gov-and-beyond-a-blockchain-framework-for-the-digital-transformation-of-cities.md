@@ -3,7 +3,7 @@ layout: publication
 types: publication
 title: "Moving from e-Gov to we-Gov and beyond: a blockchain framework for the
   digital transformation of cities"
-date: 2021-03-29T09:16:09.127Z
+date: 2019-12-31T10:16:09.127Z
 tags: book_chapters
 publication_date: 2019-12-31
 ---
