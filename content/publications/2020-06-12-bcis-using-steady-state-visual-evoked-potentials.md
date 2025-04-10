@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: BCIs using steady-state visual-evoked potentials
-date: 2020-06-12T09:12:14.662Z
+date: 2020-05-25T09:12:14.662Z
 tags: book_chapters
 publication_date: 2020-05-25
 ---
