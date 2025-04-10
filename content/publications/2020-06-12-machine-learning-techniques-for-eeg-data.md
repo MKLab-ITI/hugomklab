@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Machine-learning techniques for EEG data
-date: 2020-06-12T09:12:59.382Z
+date: 2020-05-25T09:12:59.382Z
 tags: book_chapters
 publication_date: 2020-05-25
 ---
