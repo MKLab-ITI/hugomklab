@@ -2,7 +2,7 @@
 layout: publication
 types: publication
 title: Multimodal Fusion of Big Multimedia Data
-date: 2020-06-12T09:15:09.403Z
+date: 2019-12-01T10:15:09.403Z
 tags: book_chapters
 publication_date: 2019-12-01
 ---
