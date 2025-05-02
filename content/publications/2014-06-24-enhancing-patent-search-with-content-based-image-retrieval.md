@@ -1,9 +1,9 @@
 ---
-types: publication
-tags: book_chapters
-publication_date: '2014-09-01'
 layout: publication
+types: publication
 title: Enhancing Patent Search with Content-based Image Retrieval
-date: '2014-06-24T10:53:28+03:00'
+date: 2014-01-31T08:53:28.000Z
+tags: book_chapters
+publication_date: 2014-01-31
 ---
-<p><span>S. Vrochidis, A. Moumtzidou, I. Kompatsiaris, "<a href="http://link.springer.com/chapter/10.1007%2F978-3-319-12511-4_12" target="_blank">Enhancing Patent Search with Content-based Image Retrieval</a>", Professional Search in the Modern World, Lecture Notes in Computer Science Volume 8830, 2014, pp 250-273.</span></p>
+S. Vrochidis, A. Moumtzidou, I. Kompatsiaris, "[Enhancing Patent Search with Content-based Image Retrieval](http://link.springer.com/chapter/10.1007%2F978-3-319-12511-4_12)", in Professional Search in the Modern World, Paltoglou, G., Loizides, F., Hansen, P., Eds., Lecture Notes in Computer Science vol. 8830, Springer, Cham, 31 January, 2014, pp 250-273.
