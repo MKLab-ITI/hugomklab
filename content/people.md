@@ -67,7 +67,6 @@ showpagemeta: false
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
 **Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
-**Dr. Stylianou Nikolaos**, nstylia@iti.gr  
 **Dr. Tsanousa Athina**, atsan@iti.gr  
 **Dr. Tzelepi Maria**, mtzelepi@iti.gr  
 **Dr. Vasileiadis Alexandros**, valexande@iti.gr  
@@ -95,6 +94,7 @@ showpagemeta: false
 **Chamilos Eythimios**, e.hamilos@iti.gr  
 **Chatzichristaki Chrysoula**, xrysxat@iti.gr  
 **Chatzopoulos Ioannis**, yhat@iti.gr  
+**Chrysidis Zacharias**, zchrysid@iti.gr  
 **Darra Eleni**, e.darra@iti.gr  
 **Diamantopoulou Thaleia**,  thadiama@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
@@ -127,7 +127,6 @@ showpagemeta: false
 **Kallipoliti Dimitra**, dkallipoliti@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
-**Kamateri Eleni**, ekamater@iti.gr  
 **Kaparinos Nikolaos**, kaparinos@iti.gr  
 **Karageorgiadis Anastasios**, tassoskarag@iti.gr  
 **Karamolegkos Spyridon**, skar@iti.gr  
@@ -174,6 +173,7 @@ showpagemeta: false
 **Matzanou Georgia**, gmatzanou@iti.gr  
 **Melitou Maria**, mariamel@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
+**Militsis Nikolaos-Marios**, nikos.militsis@iti.gr  
 **Mita Mirsini-Eleni**, mmita@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
 **Moskachlaidi Christina**, christina.moskachlaidi@iti.gr  
@@ -233,8 +233,11 @@ showpagemeta: false
 **Stathopoulos Evangelos**, estathop@iti.gr   
 **Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
 **Stefanopoulos Dimitrios**,  distef@iti.gr  
+**Styliadis Chaints Alexandros**, alexstyliad@iti.gr  
 **Taxidari Athina**, athinata@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr  
+**Topalidis Ioannis**, ioto@iti.gr  
+**Toumpalidis Ioannidis**, itoumpalidis@iti.gr  
 **Toumpas Achilleas**, atoumpas@iti.gr  
 **Tsionkis Georgios**, tsiogeorgios@iti.gr  
 **Tsolakis Nikolaos**, tsolakin@iti.gr  
@@ -277,6 +280,8 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Dr. Stylianou Nikolaos, Postdoctoral Research Fellow, nstylia@iti.gr  
+Kamateri Eleni, Research Associate, ekamater@iti.gr  
 Vlachos Konstantinos, Research Associate, kostasvlachosgrs@iti.gr  
 Tsampoulatidis Ioannis, Research Associate, itsam@iti.gr  
 Leonidis Dimitrios, Research Associate, dim.leon@iti.gr  
