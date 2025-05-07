@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: Assessment of Oil Spill Dispersion and Weathering Processes in Saronic Gulf
-date: 2025-05-07T12:39:14.091Z
+date: 2025-05-02T12:39:14.091Z
 tags: journal_publications
-publication_date: 2025-05-07
+publication_date: 2025-05-02
 ---
 <!--StartFragment-->
 
