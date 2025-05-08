@@ -13,4 +13,4 @@ date: 2012-07-02T07:42:22.000Z
 tags: conference_publications
 publication_date: 2012-07-02T00:00:00
 ---
-A. Moumtzidou, S. Vrochidis, S. Tonelli, I. Kompatsiaris and E. Pianta, "[Discovery of Environmental Nodes in the Web](https://www.researchgate.net/publication/233530534_Personalized_Environmental_Service_Orchestration_for_Quality_of_Life_Improvement)", in Proceedings of the 5th IRF Conference, Austria, Vienna, July 2-3, 2012. [https://doi.org/10.1007/978-3-642-31274-8_5](https://doi.org/10.1007/978-3-642-31274-8_5)
+A. Moumtzidou, S. Vrochidis, S. Tonelli, I. Kompatsiaris, E. Pianta, "[Discovery of Environmental Nodes in the Web](https://www.researchgate.net/publication/233530534_Personalized_Environmental_Service_Orchestration_for_Quality_of_Life_Improvement).", in Proceedings of the 5th IRF Conference, Austria, Vienna, July 2-3, 2012. <https://doi.org/10.1007/978-3-642-31274-8_5>
