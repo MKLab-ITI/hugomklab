@@ -12,4 +12,4 @@ date: 2012-07-02T14:15:35.000Z
 tags: conference_publications
 publication_date: 2012-07-02T00:00:00
 ---
-S. Vrochidis, A. Moumtzidou, G. Ypma and I. Kompatsiaris, "[PatMedia: Augmenting Patent Search with Content-based Image Retrieval](https://www.researchgate.net/publication/234155641_PatMedia_Augmenting_Patent_Search_with_Content-Based_Image_Retrieval)", in Proceedings of the 5th IRF Conference, Austria, Vienna, July 2-3, 2012. [https://doi.org/10.1007/978-3-642-31274-8_9](https://doi.org/10.1007/978-3-642-31274-8_9)
+S. Vrochidis, A. Moumtzidou, G. Ypma, I. Kompatsiaris, "[PatMedia: Augmenting Patent Search with Content-based Image Retrieval](https://www.researchgate.net/publication/234155641_PatMedia_Augmenting_Patent_Search_with_Content-Based_Image_Retrieval).", in Proceedings of the 5th IRF Conference, Austria, Vienna, July 2-3, 2012. <https://doi.org/10.1007/978-3-642-31274-8_9>
