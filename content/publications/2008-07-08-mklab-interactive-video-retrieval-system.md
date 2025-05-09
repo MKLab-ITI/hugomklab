@@ -12,4 +12,4 @@ date: 2008-07-06T21:00:00.000Z
 tags: conference_publications
 publication_date: 2008-07-07T00:00:00
 ---
-S. Vrochidis, P. King, L. Makris, A. Moumtzidou, V. Mezaris and I. Kompatsiaris, "[MKLab Interactive Video Retrieval System](https://mklab.iti.gr/files/civr032d-vrochidis.pdf)", in the Proceedings of Conference On Image And Video Retrieval (CIVR'08), Niagra Falls, Canada, 7-9 July 2008, Pages: 563 - 563. [https://doi.org/10.1145/1646396.1646459](https://doi.org/10.1145/1646396.1646459)
+S. Vrochidis, P. King, L. Makris, A. Moumtzidou, V. Mezaris, I. Kompatsiaris, "[MKLab Interactive Video Retrieval System](https://mklab.iti.gr/files/civr032d-vrochidis.pdf).", in the Proceedings of the Conference On Image And Video Retrieval (CIVR'08), Niagra Falls, Canada, 7-9 July 2008, pp. 563 - 563. <https://doi.org/10.1145/1646396.1646459>
