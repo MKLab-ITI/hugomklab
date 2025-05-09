@@ -11,4 +11,4 @@ date: 2010-11-01T07:44:03.000Z
 tags: conference_publications
 publication_date: 2010-11-01T00:00:00
 ---
-A. Moumtzidou, A. Dimou, N. Gkalelis, S. Vrochidis, V. Mezaris, I. Kompatsiaris, "[ITI-CERTH participation to TRECVID 2010](https://mklab.iti.gr/files/trecvid2010.pdf)", in Proceedings of TRECVID 2010 Workshop, November 2010, Gaithersburg, MD, USA.
+A. Moumtzidou, A. Dimou, N. Gkalelis, S. Vrochidis, V. Mezaris, I. Kompatsiaris, "[ITI-CERTH participation to TRECVID 2010](https://mklab.iti.gr/files/trecvid2010.pdf).", in Proceedings of the TRECVID 2010 Workshop, Gaithersburg, MD, USA, November 2010.
