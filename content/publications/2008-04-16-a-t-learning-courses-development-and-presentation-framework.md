@@ -12,4 +12,4 @@ date: 2008-04-16T13:32:49+03:00
 tags: conference_publications
 publication_date: 2008-04-16T00:00:00
 ---
-F. Bellotti, S. Vrochidis, E. Parissi, P. Lhoas, D. Mathevon, M. Pellegrino, G. Bo and I. Kompatsiaris, "[A T-learning Courses Development and Presentation Framework](https://mklab.iti.gr/files/imcl2008.pdf)", 3rd International Conference on Interactive Mobile and Computer Aided Learning, IMCL2008, April 16-18, 2008, Amman, Jordan. 
+F. Bellotti, S. Vrochidis, E. Parissi, P. Lhoas, D. Mathevon, M. Pellegrino, G. Bo, I. Kompatsiaris, "[A T-learning Courses Development and Presentation Framework](https://mklab.iti.gr/files/imcl2008.pdf).", in Proceedings of the 3rd International Conference on Interactive Mobile and Computer Aided Learning, Amman, Jordan, April 16-18, 2008.
