@@ -12,4 +12,4 @@ date: 2007-07-09T19:21:18.000Z
 tags: conference_publications
 publication_date: 2007-07-09
 ---
-S. Vrochidis, V. Mezaris and I. Kompatsiaris, "[ITI interactive video retrieval system](https://mklab.iti.gr/files/cr_2007_vrochidis.pdf)", in Conference On Image And Video Retrieval, Proceedings of the 6th ACM international, Amsterdam, The Netherlands, July 2007, p. 648. [https://doi.org/10.1145/1282280.1282375](https://doi.org/10.1145/1282280.1282375)
+S. Vrochidis, V. Mezaris, I. Kompatsiaris, "[ITI interactive video retrieval system](https://mklab.iti.gr/files/cr_2007_vrochidis.pdf).", in Proceedings of the Conference On Image And Video Retrieval, Proceedings of the 6th ACM international, Amsterdam, The Netherlands, July 2007, pp. 648. <https://doi.org/10.1145/1282280.1282375>
