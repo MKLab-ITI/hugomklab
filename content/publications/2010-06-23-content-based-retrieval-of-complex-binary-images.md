@@ -12,4 +12,4 @@ date: 2010-06-23T11:27:50+03:00
 tags: conference_publications
 publication_date: 2010-06-23T00:00:00
 ---
-P. Sidiropoulos, S. Vrochidis and I. Kompatsiaris, "[Content-Based Retrieval of Complex Binary Images](https://mklab.iti.gr/files/cbmi2010_19.pdf)", in Proceedings of the 8th International Workshop on Content-Based Multimedia Indexing  (CBMI 2010), pp. 182-187, Grenoble, France, 23-25 June 2010.
+P. Sidiropoulos, S. Vrochidis, I. Kompatsiaris, "[Content-Based Retrieval of Complex Binary Images](https://mklab.iti.gr/files/cbmi2010_19.pdf)", in Proceedings of the 8th International Workshop on Content-Based Multimedia Indexing (CBMI 2010), Grenoble, France, 23-25 June 2010, pp. 182-187.
