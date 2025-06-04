@@ -66,6 +66,7 @@ showpagemeta: false
 **Dr. Parisi Styliani**, pastella@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
+**Dr. Sfyridis Alexandros**, a.sfyridis@iti.gr  
 **Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
 **Dr. Tsanousa Athina**, atsan@iti.gr  
 **Dr. Tzelepi Maria**, mtzelepi@iti.gr  
@@ -80,6 +81,7 @@ showpagemeta: false
 **Aggelopoulos Konstantinos**, kostaggelo@iti.gr  
 **Agorastou Zoi**, zagorast@iti.gr  
 **Alepopoulos Vasileios**, valep@iti.gr  
+**Alexi Alexandros**, a.aleksi@iti.gr  
 **Alexopoulos Alexandros**, alekalexopoulos@iti.gr  
 **Anagnostopoulos Christos**, anagn_c@iti.gr  
 **Anagnostou Christina**, canagnostou@iti.gr  
@@ -124,6 +126,7 @@ showpagemeta: false
 **Goulas Andreas**, agoulas@iti.gr  
 **Gounaridis Dimitrios**, dimgoun@iti.gr  
 **Gramatikopoulou Margarita**, marggram@iti.gr  
+**Iordanidou Ioanna**, ioaniord@iti.gr  
 **Kallipoliti Dimitra**, dkallipoliti@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
