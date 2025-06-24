@@ -8,6 +8,6 @@ publication_date: 2025-06-23
 ---
 <!--StartFragment-->
 
-Z. Vasileiou, I. Kumara, G. Meditskos, K. Tokmakov, D. Radolović, J. Gorroñogoitia Cruz, E. Di Nitto, D. Andrew Tamburri, W. Van Den Heuvel and S. Vrochidis, "A knowledge-based approach for guided development of Infrastructure as Code", *Software and Systems Modeling,* 2025, doi: https://doi.org/10.1007/s10270-025-01294-1
+Z. Vasileiou, I. Kumara, G. Meditskos, K. Tokmakov, D. Radolović, J. Gorroñogoitia Cruz, E. Di Nitto, D. Andrew Tamburri, W. Van Den Heuvel, S. Vrochidis, "A knowledge-based approach for guided development of Infrastructure as Code", *Software and Systems Modeling,* 2025, doi: [https://doi.org/10.1007/s10270-025-01294-1](https://doi.org/10.1007/s10270-025-01294-1)
 
 <!--EndFragment-->
