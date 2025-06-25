@@ -5,7 +5,7 @@ tags:
 - european 
 - partner
 images:
-- project_logos/
+- project_logos/victorious-logo.png
 website_name: 
 website_link: 
 acronym: VICTORIOUS - Innovative Ai-Enhanced, Remotely Powered, Indirect Fire Observation System Utilizing Unmanned Vehicles
