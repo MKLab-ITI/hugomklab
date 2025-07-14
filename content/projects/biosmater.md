@@ -10,7 +10,7 @@ website_link:
 acronym: Re-designing the construction sector: Sustainable and functional bio-based construction products and building elements
 layout: projects
 title: BIOSMATER 
-date: '2025-07-17T07:48:57+03:00'
+date: '2025-07-14T07:48:57+03:00'
 program: HORIZON-JU-CBE-2024-IA-04
 contact:
 - Gialampoukidis Ilias
