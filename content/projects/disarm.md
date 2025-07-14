@@ -10,7 +10,7 @@ website_link:
 acronym: Disarming the silent threat of ovarian cancer
 layout: projects
 title: DISARM
-date: '2025-07-14T11:00:44+02:00'
+date: '2025-07-14T07:48:57+03:00'
 program: HORIZON-MISS-2024 CANCER-01-03
 contact: 
 - Maga-Nteve Christoniki 
