@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/namor-logo.pn
+- project_logos/namor-logo.pnasd
 website_name: 
 website_link: 
 acronym: A Novel compact and Advanced hybrid Microalgae-membrane photobioreactor Optimized for Retrofitting decentralized water and wastewater management systems
