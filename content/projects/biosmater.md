@@ -7,7 +7,7 @@ images:
 - project_logos/biosmater-logo.jpg 
 website_name: 
 website_link: 
-acronym: Re-designing the construction sector: Sustainable and functional bio-based construction products and building elements
+acronym: "Re-designing the construction sector: Sustainable and functional bio-based construction products and building elements"
 layout: projects
 title: BIOSMATER
 date: '2025-07-13T07:48:57+03:00'
