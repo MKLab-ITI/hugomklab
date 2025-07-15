@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/biosmater-logo.jpg
 website_name: 
 website_link: 
 acronym: Re-designing the construction sector: Sustainable and functional bio-based construction products and building elements
