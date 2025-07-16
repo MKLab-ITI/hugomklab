@@ -9,6 +9,6 @@ publication_date: 2025-07-14
 ---
 <!--StartFragment -->
 
-K. Gkountakos, M. Melitou, K. Ioannidis, K. Demestichas, S. Vrochidis, I. Kompatsiaris. "LADOS: Aerial Imagery Dataset for Oil Spill Detection, Classification, and Localization Using Semantic Segmentation", Data. 2025; 10(7):117. https://doi.org/10.3390/data10070117
+K. Gkountakos, M. Melitou, K. Ioannidis, K. Demestichas, S. Vrochidis, I. Kompatsiarism, "LADOS: Aerial Imagery Dataset for Oil Spill Detection, Classification, and Localization Using Semantic Segmentation", Data, vol. 10, no. 7, 2025. [https://doi.org/10.3390/data10070117](https://doi.org/10.3390/data10070117)
 
 <!--EndFragment -->
