@@ -153,6 +153,7 @@ showpagemeta: false
 **Konstantinou Apostolos**, konstantinou@iti.gr  
 **Kontostathis Ioannis**, ioankont@iti.gr  
 **Koritsas Ilias**, ilias.koritsas@iti.gr  
+**Kosmas Panagiotis**, pkosmas@iti.gr  
 **Kosmidou Eleni**, elenikos@iti.gr  
 **Kougioumtzidou Anna**, annak@iti.gr  
 **Koulalis Ilias**, iliask@iti.gr  
@@ -262,7 +263,6 @@ showpagemeta: false
 **Kampelopoulos Dimitrios**, dkampelo@iti.gr  
 **Karageorgiou Dimitrios**, dkarageo@iti.gr  
 **Ketzaki Eleni**, eketzaki@iti.gr  
-**Kosmas Panagiotis**, pkosmas@iti.gr  
 **Kyrou Maria**, mariakyrou@iti.gr  
 **Lyssaris Efthymios**, e.lyssaris@iti.gr  
 **Mischos Stavros**, stmischos@iti.gr  
