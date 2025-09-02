@@ -9,6 +9,6 @@ publication_date: 2025-04-08
 ---
 <!--StartFragment-->
 
-A. Papoutsis, A. Dimitriadis, D. Kavalieros, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "CTI-GEN: A Framework for Generating STIX 2.1 Compliant CTI Using Generative AI.", in Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience (IEEE CSR 2025), pp. 334-341, Crete, Greece, 4 - 6 August, 2025.
+A. Papoutsis, A. Dimitriadis, I. Koritsas, D. Kavalieros, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "RuleXploit: A Framework for Generating Suricata Rules from Exploits Using Generative AI.", in Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience (IEEE CSR 2025), pp. 267-274, Crete, Greece, 4 - 6 August, 2025.
 
 <!--EndFragment-->
