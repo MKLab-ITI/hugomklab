@@ -181,7 +181,6 @@ showpagemeta: false
 **Mpoutsios Ieremias-Omiros**, ioboutsios@iti.gr  
 **Mpozas Areistidis**, arbozas@iti.gr  
 **Mylonas Emmanouil**, emylonas@iti.gr  
-**Mylonas Nikolaos**, myloniko@iti.gr  
 **Nestoropoulou Efseveia**, nestoropo@iti.gr  
 **Nouvaki Eleni**, eleni.nouvaki@iti.gr  
 **Ntrougkas Mariano**, ntrougkas@iti.gr  
@@ -253,6 +252,7 @@ showpagemeta: false
 **Kyrou Maria**, mariakyrou@iti.gr  
 **Lyssaris Efthymios**, e.lyssaris@iti.gr  
 **Mischos Stavros**, stmischos@iti.gr  
+**Mylonas Nikolaos**, myloniko@iti.gr  
 **Papadopoulos Sotirios**, papasoti@iti.gr  
 **Papadopoulos Stefanos**, stefpapad@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
