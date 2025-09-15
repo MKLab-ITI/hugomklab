@@ -55,6 +55,7 @@ showpagemeta: false
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Michaloglou Alkmini**, amichalo@iti.gr  
 **Dr. Mpaltsou Georgia**, gebaltso@iti.gr  
+**Dr. Mylonas Nikolaos**, myloniko@iti.gr  
 **Dr. Mylonas Stylianos**, smylonas@iti.gr  
 **Dr. Nikoulis Georgios**, gnikoul@iti.gr  
 **Dr. Palapanidis Konstantinos**, kpalapan@iti.gr  
@@ -252,7 +253,6 @@ showpagemeta: false
 **Kyrou Maria**, mariakyrou@iti.gr  
 **Lyssaris Efthymios**, e.lyssaris@iti.gr  
 **Mischos Stavros**, stmischos@iti.gr  
-**Mylonas Nikolaos**, myloniko@iti.gr  
 **Papadopoulos Sotirios**, papasoti@iti.gr  
 **Papadopoulos Stefanos**, stefpapad@iti.gr  
 **Pegia Maria-Eirini**, mpegia@iti.gr  
