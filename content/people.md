@@ -19,8 +19,7 @@ showpagemeta: false
 ## Senior Researchers 
 **Dr. Diplaris Sotiris**, diplaris@iti.gr  
 **Dr. Gialampoukidis Ilias**, heliasgj@iti.gr  
-**Dr. Ioannidis Kostas**, kioannid@iti.gr   
-**Dr. Oikonomou Vaggelis**, viknmu@iti.gr  
+**Dr. Ioannidis Kostas**, kioannid@iti.gr  
 **Dr. Sarris Nikolaos**, nsarris@iti.gr  
 **Dr. Tsalakanidou Filareti**, filareti@iti.gr  
 **Dr. Tsikrika Theodora**, theodora.tsikrika@iti.gr  
@@ -41,10 +40,8 @@ showpagemeta: false
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Dimitriadis Athanasios**, asdimitriadis@iti.gr  
 **Dr. Egthimiadis Panagiotis**, panosef@iti.gr  
-**Dr. Kaltsa Maria**, mkaltsa@iti.gr  
 **Dr. Karantaidis Georgios**, karantai@iti.gr  
 **Dr. Karaliopoulos Merkourios**, mkaraliopoulos@iti.gr  
-**Dr. Katsetsiadis Foivos-Iordanis**, fivosk@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
 **Dr. Koilanitis Ioannis**, giakila@iti.gr  
 **Dr. Komaris Dimitrios-Sokratis**, s.komaris@iti.gr  
@@ -94,7 +91,6 @@ showpagemeta: false
 **Boutziona Ioanna**, joboutziona@iti.gr  
 **Chalkias Ioannis**,  ichalkias@iti.gr  
 **Chamilos Eythimios**, e.hamilos@iti.gr  
-**Chatzichristaki Chrysoula**, xrysxat@iti.gr  
 **Chatzopoulos Ioannis**, yhat@iti.gr  
 **Chrysidis Zacharias**, zchrysid@iti.gr  
 **Darra Eleni**, e.darra@iti.gr  
@@ -119,14 +115,10 @@ showpagemeta: false
 **Giannios Georgios**, ggiannios@iti.gr   
 **Giatsoglou Nikolaos**, ngiatsog@iti.gr  
 **Giogiou Natalia**, nataliagio@iti.gr  
-**Gkevreki Sofia**, sgkevreki@iti.gr  
-**Gkiourtzidis Xristos**, xristosgkiou@iti.gr  
 **Gkountakos Konstantinos**, gountakos@iti.gr  
 **Gkrimoura Anastasia**, anastasiagkr@iti.gr  
 **Goulas Andreas**, agoulas@iti.gr  
-**Gounaridis Dimitrios**, dimgoun@iti.gr  
 **Gramatikopoulou Margarita**, marggram@iti.gr  
-**Iordanidou Ioanna**, ioaniord@iti.gr  
 **Kallipoliti Dimitra**, dkallipoliti@iti.gr  
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
@@ -149,7 +141,6 @@ showpagemeta: false
 **Kirtsanis Georgios**, gkirtsanis@iti.gr  
 **Kokkalas Alexandros**, akokkalas@iti.gr  
 **Koktsidou Anna**, akoktsidou@iti.gr  
-**Konstantinidou Despoina**, dekonstantinidou@iti.gr  
 **Konstantinou Apostolos**, konstantinou@iti.gr  
 **Kontostathis Ioannis**, ioankont@iti.gr  
 **Koritsas Ilias**, ilias.koritsas@iti.gr  
@@ -175,7 +166,6 @@ showpagemeta: false
 **Mantsis Damianos-Florin**, dmantsis@iti.gr  
 **Mastoras Chrysovaladis**, mastoras.valadis@iti.gr  
 **Matzanou Georgia**, gmatzanou@iti.gr  
-**Melitou Maria**, mariamel@iti.gr  
 **Menexis Sotirios**, sotiris.menexis@iti.gr  
 **Militsis Nikolaos-Marios**, nikos.militsis@iti.gr  
 **Mita Mirsini-Eleni**, mmita@iti.gr  
@@ -231,7 +221,6 @@ showpagemeta: false
 **Skoumperdis Michail**, skoumpmi@iti.gr  
 **Skouras Taxiarchis**, tax_skouras@iti.gr  
 **Sougias Evaggelos - Charalampos**, akis.sougias@iti.gr  
-**Soukaras Sotirios**, soukaras@iti.gr  
 **Soulos Konstantinos**, soulk@iti.gr  
 **Spathi Theoni**, tspathi@iti.gr  
 **Stathopoulos Evangelos**, estathop@iti.gr   
@@ -249,8 +238,6 @@ showpagemeta: false
 **Vakkou Despoina**, dvakkou@iti.gr  
 **Valla Evgenia**, evg.valla@iti.gr  
 **Valsamis Dimitrios**, dvalsamis@iti.gr  
-**Vasileiou Zoi**, zvasilei@iti.gr  
-**Vasileiou-kyriakou Stavros**, stavrosv@iti.gr  
 **Vrachnos Panagiotis**, panosvrachnos@iti.gr  
 **Zeltsi Alexandra**, azeltsi@iti.gr  
 **Zerva Charalampia**, charazerva@iti.gr  
@@ -283,6 +270,19 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Dr. Oikonomou Vaggelis, Postdoctoral Research Fellow, viknmu@iti.gr  
+Vasileiou Zoi, Research Associate, zvasilei@iti.gr  
+Vasileiou-kyriakou Stavros, Research Associate, stavrosv@iti.gr  
+Soukaras Sotirios, Research Associate, soukaras@iti.gr  
+Melitou Maria, Research Associate, mariamel@iti.gr  
+Konstantinidou Despoina, Research Associate, dekonstantinidou@iti.gr  
+Dr. Katsetsiadis Foivos-Iordanis, Postdoctoral Research Fellow, fivosk@iti.gr  
+Dr. Kaltsa Maria, Postdoctoral Research Fellow, mkaltsa@iti.gr  
+Iordanidou Ioanna, Research Associate, ioaniord@iti.gr  
+Gounaridis Dimitrios, Research Associate, dimgoun@iti.gr  
+Gkevreki Sofia, Research Associate, sgkevreki@iti.gr  
+Gkiourtzidis Xristos, Research Associate, xristosgkiou@iti.gr  
+Chatzichristaki Chrysoula, Research Associate, xrysxat@iti.gr  
 Dr. Stylianou Nikolaos, Postdoctoral Research Fellow, nstylia@iti.gr  
 Kamateri Eleni, Research Associate, ekamater@iti.gr  
 Vlachos Konstantinos, Research Associate, kostasvlachosgrs@iti.gr  
