@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/disarm-logo.png
 website_name: 
 website_link: 
 acronym: Disarming the silent threat of ovarian cancer
