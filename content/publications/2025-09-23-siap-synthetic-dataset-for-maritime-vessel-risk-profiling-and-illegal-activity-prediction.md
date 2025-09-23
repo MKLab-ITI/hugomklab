@@ -9,6 +9,6 @@ publication_date: 2025-09-17
 ---
 <!--StartFragment-->
 
-S. Karamolegkos, N. I. Dourvas, N. Episkopos, K. Pikounis, E. Michail, K. Ioannidis, and S. Vrochidis, “SIAP: Synthetic dataset for maritime vessel risk profiling and illegal activity prediction,” *Data in Brief*, Sept. 17, 2025.
+S. Karamolegkos, N. I. Dourvas, N. Episkopos, K. Pikounis, E. Michail, K. Ioannidis, S. Vrochidis, "SIAP: Synthetic dataset for maritime vessel risk profiling and illegal activity prediction", *Data in Brief*, September 17, 2025.
 
 <!--EndFragment-->
