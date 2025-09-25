@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/aquamon-logo.png
 website_name: cordis.europa.eu
 website_link: https://cordis.europa.eu/project/id/101181380
 acronym: "AQUAMON: Advanced QUAlity MOnitoring system of water in urbaN areas"
