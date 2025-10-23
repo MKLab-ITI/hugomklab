@@ -9,6 +9,6 @@ publication_date: 2025-10-23
 ---
 <!--StartFragment-->
 
-N. Tsolakis, C. Maga-Nteve, S. Vrochidis, G. Meditskos, "X-INCEPD: Enhancing Inception-based Model for Parkinson’s Disease Prediction with Explainable AI", In Proceedings of the IISA 2025, Mytilene, Island of Lesbos, Greece, July 10-12, 2025
+N. Tsolakis, C. Maga-Nteve, S. Vrochidis, G. Meditskos, "X-INCEPD: Enhancing Inception-based Model for Parkinson’s Disease Prediction with Explainable AI", in Proceedings of the IISA 2025, Mytilene, Island of Lesbos, Greece, July 10-12, 2025.
 
 <!--EndFragment-->
