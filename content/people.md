@@ -61,7 +61,6 @@ showpagemeta: false
 **Dr. Palapanidis Konstantinos**, kpalapan@iti.gr  
 **Dr. Papadimitriou Ioannis**, i.papadimitriou@iti.gr  
 **Dr. Papaioannou Vasileios**, vaspapa@iti.gr  
-**Dr. Parisi Styliani**, pastella@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Raptis Sotirios**, sraptis@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
@@ -100,8 +99,7 @@ showpagemeta: false
 **Dimitriadis Ioannis**, johndim@iti.gr  
 **Dimopoulou Ourania**, drania@iti.gr  
 **Dolias Georgios**, gdolias@iti.gr  
-**Dourvas Nikolaos**, ndourvas@iti.gr   
-**Efthimiou Spyridoula-Eythimia**, efie@iti.gr  
+**Dourvas Nikolaos**, ndourvas@iti.gr  
 **Eleftheriadis Thomas**, thomelef@iti.gr  
 **Fasfalis Nikiforos**, fasfalisn@iti.gr  
 **Fiska Vasiliki**, vickyfi@iti.gr  
@@ -168,11 +166,9 @@ showpagemeta: false
 **Mantsis Damianos-Florin**, dmantsis@iti.gr  
 **Mastoras Chrysovaladis**, mastoras.valadis@iti.gr  
 **Matzanou Georgia**, gmatzanou@iti.gr  
-**Menexis Sotirios**, sotiris.menexis@iti.gr  
 **Militsis Nikolaos-Marios**, nikos.militsis@iti.gr  
 **Mita Mirsini-Eleni**, mmita@iti.gr  
 **Michail Emmanouil**, michem@iti.gr  
-**Moskachlaidi Christina**, christina.moskachlaidi@iti.gr  
 **Moumtzidou Anastasia**, moumtzid@iti.gr  
 **Mouratidis Prodromos**, prodromosm@iti.gr  
 **Mpaltadoros Lampros**, lamprosmpalt@iti.gr  
@@ -230,7 +226,6 @@ showpagemeta: false
 **Taxidari Athina**, athinata@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr  
 **Topalidis Ioannis**, ioto@iti.gr  
-**Toumpalidis Ioannidis**, itoumpalidis@iti.gr  
 **Toumpas Achilleas**, atoumpas@iti.gr  
 **Tsionkis Georgios**, tsiogeorgios@iti.gr  
 **Tsolakis Nikolaos**, tsolakin@iti.gr  
@@ -270,6 +265,11 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Toumpalidis Ioannidis, Research Associate, itoumpalidis@iti.gr  
+Dr. Parisi Styliani, Postdoctoral Research Fellow, pastella@iti.gr  
+Moskachlaidi Christina, Research Associate, christina.moskachlaidi@iti.gr  
+Menexis Sotirios, Research Associate, sotiris.menexis@iti.gr  
+Efthimiou Spyridoula-Eythimia, Research Associate, efie@iti.gr  
 Dr. Oikonomou Vaggelis, Postdoctoral Research Fellow, viknmu@iti.gr  
 Vasileiou Zoi, Research Associate, zvasilei@iti.gr  
 Vasileiou-kyriakou Stavros, Research Associate, stavrosv@iti.gr  
