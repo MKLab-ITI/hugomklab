@@ -63,7 +63,7 @@ showpagemeta: false
 **Dr. Papaioannou Vasileios**, vaspapa@iti.gr  
 **Dr. Parisi Styliani**, pastella@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
-**Raptis Sotirios**, sraptis@iti.gr 
+**Dr. Raptis Sotirios**, sraptis@iti.gr  
 **Dr. Rizou Stavroula**, rizstavroula@iti.gr  
 **Dr. Sfyridis Alexandros**, a.sfyridis@iti.gr  
 **Dr. Skaltsas Theodoros**, scaltsas@iti.gr  
