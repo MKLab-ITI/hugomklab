@@ -4,7 +4,7 @@ types: publication
 title: Efficient Multi-Criteria Important Node Identification via Ego-Network
   Approximation
 date: 2025-11-13T13:09:35.683Z
-tags: journal_publications
+tags: conference_publications
 publication_date: 2025-11-13
 ---
 <!--StartFragment-->
