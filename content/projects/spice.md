@@ -6,7 +6,7 @@ tags:
 - scientific manager 
 - technical manager
 images:
-- project_logos/
+- project_logos/spice-logo.png
 website_name: spice-he.eu
 website_link: https://spice-he.eu/   
 acronym: Sustainable Public spaces through Inclusive Community Engagement
