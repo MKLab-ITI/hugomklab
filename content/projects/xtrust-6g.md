@@ -6,8 +6,8 @@ tags:
 - coordinator
 images:
 - project_logos/
-website_name: https://xtrust-6g.eu/ 
-website_link: xtrust-6g.eu    
+website_name: xtrust-6g.eu
+website_link: https://xtrust-6g.eu/     
 acronym: Extended zero-trust and intelligent security for resilient and quantum-safe 6G networks and services 
 layout: projects
 title: XTRUST-6G
