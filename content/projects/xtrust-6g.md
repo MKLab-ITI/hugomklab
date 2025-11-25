@@ -5,7 +5,7 @@ tags:
 - european
 - coordinator
 images:
-- project_logos/
+- project_logos/XTRUST-6G-logo.png
 website_name: xtrust-6g.eu
 website_link: https://xtrust-6g.eu/     
 acronym: Extended zero-trust and intelligent security for resilient and quantum-safe 6G networks and services 
