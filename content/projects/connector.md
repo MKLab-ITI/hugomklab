@@ -27,3 +27,11 @@ CONNECTOR proposes an integrated, common, and shared risk assessment approach fo
 <p>
 CERTH is participating with two (2) complementary research groups: (i) MKLab and (ii) VCL. MKLab group is responsible for the management and supervision of the scientific and technical outcomes of CONNECTOR, as well as the development of digital twin features to deliver highly accurate predictions and increased performance for enhanced situational awareness. VCL group is responsible for the development of data fusion algorithms integrating diverse information from multiple sources, creating a cohesive and comprehensive view of the multimodal data.
 </p>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 1em;">
+
+<img style="height: 120px;" src="https://www.iti.gr/iti/wp-content/uploads/2025/10/EN_co_fundedvertical_RGB_POS.png" alt="co-funded by the European Union" />
+
+<em>Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.</em>
+
+</div>
