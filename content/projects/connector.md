@@ -32,6 +32,6 @@ CERTH is participating with two (2) complementary research groups: (i) MKLab and
 
 <img style="height: 120px;" src="https://mklab.iti.gr/files/project_logos/EN_co_fundedvertical_RGB_POS.png" alt="co-funded by the European Union" />
 
-<em>Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.</em>
+<em>Co-Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.</em>
 
 </div>
