@@ -24,3 +24,11 @@ The overall aim of SPICE  is to provide a new model of participatory co-creation
 <p>  
 MKLab is the coordinator of the SPICE project and leads the Work Package on Digital Tools for Co-Creation, which constitutes the technological backbone of SPICE’s participatory and design-driven approach. This WP develops an integrated digital ecosystem that supports the co-creation process by combining advanced AI, XR, and citizen engagement tools to enable inclusive, data-informed, and creative urban transformations. Specifically, it involves the development of AI-based tools for 3D scene editing as well as the implementation of interactive digital services that enhance citizen participation in the co-creation of public spaces.
 </p>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 1em;">
+
+<img style="height: 120px;" src="https://mklab.iti.gr/files/project_logos/EN_co_fundedvertical_RGB_POS.png" alt="co-funded by the European Union" />
+
+<em>Co-Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.</em>
+
+</div>
