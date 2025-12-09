@@ -62,6 +62,7 @@ showpagemeta: false
 **Dr. Palapanidis Konstantinos**, kpalapan@iti.gr  
 **Dr. Papadimitriou Ioannis**, i.papadimitriou@iti.gr  
 **Dr. Papaioannou Vasileios**, vaspapa@iti.gr  
+**Dr. Paraskevopoulos Sotirios**, sotirispara@iti.gr  
 **Dr. Rakkas Georgios**,  georakkas@iti.gr  
 **Dr. Raptis Sotirios**, sraptis@iti.gr  
 **Dr. Sfyridis Alexandros**, a.sfyridis@iti.gr  
@@ -194,7 +195,6 @@ showpagemeta: false
 **Papazoglou - Chalikias Anastasios**, tpapazoglou@iti.gr  
 **Papoutsis Aggelos**, apapoutsis@iti.gr  
 **Paraschos Spyridon**, sparaschos@iti.gr  
-**Paraskevopoulos Sotirios**, sotirispara@iti.gr  
 **Pasios Stefanos**, pasioss@iti.gr  
 **Paspalakis Stavros**, spaspalakis@iti.gr  
 **Patsiouras Emmanouil**, manolispats@iti.gr  
