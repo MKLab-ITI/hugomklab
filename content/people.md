@@ -34,6 +34,7 @@ showpagemeta: false
 
 ## Postdoctoral Research Fellows
 
+**Dr. Anastasovitis Eleutherios**, anastasovitis@iti.gr  
 **Dr. Apostolidis Evlampios**, apostolid@iti.gr  
 **Dr. Apostolou Georgia**, gapostolou@iti.gr  
 **Dr. Arvanitidis Athanasios**, athasarv@iti.gr  
@@ -82,8 +83,7 @@ showpagemeta: false
 **Alexi Alexandros**, a.aleksi@iti.gr  
 **Alexopoulos Alexandros**, alekalexopoulos@iti.gr  
 **Anagnostopoulos Christos**, anagn_c@iti.gr  
-**Anagnostou Christina**, canagnostou@iti.gr  
-**Anastasovitis Eleutherios**, anastasovitis@iti.gr    
+**Anagnostou Christina**, canagnostou@iti.gr    
 **Antzoulatos Gerasimos**, gantzoulatos@iti.gr  
 **Apostolidis Konstantinos**, kapost@iti.gr  
 **Apostolidis Lazaros**, laaposto@iti.gr  
