@@ -1,5 +1,5 @@
 ---
-excerpt: 'The Wildfire dataset is a High-Value Dataset used in the Attica pilot, containing enriched metadata derived from geolocated social media posts, predicted fire danger levels, burned area scars, and Sentinel satellite data. These data products have been processed and managed using tools and functionalities provided by the BeOpen Framework, which serves as the backbone for data integration, management, and analysis.'
+excerpt: 'This dataset bundle contains multi-source data used for near real-time wildfire detection and monitoring in the Attica region of Greece, as part of the EU-funded BeOpen project. It combines Earth Observation (EO) information with social media activity and fire danger indicators to support early warning, analysis, and response in an operational urban resilience context.'
 types: results
 tags:
 - data
