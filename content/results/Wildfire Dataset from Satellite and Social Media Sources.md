@@ -8,10 +8,6 @@ layout: results
 title: Wildfire Dataset from Satellite and Social Media Sources
 date: '2025-12-15T16:47:22+03:00'
 ---
-
-<p>
-Aiming to enhance the research activity in the field of oil spill detection, the Multimedia Knowledge and Social Media Analytics Laboratory (MKLab) has developed the <b>Oil Spill Detection Dataset</b>, a dataset containing Synthetic Aperture Radar (SAR) images depicting oil spills and other relevant instances. Further information regarding our dataset and how to access it can be found <a href="https://m4d.iti.gr/oil-spill-detection-dataset/" target="blank">here</a>.
-</p>
 <p>
 This dataset bundle contains multi-source data used for near real-time wildfire detection and monitoring in the Attica region of Greece, as part of the EU-funded BeOpen project. It combines Earth Observation (EO) information with social media activity and fire danger indicators to support early warning, analysis, and response in an operational urban resilience context.</p>
  
