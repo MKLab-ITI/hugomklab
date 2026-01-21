@@ -41,6 +41,7 @@ showpagemeta: false
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Dimitriadis Athanasios**, asdimitriadis@iti.gr  
 **Dr. Egthimiadis Panagiotis**, panosef@iti.gr  
+**Dr. Gkalelis Nikolaos**, gkalelis@iti.gr  
 **Dr. Karantaidis Georgios**, karantai@iti.gr  
 **Dr. Karaliopoulos Merkourios**, mkaraliopoulos@iti.gr  
 **Dr. Kavallieros Dimitrios**, dim.kavallieros@iti.gr  
