@@ -1,8 +1,7 @@
 ---
 layout: publication
 types: publication
-title: Integration of MALDI-TOF MS technique with artificial intelligence for
-  enhanced detection of biological warfare agents
+title: Integration of MALDI-TOF MS technique with artificial intelligence for enhanced detection of biological warfare agents
 date: 2025-06-09T11:02:10.198Z
 tags: conference_publications
 publication_date: 2025-06-09
