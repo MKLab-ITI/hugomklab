@@ -10,7 +10,7 @@ website_link: https://echo-horizon.eu/
 acronym: ECHO - Empowering and Connecting Diverse Communities for Multi-Hazard Resilience with Open Data, Open Models, and Open-Source Software
 layout: projects
 title: ECHO
-date: '2026-02-26T10:44:33+02:00'
+date: '2026-02-26T07:48:57+03:00'
 program: HORIZON-CL3-2024-INFRA-01-02 - Resilient and secure urban planning and new tools for EU territorial entities
 contact: 
 - Ilias Gialampoukidis
