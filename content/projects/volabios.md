@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/volabios-logo.jpg
 website_name: volabios.eu
 website_link: https://volabios.eu/
 acronym: Validation and Comparitive Multi-Omics Benchmarking of Fluid-Derived Volatilomics Biomarkers for the Prevention and Early detection of Schizophrenia
