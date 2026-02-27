@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/echo-logo.png
 website_name: echo-horizon.eu
 website_link: https://echo-horizon.eu/
 acronym: ECHO - Empowering and Connecting Diverse Communities for Multi-Hazard Resilience with Open Data, Open Models, and Open-Source Software
