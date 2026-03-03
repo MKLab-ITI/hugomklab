@@ -5,7 +5,7 @@ tags:
 - european
 - partner
 images:
-- project_logos/
+- project_logos/SWARMER-logo.png
 website_name: 
 website_link: 
 acronym: SWARMER - Swarming Autonomy in non-peRMissive EnviRonments

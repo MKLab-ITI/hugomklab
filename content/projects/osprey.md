@@ -5,7 +5,7 @@ tags:
 - european
 - technical manager
 images:
-- project_logos/
+- project_logos/OSPREY-logo.png
 website_name: cordis.europa.eu 
 website_link: https://cordis.europa.eu/project/id/101225639 
 acronym: OSPREY - Online Safety and Security for Protection of Public-Facing Professionals and Democratic Resilience
