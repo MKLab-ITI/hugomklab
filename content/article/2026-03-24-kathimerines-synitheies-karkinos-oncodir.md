@@ -24,4 +24,4 @@ date: '2026-03-23T08:49:37+02:00'
 <p>Beyond these findings, the ONCODIR project has also developed an innovative digital prevention platform. Using predictive models and personalized recommendations, the platform will allow individuals to record dietary habits, physical activity, and other lifestyle factors through a mobile application. This data will support healthcare professionals in providing tailored prevention guidance.</p>
 <p>The platform is expected to be piloted and made available in Greece and other European countries in the near future.
 This approach highlights how modern data science and personalized health technologies can support the prevention of one of the most common yet preventable forms of cancer — emphasizing the long-term impact of everyday habits.</p>
-Source: <a href="amna.gr"  target="_blank" >amna.gr</a> 
+Source: <a href="https://www.amna.gr"  target="_blank" >amna.gr</a> 
