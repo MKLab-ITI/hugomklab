@@ -68,6 +68,7 @@ showpagemeta: false
 **Dr. Raptis Sotirios**, sraptis@iti.gr  
 **Dr. Sfyridis Alexandros**, a.sfyridis@iti.gr  
 **Dr. Stavropoulos Athanasios**, athstavr@iti.gr  
+**Dr. Tantalaki Nikoleta**, nicoleta.tantalaki@iti.gr  
 **Dr. Tsanousa Athina**, atsan@iti.gr  
 **Dr. Vasileiadis Alexandros**, valexande@iti.gr  
 **Dr. Violos Ioannis**, violos@iti.gr  
