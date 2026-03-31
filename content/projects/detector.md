@@ -5,7 +5,7 @@ tags:
 - european 
 - coordinator
 images:
-- project_logos/
+- project_logos/detector-logo.png
 website_name: detector-project.eu
 website_link: https://detector-project.eu/
 acronym: DETECTOR – Deepfake Evidence and Technology for Forensic Content Oversight and Research
