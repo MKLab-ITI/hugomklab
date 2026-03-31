@@ -5,7 +5,7 @@ tags:
 - european 
 - partner
 images:
-- project_logos/
+- project_logos/crossmare-logo.jpg
 website_name: 
 website_link: 
 acronym: CROSSMARE - Advanced cross-border and multi domain interoperability framework for improved collaborative operational efficiency for secure maritime borders
