@@ -9,6 +9,6 @@ publication_date: 2026-04-20
 ---
 <!--StartFragment-->
 
-I. Kilanitis, E. Politis, I. Gialampoukidis, S. Kintzios, S. Vrochidis, and I. Kompatsiaris, “Optimal Transportation of Casualties to Hospitals after Multi-Disaster Mass Casualty Incidents,” *International Journal of Disaster Risk Science*, 2026.
+I. Kilanitis, E. Politis, I. Gialampoukidis, S. Kintzios, S. Vrochidis, I. Kompatsiaris, "Optimal transportation of casualties to hospitals after multi-disaster mass casualty incidents.", *International Journal of Disaster Risk Science*, 2026.
 
 <!--EndFragment-->
