@@ -124,6 +124,7 @@ showpagemeta: false
 **Kalpakis Georgios**, kalpakis@iti.gr  
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
 **Kaltapanidis Kosmas**, kkaltapanidhs@iti.gr  
+**Kamateri Eleni**, ekamater@iti.gr  
 **Kaparinos Nikolaos**, kaparinos@iti.gr  
 **Karageorgiadis Anastasios**, tassoskarag@iti.gr  
 **Karamolegkos Spyridon**, skar@iti.gr  
@@ -295,7 +296,6 @@ Gkevreki Sofia, Research Associate, sgkevreki@iti.gr
 Gkiourtzidis Xristos, Research Associate, xristosgkiou@iti.gr  
 Chatzichristaki Chrysoula, Research Associate, xrysxat@iti.gr  
 Dr. Stylianou Nikolaos, Postdoctoral Research Fellow, nstylia@iti.gr  
-Kamateri Eleni, Research Associate, ekamater@iti.gr  
 Vlachos Konstantinos, Research Associate, kostasvlachosgrs@iti.gr  
 Tsampoulatidis Ioannis, Research Associate, itsam@iti.gr  
 Leonidis Dimitrios, Research Associate, dim.leon@iti.gr  
@@ -441,7 +441,6 @@ Dr. Iakovidou Chrysanthi, Postdoctoral Research Fellow, c.iakovidou@iti.gr
 Dr. Alvanitopoulos Petros-Fotios, Postdoctoral Research Fellow, palvanitopoulos@iti.gr  
 Dr. Collyda Chrysa, Postdoctoral Research Fellow, ckol@iti.gr  
 Avgoustinakis Pavlos, Research Associate, pavgoust@iti.gr  
-Kamateri Eleni, Research Associate, ekamater@iti.gr  
 Karatzia Anastasia, Research Associate, akaratzia@iti.gr  
 Papastergiou Asterios, Research Associate, astepapa@iti.gr  
 Dr. Zampoglou Markos, Postdoctoral Research Fellow, markzampoglou@iti.gr  
