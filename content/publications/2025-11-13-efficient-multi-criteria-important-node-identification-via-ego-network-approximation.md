@@ -8,7 +8,6 @@ tags: conference_publications
 publication_date: 2025-11-13
 ---
 <!--StartFragment-->
-
-A. Kosmatopoulos, T. Skouras, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "Efficient Multi-Criteria Important Node Identification via Ego-Network Approximation.", in Proceedings of the 12th International Conference on Social Networks Analysis, Management and Security (SNAMS), Vienna, Austria, November 25-28, 2025, Best Paper Award.
+A. Kosmatopoulos, T. Skouras, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "Effcient Multi-Criteria Important Node Identifcation via Ego-Network Approximation.", in Proceedings of the 12th International Conference on Social Networks Analysis, Management and Security (SNAMS), Vienna, Austria, November 2025, pp. 58-65, Best Paper Award, doi: [10.5281/zenodo.18786398](https://zenodo.org/records/18786398)
 
 <!--EndFragment-->
