@@ -24,15 +24,14 @@ Traditional security frameworks often lack the integration required to swiftly c
 <p>
 By prioritizing the transition from initial security alerts to comprehensive bio-preparedness, the project aims to deliver innovative solutions that:
 </p>
-<li>
+
     <ul><strong>Enhance cross-sectoral cooperation</strong> among law enforcement, civil protection, and health authorities.</ul>
     <ul><strong>Develop advanced tools</strong> for the early detection and rapid identification of biological agents.</ul>
     <ul><strong>Improve risk assessment models</strong> and decision-support systems for effective crisis management.</ul>
     <ul><strong>Enhance training methodologies</strong> and promote joint exercises for European first responders.</ul>
     <ul><strong>Contribute to the development of future European policies and standards</strong> for biosecurity and resilience.</ul>
-</li>
+
 <p>MKLab leads the development of advanced data analytics, digital intelligence, and situational awareness technologies within the project. Specifically:</p>
-<li>
+
 <ul>Developing a flexible data infrastructure to ingest, translate, and synchronize heterogeneous real-time streams including sensor data, high-resolution operational videos, and biological signals, across distinct European pilot scenarios. </ul>
 <ul>Building an AI-powered interface leveraging Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to extract knowledge from unstructured technical texts, link it with live sensor streams, and apply strict guardrails to provide safe, trustworthy operational insights for crisis commanders. </ul>
-</li>
