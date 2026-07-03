@@ -2,9 +2,9 @@
 layout: publication
 types: publication
 title: Learning Perceptual Hash Similarity for Image Copy Detection
-date: 2026-10-21T11:09:41.599Z
+date: 2026-07-03T11:09:41.599Z
 tags: conference_publications
-publication_date: 2026-10-21
+publication_date: 2026-07-03
 ---
 <!--StartFragment-->
 
