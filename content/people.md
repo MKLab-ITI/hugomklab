@@ -78,10 +78,8 @@ showpagemeta: false
 
 **Afxonidis Vasileios**, afxonidis@iti.gr  
 **Aggelidis Themistoklis**, themisangelidis@iti.gr  
-**Aggelopoulos Konstantinos**, kostaggelo@iti.gr  
 **Agorastou Zoi**, zagorast@iti.gr  
 **Alepopoulos Vasileios**, valep@iti.gr  
-**Alexi Alexandros**, a.aleksi@iti.gr  
 **Alexopoulos Alexandros**, alekalexopoulos@iti.gr  
 **Anagnostopoulos Christos**, anagn_c@iti.gr  
 **Anagnostou Christina**, canagnostou@iti.gr  
@@ -95,7 +93,6 @@ showpagemeta: false
 **Chalkias Ioannis**,  ichalkias@iti.gr  
 **Chamilos Eythimios**, e.hamilos@iti.gr  
 **Chatzopoulos Ioannis**, yhat@iti.gr  
-**Chrysidis Zacharias**, zchrysid@iti.gr  
 **Darra Eleni**, e.darra@iti.gr  
 **Diamantopoulou Thaleia**,  thadiama@iti.gr  
 **Dimitriadis Ioannis**, johndim@iti.gr  
@@ -125,7 +122,6 @@ showpagemeta: false
 **Kalpakis Leonidas**, leokalpakis@iti.gr  
 **Kaltapanidis Kosmas**, kkaltapanidhs@iti.gr  
 **Kamateri Eleni**, ekamater@iti.gr  
-**Kaparinos Nikolaos**, kaparinos@iti.gr  
 **Karageorgiadis Anastasios**, tassoskarag@iti.gr  
 **Karamolegkos Spyridon**, skar@iti.gr  
 **Karamouslis Dimitrios**, dkaram@iti.gr  
@@ -186,7 +182,6 @@ showpagemeta: false
 **Orfanidis Giorgos**, g.orfanidis@iti.gr  
 **Paitaridis Georgios**, georpait@iti.gr  
 **Palla Zoi**, palla@iti.gr  
-**Panagiotou Panagiotis**, panagiotou@iti.gr  
 **Pantelidis Nikolaos**, pantelidisnikos@iti.gr  
 **Pantsios Athansios**, apantsios@iti.gr  
 **Papadopoulos Konstantinos**, papkonst@iti.gr    
@@ -219,8 +214,8 @@ showpagemeta: false
 **Stathopoulos Evangelos**, estathop@iti.gr   
 **Stathopoulos-Kampilis Grigorios**, grigstat@iti.gr  
 **Styliadis Chaints Alexandros**, alexstyliad@iti.gr  
-**Taxidari Athina**, athinata@iti.gr  
 **Theodosiadis Xristos**, theodosc@iti.gr  
+**Timamopoulos Christos**, ctimamopoulos@iti.gr  
 **Topalidis Ioannis**, ioto@iti.gr  
 **Toumpas Achilleas**, atoumpas@iti.gr  
 **Tsionkis Georgios**, tsiogeorgios@iti.gr  
@@ -255,6 +250,12 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Taxidari Athina, Research Associate, athinata@iti.gr  
+Panagiotou Panagiotis, Research Associate, panagiotou@iti.gr  
+Kaparinos Nikolaos, Research Associate, kaparinos@iti.gr  
+Chrysidis Zacharias, Research Associate, zchrysid@iti.gr  
+Alexi Alexandros, Research Associate, a.aleksi@iti.gr  
+Aggelopoulos Konstantinos, Research Associate, kostaggelo@iti.gr  
 Dr. Tzelepi Maria, Postdoctoral Research Fellow, mtzelepi@iti.gr  
 Tzanetis Georgios, Research Associate, tzangeor@iti.gr  
 Tsanakas Antonios, PhD candidate, atsanakas@iti.gr  
