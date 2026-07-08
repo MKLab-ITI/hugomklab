@@ -5,7 +5,7 @@ tags:
 - european
 - technical manager
 images:
-- project_logos/
+- project_logos/CIRCAT-logo.png
 website_name: circat.eu
 website_link: https://www.circat.eu 
 acronym: Cybersecurity Infrastructure Resilience, Collaboration, and Advanced Training
