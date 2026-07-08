@@ -7,7 +7,7 @@ tags:
 images:
 - project_logos/
 website_name: circat.eu
-website_link: www.circat.eu
+website_link: https://www.circat.eu 
 acronym: Cybersecurity Infrastructure Resilience, Collaboration, and Advanced Training
 layout: projects
 title: CIRCAT
