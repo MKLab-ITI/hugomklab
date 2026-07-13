@@ -3,9 +3,9 @@ layout: publication
 types: publication
 title: "Generative AI for Urban Co-Design: A Survey and the SPICE Conceptual
   Framework for Participatory 3D Scene Editing"
-date: 2026-10-21T11:50:20.514Z
+date: 2026-07-13T11:50:20.514Z
 tags: conference_publications
-publication_date: 2026-10-21
+publication_date: 2026-07-13
 ---
 <!--StartFragment-->
 
