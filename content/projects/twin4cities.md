@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/TWIN4CITIES-logo.png
 website_name: twin4cities.eu
 website_link: https://cordis.europa.eu/project/id/101270324
 acronym: Intelligent Digital Solutions for Transforming Urban Ecosystems into Resilient Climate-Neutral Entities
