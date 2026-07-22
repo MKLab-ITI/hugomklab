@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/TWINVERSE-logo.png
 website_name: 
 website_link: 
 acronym: The Federated Universe of AI-Enhanced Digital Twins to Achieve Climate Neutrality of Urban Environments
