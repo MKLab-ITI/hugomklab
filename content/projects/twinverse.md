@@ -5,8 +5,8 @@ tags:
 - european
 images:
 - project_logos/TWINVERSE-logo.png
-website_name: 
-website_link: 
+website_name: twinverse-project.eu
+website_link: https://www.twinverse-project.eu/
 acronym: The Federated Universe of AI-Enhanced Digital Twins to Achieve Climate Neutrality of Urban Environments
 layout: projects
 title: TWINVERSE
