@@ -4,7 +4,7 @@ types: publication
 title: Unsupervised User Identity Linkage from User-Generated Text in
   Sparse-Signal Settings
 date: 2026-07-17T07:09:03.711Z
-tags: journal_publications
+tags: conference_publications
 publication_date: 2026-07-17
 ---
 <!--StartFragment-->
