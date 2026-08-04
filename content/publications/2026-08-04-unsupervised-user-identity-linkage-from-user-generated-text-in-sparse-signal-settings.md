@@ -1,0 +1,14 @@
+---
+layout: publication
+types: publication
+title: Unsupervised User Identity Linkage from User-Generated Text in
+  Sparse-Signal Settings
+date: 2026-07-17T07:09:03.711Z
+tags: journal_publications
+publication_date: 2026-07-17
+---
+<!--StartFragment-->
+
+P. Kosmas, D. Chatzakou, T. Tsikrika, S. Vrochidis, and I. Kompatsiaris, “Unsupervised User Identity Linkage from User-Generated Text in Sparse-Signal Settings,” in *Proc. 11th Int. Conf. Web Intell., Mach. Intell. Semant. (WIMS)*, Thessaloniki, Greece, Jul. 2026, doi: 10.5281/zenodo.21470725.
+
+<!--EndFragment-->
