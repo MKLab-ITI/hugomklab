@@ -6,8 +6,8 @@ tags:
 - coordinator
 images:
 - project_logos/
-website_name: neuromkt.gr
-website_link: https://neuromkt.gr/
+website_name: neuromkt.bhv.iti.gr
+website_link: https://neuromkt.bhv.iti.gr/
 acronym: A multimodal system for the evaluation of advertisements
 layout: projects
 title: NeuroMkt (Coordinator)
