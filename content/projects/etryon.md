@@ -6,8 +6,8 @@ tags:
 - coordinator
 images:
 - project_logos/etryon-logo.png
-website_name: etryon-h2020.eu
-website_link: http://etryon-h2020.eu/
+website_name: etryon.bhv.iti.gr
+website_link: https://etryon.bhv.iti.gr/
 acronym: Virtual try-ons of garments enabling novel human fashion interactions
 layout: projects
 title: eTryOn (Coordinator)
