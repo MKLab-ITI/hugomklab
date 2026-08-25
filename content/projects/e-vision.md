@@ -5,8 +5,8 @@ tags:
 - national
 - coordinator
 images: []
-website_name: evision-project.gr
-website_link: https://evision-project.gr
+website_name: evision.bhv.iti.gr
+website_link: https://evision.bhv.iti.gr/
 acronym: e-vision
 layout: projects
 title: e-όραση (Coordinator)
