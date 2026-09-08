@@ -53,6 +53,7 @@ showpagemeta: false
 **Dr. Lazarou Ioulietta**, iouliettalaz@iti.gr  
 **Dr. Loumponias Kostas**, loumponias@iti.gr  
 **Dr. Magga-Nteve Christoniki**, chmaga@iti.gr  
+**Dr. Makri Marina**, makrimarina@iti.gr  
 **Dr. Mavropoulos Athanasios**, mavrathan@iti.gr  
 **Dr. Michaloglou Alkmini**, amichalo@iti.gr  
 **Dr. Mpaltsou Georgia**, gebaltso@iti.gr  
