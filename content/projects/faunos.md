@@ -4,7 +4,7 @@ tags:
 - current
 - european
 images:
-- project_logos/
+- project_logos/faunos-logo.png
 website_name: proyectofaunos.eu 
 website_link: https://proyectofaunos.eu/en/home-eng/ 
 acronym: Fighting orgAnised environmental crime throUgh an innovative preveNtion, detectiOn and inveStigation platform
