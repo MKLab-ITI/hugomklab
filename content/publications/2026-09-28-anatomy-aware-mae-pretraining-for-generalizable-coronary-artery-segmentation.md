@@ -9,6 +9,6 @@ publication_date: 2026-09-28
 <!--StartFragment-->
 
 
-M. G. Fernández, A. Toumpas, C. Magga-Nteve, K. López-Linares, "Anatomy-Aware MAE Pretraining for Generalizable Coronary Artery Segmentation", in *Proceedings of the 3rd International Workshop Thoracic Image Analysis (TIA), MICCAI*, 2026.
+M. G. Fernández, A. Toumpas, C. Magga-Nteve, K. López-Linares, "[Anatomy-Aware MAE Pretraining for Generalizable Coronary Artery Segmentation](https://openreview.net/forum?id=LuhNFrl3uj)", in *Proceedings of the 3rd International Workshop Thoracic Image Analysis (TIA), MICCAI*, 2026.
 
 <!--EndFragment-->
