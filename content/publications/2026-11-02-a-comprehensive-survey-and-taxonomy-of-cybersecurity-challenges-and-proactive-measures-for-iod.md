@@ -5,7 +5,7 @@ title: A comprehensive survey and taxonomy of cybersecurity challenges and
   proactive measures for IoD
 date: 2026-02-01T13:37:47.635Z
 tags: journal_publications
-publication_date: 2026-02-01
+publication_date: 2026-02-03
 ---
 <!--StartFragment-->
 
