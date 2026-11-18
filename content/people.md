@@ -39,7 +39,6 @@ showpagemeta: false
 **Dr. Arvanitidis Athanasios**, athasarv@iti.gr  
 **Dr. Chatzakou Despoina**, dchatzakou@iti.gr  
 **Dr. Dimitriadis Athanasios**, asdimitriadis@iti.gr  
-**Dr. Egthimiadis Panagiotis**, panosef@iti.gr  
 **Dr. Gkalelis Nikolaos**, gkalelis@iti.gr  
 **Dr. Karantaidis Georgios**, karantai@iti.gr  
 **Dr. Karaliopoulos Merkourios**, mkaraliopoulos@iti.gr  
@@ -168,7 +167,6 @@ showpagemeta: false
 **Mpakagianni Georgia**, julibak@iti.gr  
 **Mpaltadoros Lampros**, lamprosmpalt@iti.gr  
 **Mpaltsas Spyridon**, sbaltsas@iti.gr  
-**Mparachanou Anna**, barachanou@iti.gr  
 **Mpatsioulas Athanasios**, abatsioulas@iti.gr  
 **Mpatziou Elisavet**, batziou.el@iti.gr  
 **Mpellos Dimitrios**, dimitrisbellos@iti.gr  
@@ -201,8 +199,7 @@ showpagemeta: false
 **Raptopoulou Charikleia**, hraptop@iti.gr  
 **Rizou Stelina**, stelina.r@iti.gr  
 **Samaras Stamatios**, sstamatis@iti.gr  
-**Sarakatsanos Orestis**, orestiss@iti.gr    
-**Sasilioglou Ioanna**, ioansasi@iti.gr  
+**Sarakatsanos Orestis**, orestiss@iti.gr  
 **Simeonidis Spyros**, spyridons@iti.gr  
 **Skoularikis Anastasios**, skoularikist@iti.gr  
 **Skoumperdis Michail**, skoumpmi@iti.gr  
@@ -228,6 +225,7 @@ showpagemeta: false
 
 **Dimzas Dimitrios**, dimitrisdim@iti.gr  
 **Georgiadis Kostas**, kostas.georgiadis@iti.gr  
+**Giaremis Stefanos**, stefanos.giaremis@iti.gr  
 **Kalaganis Fotis**, fkalaganis@iti.gr  
 **Kampelopoulos Dimitrios**, dkampelo@iti.gr  
 **Karageorgiou Dimitrios**, dkarageo@iti.gr  
@@ -248,6 +246,9 @@ showpagemeta: false
 **Papadopoulou Maria**, marpap@iti.gr  
 
 ## Past Colleagues
+Sasilioglou Ioanna, Research Associate, ioansasi@iti.gr  
+Mparachanou Anna, Research Associate, barachanou@iti.gr  
+Dr. Egthimiadis Panagiotis, Postdoctoral Research Fellow, panosef@iti.gr  
 Tsolakis Nikolaos, Research Associate, tsolakin@iti.gr  
 Matzanou Georgia, Research Associate, gmatzanou@iti.gr  
 Koutsoupia Vasiliki, Research Associate, vkouts@iti.gr  
