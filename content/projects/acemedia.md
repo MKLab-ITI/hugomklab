@@ -4,7 +4,7 @@ tags:
 - completed
 - european
 images:
-- project_logos/acemedia.jpg 
+- project_logos/acemedia.jpg
 website_name: 
 website_link:
 acronym: Integrating knowledge, semantics and content for user centred intelligent
