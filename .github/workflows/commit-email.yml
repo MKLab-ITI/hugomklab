@@ -1,0 +1,136 @@
+
+name: Git Commit Email Notifications
+
+on:
+  push:
+
+permissions: {}
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send commit notification
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+
+          const event = JSON.parse(
+            fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8')
+          );
+
+          const repo = process.env.GITHUB_REPOSITORY;
+          const branch = event.ref.replace('refs/heads/', '');
+          const commits = event.commits || [];
+
+          const esc = (s = '') => String(s).replace(
+            /[&<>"']/g,
+            c => ({
+              '&': '&amp;',
+              '<': '&lt;',
+              '>': '&gt;',
+              '"': '&quot;',
+              "'": '&#39;'
+            })[c]
+          );
+
+          const sections = commits.map(commit => {
+            const files = [
+              ...(commit.added || []).map(f => ['A', f]),
+              ...(commit.modified || []).map(f => ['M', f]),
+              ...(commit.removed || []).map(f => ['D', f])
+            ];
+
+            return `
+              <h3>${esc(commit.message)}</h3>
+              <p>
+                <b>Commit:</b>
+                <a href="${esc(commit.url)}">${esc(commit.id)}</a><br>
+                <b>Author:</b> ${esc(commit.author.name)}<br>
+                <b>Date:</b> ${esc(commit.timestamp)}
+              </p>
+              <p><b>Changed paths:</b></p>
+              <ul>
+                ${files.map(([type, file]) =>
+                  `<li>${type} ${esc(file)}</li>`
+                ).join('')}
+              </ul>
+              <hr>
+            `;
+          }).join('');
+
+          const html = `
+            <div style="font-family:Arial,sans-serif;max-width:750px">
+              <h2>[${esc(repo)}] Push notification</h2>
+              <p>
+                <b>Branch:</b> ${esc(branch)}<br>
+                <b>Home:</b>
+                <a href="https://github.com/${esc(repo)}">
+                  ${esc(repo)}
+                </a>
+              </p>
+              <hr>
+              ${sections || '<p>No commit details available.</p>'}
+            </div>
+          `;
+
+          const text = [
+            `Repository: ${repo}`,
+            `Branch: ${branch}`,
+            ...commits.map(c => [
+              `Commit: ${c.id}`,
+              `Link: ${c.url}`,
+              `Author: ${c.author.name}`,
+              `Date: ${c.timestamp}`,
+              `Log Message: ${c.message}`,
+              'Changed paths:',
+              ...(c.added || []).map(f => `A ${f}`),
+              ...(c.modified || []).map(f => `M ${f}`),
+              ...(c.removed || []).map(f => `D ${f}`)
+            ].join('\n'))
+          ].join('\n\n');
+
+          async function send() {
+            if (!process.env.RESEND_API_KEY || !process.env.MAIL_TO) {
+              throw new Error('Missing GitHub secrets');
+            }
+
+            const response = await fetch(
+              'https://api.resend.com/emails',
+              {
+                method: 'POST',
+                headers: {
+                  'Authorization':
+                    `Bearer ${process.env.RESEND_API_KEY}`,
+                  'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                  from: 'GitHub Notifications <onboarding@resend.dev>',
+                  to: [process.env.MAIL_TO],
+                  subject: `[${repo}] ${commits.length} commit(s) to ${branch}`,
+                  html,
+                  text
+                })
+              }
+            );
+
+            const result = await response.json();
+
+            if (!response.ok) {
+              throw new Error(JSON.stringify(result));
+            }
+
+            console.log('Email sent successfully:', result.id);
+          }
+
+          send().catch(error => {
+            console.error(error);
+            process.exit(1);
+          });
+          NODE
