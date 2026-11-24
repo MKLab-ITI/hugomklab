@@ -112,7 +112,7 @@ jobs:
                 },
                 body: JSON.stringify({
                   from: 'GitHub Notifications <onboarding@resend.dev>',
-                  to: [process.env.MAIL_TO],
+                  to: [process.env.MAIL_TO,"thadiama@iti.gr"], 
                   subject: `[${repo}] ${commits.length} commit(s) to ${branch}`,
                   html,
                   text
