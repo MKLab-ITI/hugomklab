@@ -9,6 +9,6 @@ publication_date: 2026-09-04
 ---
 <!--StartFragment-->
 
-I. Topalidis, K. Loumponias, T. Tsikrika, S. Vrochidis, and I. Kompatsiaris, “Hybrid decomposition and recurrent modelling for environmental incidents prediction,” in *Proc. 11th Int. Conf. Web Intelligence, Machine Intelligence and Semantics (WIMS)*, Thessaloniki, Greece, Jul. 2026.
+I. Topalidis, K. Loumponias, T. Tsikrika, S. Vrochidis, I. Kompatsiaris, "Hybrid decomposition and recurrent modelling for environmental incidents prediction.", in Proceedings of the 11th International Conference on Web Intelligence, Machine Intelligence and Semantics (WIMS 2026), Thessaloniki, Greece, October 2026.
 
 <!--EndFragment-->
