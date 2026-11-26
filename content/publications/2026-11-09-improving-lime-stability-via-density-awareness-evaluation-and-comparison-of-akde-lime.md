@@ -9,6 +9,6 @@ publication_date: 2026-03-07
 ---
 <!--StartFragment-->
 
-G. Tzionis, G. Kougka, I. Gialampoukidis, S. Vrochidis, I. Kompatsiaris, and M. Vlachopoulou, “Improving LIME stability via density-awareness: Evaluation and comparison of AKDE-LIME,” *Applied Artificial Intelligence*, vol. 40, no. 1, 2026, doi: 10.1080/08839514.2026.2640686.
+G. Tzionis, G. Kougka, I. Gialampoukidis, S. Vrochidis, I. Kompatsiaris, M. Vlachopoulou, "Improving LIME stability via density-awareness: Evaluation and comparison of AKDE-LIME", *Applied Artificial Intelligence*, vol. 40, no. 1, March 2026, doi: [10.1080/08839514.2026.2640686](https://doi.org/10.1080/08839514.2026.2640686)
 
 <!--EndFragment-->
